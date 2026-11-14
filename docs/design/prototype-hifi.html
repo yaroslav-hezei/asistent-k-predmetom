@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="sk"><head><meta charset="utf-8">
+<title>Prototyp – Asistent k predmetom (HIP)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:wght@500;600&display=swap" rel="stylesheet">
+<style>:root{
+  /* FEI TUKE: Pantone 124 C = #EAAA00 (Dizajn manuál TUKE) */
+  --fei:#EAAA00; --fei-d:#8A6400; --fei-s:#FDF3D6; --on-fei:#1F1B0E;
+  --bg:#FAFAF8; --side:#F2F2EF; --line:#E4E4DF; --line2:#D5D5CF;
+  --text:#1F2126; --muted:#6B6E75; --accent:var(--fei); --accent-d:var(--fei-d); --accent-s:var(--fei-s);
+  --warn-bg:#FDEEE6; --warn-b:#F2BFA3; --warn-t:#9A3D12;
+  --ok-bg:#E3F1E4; --ok-t:#2E6B34; --unv-bg:#EEEEEA; --unv-t:#4E5058;
+  --off-bg:#E6EDF7; --off-t:#244E8A; --card:#FFFFFF;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#E9E9E5;font-family:Inter,"Liberation Sans",Arial,sans-serif;color:var(--text);
+  font-size:15px;line-height:1.5;padding:40px 0 80px;-webkit-font-smoothing:antialiased}
+.doc-head{width:1440px;margin:0 auto 28px}
+.doc-head h1{font-weight:700;font-size:28px}
+.doc-head p{color:var(--muted);margin-top:4px}
+.screen-block{width:1440px;margin:0 auto 56px}
+.cap{display:flex;gap:14px;align-items:flex-start;margin-bottom:14px}
+.cap-n{width:32px;height:32px;border-radius:50%;background:var(--accent);color:var(--on-fei);display:grid;place-items:center;font-weight:600;flex:none}
+.cap-t{font-weight:600;font-size:17px}.cap-d{color:var(--muted);font-size:14px}
+
+.frame{position:relative;width:1440px;height:900px;display:flex;background:var(--bg);border-radius:14px;overflow:hidden;
+  box-shadow:0 1px 2px rgba(0,0,0,.06),0 8px 30px rgba(0,0,0,.08)}
+.ic{flex:none}.muted{color:var(--muted)}
+.proto-tag{position:absolute;right:18px;bottom:12px;font-size:11px;color:#A0A3A8;letter-spacing:.02em}
+
+/* sidebar */
+.side{width:280px;flex:none;background:var(--side);border-right:1px solid var(--line);display:flex;flex-direction:column;padding:14px 12px}
+.side-top{display:flex;align-items:center;justify-content:space-between;padding:4px 6px 14px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700;font-size:15.5px;letter-spacing:-.01em;white-space:nowrap}
+.logo-mark{width:30px;height:30px;border-radius:9px;background:var(--accent);display:grid;place-items:center;flex:none}
+.icon-btn{color:var(--muted);padding:6px;border-radius:8px;display:grid}
+.newchat{display:flex;align-items:center;gap:10px;padding:9px 10px;border-radius:10px;font-weight:600;color:var(--text);margin-bottom:6px}
+.newchat .ic{background:var(--accent);color:var(--on-fei);border-radius:50%;padding:2px;width:22px;height:22px}
+.nav{display:flex;align-items:center;gap:11px;padding:9px 10px;border-radius:10px;color:#3A3D44;margin-bottom:2px}
+.nav.active{background:#E7E7E1;box-shadow:inset 3px 0 0 var(--fei);color:var(--text);font-weight:500}
+.nav span:first-of-type{flex:1}
+.badge{background:var(--accent);color:var(--on-fei);font-size:12px;font-weight:600;min-width:22px;height:20px;padding:0 7px;border-radius:10px;display:grid;place-items:center}
+.hist-wrap{flex:1;margin-top:18px;overflow:hidden}
+.sec-label{display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--muted);padding:0 10px 8px;font-weight:500}
+.hist{display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;font-size:14px;color:#3A3D44;white-space:nowrap}
+.hist.active{background:#E7E7E1;color:var(--text)}
+.hist .ht{overflow:hidden;text-overflow:ellipsis}
+.tag{font-size:11px;font-weight:600;color:var(--muted);background:#E4E4DE;border-radius:5px;padding:1px 6px;flex:none}
+.side-bottom{border-top:1px solid var(--line);padding:12px 6px 2px;display:flex;align-items:center;justify-content:space-between}
+.profile{display:flex;gap:10px;align-items:center}
+.avatar{width:34px;height:34px;border-radius:50%;background:#2A2C33;color:#F2F2EF;display:grid;place-items:center;font-size:13px;font-weight:600;flex:none}
+.avatar.sm{width:32px;height:32px}
+.pname{font-weight:500;font-size:14px;line-height:1.2}.prole{font-size:12.5px;color:var(--muted)}
+.lang{display:flex;border:1px solid var(--line2);border-radius:8px;overflow:hidden;font-size:12px;font-weight:600}
+.lang span{padding:3px 8px;color:var(--muted)}.lang .on{background:var(--text);color:#fff}
+
+/* main */
+.main{flex:1;position:relative;display:flex;flex-direction:column;min-width:0}
+.top{height:62px;flex:none;display:flex;align-items:center;justify-content:space-between;padding:0 26px;border-bottom:1px solid transparent}
+.top-l{display:flex;align-items:center;gap:12px}
+.subj{display:flex;align-items:center;gap:6px;font-weight:600;font-size:16px;padding:6px 10px;margin-left:-10px;border-radius:9px}
+.sub{color:var(--muted);font-size:14px}
+.sub::before{content:"·";margin-right:8px}
+.top-l{gap:8px}
+.filter{display:flex;align-items:center;gap:6px;border:1px solid var(--line2);background:var(--card);border-radius:9px;padding:6px 12px;font-size:14px;color:var(--muted);margin-left:8px}
+.filter b{color:var(--text);font-weight:500}
+
+/* chat */
+.chat{flex:1;width:760px;margin:0 auto;padding:22px 0 0;display:flex;flex-direction:column;gap:26px;overflow:hidden}
+.faded-top{-webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 120px);padding-top:0;justify-content:flex-end;padding-bottom:16px}
+.msg-u{display:flex;justify-content:flex-end}
+.bubble{background:#EDEDE8;padding:11px 16px;border-radius:18px;max-width:520px}
+.msg-a{display:flex;gap:14px}
+.bot-av .logo-mark{width:28px;height:28px;border-radius:8px}
+.a-body{flex:1;display:flex;flex-direction:column;gap:12px;padding-top:2px}
+.a-body p{font-size:15.5px;line-height:1.62}
+.muted-p{color:var(--muted)}
+.ref{display:inline-grid;place-items:center;min-width:19px;height:19px;padding:0 5px;border-radius:6px;background:var(--accent-s);color:var(--accent-d);font-size:11.5px;font-weight:600;vertical-align:1px}
+.warn,.note{display:flex;gap:11px;align-items:flex-start;border-radius:12px;padding:12px 14px;font-size:14px;line-height:1.5}
+.warn{background:var(--warn-bg);border:1px solid var(--warn-b);color:var(--warn-t)}
+.warn b{font-weight:600}
+.note{background:var(--unv-bg);color:var(--unv-t);border:1px solid var(--line)}
+.warn .ic,.note .ic{margin-top:1px}
+.srcs-l{font-size:12.5px;color:var(--muted);font-weight:500;margin-top:2px}
+.src{display:flex;align-items:center;gap:11px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 14px}
+.src .num{font-size:12px;font-weight:600;color:var(--accent-d);background:var(--accent-s);border-radius:6px;padding:1px 7px}
+.src-t{flex:1}.st{font-weight:500;font-size:14px}.sm2{font-size:12.5px;color:var(--muted)}
+.pill{display:inline-flex;align-items:center;gap:4px;font-size:12px;font-weight:600;border-radius:20px;padding:2px 10px;white-space:nowrap}
+.p-off{background:var(--off-bg);color:var(--off-t)}.p-unv{background:var(--unv-bg);color:var(--unv-t)}
+.p-ok{background:var(--ok-bg);color:var(--ok-t)}.p-new{background:var(--accent-s);color:var(--accent-d)}
+.publish{border:1px solid var(--line2);background:var(--card);border-radius:14px;padding:16px 18px}
+.pub-t{display:flex;gap:9px;align-items:center;font-weight:600}
+.pub-d{color:var(--muted);font-size:14px;margin:6px 0 14px}
+.btns{display:flex;gap:8px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line2);background:var(--card);border-radius:10px;padding:8px 15px;font-size:14px;font-weight:500;white-space:nowrap}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--on-fei);font-weight:600}
+.btn.ok{background:var(--ok-t);border-color:var(--ok-t);color:#fff}
+.btn.danger{color:#A33A2A}
+.scroll-down{position:absolute;left:50%;transform:translateX(-50%);bottom:150px;width:36px;height:36px;border-radius:50%;background:var(--card);border:1px solid var(--line2);display:grid;place-items:center;color:var(--muted);box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.composer-wrap{width:760px;margin:0 auto;padding:14px 0 26px}
+.composer{display:flex;align-items:center;justify-content:space-between;background:var(--card);border:1px solid var(--line2);border-radius:18px;padding:16px 14px 16px 20px;box-shadow:0 2px 10px rgba(0,0,0,.04)}
+.ph{color:#9A9DA3}
+.send{width:34px;height:34px;border-radius:10px;background:var(--accent);color:var(--on-fei);display:grid;place-items:center;opacity:.6}
+.disclaimer{text-align:center;font-size:12px;color:var(--muted);margin-top:9px}
+
+/* picker */
+.picker{width:720px;margin:0 auto;padding-top:96px}
+.picker h1{font-weight:700;font-size:32px;text-align:center;margin-bottom:28px;letter-spacing:-.01em}
+.search{display:flex;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line2);border-radius:16px;padding:16px 18px;color:var(--muted);box-shadow:0 2px 10px rgba(0,0,0,.04)}
+.blk-label{display:flex;gap:12px;align-items:baseline;font-weight:600;font-size:14px;margin:30px 0 12px}
+.blk-label .muted{font-weight:400;font-size:13px}
+.link{color:var(--accent-d);font-weight:500;font-size:13px}
+.link.right{margin-left:auto}
+.chips{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.chip{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.chip .ct{font-weight:500;font-size:14.5px}.chip .cs{font-size:12.5px;color:var(--muted)}
+.recent{border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.rrow{display:flex;gap:11px;align-items:center;padding:11px 14px;color:var(--muted)}
+.rrow+.rrow{border-top:1px solid var(--line)}
+.rrow span:first-of-type{color:var(--text);flex:1}
+.hint{font-size:13px;color:var(--muted);text-align:center;margin-top:26px}
+
+/* pages */
+.page{width:840px;margin:0 auto;padding:18px 0;display:flex;flex-direction:column;gap:12px}
+.tabs{display:flex;gap:4px;align-items:center;border-bottom:1px solid var(--line);margin-bottom:8px}
+.tab{padding:9px 14px;font-weight:500;color:var(--muted);border-bottom:2px solid transparent;margin-bottom:-1px;display:flex;gap:7px;align-items:center}
+.tab.on{color:var(--text);border-bottom-color:var(--accent)}
+.cnt{font-size:12px;font-weight:600;background:#E7E7E1;color:#4E5058;border-radius:10px;padding:0 8px}
+.qcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px}
+.qcard.open{border-color:var(--line2);box-shadow:0 2px 12px rgba(0,0,0,.05)}
+.q-row{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.qt{font-weight:600;font-size:15.5px}.qm{font-size:13px;color:var(--muted);margin-top:3px}
+.q-act{color:var(--accent-d);font-weight:500;font-size:14px;margin-top:10px}
+.answer-form{margin-top:14px}
+.ta{border:1.5px solid var(--accent);border-radius:12px;padding:12px 14px;min-height:92px;font-size:15px;background:#fff}
+.ta.tall{min-height:84px;border-color:var(--line2);border-width:1px}
+.caret{display:inline-block;width:1.5px;height:18px;background:var(--text);vertical-align:-3px;margin-left:1px}
+.af-row{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-top:12px}
+.af-hint{display:flex;gap:8px;align-items:flex-start;font-size:13px;color:var(--muted);max-width:540px}
+.af-hint .ic{margin-top:1px}
+.ncard{position:relative;display:flex;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px}
+.ncard.unread{border-color:#F0D58A;background:#FFFCF2}
+.n-ic{width:38px;height:38px;border-radius:10px;background:#EFEFEA;color:#4E5058;display:grid;place-items:center;flex:none}
+.unread .n-ic{background:var(--accent-s);color:var(--accent-d)}
+.n-body{flex:1;display:flex;flex-direction:column;gap:5px}
+.n-t{font-weight:600}.n-q{font-size:14px;color:#3A3D44;font-style:italic}.n-q.plain{font-style:normal;color:var(--muted)}
+.n-a{font-size:14.5px;background:#F4F4F1;border-radius:10px;padding:9px 12px;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.who{font-weight:600}.n-m{font-size:12.5px;color:var(--muted)}
+.ncard .btns{margin-top:6px}
+.dot{position:absolute;top:20px;right:18px;width:9px;height:9px;border-radius:50%;background:var(--accent)}
+.info-card{background:var(--card);border:1px solid var(--line2);border-radius:14px;padding:16px 18px}
+.ic-h{display:flex;align-items:center;gap:9px;font-weight:600;margin-bottom:12px}
+.ic-h span:first-of-type{flex:1}
+.page-l{margin:16px 0 0}
+.vcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px}
+.v-q{font-weight:600}.v-a{margin:6px 0 12px;font-size:15px;background:#F4F4F1;border-radius:10px;padding:9px 12px}
+.v-row{display:flex;justify-content:space-between;align-items:center;gap:14px}
+.v-m{font-size:13px;color:var(--muted);display:flex;gap:8px;align-items:center}
+</style></head><body>
+<div class="doc-head"><h1>Asistent k predmetom – prototyp obrazoviek</h1>
+<p>HIP 2026–2027 · TUKE FEI · 7 obrazoviek pre test so študentmi (12. 11.). Texty sú ilustračné – úpravy píšte priamo do HTML alebo ako komentár k PNG.</p></div>
+
+<section class="screen-block" id="s1">
+  <div class="cap"><span class="cap-n">1</span><div><div class="cap-t">Nový chat – výber predmetu</div><div class="cap-d">Študent otvorí nový chat: vyhľadá predmet alebo klikne na svoj predmet.</div></div></div>
+  <div class="frame" data-n="1">
+<aside class="side">
+  <div class="side-top">
+    <div class="brand"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div><span>Asistent k predmetom</span></div>
+    <div class="icon-btn" title="Zbaliť panel"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></div>
+  </div>
+  <div class="newchat"><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg><span>Nový chat</span></div>
+  <nav><div class="nav active"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg><span>Asistent</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg><span>Otázky komunity</span><span class="badge">3</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg><span>Upozornenia</span></div></nav>
+  <div class="hist-wrap"><div class="sec-label"><svg class="ic " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>História</div><div class="hist"><span class="tag">HIP</span><span class="ht">Ako sa hodnotí tento predmet?</span></div><div class="hist"><span class="tag">PA</span><span class="ht">Kedy je prvý test z teórie?</span></div><div class="hist"><span class="tag">ZS</span><span class="ht">Čo treba odovzdať v Zadaní 1?</span></div></div>
+  <div class="side-bottom">
+    <div class="profile"><div class="avatar">JM</div>
+      <div><div class="pname">Jakub M.</div><div class="prole">Študent</div></div></div>
+    <div class="lang"><span class="on">SK</span><span>EN</span></div>
+  </div>
+</aside><main class="main"><header class="top"><div class="top-l"><div class="subj">Nový chat</div></div><div class="avatar sm">JM</div></header>
+<div class="picker">
+  <h1>O ktorom predmete sa chceš pýtať?</h1>
+  <div class="search"><svg class="ic " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg><span class="ph">Hľadaj predmet podľa názvu alebo kódu…</span></div>
+  <div class="blk-label"><span>Moje predmety</span><span class="muted">Hospodárska informatika (Bc.) · 3. roč., ZS</span>
+    <span class="link">Zmeniť</span></div>
+  <div class="chips"><div class="chip"><div class="ct">Hospodárska informatika v praxi</div><div class="cs">3. roč., ZS</div></div><div class="chip"><div class="ct">Podniková analytika</div><div class="cs">3. roč., ZS</div></div><div class="chip"><div class="ct">Znalostné systémy</div><div class="cs">3. roč., ZS</div></div></div>
+  <div class="blk-label"><span>Naposledy použité</span></div>
+  <div class="recent">
+    <div class="rrow"><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg><span>Hospodárska informatika v praxi</span><span class="muted">pred 2 dňami</span></div>
+    <div class="rrow"><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg><span>Podniková analytika</span><span class="muted">minulý týždeň</span></div>
+  </div>
+  <div class="hint">Jeden chat = jeden predmet. Predmet zmeníš kliknutím na jeho názov v hlavičke chatu.</div>
+</div></main>
+    <div class="proto-tag">Prototyp · ilustračné údaje</div></div>
+</section>
+<section class="screen-block" id="s2">
+  <div class="cap"><span class="cap-n">2</span><div><div class="cap-t">Chat – odpoveď so zdrojom, dátumom a upozornením</div><div class="cap-d">Asistent odpovedá z informačného listu, ukáže zdroj a upozorní, že list je starý.</div></div></div>
+  <div class="frame" data-n="2">
+<aside class="side">
+  <div class="side-top">
+    <div class="brand"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div><span>Asistent k predmetom</span></div>
+    <div class="icon-btn" title="Zbaliť panel"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></div>
+  </div>
+  <div class="newchat"><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg><span>Nový chat</span></div>
+  <nav><div class="nav active"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg><span>Asistent</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg><span>Otázky komunity</span><span class="badge">3</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg><span>Upozornenia</span></div></nav>
+  <div class="hist-wrap"><div class="sec-label"><svg class="ic " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>História</div><div class="hist active"><span class="tag">HIP</span><span class="ht">Ako sa hodnotí tento predmet?</span></div><div class="hist"><span class="tag">PA</span><span class="ht">Kedy je prvý test z teórie?</span></div><div class="hist"><span class="tag">ZS</span><span class="ht">Čo treba odovzdať v Zadaní 1?</span></div></div>
+  <div class="side-bottom">
+    <div class="profile"><div class="avatar">JM</div>
+      <div><div class="pname">Jakub M.</div><div class="prole">Študent</div></div></div>
+    <div class="lang"><span class="on">SK</span><span>EN</span></div>
+  </div>
+</aside><main class="main"><header class="top"><div class="top-l"><div class="subj">Hospodárska informatika v praxi<svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10l5 5 5-5"/></svg></div><span class="sub">3. roč., ZS</span></div><div class="avatar sm">JM</div></header>
+<div class="chat"><div class="msg-u"><div class="bubble">Ako sa hodnotí tento predmet?</div></div><div class="msg-a"><div class="bot-av"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div></div><div class="a-body"><p>Podľa informačného listu sa predmet hodnotí na základe práce počas semestra a záverečného hodnotenia <span class="ref">1</span>. Presné rozdelenie bodov je v časti „Podmienky na absolvovanie predmetu“ <span class="ref">1</span>.</p><div class="warn"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg><div><b>Informačný list bol naposledy zmenený v roku 2017.</b> Informácie môžu byť neaktuálne – over si ich na prvej prednáške alebo u vyučujúceho.</div></div><div class="srcs-l">Zdroje</div><div class="src"><span class="num">1</span><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v4h4M10 12h5M10 16h5"/></svg><div class="src-t"><div class="st">Informačný list predmetu · MAIS</div><div class="sm2">Podmienky na absolvovanie predmetu · posledná zmena: 2017</div></div><span class="pill p-off">Oficiálny dokument</span><svg class="ic muted" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1"/><path d="M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg></div></div></div></div>
+<div class="scroll-down"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M6 13l6 6 6-6"/></svg></div>
+<div class="composer-wrap">
+  <div class="composer"><span class="ph">Opýtaj sa na predmet…</span><div class="send"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M6.5 11.5L12 6l5.5 5.5"/></svg></div></div>
+  <div class="disclaimer">AI sa môže mýliť. Overuj si informácie v zdroji.</div>
+</div></main>
+    <div class="proto-tag">Prototyp · ilustračné údaje</div></div>
+</section>
+<section class="screen-block" id="s3">
+  <div class="cap"><span class="cap-n">3</span><div><div class="cap-t">Chat – „Neviem“ a Zverejniť otázku</div><div class="cap-d">Na otázku nie je odpoveď v liste ani od ľudí – študent ju môže zverejniť.</div></div></div>
+  <div class="frame" data-n="3">
+<aside class="side">
+  <div class="side-top">
+    <div class="brand"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div><span>Asistent k predmetom</span></div>
+    <div class="icon-btn" title="Zbaliť panel"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></div>
+  </div>
+  <div class="newchat"><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg><span>Nový chat</span></div>
+  <nav><div class="nav active"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg><span>Asistent</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg><span>Otázky komunity</span><span class="badge">3</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg><span>Upozornenia</span></div></nav>
+  <div class="hist-wrap"><div class="sec-label"><svg class="ic " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>História</div><div class="hist active"><span class="tag">HIP</span><span class="ht">Ako sa hodnotí tento predmet?</span></div><div class="hist"><span class="tag">PA</span><span class="ht">Kedy je prvý test z teórie?</span></div><div class="hist"><span class="tag">ZS</span><span class="ht">Čo treba odovzdať v Zadaní 1?</span></div></div>
+  <div class="side-bottom">
+    <div class="profile"><div class="avatar">JM</div>
+      <div><div class="pname">Jakub M.</div><div class="prole">Študent</div></div></div>
+    <div class="lang"><span class="on">SK</span><span>EN</span></div>
+  </div>
+</aside><main class="main"><header class="top"><div class="top-l"><div class="subj">Hospodárska informatika v praxi<svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10l5 5 5-5"/></svg></div><span class="sub">3. roč., ZS</span></div><div class="avatar sm">JM</div></header>
+<div class="chat faded-top"><div class="msg-u"><div class="bubble">Ako sa hodnotí tento predmet?</div></div>
+  <div class="msg-a"><div class="bot-av"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div></div><div class="a-body"><p class="muted-p">Podľa informačného listu sa predmet hodnotí na základe práce počas semestra a záverečného hodnotenia <span class="ref">1</span>…</p></div></div>
+  <div class="msg-u"><div class="bubble">Môžem robiť semestrálny projekt sám, alebo len v tíme?</div></div><div class="msg-a"><div class="bot-av"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div></div><div class="a-body"><p><b>Neviem.</b> V informačnom liste ani v odpovediach študentov a vyučujúcich som k tomu nenašiel informáciu.</p><div class="publish"><div class="pub-t"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg><span>Opýtaj sa ostatných</span></div><div class="pub-d">Otázku zverejníme v Otázkach komunity k tomuto predmetu. Keď niekto odpovie, upozorníme ťa – a odpoveď sa naučím aj ja.</div><div class="btns"><div class="btn primary">Zverejniť otázku</div><div class="btn">Upraviť text</div></div></div></div></div></div>
+
+<div class="composer-wrap">
+  <div class="composer"><span class="ph">Opýtaj sa na predmet…</span><div class="send"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M6.5 11.5L12 6l5.5 5.5"/></svg></div></div>
+  <div class="disclaimer">AI sa môže mýliť. Overuj si informácie v zdroji.</div>
+</div></main>
+    <div class="proto-tag">Prototyp · ilustračné údaje</div></div>
+</section>
+<section class="screen-block" id="s4">
+  <div class="cap"><span class="cap-n">4</span><div><div class="cap-t">Otázky komunity – otvorená otázka a formulár odpovede</div><div class="cap-d">Iný študent (Tomáš) vidí novú otázku a odpovedá na ňu.</div></div></div>
+  <div class="frame" data-n="4">
+<aside class="side">
+  <div class="side-top">
+    <div class="brand"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div><span>Asistent k predmetom</span></div>
+    <div class="icon-btn" title="Zbaliť panel"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></div>
+  </div>
+  <div class="newchat"><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg><span>Nový chat</span></div>
+  <nav><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg><span>Asistent</span></div><div class="nav active"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg><span>Otázky komunity</span><span class="badge">3</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg><span>Upozornenia</span></div></nav>
+  <div class="hist-wrap"><div class="sec-label"><svg class="ic " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>História</div><div class="hist"><span class="tag">HIP</span><span class="ht">Kedy sa odovzdáva projekt?</span></div><div class="hist"><span class="tag">PA</span><span class="ht">Aký softvér sa používa?</span></div></div>
+  <div class="side-bottom">
+    <div class="profile"><div class="avatar">TR</div>
+      <div><div class="pname">Tomáš R.</div><div class="prole">Študent</div></div></div>
+    <div class="lang"><span class="on">SK</span><span>EN</span></div>
+  </div>
+</aside><main class="main"><header class="top"><div class="top-l"><div class="subj">Otázky komunity</div><div class="filter">Predmet: <b>Hospodárska informatika v praxi</b><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10l5 5 5-5"/></svg></div></div><div class="avatar sm">TR</div></header>
+<div class="page">
+  <div class="tabs"><div class="tab on">Otvorené <span class="cnt">3</span></div><div class="tab">Zodpovedané <span class="cnt">12</span></div></div>
+  <div class="qcard open">
+    <div class="q-row"><div class="qt">Môžem robiť semestrálny projekt sám, alebo len v tíme?</div><span class="pill p-new">Nová</span></div>
+    <div class="qm">jakub_m · pred 2 h · 0 odpovedí · Asistent nenašiel odpoveď</div>
+    <div class="answer-form">
+      <div class="ta">Projekt sa robí v tíme, tento rok po troch ľuďoch.<span class="caret"></span></div>
+      <div class="af-row"><div class="af-hint"><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg><span>Odpoveď sa hneď dostane do asistenta s označením
+        <b>neoverené</b>. Nepíš do odpovede osobné údaje.</span></div><div class="btn primary">Odoslať odpoveď</div></div>
+    </div>
+  </div>
+  <div class="qcard"><div class="q-row"><div class="qt">Je účasť na seminároch povinná?</div><span class="pill p-new">Nová</span></div><div class="qm">eva_s · pred 1 dňom · 0 odpovedí</div><div class="q-act">Odpovedať</div></div>
+  <div class="qcard"><div class="q-row"><div class="qt">Sú prednášky nahrávané?</div><span class="pill p-new">Nová</span></div><div class="qm">anonym · pred 3 dňami · 0 odpovedí</div><div class="q-act">Odpovedať</div></div>
+</div></main>
+    <div class="proto-tag">Prototyp · ilustračné údaje</div></div>
+</section>
+<section class="screen-block" id="s5">
+  <div class="cap"><span class="cap-n">5</span><div><div class="cap-t">Chat – tá istá otázka znova, odpoveď študenta</div><div class="cap-d">Ďalšia študentka (Eva) sa pýta podobne – asistent už odpovedá z odpovede študenta (neoverené).</div></div></div>
+  <div class="frame" data-n="5">
+<aside class="side">
+  <div class="side-top">
+    <div class="brand"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div><span>Asistent k predmetom</span></div>
+    <div class="icon-btn" title="Zbaliť panel"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></div>
+  </div>
+  <div class="newchat"><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg><span>Nový chat</span></div>
+  <nav><div class="nav active"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg><span>Asistent</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg><span>Otázky komunity</span><span class="badge">2</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg><span>Upozornenia</span></div></nav>
+  <div class="hist-wrap"><div class="sec-label"><svg class="ic " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>História</div><div class="hist active"><span class="tag">HIP</span><span class="ht">Robí sa projekt v tíme…</span></div><div class="hist"><span class="tag">ZS</span><span class="ht">Je skúška písomná?</span></div></div>
+  <div class="side-bottom">
+    <div class="profile"><div class="avatar">ES</div>
+      <div><div class="pname">Eva S.</div><div class="prole">Študentka</div></div></div>
+    <div class="lang"><span class="on">SK</span><span>EN</span></div>
+  </div>
+</aside><main class="main"><header class="top"><div class="top-l"><div class="subj">Hospodárska informatika v praxi<svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10l5 5 5-5"/></svg></div><span class="sub">3. roč., ZS</span></div><div class="avatar sm">ES</div></header>
+<div class="chat"><div class="msg-u"><div class="bubble">Robí sa projekt v tíme alebo individuálne?</div></div><div class="msg-a"><div class="bot-av"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div></div><div class="a-body"><p>Podľa odpovede študenta sa projekt robí v tíme, tento rok po troch ľuďoch <span class="ref">1</span>.</p><div class="note"><svg class="ic " width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c.8-3.8 3.6-6 7-6s6.2 2.2 7 6"/></svg><div>Túto odpoveď napísal študent a <b>zatiaľ ju neoveril vyučujúci</b>.</div></div><div class="srcs-l">Zdroje</div><div class="src"><span class="num">1</span><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg><div class="src-t"><div class="st">Odpoveď študenta · Otázky komunity</div><div class="sm2">tomas_r · dnes 14:20 · na otázku „Môžem robiť semestrálny projekt sám…“</div></div><span class="pill p-unv">Neoverené</span><svg class="ic muted" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1"/><path d="M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg></div></div></div></div>
+<div class="composer-wrap">
+  <div class="composer"><span class="ph">Opýtaj sa na predmet…</span><div class="send"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V6M6.5 11.5L12 6l5.5 5.5"/></svg></div></div>
+  <div class="disclaimer">AI sa môže mýliť. Overuj si informácie v zdroji.</div>
+</div></main>
+    <div class="proto-tag">Prototyp · ilustračné údaje</div></div>
+</section>
+<section class="screen-block" id="s6">
+  <div class="cap"><span class="cap-n">6</span><div><div class="cap-t">Upozornenie – na tvoju otázku niekto odpovedal</div><div class="cap-d">Jakub dostane upozornenie, že na jeho otázku prišla odpoveď.</div></div></div>
+  <div class="frame" data-n="6">
+<aside class="side">
+  <div class="side-top">
+    <div class="brand"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div><span>Asistent k predmetom</span></div>
+    <div class="icon-btn" title="Zbaliť panel"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></div>
+  </div>
+  <div class="newchat"><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg><span>Nový chat</span></div>
+  <nav><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg><span>Asistent</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg><span>Otázky komunity</span><span class="badge">2</span></div><div class="nav active"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg><span>Upozornenia</span><span class="badge">1</span></div></nav>
+  <div class="hist-wrap"><div class="sec-label"><svg class="ic " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>História</div><div class="hist"><span class="tag">HIP</span><span class="ht">Ako sa hodnotí tento predmet?</span></div><div class="hist"><span class="tag">PA</span><span class="ht">Kedy je prvý test z teórie?</span></div><div class="hist"><span class="tag">ZS</span><span class="ht">Čo treba odovzdať v Zadaní 1?</span></div></div>
+  <div class="side-bottom">
+    <div class="profile"><div class="avatar">JM</div>
+      <div><div class="pname">Jakub M.</div><div class="prole">Študent</div></div></div>
+    <div class="lang"><span class="on">SK</span><span>EN</span></div>
+  </div>
+</aside><main class="main"><header class="top"><div class="top-l"><div class="subj">Upozornenia</div></div><div class="avatar sm">JM</div></header>
+<div class="page">
+  <div class="tabs"><div class="tab on">Všetky</div><div class="tab">Neprečítané <span class="cnt">1</span></div>
+    <span class="link right">Označiť všetko ako prečítané</span></div>
+  <div class="ncard unread"><div class="n-ic"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg></div><div class="n-body">
+    <div class="n-t">Na tvoju otázku niekto odpovedal</div>
+    <div class="n-q">„Môžem robiť semestrálny projekt sám, alebo len v tíme?“</div>
+    <div class="n-a"><span class="who">tomas_r:</span> Projekt sa robí v tíme, tento rok po troch ľuďoch. <span class="pill p-unv">Neoverené</span></div>
+    <div class="n-m">Hospodárska informatika v praxi · pred 10 min</div>
+    <div class="btns"><div class="btn primary">Zobraziť v chate</div><div class="btn"><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 10c0 5.5-7 10-7 10z"/></svg> Poďakovať</div></div>
+  </div><span class="dot"></span></div>
+  <div class="ncard"><div class="n-ic"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg></div><div class="n-body">
+    <div class="n-t">3 nové otázky k tvojim predmetom</div>
+    <div class="n-q plain">Pomôž spolužiakom – možno poznáš odpoveď.</div>
+    <div class="n-m">Otázky komunity · pred 1 dňom</div></div></div>
+  <div class="ncard"><div class="n-ic"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6z"/><path d="M9 12l2 2 4-4"/></svg></div><div class="n-body">
+    <div class="n-t">Vyučujúci overil odpoveď, ktorú si napísal</div>
+    <div class="n-q plain">„Kedy sa odovzdáva projekt?“ · Podniková analytika</div>
+    <div class="n-m">pred 3 dňami</div></div></div>
+</div></main>
+    <div class="proto-tag">Prototyp · ilustračné údaje</div></div>
+</section>
+<section class="screen-block" id="s7">
+  <div class="cap"><span class="cap-n">7</span><div><div class="cap-t">Vyučujúci – Overovanie a Aktuálna informácia</div><div class="cap-d">Vyučujúci overí, opraví alebo zmaže odpovede a doplní aktuálnu informáciu k predmetu.</div></div></div>
+  <div class="frame" data-n="7">
+<aside class="side">
+  <div class="side-top">
+    <div class="brand"><div class="logo-mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F1B0E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/><path d="M8.5 10.5l2.5 2.5 4.5-4.5"/></svg></div><span>Asistent k predmetom</span></div>
+    <div class="icon-btn" title="Zbaliť panel"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></div>
+  </div>
+  <div class="newchat"><svg class="ic " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg><span>Nový chat</span></div>
+  <nav><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg><span>Asistent</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19c.6-3.3 3-5 6-5s5.4 1.7 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M16.5 14c2.4.2 4 1.8 4.5 4.5"/></svg><span>Otázky komunity</span><span class="badge">2</span></div><div class="nav"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg><span>Upozornenia</span></div><div class="nav active"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6z"/><path d="M9 12l2 2 4-4"/></svg><span>Overovanie</span><span class="badge">2</span></div></nav>
+  <div class="hist-wrap"></div>
+  <div class="side-bottom">
+    <div class="profile"><div class="avatar">VU</div>
+      <div><div class="pname">Vyučujúci</div><div class="prole">Rola: vyučujúci</div></div></div>
+    <div class="lang"><span class="on">SK</span><span>EN</span></div>
+  </div>
+</aside><main class="main"><header class="top"><div class="top-l"><div class="subj">Overovanie</div><div class="filter">Predmet: <b>Hospodárska informatika v praxi</b><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10l5 5 5-5"/></svg></div></div><div class="avatar sm">VU</div></header>
+<div class="page">
+  <div class="info-card">
+    <div class="ic-h"><svg class="ic " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v4M8 7h8l-1 6H9z"/><path d="M12 13v8"/></svg><span>Aktuálna informácia k predmetu</span><span class="pill p-ok"><svg class="ic " width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg> Overené</span></div>
+    <div class="ta tall">Semestrálny projekt sa robí v tímoch po troch. Odovzdanie je v 13. týždni semestra.</div>
+    <div class="af-row"><div class="af-hint">Asistent ju použije v odpovediach ako overenú a s prednosťou pred informačným listom.
+      Informačný list v MAIS sa nemení.</div><div class="btn primary">Uložiť</div></div>
+  </div>
+  <div class="blk-label page-l"><span>Odpovede na overenie</span><span class="cnt">2</span></div>
+  <div class="vcard"><div class="v-q">Môžem robiť semestrálny projekt sám, alebo len v tíme?</div><div class="v-a">Projekt sa robí v tíme, tento rok po troch ľuďoch.</div>
+  <div class="v-row"><div class="v-m">tomas_r · dnes 14:20 <span class="pill p-unv">Neoverené</span></div>
+  <div class="btns"><div class="btn ok"><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg> Overiť</div><div class="btn"><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg> Opraviť</div>
+  <div class="btn danger"><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 7h14M10 7V4h4v3M7 7l1 13h8l1-13"/></svg> Zmazať</div></div></div></div>
+  <div class="vcard"><div class="v-q">Je účasť na seminároch povinná?</div><div class="v-a">Áno, na seminároch sa prezentujú priebežné výstupy tímu.</div>
+  <div class="v-row"><div class="v-m">jakub_m · dnes 16:05 <span class="pill p-unv">Neoverené</span></div>
+  <div class="btns"><div class="btn ok"><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg> Overiť</div><div class="btn"><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg> Opraviť</div>
+  <div class="btn danger"><svg class="ic " width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 7h14M10 7V4h4v3M7 7l1 13h8l1-13"/></svg> Zmazať</div></div></div></div>
+</div></main>
+    <div class="proto-tag">Prototyp · ilustračné údaje</div></div>
+</section>
+</body></html>
