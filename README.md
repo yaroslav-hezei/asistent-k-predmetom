@@ -11,7 +11,9 @@ Team: Yaroslav Hezei, Bohdan Muzhyla, Mykola Parlach.
 
 **Status:** MVP in development.
 
-## Stack
+## Stack (planned)
+
+Next.js and FastAPI are fixed; the rest is chosen step by step as the project grows.
 
 | Part | Technology |
 |---|---|
