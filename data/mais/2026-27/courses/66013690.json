@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013690",
+  "code": "26000765",
+  "name": "Hybridná výpočtová inteligencia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013690",
+  "fetched_at": "2026-11-17T15:15:33Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000765"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Hybridná výpočtová inteligencia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13/LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npriebežné testy, projekty"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nzáverečný test a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu získa poznatky z oblastí využitia hybridných prostriedkov výpočtovej inteligencie (HVI) založených na báze fuzzy množín, umelých neurónových sietí a genetických algoritmov pre potreby modelovania a riadenia. Za týmto účelom absolvent získa potrebné teoretické poznatky ohľadom inteligentných štruktúr riadenia, metód adaptácie a optimalizácie parametrov HVI, ktoré okrem iného zahŕňajú aj metódy opisu, modelovania, simulácie, optimalizácie a riadenia systémov pomocou prostriedkov HVI. Pomocou zadaných projektov si absolvent predmetu prakticky osvojí schopnosť rozvíjať a navrhovať vlastné riešenia problémov, využívať získané poznatky a efektívne sa rozhodovať pri výbere a použití vhodných prostriedkov, v rámci ktorých sa aj naučí si udržiavať kontakt s vývojom daného vedného odboru."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Význam hybridizácie prostriedkov výpočtovej inteligencie.\n• Hlavné typy interakcií fuzzy systémov a neurónových sietí – neuro-fuzzy a fuzzy-neuro systémy a ich hlavní reprezentanti.\n• Hlavné typy interakcií fuzzy systémov a evolučných (genetických) algoritmov – Michiganský a Pittsburghský prístup, optimalizácia bázy znalostí pomocou genetických algoritmov.\n• Interakcia neurónových sietí a evolučných (genetických) algoritmov.\n• Teória chaosu pri optimalizačných úlohách.\n• Príklady aplikácií hybridných prostriedkov výpočtovej inteligencie.\n• Všeobecná teória neurčitosti – prehľad typov neurčitosti a vzťahy medzi nimi."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Lin, Ch.T. - Lee, G.: Neural Fuzzy Systems - A Neuro-Fuzzy Synergism to Intelligent Systems; Prentice Hall PTR, New York, 1996.\n• Cordón, O. at al.: Genetic Fuzzy Systems – Evolutioary Tuning and Learning of Fuzzy Knowledge Bases, World Scientific, 2001.\n• Buša, J. – Hnatič, M.: Chaos – Úvod do problematiky (učebnica), Technická univerzita v Košiciach, 2004."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 173\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n37%\n24%\n19%\n7%\n5%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Dr. Ing. Ján Vaščák"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 5,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 173,
+    "percent": {
+      "A": 37,
+      "B": 24,
+      "C": 19,
+      "D": 7,
+      "E": 5,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Dr. Ing. Ján Vaščák"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000765\nNázov predmetu: Hybridná výpočtová inteligencia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13/LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npriebežné testy, projekty\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nzáverečný test a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu získa poznatky z oblastí využitia hybridných prostriedkov výpočtovej inteligencie (HVI) založených na báze fuzzy množín, umelých neurónových sietí a genetických algoritmov pre potreby modelovania a riadenia. Za týmto účelom absolvent získa potrebné teoretické poznatky ohľadom inteligentných štruktúr riadenia, metód adaptácie a optimalizácie parametrov HVI, ktoré okrem iného zahŕňajú aj metódy opisu, modelovania, simulácie, optimalizácie a riadenia systémov pomocou prostriedkov HVI. Pomocou zadaných projektov si absolvent predmetu prakticky osvojí schopnosť rozvíjať a navrhovať vlastné riešenia problémov, využívať získané poznatky a efektívne sa rozhodovať pri výbere a použití vhodných prostriedkov, v rámci ktorých sa aj naučí si udržiavať kontakt s vývojom daného vedného odboru.\n\nStručná osnova predmetu:\n• Význam hybridizácie prostriedkov výpočtovej inteligencie.\n• Hlavné typy interakcií fuzzy systémov a neurónových sietí – neuro-fuzzy a fuzzy-neuro systémy a ich hlavní reprezentanti.\n• Hlavné typy interakcií fuzzy systémov a evolučných (genetických) algoritmov – Michiganský a Pittsburghský prístup, optimalizácia bázy znalostí pomocou genetických algoritmov.\n• Interakcia neurónových sietí a evolučných (genetických) algoritmov.\n• Teória chaosu pri optimalizačných úlohách.\n• Príklady aplikácií hybridných prostriedkov výpočtovej inteligencie.\n• Všeobecná teória neurčitosti – prehľad typov neurčitosti a vzťahy medzi nimi.\n\n\nOdporúčaná literatúra:\n• Lin, Ch.T. - Lee, G.: Neural Fuzzy Systems - A Neuro-Fuzzy Synergism to Intelligent Systems; Prentice Hall PTR, New York, 1996.\n• Cordón, O. at al.: Genetic Fuzzy Systems – Evolutioary Tuning and Learning of Fuzzy Knowledge Bases, World Scientific, 2001.\n• Buša, J. – Hnatič, M.: Chaos – Úvod do problematiky (učebnica), Technická univerzita v Košiciach, 2004.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 173\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n37%\n24%\n19%\n7%\n5%\n8%\n\n\nZabezpečuje:\ndoc. Dr. Ing. Ján Vaščák\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

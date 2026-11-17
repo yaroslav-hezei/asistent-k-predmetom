@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65678632",
+  "code": "26001343",
+  "name": "Spracovanie obrazu a robotika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65678632",
+  "fetched_at": "2026-11-17T15:00:51Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001343"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Spracovanie obrazu a robotika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13/LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent získa vedomosti z oblasti robotiky, najmä v oblasti jej projektovania, návrhu štruktúry a simulácie robotických systémov. Študent sa oboznámi so základmi teórie spracovania obrazov a počítačového videnia a nadobudne praktické skúsenosti a zručnosti pri analýze a realizácii menších úloh, ako aj rozsiahlejších aplikačných projektov so zameraním na robotiku. Súčasťou výstupov vzdelávania je aj získanie znalostí v oblasti popisu a návrhu mechanických štruktúr a prvkov, vrátane návrhu kinematiky mobilných robotov a robotických ramien, ako aj v oblasti mechatronických a informačno-technologických komponentov inteligentnej robotiky v prostredí simulácie a modelovania. Absolvent je vedený k aplikácii nadobudnutých poznatkov na simulovaných robotických systémoch v prostredí Webots a k využívaniu systémového prístupu pri tvorbe riadiacich programov a inteligencie robota. Spracovanie obrazu a programovanie robotických systémov bude absolvent schopný realizovať s využitím programovacieho jazyka Python."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do spracovania obrazov, zdroje obrazu, získanie číslicovej formy.\n- Reprezentácie obrazov, formáty, maticová reprezentácia obrazu, stratové a bezstratové kódovanie, farebné modely obrazov.\n- Vlastnosti číslicových obrazov (vizuálne, metrické, topologické, štatistické, kontextové, textúrové).\n- Segmentácia obrazov prahovaním, na báze oblastí (hranice, homogenita), aktívne kontúry.\n- Afinné transformácie v obrazoch\n- Morfologické spracovanie obrazov, konvolúcia a konvolučné masky\n- Návrh a realizácia mechanických častí robota, modelovanie v robotike\n- Základy mechatronických systémov v robotike\n- Kinematika v mobilnej robotike\n- Kinematika robotických ramien\n- Numerické metódy v inteligentnej robotike\n- Aplikácia spracovania obrazov v robotike"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "ŠONKA, M. - HLAVÁČ, V.: Počítačové videní, Grada 1992, ISBN 80-85424-67-3\n\nSTENGEL, R. F.: Robotics and Intelligent Systems, Princeton University\nPrinceton, NJ, 2017, dostupné: https://stengel.mycpanel.princeton.edu/RISVirText.html\n\nŠONKA, M. - HLAVÁČ, V. - BOYLE, R.: Image Processing, Analysis, and Machine Vision. PSW Publishing, 2nd Edition, p. 755, 1998, ISBN 0-534-95393-X\n\nBUNDZEL, M. - ZOLOTOVÁ, I.: Počítačové videnie v praxi, Elfa 2013, s. 90, ISBN 978-80-8086-225-1\n\nJURIŠICA, L. – HUBINSKÝ, P. – KARDOŠ J.: Robotika, FEI STU, 2005, https://www.researchgate.net/publication/267783300_Robotika"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na cvičeniach: 13 hodín\n- Priame konzultácie: 6 hodín\n- Projektová práca priamo na cvičeniach: 13 hodín\n\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Spracovanie semestrálneho projektu: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Papcun, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Papcun, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001343\nNázov predmetu: Spracovanie obrazu a robotika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13/LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent získa vedomosti z oblasti robotiky, najmä v oblasti jej projektovania, návrhu štruktúry a simulácie robotických systémov. Študent sa oboznámi so základmi teórie spracovania obrazov a počítačového videnia a nadobudne praktické skúsenosti a zručnosti pri analýze a realizácii menších úloh, ako aj rozsiahlejších aplikačných projektov so zameraním na robotiku. Súčasťou výstupov vzdelávania je aj získanie znalostí v oblasti popisu a návrhu mechanických štruktúr a prvkov, vrátane návrhu kinematiky mobilných robotov a robotických ramien, ako aj v oblasti mechatronických a informačno-technologických komponentov inteligentnej robotiky v prostredí simulácie a modelovania. Absolvent je vedený k aplikácii nadobudnutých poznatkov na simulovaných robotických systémoch v prostredí Webots a k využívaniu systémového prístupu pri tvorbe riadiacich programov a inteligencie robota. Spracovanie obrazu a programovanie robotických systémov bude absolvent schopný realizovať s využitím programovacieho jazyka Python.\n\nStručná osnova predmetu:\n- Úvod do spracovania obrazov, zdroje obrazu, získanie číslicovej formy.\n- Reprezentácie obrazov, formáty, maticová reprezentácia obrazu, stratové a bezstratové kódovanie, farebné modely obrazov.\n- Vlastnosti číslicových obrazov (vizuálne, metrické, topologické, štatistické, kontextové, textúrové).\n- Segmentácia obrazov prahovaním, na báze oblastí (hranice, homogenita), aktívne kontúry.\n- Afinné transformácie v obrazoch\n- Morfologické spracovanie obrazov, konvolúcia a konvolučné masky\n- Návrh a realizácia mechanických častí robota, modelovanie v robotike\n- Základy mechatronických systémov v robotike\n- Kinematika v mobilnej robotike\n- Kinematika robotických ramien\n- Numerické metódy v inteligentnej robotike\n- Aplikácia spracovania obrazov v robotike\n\n\nOdporúčaná literatúra:\nŠONKA, M. - HLAVÁČ, V.: Počítačové videní, Grada 1992, ISBN 80-85424-67-3\n\nSTENGEL, R. F.: Robotics and Intelligent Systems, Princeton University\nPrinceton, NJ, 2017, dostupné: https://stengel.mycpanel.princeton.edu/RISVirText.html\n\nŠONKA, M. - HLAVÁČ, V. - BOYLE, R.: Image Processing, Analysis, and Machine Vision. PSW Publishing, 2nd Edition, p. 755, 1998, ISBN 0-534-95393-X\n\nBUNDZEL, M. - ZOLOTOVÁ, I.: Počítačové videnie v praxi, Elfa 2013, s. 90, ISBN 978-80-8086-225-1\n\nJURIŠICA, L. – HUBINSKÝ, P. – KARDOŠ J.: Robotika, FEI STU, 2005, https://www.researchgate.net/publication/267783300_Robotika\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na cvičeniach: 13 hodín\n- Priame konzultácie: 6 hodín\n- Projektová práca priamo na cvičeniach: 13 hodín\n\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Spracovanie semestrálneho projektu: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Papcun, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

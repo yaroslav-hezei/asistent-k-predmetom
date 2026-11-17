@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65681819",
+  "code": "26001373",
+  "name": "Objavovanie znalostí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65681819",
+  "fetched_at": "2026-11-17T15:01:47Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001373"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Objavovanie znalostí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra sú 2 písomky z prebranej teórie, každá za 5 bodov a 5 bodov možno získať za ďalšie úlohy riešené počas cvičení. Ďalších 25 bodov možno získať za zadanie, ktoré spočíva v aplikácii metodiky CRISP-DM na podporu rozhodovania v kontexte konkrétnej dátovej množiny."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZahŕňa ohodnotenie práce počas semestra formou priebežných úloh z prednášok a záverečného testu na skúške. Spolu je možné získať maximálne 60 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní predmetu študent získa pokročilé teoretické vedomosti o procese objavovania znalostí z dát (Knowledge Discovery in Data – KDD). Študent porozumie systematickému procesu dátovej analytiky a dolovania v dátach, vrátane jednotlivých fáz spracovania dát (pochopenie problému, porozumenie dátam, príprava dát, modelovanie, vyhodnotenie a interpretácia výsledkov), s dôrazom na metodiku CRISP-DM a jej moderné interpretácie v kontexte umelej inteligencie.\nAbsolvent predmetu získa zručnosti potrebné na riešenie komplexných analytických úloh, vrátane: návrhu a realizácie analytického postupu pre získavanie znalostí z dát; výberu, aplikácie a hodnotenia vhodných metód dolovania v dátach a strojového učenia; interpretácie a kritického hodnotenia výsledkov analytických modelov; tvorivého a zodpovedného využívania analytických nástrojov pri podpore rozhodovania v zložitých systémoch."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základné pojmy objavovania znalostí z dát (Knowledge Discovery in Data – KDD), dátovej analytiky a dolovania v dátach.\n2. Proces objavovania znalostí – fázy KDD procesu, metodika CRISP-DM a jej úloha v moderných AI projektoch.\n3. Porozumenie dátam a príprava dát: typy dát, popisné charakteristiky dát, čistenie dát, práca s chýbajúcimi hodnotami, transformácie a redukcia dát.\n4. Exploračná analýza dát: úloha exploračných prístupov v procese objavovania znalostí, štatistická analýza dát, vizualizácia a identifikácia základných vzorov a anomálií.\n5. Prediktívne modelovanie v procese objavovania znalostí: klasifikácia a regresia – vybrané algoritmy, základné princípy učenia, overovania a hodnotenia prediktívnych modelov.\n6. Metriky podobnosti a vzdialenosti v dátovej analytike: metriky pre rôzne typy dát a ich význam pri analytických a modelovacích úlohách.\n7. Deskriptívne metódy objavovania znalostí: analýza zhlukov a identifikácia štruktúr v dátach.\n8. Deskriptívne metódy objavovania znalostí: dolovanie asociačných pravidiel a vzťahov v dátach.\n9. Detekcia anomálií a diagnostika dát: identifikácia zriedkavých a neštandardných javov v dátach.\n10. Interpretácia, hodnotenie a prezentácia získaných znalostí: limity dátovej analytiky, riziká nesprávnej interpretácie a využitie výsledkov pri podpore rozhodovania."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Jiawei Han, Jian Pei, Hanghang Tong: Data Mining, Concepts and Techniques. 4th Edition, Morgan Kaufmann, October 2022, Paperback ISBN: 9780128117606, eBook ISBN: 9780128117613\n- Charu C. Aggarwal: Data Mining: The Textbook. Springer, 2015, 763 s., ISBN 9783319141411\n- Ján Paralič: Objavovanie znalostí v databázach. Elfa, Košice 2003, 80 s., ISBN 80-89066-60-7\n- Altair® AI Studio: Data Science Design Software. Online. Dostupné na: https://altair.com/altair-ai-studio [cit. 13.1.2026]"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 50 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 11 hodín\n\nNekontaktná výučba: spolu 115 hodín, z toho:\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Vypracovanie úloh z prednášok a cvičení: 26 hodín\n• Vypracovanie tímového semestrálneho projektu: 36 hodín\n• Príprava na skúšku: 40 hodín\n------------------------------------------------\nCelkovo výučba spolu: 165 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Paralič, PhD.\nIng. Oliver Lohaj, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Paralič, PhD.",
+    "Ing. Oliver Lohaj, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001373\nNázov predmetu: Objavovanie znalostí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra sú 2 písomky z prebranej teórie, každá za 5 bodov a 5 bodov možno získať za ďalšie úlohy riešené počas cvičení. Ďalších 25 bodov možno získať za zadanie, ktoré spočíva v aplikácii metodiky CRISP-DM na podporu rozhodovania v kontexte konkrétnej dátovej množiny.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZahŕňa ohodnotenie práce počas semestra formou priebežných úloh z prednášok a záverečného testu na skúške. Spolu je možné získať maximálne 60 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní predmetu študent získa pokročilé teoretické vedomosti o procese objavovania znalostí z dát (Knowledge Discovery in Data – KDD). Študent porozumie systematickému procesu dátovej analytiky a dolovania v dátach, vrátane jednotlivých fáz spracovania dát (pochopenie problému, porozumenie dátam, príprava dát, modelovanie, vyhodnotenie a interpretácia výsledkov), s dôrazom na metodiku CRISP-DM a jej moderné interpretácie v kontexte umelej inteligencie.\nAbsolvent predmetu získa zručnosti potrebné na riešenie komplexných analytických úloh, vrátane: návrhu a realizácie analytického postupu pre získavanie znalostí z dát; výberu, aplikácie a hodnotenia vhodných metód dolovania v dátach a strojového učenia; interpretácie a kritického hodnotenia výsledkov analytických modelov; tvorivého a zodpovedného využívania analytických nástrojov pri podpore rozhodovania v zložitých systémoch.\n\nStručná osnova predmetu:\n1. Základné pojmy objavovania znalostí z dát (Knowledge Discovery in Data – KDD), dátovej analytiky a dolovania v dátach.\n2. Proces objavovania znalostí – fázy KDD procesu, metodika CRISP-DM a jej úloha v moderných AI projektoch.\n3. Porozumenie dátam a príprava dát: typy dát, popisné charakteristiky dát, čistenie dát, práca s chýbajúcimi hodnotami, transformácie a redukcia dát.\n4. Exploračná analýza dát: úloha exploračných prístupov v procese objavovania znalostí, štatistická analýza dát, vizualizácia a identifikácia základných vzorov a anomálií.\n5. Prediktívne modelovanie v procese objavovania znalostí: klasifikácia a regresia – vybrané algoritmy, základné princípy učenia, overovania a hodnotenia prediktívnych modelov.\n6. Metriky podobnosti a vzdialenosti v dátovej analytike: metriky pre rôzne typy dát a ich význam pri analytických a modelovacích úlohách.\n7. Deskriptívne metódy objavovania znalostí: analýza zhlukov a identifikácia štruktúr v dátach.\n8. Deskriptívne metódy objavovania znalostí: dolovanie asociačných pravidiel a vzťahov v dátach.\n9. Detekcia anomálií a diagnostika dát: identifikácia zriedkavých a neštandardných javov v dátach.\n10. Interpretácia, hodnotenie a prezentácia získaných znalostí: limity dátovej analytiky, riziká nesprávnej interpretácie a využitie výsledkov pri podpore rozhodovania.\n\nOdporúčaná literatúra:\n- Jiawei Han, Jian Pei, Hanghang Tong: Data Mining, Concepts and Techniques. 4th Edition, Morgan Kaufmann, October 2022, Paperback ISBN: 9780128117606, eBook ISBN: 9780128117613\n- Charu C. Aggarwal: Data Mining: The Textbook. Springer, 2015, 763 s., ISBN 9783319141411\n- Ján Paralič: Objavovanie znalostí v databázach. Elfa, Košice 2003, 80 s., ISBN 80-89066-60-7\n- Altair® AI Studio: Data Science Design Software. Online. Dostupné na: https://altair.com/altair-ai-studio [cit. 13.1.2026]\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 50 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 11 hodín\n\nNekontaktná výučba: spolu 115 hodín, z toho:\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Vypracovanie úloh z prednášok a cvičení: 26 hodín\n• Vypracovanie tímového semestrálneho projektu: 36 hodín\n• Príprava na skúšku: 40 hodín\n------------------------------------------------\nCelkovo výučba spolu: 165 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Ján Paralič, PhD.\nIng. Oliver Lohaj, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

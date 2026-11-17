@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65888665",
+  "code": "26000994",
+  "name": "Architektúry počítačových systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888665",
+  "fetched_at": "2026-11-17T15:04:16Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000994"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Architektúry počítačových systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPísomné previerky, semestrálne zadania."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvovaním predmetu študent získa poznatky o princípoch architektúr reálnych vstavaných a sieťovo orientovaných systémov, ako aj o základných stavebných blokoch potrebných na ich realizáciu. Získa informácie o technických prostriedkoch počítačových systémov, od teoretických princípov činností, cez štruktúrnu organizáciu periférií, až po koncepcie rôznych architektúr. Prakticky zvládne metodiku návrhu základných stavebných číslicových obvodov, opis hardvéru pomocou jazyka VHDL, ich simuláciu a fyzickú implementáciu s využitím moderných CAE nástrojov a programovateľnej logiky (FPGA). Získané znalosti o komponentoch počítačových systémov, ich činností a algoritmoch používaných pri spracovaní, uchovávaní a prenášaní dát, bude študent schopný uplatniť v praktickej sfére ako aj v teoretickej oblasti informatiky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do návrhu hardvéru: Základný koncept elektronických obvodov.\n2. Stavebné prvky číslicových počítačov\n3. Princípy a základné koncepcie počítačových systémov\n4. Počítačová aritmetika a algoritmy\n5. Programovateľná logika (FPGA)\n6. Úvod do jazyka VHDL\n7. Inštrukčne orientovaná architektúra\n8. Centrálna procesorová jednotka a prúdové spracovanie\n9. Pamäťový podsystém\n10. Vonkajšie komunikácie procesora a riadenie vstupno-výstupných operácií\n11. Klasifikácia počítačových systémov\n12. Trendy vo vývoji počítačových architektúr pre vstavané systémy,\n13. Trendy vo vývoji počítačových architektúr, polovodičové technológie, SoC, Chiplet"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. William Stallings - Computer Organization and Architecture (12th Edition), 2022\n2. Patterson, D. – Hennessy, J., Computer Organization and Design: The Hardware/Software Interface, Morgan Kaufmann Publishers, 2013\n3. Hennessy, J. – Patterson, D., Computer Architecture: A Quantitative Approach, Morgan Kaufmann Publishers, 2011\n4. Jelšina, M., Architektúry počítačových systémov: princípy, štruktúrna organizácia, funkcia. Elfa, Košice, 2002"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1065\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n2%\n11%\n22%\n28%\n35%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Pavol Galajda, CSc.\nprof. Ing. Miloš Drutarovský, CSc.\nIng. Miroslav Sokol, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1065,
+    "percent": {
+      "A": 2,
+      "B": 2,
+      "C": 11,
+      "D": 22,
+      "E": 28,
+      "FX": 35
+    }
+  },
+  "teachers": [
+    "prof. Ing. Pavol Galajda, CSc.",
+    "prof. Ing. Miloš Drutarovský, CSc.",
+    "Ing. Miroslav Sokol, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000994\nNázov predmetu: Architektúry počítačových systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPísomné previerky, semestrálne zadania.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvovaním predmetu študent získa poznatky o princípoch architektúr reálnych vstavaných a sieťovo orientovaných systémov, ako aj o základných stavebných blokoch potrebných na ich realizáciu. Získa informácie o technických prostriedkoch počítačových systémov, od teoretických princípov činností, cez štruktúrnu organizáciu periférií, až po koncepcie rôznych architektúr. Prakticky zvládne metodiku návrhu základných stavebných číslicových obvodov, opis hardvéru pomocou jazyka VHDL, ich simuláciu a fyzickú implementáciu s využitím moderných CAE nástrojov a programovateľnej logiky (FPGA). Získané znalosti o komponentoch počítačových systémov, ich činností a algoritmoch používaných pri spracovaní, uchovávaní a prenášaní dát, bude študent schopný uplatniť v praktickej sfére ako aj v teoretickej oblasti informatiky.\n\nStručná osnova predmetu:\n1. Úvod do návrhu hardvéru: Základný koncept elektronických obvodov.\n2. Stavebné prvky číslicových počítačov\n3. Princípy a základné koncepcie počítačových systémov\n4. Počítačová aritmetika a algoritmy\n5. Programovateľná logika (FPGA)\n6. Úvod do jazyka VHDL\n7. Inštrukčne orientovaná architektúra\n8. Centrálna procesorová jednotka a prúdové spracovanie\n9. Pamäťový podsystém\n10. Vonkajšie komunikácie procesora a riadenie vstupno-výstupných operácií\n11. Klasifikácia počítačových systémov\n12. Trendy vo vývoji počítačových architektúr pre vstavané systémy,\n13. Trendy vo vývoji počítačových architektúr, polovodičové technológie, SoC, Chiplet\n\n\nOdporúčaná literatúra:\n1. William Stallings - Computer Organization and Architecture (12th Edition), 2022\n2. Patterson, D. – Hennessy, J., Computer Organization and Design: The Hardware/Software Interface, Morgan Kaufmann Publishers, 2013\n3. Hennessy, J. – Patterson, D., Computer Architecture: A Quantitative Approach, Morgan Kaufmann Publishers, 2011\n4. Jelšina, M., Architektúry počítačových systémov: princípy, štruktúrna organizácia, funkcia. Elfa, Košice, 2002\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1065\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n2%\n11%\n22%\n28%\n35%\n\n\nZabezpečuje:\nprof. Ing. Pavol Galajda, CSc.\nprof. Ing. Miloš Drutarovský, CSc.\nIng. Miroslav Sokol, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65959998",
+  "code": "2607721",
+  "name": "Elektrotechnická spôsobilosť",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65959998",
+  "fetched_at": "2026-11-17T15:12:57Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2607721"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektrotechnická spôsobilosť"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13/LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "1"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nElektroenergetika (EE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPísomná previerka a zadania. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca z písomnej a ústnej časti. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa rozšírené vedomosti z oblasti bezpečnostných predpisov týkajúcich sa elektrických inštalácii v občianskej výstavbe. Oboznámi sa so zásadami ochrany pred Zásahom elektrickým prúdom, požiadavkami na elektrickú inštaláciu z hľadiska ochrany pred požiarom, s predpismi pre bezpečnú prácu na elektrických zariadeniach a zásadami poskytovania prvej pomoci pri zásahu elektrickým prúdom."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Prehľad najdôležitejších technických predpisov a noriem pre prax elektrotechnika - vyhláška MPSVaRSR č. 508/2009 Z.z.\n2. Rozdelenie ochrán pred zásahom el. prúdom na elektrických inštaláciách a pri obsluhe elektrických zariadení do 1000V v striedavých a 1500V jednosmerných.\n3.Základná ochrana (ochrana pred priamym dotykom).\n4. Ochrana pri poruche (ochranu pred nepriamym dotykom).\n5. Bezpečnostné tabuľky, predpisy pre farby návestných a ovládacích tlačidiel, označenie vodičov, svoriek.\n6. Ochrana objektov pred účinkami atmosférickej elektriny.\n7. Uzemnenie, zásady uzemnenia, spájanie rôznych uzemnení.\n8. Revízie elektrických zariadení.\n9. Fyziologické účinky el. prúdu na ľudský organizmus. Prvá pomoc pri úrazoch elektrinou."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Meravý, J.: Elektrotechnická spôsobilosť pre elektrikárov, vyd. - Ing. Ján Meravý – Lightning, 2023, 400 s., ISBN 978-80-895-7611-1\n\nIlenin, S., Pavlík, M.: Bezpečnosť práce na elektrických zariadeniach, 1. vyd. - Košice : Technická univerzita v Košiciach - 2018. - 91 s.. - ISBN 978-80-553-2716-7.\n\nSTN 33 2000-4-41: Ochrana pred úrazom elektrickým prúdom, 2000\n\nSTN 33 2000-3: Stanovenie základných charakteristík, 2000\n\nSTN EN 62305: Ochrana pred bleskom"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "prednášky: 20 hodín, numerické cvičenia: 10 hodín, laboratórne cvičenia: 10 hodín, príprava na písomnú prácu: 4 hodiny, príprava na skúšku: 16 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 310\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n28%\n30%\n24%\n9%\n2%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ľubomír Beňa, PhD.\ndoc. Ing. Marek Pavlík, PhD., MBA"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 1,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 310,
+    "percent": {
+      "A": 28,
+      "B": 30,
+      "C": 24,
+      "D": 9,
+      "E": 2,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ľubomír Beňa, PhD.",
+    "doc. Ing. Marek Pavlík, PhD., MBA"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2607721\nNázov predmetu: Elektrotechnická spôsobilosť\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13/LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 1\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nElektroenergetika (EE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPísomná previerka a zadania. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca z písomnej a ústnej časti. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa rozšírené vedomosti z oblasti bezpečnostných predpisov týkajúcich sa elektrických inštalácii v občianskej výstavbe. Oboznámi sa so zásadami ochrany pred Zásahom elektrickým prúdom, požiadavkami na elektrickú inštaláciu z hľadiska ochrany pred požiarom, s predpismi pre bezpečnú prácu na elektrických zariadeniach a zásadami poskytovania prvej pomoci pri zásahu elektrickým prúdom.\n\nStručná osnova predmetu:\n1. Prehľad najdôležitejších technických predpisov a noriem pre prax elektrotechnika - vyhláška MPSVaRSR č. 508/2009 Z.z.\n2. Rozdelenie ochrán pred zásahom el. prúdom na elektrických inštaláciách a pri obsluhe elektrických zariadení do 1000V v striedavých a 1500V jednosmerných.\n3.Základná ochrana (ochrana pred priamym dotykom).\n4. Ochrana pri poruche (ochranu pred nepriamym dotykom).\n5. Bezpečnostné tabuľky, predpisy pre farby návestných a ovládacích tlačidiel, označenie vodičov, svoriek.\n6. Ochrana objektov pred účinkami atmosférickej elektriny.\n7. Uzemnenie, zásady uzemnenia, spájanie rôznych uzemnení.\n8. Revízie elektrických zariadení.\n9. Fyziologické účinky el. prúdu na ľudský organizmus. Prvá pomoc pri úrazoch elektrinou.\n\n\nOdporúčaná literatúra:\nMeravý, J.: Elektrotechnická spôsobilosť pre elektrikárov, vyd. - Ing. Ján Meravý – Lightning, 2023, 400 s., ISBN 978-80-895-7611-1\n\nIlenin, S., Pavlík, M.: Bezpečnosť práce na elektrických zariadeniach, 1. vyd. - Košice : Technická univerzita v Košiciach - 2018. - 91 s.. - ISBN 978-80-553-2716-7.\n\nSTN 33 2000-4-41: Ochrana pred úrazom elektrickým prúdom, 2000\n\nSTN 33 2000-3: Stanovenie základných charakteristík, 2000\n\nSTN EN 62305: Ochrana pred bleskom\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: prednášky: 20 hodín, numerické cvičenia: 10 hodín, laboratórne cvičenia: 10 hodín, príprava na písomnú prácu: 4 hodiny, príprava na skúšku: 16 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 310\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n28%\n30%\n24%\n9%\n2%\n7%\n\n\nZabezpečuje:\ndoc. Ing. Ľubomír Beňa, PhD.\ndoc. Ing. Marek Pavlík, PhD., MBA\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

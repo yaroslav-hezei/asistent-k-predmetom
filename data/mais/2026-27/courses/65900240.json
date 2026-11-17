@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65900240",
+  "code": "35000073",
+  "name": "Elektronické obchodovanie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65900240",
+  "fetched_at": "2026-11-17T15:05:32Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Ekonomická fakulta"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra bankovníctva a investovania"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "35000073"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektronické obchodovanie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra bude realizovaná jedna simulačná nákupná hra (15b) a jedno semestrálne zadanie (25b). Pre udelenie zápočtu je nutné získať zo simulačnej hry a zadania min. 21 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečná skúška je formou testu za 60bodov. Zo záverečného testu je nutné získať aspoň 31 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Zlepšenie povedomia a znalostí vo využívaní informačných a komunikačných technológií pri obchodovaní a podnikaní. Získať prehľad o vzorových praktikách. Rozvoj manažérskych zručnosti a schopnosti v oblasti riadenia projektov zavádzania informačných technológií za účelom zefektívnenia obchodných procesov, hlavne pri efektívnom riadení výdavkov a marketingu. Získanie praktických zručnosti s využívaním softvérových aplikácií pri elektronickom obstarávaní, sieťovaní a efektívnom riadení výdavkov v dodávateľských reťazcoch. Prenos nových znalostí do praxe."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. P: Digitalizácia v priemysle a spoločnosti. Vývoj a princípy..\n2. P: Trendy v digitalizácii. Príklady. Prínosy a riziká.\n3. P: Základné modely elektronického obchodovania. Výhody, dopady a bariéry elektronického obchodovania.\n4. P: Amazon: prípadová štúdia, Personalizačné stratégie. B2C model. Riadenie e-shopu.\n5. P: Digitisation in B2B, B2B model, digitalizácia riadenia výdavkov, inovácie v riadení dodávateľského reťazca, e-obstarávanie\n6. P: Transakčné mechanizmy v B2B – elektronické katalógy, aukcie, RFP/Q, burzové systémy.\n7. P: Vertikálne a horizontálne elektronické trhy.\n8. P: Budovanie dôvery v elektronickom obchode.\n9. P: Internet marketing.\n10. P: Elektronické platobné systémy.\n11. P: Prípadové štúdie využívania IKT a ekonomických dopadov.\n12. P: Prednášky z praxe.\n13. P: Prednášky z praxe.\n\nCvičenia:\nC1: Úvod do kurzu\nC2: Úvod do problematiky elektronického obchodu so zameraním sa na efektívne elektronické obstarávanie.\nC3: Predstavenie konceptu elektronických aukcií a ich úlohy pri efektívnom obstarávaní v rámci súkromného a verejného sektora. Best case príklady použitia elektronických aukcií.\nC4: Predstavenie nástroja pre vytvorenie modelových príkladov elektronických aukcií. Vytvorenie študentských tímov ako podnikateľských subjektov. Vytvorenie modelovej simulovanej hry pre aplikáciu princípu uzatvoreného tendra.\nC5: Vytvorenie modelovej situácie netransparentnej elektronickej aukcie využitím aukčného nástroja.\nC6: Predstavenie a definovanie obmedzení príslušnej aukcie, uskutočnenie simulovanej aukcie za účasti študentských tímov. Vyhodnotenie a diskusia.\nC7: Vytvorenie modelovej situácie elektronickej aukcie s rôznymi úrovňami transparentnosti v aukčných kolách využitím aukčného nástroja.\nC8: Predstavenie a definovanie obmedzení príslušnej aukcie, uskutočnenie simulovanej aukcie za účasti študentských tímov. Vyhodnotenie a diskusia.\nC9: Vytvorenie modelových situácií elektronických aukcií špeciálnych typov (Holland, Nippon, Dutch, ..) využitím aukčného nástroja.\nC10: Uskutočnenie simulovaných aukcií za účasti študentských tímov. Vyhodnotenie a diskusia.\nC11: Prezentácia modelovej situácie aukcie Yankee využitím aukčného nástroja.\nC12: Uskutočnenie simulovaných aukcií za účasti študentských tímov. Vyhodnotenie možného korupčného a kartelového správania sa študentských tímov a diskusia."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Delina, R., Vajda, V. (2008). Teória a prax elektronického obchodovania. Grafotlač Prešov, s.r.o. 2008. 170 s. ISBN: 978-80-969953-3-2\n• Radoslav Delina, Viliam Vajda, Peter Bednár (2007). Trusted operational scenarios. Kranj : Moderna organizacija, 2007. 78 p. ISBN 978-961-232-205-2. Spôsob prístupu: http://www.seamless-eu.org/deliverables/TrustedOperationalScenarios.pdf.\n• Internetové zdroje\n• Svetové časopisecké databázy"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 626\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n27%\n35%\n23%\n10%\n1%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Radoslav Delina, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra bankovníctva a investovania",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 626,
+    "percent": {
+      "A": 27,
+      "B": 35,
+      "C": 23,
+      "D": 10,
+      "E": 1,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "prof. Ing. Radoslav Delina, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Ekonomická fakulta\n\nPracovisko: Katedra bankovníctva a investovania\n\n\nKód predmetu: 35000073\nNázov predmetu: Elektronické obchodovanie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra bude realizovaná jedna simulačná nákupná hra (15b) a jedno semestrálne zadanie (25b). Pre udelenie zápočtu je nutné získať zo simulačnej hry a zadania min. 21 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečná skúška je formou testu za 60bodov. Zo záverečného testu je nutné získať aspoň 31 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZlepšenie povedomia a znalostí vo využívaní informačných a komunikačných technológií pri obchodovaní a podnikaní. Získať prehľad o vzorových praktikách. Rozvoj manažérskych zručnosti a schopnosti v oblasti riadenia projektov zavádzania informačných technológií za účelom zefektívnenia obchodných procesov, hlavne pri efektívnom riadení výdavkov a marketingu. Získanie praktických zručnosti s využívaním softvérových aplikácií pri elektronickom obstarávaní, sieťovaní a efektívnom riadení výdavkov v dodávateľských reťazcoch. Prenos nových znalostí do praxe.\n\nStručná osnova predmetu:\n1. P: Digitalizácia v priemysle a spoločnosti. Vývoj a princípy..\n2. P: Trendy v digitalizácii. Príklady. Prínosy a riziká.\n3. P: Základné modely elektronického obchodovania. Výhody, dopady a bariéry elektronického obchodovania.\n4. P: Amazon: prípadová štúdia, Personalizačné stratégie. B2C model. Riadenie e-shopu.\n5. P: Digitisation in B2B, B2B model, digitalizácia riadenia výdavkov, inovácie v riadení dodávateľského reťazca, e-obstarávanie\n6. P: Transakčné mechanizmy v B2B – elektronické katalógy, aukcie, RFP/Q, burzové systémy.\n7. P: Vertikálne a horizontálne elektronické trhy.\n8. P: Budovanie dôvery v elektronickom obchode.\n9. P: Internet marketing.\n10. P: Elektronické platobné systémy.\n11. P: Prípadové štúdie využívania IKT a ekonomických dopadov.\n12. P: Prednášky z praxe.\n13. P: Prednášky z praxe.\n\nCvičenia:\nC1: Úvod do kurzu\nC2: Úvod do problematiky elektronického obchodu so zameraním sa na efektívne elektronické obstarávanie.\nC3: Predstavenie konceptu elektronických aukcií a ich úlohy pri efektívnom obstarávaní v rámci súkromného a verejného sektora. Best case príklady použitia elektronických aukcií.\nC4: Predstavenie nástroja pre vytvorenie modelových príkladov elektronických aukcií. Vytvorenie študentských tímov ako podnikateľských subjektov. Vytvorenie modelovej simulovanej hry pre aplikáciu princípu uzatvoreného tendra.\nC5: Vytvorenie modelovej situácie netransparentnej elektronickej aukcie využitím aukčného nástroja.\nC6: Predstavenie a definovanie obmedzení príslušnej aukcie, uskutočnenie simulovanej aukcie za účasti študentských tímov. Vyhodnotenie a diskusia.\nC7: Vytvorenie modelovej situácie elektronickej aukcie s rôznymi úrovňami transparentnosti v aukčných kolách využitím aukčného nástroja.\nC8: Predstavenie a definovanie obmedzení príslušnej aukcie, uskutočnenie simulovanej aukcie za účasti študentských tímov. Vyhodnotenie a diskusia.\nC9: Vytvorenie modelových situácií elektronických aukcií špeciálnych typov (Holland, Nippon, Dutch, ..) využitím aukčného nástroja.\nC10: Uskutočnenie simulovaných aukcií za účasti študentských tímov. Vyhodnotenie a diskusia.\nC11: Prezentácia modelovej situácie aukcie Yankee využitím aukčného nástroja.\nC12: Uskutočnenie simulovaných aukcií za účasti študentských tímov. Vyhodnotenie možného korupčného a kartelového správania sa študentských tímov a diskusia.\n\nOdporúčaná literatúra:\n• Delina, R., Vajda, V. (2008). Teória a prax elektronického obchodovania. Grafotlač Prešov, s.r.o. 2008. 170 s. ISBN: 978-80-969953-3-2\n• Radoslav Delina, Viliam Vajda, Peter Bednár (2007). Trusted operational scenarios. Kranj : Moderna organizacija, 2007. 78 p. ISBN 978-961-232-205-2. Spôsob prístupu: http://www.seamless-eu.org/deliverables/TrustedOperationalScenarios.pdf.\n• Internetové zdroje\n• Svetové časopisecké databázy\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 626\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n27%\n35%\n23%\n10%\n1%\n4%\n\n\nZabezpečuje:\nprof. Ing. Radoslav Delina, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65952058",
+  "code": "26001030",
+  "name": "CCNA Security",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952058",
+  "fetched_at": "2026-11-17T15:09:00Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001030"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "CCNA Security"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26001026 - Bezpečnosť počítačových sietí"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npraktická konfigurácia, 40% záverečného hodnotenia"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n60% ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi so základmi sieťovej bezpečnosti z pohľadu vysvetlenia základných pojmov, konceptov a prístupov k zabezpečeniu sieťových zariadení. Naučí sa konfigurovať prostredníctvom simulátora Cisco Packet Tracer a laboratórnych sieťových zariadení rôzne reálne využiteľné scenáre, ktorých výsledkom je vyšší stupeň zabezpečenia siete voči útokom. Získa základný pohľad na šifrovanie hesiel, kryptografiu a implementáciu technológií ako sú AAA, L2 bezpečnosť, VPN a konfiguráciu ASA. Tento predmet je zároveň parciálnou prípravou pre získanie priemyselnej certifikácie Cisco CBROPS 200-201 resp. CCNA 200-301.\nŠtudent má pri štúdiu k dispozícií vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom LMS systému (https://netacad.com)."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Zabezpečenie siete / Hrozby v sieti.\n2. Zmiernenie útokov / Bezpečný prístup na zariadenie.\n3. Administratívne roly / Monitorovanie a správa sieťového zariadenia.\n4. Koncepty AAA.\n5. Problematika prístupových zoznamov.\n6. Firewall / ZPF / IPS technológie.\n7. Zabezpečenie koncových zariadení a linkovej vrstvy.\n8. Kryptografia / Virtuálne privátne siete.\n9. ASA.\n10. Hlbší pohľad na vybrané témy z bezpečnosti v sieťach."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Networking Academy Program (NetAcad, Cisco): Network Security, https://netacad.com.\n2. Singh D. G., Vinod M., Anandh V.: CCNA Security 210-260 Certification Guide. Packt Publishing. 2018. ISBN: 1787128873.\n3. Santos, O.: Cisco CyberOps Associate CBROPS 200-201 Official Cert Guide Premium Edition and Practice Test. 2020. 9780136917649.\n4. McMillan T.: CCNA Security Study Guide: Exam 210-260. Sybex. 2018. ISBN: 9781119409939.\n5. Santos O.: CCNA Security 210-260. Cisco Press, 2015, ISBN: 9781587205668.\n6. Watkins M., Wallace K.: CCNA Security Official Exam Certification Guide. Cisco Press (2008). ISBN: 9781587202209.\n7. Barker C.: CCNA Security 640-554. Cisco Press, 2012. ISBN: 9781587204463.\n8. Northcutt S.: Bezpečnost počítačových sítí. Computer Press. 2005. ISBN: 9788025106976."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 103\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n43%\n23%\n20%\n9%\n4%\n1%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Martin Chovanec, PhD.\ndoc. Ing. Miroslav Michalko, PhD.\nIng. Ondrej Kainz, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 103,
+    "percent": {
+      "A": 43,
+      "B": 23,
+      "C": 20,
+      "D": 9,
+      "E": 4,
+      "FX": 1
+    }
+  },
+  "teachers": [
+    "doc. Ing. Martin Chovanec, PhD.",
+    "doc. Ing. Miroslav Michalko, PhD.",
+    "Ing. Ondrej Kainz, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001030\nNázov predmetu: CCNA Security\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety: 26001026 - Bezpečnosť počítačových sietí\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npraktická konfigurácia, 40% záverečného hodnotenia\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n60% ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi so základmi sieťovej bezpečnosti z pohľadu vysvetlenia základných pojmov, konceptov a prístupov k zabezpečeniu sieťových zariadení. Naučí sa konfigurovať prostredníctvom simulátora Cisco Packet Tracer a laboratórnych sieťových zariadení rôzne reálne využiteľné scenáre, ktorých výsledkom je vyšší stupeň zabezpečenia siete voči útokom. Získa základný pohľad na šifrovanie hesiel, kryptografiu a implementáciu technológií ako sú AAA, L2 bezpečnosť, VPN a konfiguráciu ASA. Tento predmet je zároveň parciálnou prípravou pre získanie priemyselnej certifikácie Cisco CBROPS 200-201 resp. CCNA 200-301.\nŠtudent má pri štúdiu k dispozícií vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom LMS systému (https://netacad.com).\n\nStručná osnova predmetu:\n1. Zabezpečenie siete / Hrozby v sieti.\n2. Zmiernenie útokov / Bezpečný prístup na zariadenie.\n3. Administratívne roly / Monitorovanie a správa sieťového zariadenia.\n4. Koncepty AAA.\n5. Problematika prístupových zoznamov.\n6. Firewall / ZPF / IPS technológie.\n7. Zabezpečenie koncových zariadení a linkovej vrstvy.\n8. Kryptografia / Virtuálne privátne siete.\n9. ASA.\n10. Hlbší pohľad na vybrané témy z bezpečnosti v sieťach.\n\nOdporúčaná literatúra:\n1. Networking Academy Program (NetAcad, Cisco): Network Security, https://netacad.com.\n2. Singh D. G., Vinod M., Anandh V.: CCNA Security 210-260 Certification Guide. Packt Publishing. 2018. ISBN: 1787128873.\n3. Santos, O.: Cisco CyberOps Associate CBROPS 200-201 Official Cert Guide Premium Edition and Practice Test. 2020. 9780136917649.\n4. McMillan T.: CCNA Security Study Guide: Exam 210-260. Sybex. 2018. ISBN: 9781119409939.\n5. Santos O.: CCNA Security 210-260. Cisco Press, 2015, ISBN: 9781587205668.\n6. Watkins M., Wallace K.: CCNA Security Official Exam Certification Guide. Cisco Press (2008). ISBN: 9781587202209.\n7. Barker C.: CCNA Security 640-554. Cisco Press, 2012. ISBN: 9781587204463.\n8. Northcutt S.: Bezpečnost počítačových sítí. Computer Press. 2005. ISBN: 9788025106976.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 103\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n43%\n23%\n20%\n9%\n4%\n1%\n\n\nZabezpečuje:\ndoc. Ing. Martin Chovanec, PhD.\ndoc. Ing. Miroslav Michalko, PhD.\nIng. Ondrej Kainz, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

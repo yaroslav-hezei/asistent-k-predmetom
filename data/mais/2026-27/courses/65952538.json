@@ -1,0 +1,195 @@
+{
+  "predmet_id": "65952538",
+  "code": "26000651",
+  "name": "Evolúcia softvérových systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952538",
+  "fetched_at": "2026-11-17T15:09:34Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000651"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Evolúcia softvérových systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi s postimplementačnými fázami vývoja softvéru (testovanie, údržba) a bude rozumieť zastarávaniu softvéru a softvérovej evolúcii."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Softvérové procesy,evolúcia a zastaranie softvéru\n2. Pochopenie softvéru pre potreby zmien\n3. Meranie a ostatné indikátory evolúcie softvéru\n4. Testovanie softvéru\n5. Profilovanie softvéru\n6. Spätná väzba a zmeny v softvéri\n7. Refaktorizácia a vzory refaktorizácie\n8. Prerábanie softvéru (re-engineering) a vzory prerábania\n9. Testovanie softvéru v úlohe prípravy a overenia refaktorizácie/prerábky\n10. Akceptačné testovanie, význam a techniky FAT, SAT\n11. Nasadenie a príprava na údržbu softvéru\n12. Automatizácia procesov vývoja a evolúcie softvéru"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. SZABÓ, Csaba (2025). Evolúcia softvérových systémov. Kurz v LMS Moodle. Online. 2025. Dostupné na internete: https://moodle.fei.tuke.sk/course/view.php?id=84 [citované 2025-02-04]\n2. SAMUELIS, Ladislav a kol. (2012). Software Engineering Fundamentals: Measuring, Comprehending, and Managing Your Software Projects. Košice: TU v Košiciach, 2012. 208 s. ISBN 978-80-553-0848-7.\n3. SAMUELIS, Ladislav a kol. (2013). Software Testing Fundamentals: Introduction to Software Verification Theory. Košice: TU v Košiciach. 2013. 148 s. ISBN 978-80-553-1282-8.\n4. SZABÓ, Csaba (2015). Evolúcia softvérových procesov . Košice : TU v Košiciach. 2015. 48 s. ISBN 978-80-553-2000-7."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1616\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n32%\n25%\n11%\n3%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Csaba Szabó, PhD.\nIng. Mgr. Daniel Šolc\nIng. Filip Šajna\nIng. Matúš Sulír, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1616,
+    "percent": {
+      "A": 22,
+      "B": 32,
+      "C": 25,
+      "D": 11,
+      "E": 3,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "doc. Ing. Csaba Szabó, PhD.",
+    "Ing. Mgr. Daniel Šolc",
+    "Ing. Filip Šajna",
+    "Ing. Matúš Sulír, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000651\nNázov predmetu: Evolúcia softvérových systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi s postimplementačnými fázami vývoja softvéru (testovanie, údržba) a bude rozumieť zastarávaniu softvéru a softvérovej evolúcii.\n\nStručná osnova predmetu:\n1. Softvérové procesy,evolúcia a zastaranie softvéru\n2. Pochopenie softvéru pre potreby zmien\n3. Meranie a ostatné indikátory evolúcie softvéru\n4. Testovanie softvéru\n5. Profilovanie softvéru\n6. Spätná väzba a zmeny v softvéri\n7. Refaktorizácia a vzory refaktorizácie\n8. Prerábanie softvéru (re-engineering) a vzory prerábania\n9. Testovanie softvéru v úlohe prípravy a overenia refaktorizácie/prerábky\n10. Akceptačné testovanie, význam a techniky FAT, SAT\n11. Nasadenie a príprava na údržbu softvéru\n12. Automatizácia procesov vývoja a evolúcie softvéru\n\nOdporúčaná literatúra:\n1. SZABÓ, Csaba (2025). Evolúcia softvérových systémov. Kurz v LMS Moodle. Online. 2025. Dostupné na internete: https://moodle.fei.tuke.sk/course/view.php?id=84 [citované 2025-02-04]\n2. SAMUELIS, Ladislav a kol. (2012). Software Engineering Fundamentals: Measuring, Comprehending, and Managing Your Software Projects. Košice: TU v Košiciach, 2012. 208 s. ISBN 978-80-553-0848-7.\n3. SAMUELIS, Ladislav a kol. (2013). Software Testing Fundamentals: Introduction to Software Verification Theory. Košice: TU v Košiciach. 2013. 148 s. ISBN 978-80-553-1282-8.\n4. SZABÓ, Csaba (2015). Evolúcia softvérových procesov . Košice : TU v Košiciach. 2015. 48 s. ISBN 978-80-553-2000-7.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1616\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n32%\n25%\n11%\n3%\n7%\n\n\nZabezpečuje:\ndoc. Ing. Csaba Szabó, PhD.\nIng. Mgr. Daniel Šolc\nIng. Filip Šajna\nIng. Matúš Sulír, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

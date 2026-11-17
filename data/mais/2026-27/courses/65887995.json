@@ -1,0 +1,172 @@
+{
+  "predmet_id": "65887995",
+  "code": "26000853",
+  "name": "Algoritmizácia v Pythone",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65887995",
+  "fetched_at": "2026-11-17T15:03:30Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000853"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Algoritmizácia v Pythone"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,0,2,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent pochopí a aplikuje základné konštrukcie a paradigmy jazyka Python vrátane objektovo orientovaného a štruktúrovaného programovania. Bude schopný analyzovať a navrhnúť výpočtovo a pamäťovo efektívne algoritmy. Študent preukáže schopnosť implementovať a nasadiť asynchrónne a distribuované aplikácie s využitím umelej inteligencie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do jazyka Python\n2. Objektovo orientované programovanie\n3. Funkcionálne a štruktúrované programovanie\n4. Zložitosť algoritmov.\n5. Zásobník.\n6. Grafové algoritmy\n7. Kompresné algoritmy\n8. Dynamické programovanie\n9. Distribuované programovanie\n10. Asynchrónne programovanie\n11. Automatizácia infraštruktúry a kontinuálne nasadenie aplikácie\n12. Základy umelej inteligencie v jazyku Python"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Pecinovský, R. (2025). Python 3.14: Algoritmické konstrukce (1st ed.). Grada. ISBN-13: 978-80-271-6061-7.\n2. Pecinovský, R. (2024). Začínáme programovat v jazyku Python. Grada. ISBN-13: 978-80-271-5467-8\n3. Agarwal, B., & Baka, B. (2022). Hands-On Data Structures and Algorithms with Python (2nd ed.). Packt Publishing. ISBN-13: 978-1-80107-681-4.\n4. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). Introduction to Algorithms (4th ed.). MIT Press. ISBN-13: 978-0-262-04630-5.\n5. Felleisen, M., Findler, R. B., Flatt, M., & Krishnamurthi, S. (2018). How to Design Programs (2nd ed.). MIT Press. ISBN-13: 978-0-262-53317-8\n6. Hunt, J. (2023). A beginner’s guide to Python 3 programming (2nd ed.). Springer Nature Switzerland AG. ISBN-13: 978-3-031-35121-1"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1119\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n17%\n17%\n15%\n16%\n20%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Daniel Hládek, PhD.\nIng. Renát Haluška, PhD.\nIng. Matej Gazda, PhD.\nIng. Kristián Sopkovič\nIng. Matúš Čavojský"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1119,
+    "percent": {
+      "A": 16,
+      "B": 17,
+      "C": 17,
+      "D": 15,
+      "E": 16,
+      "FX": 20
+    }
+  },
+  "teachers": [
+    "doc. Ing. Daniel Hládek, PhD.",
+    "Ing. Renát Haluška, PhD.",
+    "Ing. Matej Gazda, PhD.",
+    "Ing. Kristián Sopkovič",
+    "Ing. Matúš Čavojský"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000853\nNázov predmetu: Algoritmizácia v Pythone\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,0,2,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent pochopí a aplikuje základné konštrukcie a paradigmy jazyka Python vrátane objektovo orientovaného a štruktúrovaného programovania. Bude schopný analyzovať a navrhnúť výpočtovo a pamäťovo efektívne algoritmy. Študent preukáže schopnosť implementovať a nasadiť asynchrónne a distribuované aplikácie s využitím umelej inteligencie.\n\nStručná osnova predmetu:\n1. Úvod do jazyka Python\n2. Objektovo orientované programovanie\n3. Funkcionálne a štruktúrované programovanie\n4. Zložitosť algoritmov.\n5. Zásobník.\n6. Grafové algoritmy\n7. Kompresné algoritmy\n8. Dynamické programovanie\n9. Distribuované programovanie\n10. Asynchrónne programovanie\n11. Automatizácia infraštruktúry a kontinuálne nasadenie aplikácie\n12. Základy umelej inteligencie v jazyku Python\n\n\nOdporúčaná literatúra:\n1. Pecinovský, R. (2025). Python 3.14: Algoritmické konstrukce (1st ed.). Grada. ISBN-13: 978-80-271-6061-7.\n2. Pecinovský, R. (2024). Začínáme programovat v jazyku Python. Grada. ISBN-13: 978-80-271-5467-8\n3. Agarwal, B., & Baka, B. (2022). Hands-On Data Structures and Algorithms with Python (2nd ed.). Packt Publishing. ISBN-13: 978-1-80107-681-4.\n4. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). Introduction to Algorithms (4th ed.). MIT Press. ISBN-13: 978-0-262-04630-5.\n5. Felleisen, M., Findler, R. B., Flatt, M., & Krishnamurthi, S. (2018). How to Design Programs (2nd ed.). MIT Press. ISBN-13: 978-0-262-53317-8\n6. Hunt, J. (2023). A beginner’s guide to Python 3 programming (2nd ed.). Springer Nature Switzerland AG. ISBN-13: 978-3-031-35121-1\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1119\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n17%\n17%\n15%\n16%\n20%\n\n\nZabezpečuje:\ndoc. Ing. Daniel Hládek, PhD.\nIng. Renát Haluška, PhD.\nIng. Matej Gazda, PhD.\nIng. Kristián Sopkovič\nIng. Matúš Čavojský\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

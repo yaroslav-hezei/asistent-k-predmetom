@@ -1,0 +1,171 @@
+{
+  "predmet_id": "65908329",
+  "code": "26001040",
+  "name": "Riadenie priemyselných systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908329",
+  "fetched_at": "2026-11-17T15:06:25Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001040"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Riadenie priemyselných systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú dve praktické zadania po 20 bodov. Ak študent získa zo zadania menej ako 11 bodov, absolvuje opravné zadanie. Študent získa zápočet, ak súčet bodov za obidve zadania bude >=21."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov: 30 bodov písomná skúška a 30 bodov ústna skúška. Študentovi nebude udelená skúška, ak nezíska v záverečnom hodnotení aspoň 31 bodov, aj keď súčet bodov za priebežné a záverečné hodnotenie bude >= 51."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti sa naučia funkcie základných prvkov automatizovaných systémov, budú vedieť analyticky popísať spojitý dynamický systém, naučia sa analyzovať vlastnosti systémov a uzavretých regulačných obvodov v časovej a frekvenčnej oblasti a budú vedieť navrhovať a realizovať základné riadiace obvody spojitých a diskrétnych elektromechanických systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Základné pojmy z automatizácie a technickej kybernetiky. Fyzikálne základy automatizácie. Typické riadiace štruktúry. Prvky automatizovaných systémov a ich funkcie - meracie členy, ústredné členy, akčné členy.\n- Matematické modelovanie systémov, metódy modelovania, bloková algebra. Matematické popisy spojitých dynamických sústav, diskrétnych systémov a booleovských systémov.\n- Identifikácia spojitých a diskrétnych dynamických systémov.\n- Analýza dynamických lineárnych systémov v komplexnej rovine, vo frekvenčných charakteristikách, pomocou pólov a núl prenosu.\n- Syntéza systémov automatického riadenia. Typy, návrh, charakteristiky a použitie najčastejšie používaných regulačných štruktúr s rôznym stupňom voľnosti.\n- Metódy návrhu spojitých a diskrétnych PID regulátorov. Vyšetrovanie vlastností uzavretých regulačných obvodov v časovej a frekvenčnej oblasti. Modálne riadenie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] M. Balda, B. Hanuš, et al., Základy technickej kybernetiky, Prague, Czech Republic: SNTL: Alfa, 1986, p. 352. ISBN 8688073992986.\n[2] V. Kalaš, L. Jurišica, and M. Žalman, Technická kybernetika elektrických pohonov, Bratislava, Slovakia: Alfa, 1978, p. 390. ISBN 978-80-8086-053-0.\n[3] P. Fedor and D. Perduková, Automatizácia priemyselných systémov [CD-ROM], Košice, Slovakia: Technická univerzita v Košiciach, 2012, p. 100. ISBN 978-80-553-1140-1.\n[4] D. Smith, Control Systems for Complete Idiots, USA: Beyondwhyy, 2019, p. 85. ISBN 1079384545.\n[5] T. L. M. Bartelt, Industrial Control Systems: Fundamentals, Design, and Applications, Hoboken, NJ, USA: John Wiley & Sons Inc., 2023, p. 154. ISBN 1119829259."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 493\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n8%\n10%\n13%\n12%\n52%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Daniela Perduková, PhD.\ndoc. Ing. Peter Girovský, PhD.\nprof. Ing. Pavol Fedor, PhD.\nIng. Ladislav Hric"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 493,
+    "percent": {
+      "A": 5,
+      "B": 8,
+      "C": 10,
+      "D": 13,
+      "E": 12,
+      "FX": 52
+    }
+  },
+  "teachers": [
+    "prof. Ing. Daniela Perduková, PhD.",
+    "doc. Ing. Peter Girovský, PhD.",
+    "prof. Ing. Pavol Fedor, PhD.",
+    "Ing. Ladislav Hric"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001040\nNázov predmetu: Riadenie priemyselných systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú dve praktické zadania po 20 bodov. Ak študent získa zo zadania menej ako 11 bodov, absolvuje opravné zadanie. Študent získa zápočet, ak súčet bodov za obidve zadania bude >=21.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov: 30 bodov písomná skúška a 30 bodov ústna skúška. Študentovi nebude udelená skúška, ak nezíska v záverečnom hodnotení aspoň 31 bodov, aj keď súčet bodov za priebežné a záverečné hodnotenie bude >= 51.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti sa naučia funkcie základných prvkov automatizovaných systémov, budú vedieť analyticky popísať spojitý dynamický systém, naučia sa analyzovať vlastnosti systémov a uzavretých regulačných obvodov v časovej a frekvenčnej oblasti a budú vedieť navrhovať a realizovať základné riadiace obvody spojitých a diskrétnych elektromechanických systémov.\n\nStručná osnova predmetu:\n- Základné pojmy z automatizácie a technickej kybernetiky. Fyzikálne základy automatizácie. Typické riadiace štruktúry. Prvky automatizovaných systémov a ich funkcie - meracie členy, ústredné členy, akčné členy.\n- Matematické modelovanie systémov, metódy modelovania, bloková algebra. Matematické popisy spojitých dynamických sústav, diskrétnych systémov a booleovských systémov.\n- Identifikácia spojitých a diskrétnych dynamických systémov.\n- Analýza dynamických lineárnych systémov v komplexnej rovine, vo frekvenčných charakteristikách, pomocou pólov a núl prenosu.\n- Syntéza systémov automatického riadenia. Typy, návrh, charakteristiky a použitie najčastejšie používaných regulačných štruktúr s rôznym stupňom voľnosti.\n- Metódy návrhu spojitých a diskrétnych PID regulátorov. Vyšetrovanie vlastností uzavretých regulačných obvodov v časovej a frekvenčnej oblasti. Modálne riadenie.\n\nOdporúčaná literatúra:\n[1] M. Balda, B. Hanuš, et al., Základy technickej kybernetiky, Prague, Czech Republic: SNTL: Alfa, 1986, p. 352. ISBN 8688073992986.\n[2] V. Kalaš, L. Jurišica, and M. Žalman, Technická kybernetika elektrických pohonov, Bratislava, Slovakia: Alfa, 1978, p. 390. ISBN 978-80-8086-053-0.\n[3] P. Fedor and D. Perduková, Automatizácia priemyselných systémov [CD-ROM], Košice, Slovakia: Technická univerzita v Košiciach, 2012, p. 100. ISBN 978-80-553-1140-1.\n[4] D. Smith, Control Systems for Complete Idiots, USA: Beyondwhyy, 2019, p. 85. ISBN 1079384545.\n[5] T. L. M. Bartelt, Industrial Control Systems: Fundamentals, Design, and Applications, Hoboken, NJ, USA: John Wiley & Sons Inc., 2023, p. 154. ISBN 1119829259.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 493\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n8%\n10%\n13%\n12%\n52%\n\n\nZabezpečuje:\nprof. Ing. Daniela Perduková, PhD.\ndoc. Ing. Peter Girovský, PhD.\nprof. Ing. Pavol Fedor, PhD.\nIng. Ladislav Hric\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

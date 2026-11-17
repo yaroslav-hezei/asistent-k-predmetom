@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65517240",
+  "code": "2611321",
+  "name": "Diferenčné rovnice a variačný počet",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517240",
+  "fetched_at": "2026-11-17T14:58:49Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2611321"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Diferenčné rovnice a variačný počet"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26,13/,26,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámiť študentov s najviac používanými metódami riešenia systémov diferenciálnych rovníc a diferenčných rovníc a základnými metódami variačného počtu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základy teórie systémov obyčajných diferenciálnych rovníc (DR).\n2. Základy teórie diferenčných rovníc.\n3. Asymptotické vlastnosti a stabilita riešení diferenciálnych a diferenčných rovníc.\n4. Aplikačné úlohy-DR, systémy DR, diferenčné rovnice a systémy diferenčných rovníc.\n5. Fázový portrét sústavy.\n6. Veta o prvom priblížení.\n7. Niektoré úlohy variačného počtu.\n8. Eulerove rovnice pre rôzne typy funkcionálov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Džurina, J. - Pirč, V.: Aplikovaná matematika. ELFA, ISBN 80-89-066-96-8, 2005.\n2. Pirč, V. : Vybrané kapitoly z matematiky, Edičné stredisko TU v Košiciach, Tlač: ZENIT PRESS Košice 1992 ISBN 80-7099-171-2.\n3. Pirč, V. - Haščák, A. - Ostertagová, E.: Vybrané kapitoly z matematiky, elfa Košice,1999.\nElektronická forma materiálov Katedry matematiky, FEI TU v Košiciach (v štádiu prípravy)."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 185\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n9%\n18%\n22%\n21%\n14%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. RNDr. Jozef Džurina, CSc.\ndoc. RNDr. Blanka Baculíková, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 185,
+    "percent": {
+      "A": 16,
+      "B": 9,
+      "C": 18,
+      "D": 22,
+      "E": 21,
+      "FX": 14
+    }
+  },
+  "teachers": [
+    "prof. RNDr. Jozef Džurina, CSc.",
+    "doc. RNDr. Blanka Baculíková, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2611321\nNázov predmetu: Diferenčné rovnice a variačný počet\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2,1\nExterná forma štúdia (hodiny za semester): ZS 26,26,13/,26,26,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámiť študentov s najviac používanými metódami riešenia systémov diferenciálnych rovníc a diferenčných rovníc a základnými metódami variačného počtu.\n\nStručná osnova predmetu:\n1. Základy teórie systémov obyčajných diferenciálnych rovníc (DR).\n2. Základy teórie diferenčných rovníc.\n3. Asymptotické vlastnosti a stabilita riešení diferenciálnych a diferenčných rovníc.\n4. Aplikačné úlohy-DR, systémy DR, diferenčné rovnice a systémy diferenčných rovníc.\n5. Fázový portrét sústavy.\n6. Veta o prvom priblížení.\n7. Niektoré úlohy variačného počtu.\n8. Eulerove rovnice pre rôzne typy funkcionálov.\n\nOdporúčaná literatúra:\n1. Džurina, J. - Pirč, V.: Aplikovaná matematika. ELFA, ISBN 80-89-066-96-8, 2005.\n2. Pirč, V. : Vybrané kapitoly z matematiky, Edičné stredisko TU v Košiciach, Tlač: ZENIT PRESS Košice 1992 ISBN 80-7099-171-2.\n3. Pirč, V. - Haščák, A. - Ostertagová, E.: Vybrané kapitoly z matematiky, elfa Košice,1999.\nElektronická forma materiálov Katedry matematiky, FEI TU v Košiciach (v štádiu prípravy).\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 185\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n9%\n18%\n22%\n21%\n14%\n\n\nZabezpečuje:\nprof. RNDr. Jozef Džurina, CSc.\ndoc. RNDr. Blanka Baculíková, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

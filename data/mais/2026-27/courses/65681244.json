@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65681244",
+  "code": "26001364",
+  "name": "Integrácia a nasadenie aplikácií UI",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65681244",
+  "fetched_at": "2026-11-17T15:01:30Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001364"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Integrácia a nasadenie aplikácií UI"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,1,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 13,13,26/LS 13,13,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nUmelá inteligencia (AI_Ing_join_D_en)\n2.\nPrezenčná\n\n\n2.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nV priebehu semestra študenti odovzdajú 2 zadania a absolvujú písomné previerky vedomostí."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet sa zameriava na princípy vývoja, testovania, nasadzovania a prevádzky softvérových aplikácií umelej inteligencie s dôrazom na kontinuálnu integráciu a nasadzovanie (CI/CD). Študenti sa oboznámia so základmi architektúr AI aplikácií, správou zdrojového kódu pomocou Git, tvorbou CI/CD pipeline v nástrojoch ako Jenkins či CircleCI, monitorovaním procesov strojového učenia (napr. MLflow), testovaním AI aplikácií, kontajnerizáciou pomocou Dockeru a automatizovanou konfiguráciou a nasadením aplikácií v cloudovom prostredí. Po absolvovaní predmetu bude študent schopný navrhovať, implementovať a nasadzovať moderné AI aplikácie v automatizovanom a škálovateľnom prostredí."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do problematiky kontinuálnej integrácie a nasadzovania softvérových aplikácií\n- Základy architektúr aplikácií umelej inteligencie\n- Manažovanie softvérového kódu (Git)\n- Kontinuálna integrácia (Jenkins, CircleCI, a pod.)\n- Monitorovanie procesov strojového učenia (MLflow, a pod.)\n- Testovanie aplikácií umelej inteligencie\n- Kontajnerizácia aplikácií (Docker)\n- Runtime prostredia pre modely strojového učenia (vLMM, ONNX, a pod.)"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "N. Poulton, Docker Deep Dive, 2017\nP. Duvall, S. Matyas, A. Glover, Continuous Integration. Addison-Wesley, 2007\nM. Kirk, Thoughtful Machine Learning. O’Reilly, 2014\nM. Richards, Software Architecture Patterns. O’Reilly, 2015"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: 50h\n- Účasť na prednáškach: 13 h\n- Účasť na laboratórnych cvičeniach: 13 h\n- Priame konzultácie: 24 h\nNekontaktná výučba: 120\n- Príprava na prednášky a cvičenia (štúdium materiálov): 24h\n- Príprava na skúšku: 48h\n- Vypracovanie semestrálnych zadaní: 48h\nCelkový počet: 170h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Bednár, PhD.\nIng. Ľubomír Urblík, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Umelá inteligencia (AI_Ing_join_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Bednár, PhD.",
+    "Ing. Ľubomír Urblík, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001364\nNázov predmetu: Integrácia a nasadenie aplikácií UI\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,1,2\nExterná forma štúdia (hodiny za semester): ZS 13,13,26/LS 13,13,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nUmelá inteligencia (AI_Ing_join_D_en)\n2.\nPrezenčná\n\n\n2.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nV priebehu semestra študenti odovzdajú 2 zadania a absolvujú písomné previerky vedomostí.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet sa zameriava na princípy vývoja, testovania, nasadzovania a prevádzky softvérových aplikácií umelej inteligencie s dôrazom na kontinuálnu integráciu a nasadzovanie (CI/CD). Študenti sa oboznámia so základmi architektúr AI aplikácií, správou zdrojového kódu pomocou Git, tvorbou CI/CD pipeline v nástrojoch ako Jenkins či CircleCI, monitorovaním procesov strojového učenia (napr. MLflow), testovaním AI aplikácií, kontajnerizáciou pomocou Dockeru a automatizovanou konfiguráciou a nasadením aplikácií v cloudovom prostredí. Po absolvovaní predmetu bude študent schopný navrhovať, implementovať a nasadzovať moderné AI aplikácie v automatizovanom a škálovateľnom prostredí.\n\nStručná osnova predmetu:\n- Úvod do problematiky kontinuálnej integrácie a nasadzovania softvérových aplikácií\n- Základy architektúr aplikácií umelej inteligencie\n- Manažovanie softvérového kódu (Git)\n- Kontinuálna integrácia (Jenkins, CircleCI, a pod.)\n- Monitorovanie procesov strojového učenia (MLflow, a pod.)\n- Testovanie aplikácií umelej inteligencie\n- Kontajnerizácia aplikácií (Docker)\n- Runtime prostredia pre modely strojového učenia (vLMM, ONNX, a pod.)\n\nOdporúčaná literatúra:\nN. Poulton, Docker Deep Dive, 2017\nP. Duvall, S. Matyas, A. Glover, Continuous Integration. Addison-Wesley, 2007\nM. Kirk, Thoughtful Machine Learning. O’Reilly, 2014\nM. Richards, Software Architecture Patterns. O’Reilly, 2015\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: 50h\n- Účasť na prednáškach: 13 h\n- Účasť na laboratórnych cvičeniach: 13 h\n- Priame konzultácie: 24 h\nNekontaktná výučba: 120\n- Príprava na prednášky a cvičenia (štúdium materiálov): 24h\n- Príprava na skúšku: 48h\n- Vypracovanie semestrálnych zadaní: 48h\nCelkový počet: 170h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Bednár, PhD.\nIng. Ľubomír Urblík, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

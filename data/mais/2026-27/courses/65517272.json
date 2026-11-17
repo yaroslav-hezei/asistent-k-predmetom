@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65517272",
+  "code": "2611581",
+  "name": "Teória kódovania",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517272",
+  "fetched_at": "2026-11-17T14:58:51Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2611581"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Teória kódovania"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/,26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je poskytnúť študentom základné poznatky o teórii kódovania a spôsoboch ich využitia v praxi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do teórie čísel.\n2. Modulárna aritmetika.\n3. Konečné grupy.\n4. Lineárne priestory.\n5. Kalkulus konečných polí.\n6. Kódovanie a dekódovanie.\n7. Objavovanie a opravovanie chýb.\n8. Úvod do lineárnych a blokových kódov.\n9. Boolova algebra.\n10. Reed-Mullerove kódy.\n11. Cyklické kódy.\n12. Algoritmy v kódovaní.\n13. NP-úplné problémy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Grošek, O. - Porubský, Š.: Šifrovanie, algoritmy a prax. Grada 1992.\n2. Shu, L. - Costello, D. J.: Error Control Coding. Prentice-Hall, NJ 1983.\n3. Papadimitriou, Ch. - Steiglitz, K.: Combinatorial Optimization: Algorithms and Complexity.\n4. Adámek, J.: Kódování. STNL, Praha 1989"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 642\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n10%\n16%\n26%\n29%\n14%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Miloš Drutarovský, CSc.\nprof. RNDr. Ján Plavka, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 642,
+    "percent": {
+      "A": 5,
+      "B": 10,
+      "C": 16,
+      "D": 26,
+      "E": 29,
+      "FX": 14
+    }
+  },
+  "teachers": [
+    "prof. Ing. Miloš Drutarovský, CSc.",
+    "prof. RNDr. Ján Plavka, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2611581\nNázov predmetu: Teória kódovania\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/,26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je poskytnúť študentom základné poznatky o teórii kódovania a spôsoboch ich využitia v praxi.\n\nStručná osnova predmetu:\n1. Úvod do teórie čísel.\n2. Modulárna aritmetika.\n3. Konečné grupy.\n4. Lineárne priestory.\n5. Kalkulus konečných polí.\n6. Kódovanie a dekódovanie.\n7. Objavovanie a opravovanie chýb.\n8. Úvod do lineárnych a blokových kódov.\n9. Boolova algebra.\n10. Reed-Mullerove kódy.\n11. Cyklické kódy.\n12. Algoritmy v kódovaní.\n13. NP-úplné problémy.\n\nOdporúčaná literatúra:\n1. Grošek, O. - Porubský, Š.: Šifrovanie, algoritmy a prax. Grada 1992.\n2. Shu, L. - Costello, D. J.: Error Control Coding. Prentice-Hall, NJ 1983.\n3. Papadimitriou, Ch. - Steiglitz, K.: Combinatorial Optimization: Algorithms and Complexity.\n4. Adámek, J.: Kódování. STNL, Praha 1989\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 642\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n10%\n16%\n26%\n29%\n14%\n\n\nZabezpečuje:\nprof. Ing. Miloš Drutarovský, CSc.\nprof. RNDr. Ján Plavka, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65887770",
+  "code": "26000842",
+  "name": "Úvod do digitálnych komunikácií",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65887770",
+  "fetched_at": "2026-11-17T15:03:18Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000842"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Úvod do digitálnych komunikácií"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,0,2,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nNa získanie zápočtu je potrebných min. 21 bodov z počtu 40 bodov. Toto hodnotenie získa študent na základe testu z preberanej problematiky a odovzdania laboratórnych protokolov (20 bodov) a odovzdania a obhájenia projektu (20 bodov)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nNa získanie skúšky je potrebných min. 31 bodov z celkového počtu 60 bodov. Skúška pozostáva z písomnej časti (test základných znalostí) a z ústnej časti (teoretické poznatky z problematiky senzorových sietí).\nCH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvovaním predmetu študent získa základné poznatky v oblasti digitálnych komunikácií so zameraním na základné funkčné bloky digitálneho komunikačného reťazca. Získa základné poznatky z oblasti metód zdrojového kódovania a formátovania správ, metód kanálového kódovania a zabezpečenia dát, základných metód multiplexovania a viacnásobného prístupu k prenosovému kanálu, ako aj prehľad o základných typoch digitálnych modulácií."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Model digitálneho komunikačného kanála.\n2. Základy teórie informácie.Informácia, miery informácie, entrópia a jej vlastnosti. Podmienená a združená, entrópia. Redundancia a jej využitie.\n3. Shanonova komunikačná teória.\n4.Model diskrétneho symetrického prenosového kanála.\n5. Zdrojové kódovanie správ.\n6.Kanálové kódovanie. Objavovanie a oprava chýb v prenose správ.\n7. Lineárne blokové kódy. Hammingove kódy\n8. Cyklické kódy.\n9. Konvolučné kódy.\n10. Základné režimy prenosu dát. Linkové kódy.\n11. Metódy viacnásobného prístupu k prenosovému kanálu.\n12. Digitálne modulácie.\n13.Základné typy telekomunikačných sietí. Sieť koncových zariadení, prístupové, spojovacie a transportné siete."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Sklar,B.: Digital Communications. Prentice Hall, 2001\n[2] Muzikářová, Ľ.- Franeková,M.: Teória informácie a signálov.EDIS, ŽU, Žilina, 2009"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 543\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n11%\n18%\n27%\n21%\n21%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Matúš Pleva, PhD.\ndoc. Ing. Mária Gamcová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 543,
+    "percent": {
+      "A": 2,
+      "B": 11,
+      "C": 18,
+      "D": 27,
+      "E": 21,
+      "FX": 21
+    }
+  },
+  "teachers": [
+    "doc. Ing. Matúš Pleva, PhD.",
+    "doc. Ing. Mária Gamcová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000842\nNázov predmetu: Úvod do digitálnych komunikácií\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,0,2,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nNa získanie zápočtu je potrebných min. 21 bodov z počtu 40 bodov. Toto hodnotenie získa študent na základe testu z preberanej problematiky a odovzdania laboratórnych protokolov (20 bodov) a odovzdania a obhájenia projektu (20 bodov).\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nNa získanie skúšky je potrebných min. 31 bodov z celkového počtu 60 bodov. Skúška pozostáva z písomnej časti (test základných znalostí) a z ústnej časti (teoretické poznatky z problematiky senzorových sietí).\nCH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE.\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvovaním predmetu študent získa základné poznatky v oblasti digitálnych komunikácií so zameraním na základné funkčné bloky digitálneho komunikačného reťazca. Získa základné poznatky z oblasti metód zdrojového kódovania a formátovania správ, metód kanálového kódovania a zabezpečenia dát, základných metód multiplexovania a viacnásobného prístupu k prenosovému kanálu, ako aj prehľad o základných typoch digitálnych modulácií.\n\nStručná osnova predmetu:\n1. Model digitálneho komunikačného kanála.\n2. Základy teórie informácie.Informácia, miery informácie, entrópia a jej vlastnosti. Podmienená a združená, entrópia. Redundancia a jej využitie.\n3. Shanonova komunikačná teória.\n4.Model diskrétneho symetrického prenosového kanála.\n5. Zdrojové kódovanie správ.\n6.Kanálové kódovanie. Objavovanie a oprava chýb v prenose správ.\n7. Lineárne blokové kódy. Hammingove kódy\n8. Cyklické kódy.\n9. Konvolučné kódy.\n10. Základné režimy prenosu dát. Linkové kódy.\n11. Metódy viacnásobného prístupu k prenosovému kanálu.\n12. Digitálne modulácie.\n13.Základné typy telekomunikačných sietí. Sieť koncových zariadení, prístupové, spojovacie a transportné siete.\n\n\nOdporúčaná literatúra:\n[1] Sklar,B.: Digital Communications. Prentice Hall, 2001\n[2] Muzikářová, Ľ.- Franeková,M.: Teória informácie a signálov.EDIS, ŽU, Žilina, 2009\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 543\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n11%\n18%\n27%\n21%\n21%\n\n\nZabezpečuje:\ndoc. Ing. Matúš Pleva, PhD.\ndoc. Ing. Mária Gamcová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

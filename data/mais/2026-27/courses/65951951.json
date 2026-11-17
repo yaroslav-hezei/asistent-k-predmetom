@@ -1,0 +1,178 @@
+{
+  "predmet_id": "65951951",
+  "code": "26000650",
+  "name": "Bezpečnosť informačných a komunikačných systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65951951",
+  "fetched_at": "2026-11-17T15:08:52Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000650"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Bezpečnosť informačných a komunikačných systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nProjekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi metódami a prostriedkami na zabezpečenie dôvernosti, integrity a dostupnosti počítačových systémov. Porozumie problematike programovej bezpečnosti, vlastnostiam dôveryhodných operačných systémov, bezpečnosti v databázach a počítačových sieťach. Absolvovaním predmetu poslucháč získa znalosti potrebné pre návrh bezpečných informačných systémov a technológií."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Problém bezpečnosti v informačných systémoch\n2. Symetrické šifrovanie, utajenie správ\n3. Asymetrické šifrovanie, autentifikácia správ\n4. Bezpečnosť operačných systémov, Unix, MS Windows\n5. Dôveryhodná základňa, viacúrovňová bezpečnosť\n6. Bezpečnosť softvéru\n7. Sieťová bezpečnosť I\n8. Sieťová bezpečnosť II\n9. Web bezpečnosť\n10. Systémy riadenia bázy dát\n11. E-hlasovanie, E-peniaze, E-platba, E-doklady\n12. Forénzna analýza"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. PFLEEGER, Charles P. Security in Computing. 5th ed. Pearson, 2015. ISBN 978-0134085043.\n2. GOLLMANN, Dieter. Computer Security. 3rd ed. Wiley, 2011. ISBN 978-0470742102.\n3. STALLINGS, William. Cryptography and Network Security: Principles and Practices. 7th ed. Pearson, 2016. ISBN 978-0134444284.\n4. BALÁŽ, Anton. Bezpečnosť informačných a komunikačných systémov. 2025. Dostupné z: https://balaza.gitlab.io/bps5r"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1714\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n14%\n26%\n36%\n16%\n3%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Eva Chovancová, PhD.\nIng. Alexander Bodnár\ndoc. Ing. Anton Baláž, PhD.\nIng. Martin Štancel, PhD.\ndoc. Ing. Martin Chovanec, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1714,
+    "percent": {
+      "A": 5,
+      "B": 14,
+      "C": 26,
+      "D": 36,
+      "E": 16,
+      "FX": 3
+    }
+  },
+  "teachers": [
+    "doc. Ing. Eva Chovancová, PhD.",
+    "Ing. Alexander Bodnár",
+    "doc. Ing. Anton Baláž, PhD.",
+    "Ing. Martin Štancel, PhD.",
+    "doc. Ing. Martin Chovanec, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000650\nNázov predmetu: Bezpečnosť informačných a komunikačných systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nProjekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi metódami a prostriedkami na zabezpečenie dôvernosti, integrity a dostupnosti počítačových systémov. Porozumie problematike programovej bezpečnosti, vlastnostiam dôveryhodných operačných systémov, bezpečnosti v databázach a počítačových sieťach. Absolvovaním predmetu poslucháč získa znalosti potrebné pre návrh bezpečných informačných systémov a technológií.\n\nStručná osnova predmetu:\n1. Problém bezpečnosti v informačných systémoch\n2. Symetrické šifrovanie, utajenie správ\n3. Asymetrické šifrovanie, autentifikácia správ\n4. Bezpečnosť operačných systémov, Unix, MS Windows\n5. Dôveryhodná základňa, viacúrovňová bezpečnosť\n6. Bezpečnosť softvéru\n7. Sieťová bezpečnosť I\n8. Sieťová bezpečnosť II\n9. Web bezpečnosť\n10. Systémy riadenia bázy dát\n11. E-hlasovanie, E-peniaze, E-platba, E-doklady\n12. Forénzna analýza\n\nOdporúčaná literatúra:\n1. PFLEEGER, Charles P. Security in Computing. 5th ed. Pearson, 2015. ISBN 978-0134085043.\n2. GOLLMANN, Dieter. Computer Security. 3rd ed. Wiley, 2011. ISBN 978-0470742102.\n3. STALLINGS, William. Cryptography and Network Security: Principles and Practices. 7th ed. Pearson, 2016. ISBN 978-0134444284.\n4. BALÁŽ, Anton. Bezpečnosť informačných a komunikačných systémov. 2025. Dostupné z: https://balaza.gitlab.io/bps5r\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1714\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n14%\n26%\n36%\n16%\n3%\n\n\nZabezpečuje:\ndoc. Ing. Eva Chovancová, PhD.\nIng. Alexander Bodnár\ndoc. Ing. Anton Baláž, PhD.\nIng. Martin Štancel, PhD.\ndoc. Ing. Martin Chovanec, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

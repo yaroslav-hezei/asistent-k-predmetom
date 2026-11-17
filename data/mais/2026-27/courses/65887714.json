@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65887714",
+  "code": "26000837",
+  "name": "Základy softvérového inžinierstva",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65887714",
+  "fetched_at": "2026-11-17T15:03:13Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000837"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy softvérového inžinierstva"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,0,2,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné poznatky o životnom cykle vývoja softvéru, o softvérových procesoch, metódach a nástrojoch softvérového inžinierstva, ktoré sa využívajú v jednotlivých fázach životného cyklu. Študent získa základné zručnosti potrebné pre navrhovanie, modelovanie a prácu s CASE nástrojmi a systémami pre podporu riešenia softvérových projektov.\nPo úspešnom absolvovaní predmetu by mal byť študent schopný pracovať na softvérových projektoch, pri spracovaní požiadaviek, pri návrhu systému a návrhu testov, používať prostriedky a metódy pre podporu analýzy a návrhu systémov, vytvárať potrebnú dokumentáciu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do softvérového inžinierstva (základné pojmy, ciele a role v softvérovom inžinierstve)\n2. Životný cyklus softvéru a jeho fázy, modely životného cyklu, plánovanie vývoja softvérového systému.\n3. Agilné metódy v životnom cykle systémov a iteratívny vývoj softvérových systémov.\n4. Zber, spracovanie a dokumentovanie požiadaviek na softvérový systém.\n5. Modelovanie štruktúry softvérových systémov.\n6. Modelovanie správania softvérových systémov.\n7. Správa verzií a zostavovanie softvérových systémov, vývojové, testovacie a produkčné prostredie.\n8. Testy a testovanie v životnom cykle softvérových systémov.\n9. Manuálne testovanie a automatizácia testovania."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Havlice, Z.: Základy softvérového inžinierstva. 1. vyd. - Košice : TU - 2012. - 160 s. - ISBN 978-80-553-1224-8.\n2. Bieliková, M: Softvérové inžinierstvo: Princípy a manažment, ISBN 80-227-1322-8\n3. Havlice, Z.: Modelovanie a prototypovanie pri projektovaní informačných systémov. - 85 s - Košice : Elfa, - 1999. - ISBN 80-88786-95-9.\n4. Sommerville,I.: Software Engineering (9th Edition). Addison-Wesley 2010, 792 s. ISBN0137035152."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 259\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n25%\n19%\n24%\n15%\n5%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Stanislav Ondáš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 259,
+    "percent": {
+      "A": 13,
+      "B": 25,
+      "C": 19,
+      "D": 24,
+      "E": 15,
+      "FX": 5
+    }
+  },
+  "teachers": [
+    "doc. Ing. Stanislav Ondáš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000837\nNázov predmetu: Základy softvérového inžinierstva\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,0,2,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné poznatky o životnom cykle vývoja softvéru, o softvérových procesoch, metódach a nástrojoch softvérového inžinierstva, ktoré sa využívajú v jednotlivých fázach životného cyklu. Študent získa základné zručnosti potrebné pre navrhovanie, modelovanie a prácu s CASE nástrojmi a systémami pre podporu riešenia softvérových projektov.\nPo úspešnom absolvovaní predmetu by mal byť študent schopný pracovať na softvérových projektoch, pri spracovaní požiadaviek, pri návrhu systému a návrhu testov, používať prostriedky a metódy pre podporu analýzy a návrhu systémov, vytvárať potrebnú dokumentáciu.\n\n\nStručná osnova predmetu:\n1. Úvod do softvérového inžinierstva (základné pojmy, ciele a role v softvérovom inžinierstve)\n2. Životný cyklus softvéru a jeho fázy, modely životného cyklu, plánovanie vývoja softvérového systému.\n3. Agilné metódy v životnom cykle systémov a iteratívny vývoj softvérových systémov.\n4. Zber, spracovanie a dokumentovanie požiadaviek na softvérový systém.\n5. Modelovanie štruktúry softvérových systémov.\n6. Modelovanie správania softvérových systémov.\n7. Správa verzií a zostavovanie softvérových systémov, vývojové, testovacie a produkčné prostredie.\n8. Testy a testovanie v životnom cykle softvérových systémov.\n9. Manuálne testovanie a automatizácia testovania.\n\n\n\nOdporúčaná literatúra:\n1. Havlice, Z.: Základy softvérového inžinierstva. 1. vyd. - Košice : TU - 2012. - 160 s. - ISBN 978-80-553-1224-8.\n2. Bieliková, M: Softvérové inžinierstvo: Princípy a manažment, ISBN 80-227-1322-8\n3. Havlice, Z.: Modelovanie a prototypovanie pri projektovaní informačných systémov. - 85 s - Košice : Elfa, - 1999. - ISBN 80-88786-95-9.\n4. Sommerville,I.: Software Engineering (9th Edition). Addison-Wesley 2010, 792 s. ISBN0137035152.\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 259\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n25%\n19%\n24%\n15%\n5%\n\n\nZabezpečuje:\ndoc. Ing. Stanislav Ondáš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65667501",
+  "code": "2621991",
+  "name": "Heuristické optimalizačné procesy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667501",
+  "fetched_at": "2026-11-17T15:00:42Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2621991"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Heuristické optimalizačné procesy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\n2.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra absolvujú študenti 2 písomky za 10 bodov, zamerané na riešenie úloh. Ďalších 20 bodov možno získať v rámci zápočtu za zadanie, ktoré spočíva v tímovej práci na projektoch riešiacich úlohy z oblasti heuristickej optimalizácie."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je poskytnúť základné vedomosti z oblasti heuristických optimalizačných metód s orientáciou na riešenie úloh modelovania pre podporu rozhodovania. Absolvent získa teoretické vedomosti o vybranej škále moderných optimalizačných metód (od konvenčnejších metód gradientového typu až po biologicky motivované metódy), ich vlastnostiach a aplikovateľnosti pre riešenie optimalizačných úloh rôzneho typu. Absolvent sa naučí prakticky využívať moderné optimalizačné metódy pri návrhu informačných systémov. Na základe praktických skúseností bude schopný rozhodovať o výbere vhodných metód a aplikovať ich v oblasti modelovania a matematizácie činností a procesov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Rozhodovacia a optimalizačná úloha, vybrané kanonické typy úloh.\n- Perturbačný a konštrukčný prístup, Konštrukčné heuristiky.\n- Systematické prehľadávanie, orezávacie heuristiky.\n- Lokálne prehľadávanie, stratégie prehľadávania, gradientové metódy.\n- Únik z lokálneho extrému (variabilné, stochastické a dynamické lokálne hľadanie).\n- Prehľadávanie s pamäťou, zakázané hľadanie.\n- Hybridné prehľadávacie algoritmy.\n- Algoritmy pre estimáciu distribúcie.\n- Evolučne orientované algoritmy (simulované žíhanie, genetický algoritmus).\n- Biologicky orientované algoritmy (mravčie kolóny, PSO algoritmus, včelie algoritmy, bakteriálne algoritmy).\n- Aproximačné triedy a randomizované algoritmy.\n- Výpočtová zložitosť, základné zložitostné triedy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Brownlee: Clever Algorithms, Nature-Inspired Programming Recipes, 2012, http://www.cleveralgorithms.com/\n- Hoos, Stützle: Stochastic Local Search, Foundations and Applications, Elsevier, 2004.\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 996\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n15%\n27%\n28%\n16%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marián Mach, CSc.\nIng. Ján Magyar, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 996,
+    "percent": {
+      "A": 6,
+      "B": 15,
+      "C": 27,
+      "D": 28,
+      "E": 16,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marián Mach, CSc.",
+    "Ing. Ján Magyar, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2621991\nNázov predmetu: Heuristické optimalizačné procesy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\n2.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra absolvujú študenti 2 písomky za 10 bodov, zamerané na riešenie úloh. Ďalších 20 bodov možno získať v rámci zápočtu za zadanie, ktoré spočíva v tímovej práci na projektoch riešiacich úlohy z oblasti heuristickej optimalizácie.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je poskytnúť základné vedomosti z oblasti heuristických optimalizačných metód s orientáciou na riešenie úloh modelovania pre podporu rozhodovania. Absolvent získa teoretické vedomosti o vybranej škále moderných optimalizačných metód (od konvenčnejších metód gradientového typu až po biologicky motivované metódy), ich vlastnostiach a aplikovateľnosti pre riešenie optimalizačných úloh rôzneho typu. Absolvent sa naučí prakticky využívať moderné optimalizačné metódy pri návrhu informačných systémov. Na základe praktických skúseností bude schopný rozhodovať o výbere vhodných metód a aplikovať ich v oblasti modelovania a matematizácie činností a procesov.\n\nStručná osnova predmetu:\n- Rozhodovacia a optimalizačná úloha, vybrané kanonické typy úloh.\n- Perturbačný a konštrukčný prístup, Konštrukčné heuristiky.\n- Systematické prehľadávanie, orezávacie heuristiky.\n- Lokálne prehľadávanie, stratégie prehľadávania, gradientové metódy.\n- Únik z lokálneho extrému (variabilné, stochastické a dynamické lokálne hľadanie).\n- Prehľadávanie s pamäťou, zakázané hľadanie.\n- Hybridné prehľadávacie algoritmy.\n- Algoritmy pre estimáciu distribúcie.\n- Evolučne orientované algoritmy (simulované žíhanie, genetický algoritmus).\n- Biologicky orientované algoritmy (mravčie kolóny, PSO algoritmus, včelie algoritmy, bakteriálne algoritmy).\n- Aproximačné triedy a randomizované algoritmy.\n- Výpočtová zložitosť, základné zložitostné triedy.\n\n\nOdporúčaná literatúra:\n- Brownlee: Clever Algorithms, Nature-Inspired Programming Recipes, 2012, http://www.cleveralgorithms.com/\n- Hoos, Stützle: Stochastic Local Search, Foundations and Applications, Elsevier, 2004.\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 996\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n15%\n27%\n28%\n16%\n7%\n\n\nZabezpečuje:\ndoc. Ing. Marián Mach, CSc.\nIng. Ján Magyar, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

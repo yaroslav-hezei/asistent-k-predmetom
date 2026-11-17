@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65888728",
+  "code": "26000996",
+  "name": "Operačné systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888728",
+  "fetched_at": "2026-11-17T15:04:21Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000996"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Operačné systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 2,2"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 20% z 39%.\ntesty, zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 61%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu vie vysvetliť požiadavky operačného systému na technické prostriedky počítača, vie opísať a vysvetliť základné princípy fungovania operačných systémov. Vie analyzovať časti kódu spolupracujúce s jadrom operačného systému prostredníctvom služieb operačného systému a vie zhodnotiť ich účel na základe opisu služieb v dokumentácii. Vie vytvárať programy využívajúce služby súvisiace s prácou so súbormi, adresármi a špeciálnymi súbormi (zariadeniami), vie vytvárať procesy a spúšťať v nich programy, dokáže zabezpečiť komunikáciu medzi procesmi prostredníctvom socketov. Dokáže vytvoriť skriptovací algoritmus na dávkové spracovanie textu s využitím regulárnych výrazov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. História vývoja operačných systémov\n2. Štruktúra OS.\n3. Procesy a vlákna\n4. Správa procesov.\n5. Synchronizácia a uviaznutie procesov\n6. Správa pamäte\n7. Virtuálna pamäť\n8. Súborový systém\n9. Správa periférnych zariadení\n10. Bezpečnosť a ochrana OS\n11. Spracovanie prerušení.\n12. Práca v CLI a využitie regulárnych výrazov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. I. Sivý. Operačné systémy. Elfa, 2002\n2. Andrew S. Tanenbaum: Modern Operating Systems, 3 ed. Prentice Hall, 2007.\n3. A. Silberschatz, P.Galvin, Greg Gagne: Operating systems concepts, 9 ed. John Wiley a sons, 2012.\n4. H.M.Deitel, P.J.Deitel, D.R.Choffnes. Operating systems /3x. Person Education Inc., 2004\n5. Stallings W.: Operating Systems: Internals and Design Principles (7th Edition). Prentice Hall, 2011\n6. Andrew S Tanenbaum, Albert S Woodhull: Operating Systems Design and Implementation, 3 ed, Prentice Hall, 2006.\n7. Elmasri R., Carrick A., Levine D.: Operating Systems: A Spiral Approach. McGraw-Hill Science/Engineering/Math , 2009\n8. Love R.: Linux System Programming: Talking Directly to the Kernel and C Library. O'Reilly Media; Second Edition, 2013"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 911\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n16%\n17%\n22%\n24%\n9%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Matúš Pleva, PhD.\nIng. Marianna Koctúrová, PhD.\nIng. Kristián Sopkovič\nIng. Anton Buday\nIng. Renát Haluška, PhD.\nIng. Hai Tran Ngoc\nIng. Eva Kupcová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 911,
+    "percent": {
+      "A": 11,
+      "B": 16,
+      "C": 17,
+      "D": 22,
+      "E": 24,
+      "FX": 9
+    }
+  },
+  "teachers": [
+    "doc. Ing. Matúš Pleva, PhD.",
+    "Ing. Marianna Koctúrová, PhD.",
+    "Ing. Kristián Sopkovič",
+    "Ing. Anton Buday",
+    "Ing. Renát Haluška, PhD.",
+    "Ing. Hai Tran Ngoc",
+    "Ing. Eva Kupcová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000996\nNázov predmetu: Operačné systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 2,2\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 20% z 39%.\ntesty, zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 61%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu vie vysvetliť požiadavky operačného systému na technické prostriedky počítača, vie opísať a vysvetliť základné princípy fungovania operačných systémov. Vie analyzovať časti kódu spolupracujúce s jadrom operačného systému prostredníctvom služieb operačného systému a vie zhodnotiť ich účel na základe opisu služieb v dokumentácii. Vie vytvárať programy využívajúce služby súvisiace s prácou so súbormi, adresármi a špeciálnymi súbormi (zariadeniami), vie vytvárať procesy a spúšťať v nich programy, dokáže zabezpečiť komunikáciu medzi procesmi prostredníctvom socketov. Dokáže vytvoriť skriptovací algoritmus na dávkové spracovanie textu s využitím regulárnych výrazov.\n\nStručná osnova predmetu:\n1. História vývoja operačných systémov\n2. Štruktúra OS.\n3. Procesy a vlákna\n4. Správa procesov.\n5. Synchronizácia a uviaznutie procesov\n6. Správa pamäte\n7. Virtuálna pamäť\n8. Súborový systém\n9. Správa periférnych zariadení\n10. Bezpečnosť a ochrana OS\n11. Spracovanie prerušení.\n12. Práca v CLI a využitie regulárnych výrazov.\n\nOdporúčaná literatúra:\n1. I. Sivý. Operačné systémy. Elfa, 2002\n2. Andrew S. Tanenbaum: Modern Operating Systems, 3 ed. Prentice Hall, 2007.\n3. A. Silberschatz, P.Galvin, Greg Gagne: Operating systems concepts, 9 ed. John Wiley a sons, 2012.\n4. H.M.Deitel, P.J.Deitel, D.R.Choffnes. Operating systems /3x. Person Education Inc., 2004\n5. Stallings W.: Operating Systems: Internals and Design Principles (7th Edition). Prentice Hall, 2011\n6. Andrew S Tanenbaum, Albert S Woodhull: Operating Systems Design and Implementation, 3 ed, Prentice Hall, 2006.\n7. Elmasri R., Carrick A., Levine D.: Operating Systems: A Spiral Approach. McGraw-Hill Science/Engineering/Math , 2009\n8. Love R.: Linux System Programming: Talking Directly to the Kernel and C Library. O'Reilly Media; Second Edition, 2013\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 911\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n16%\n17%\n22%\n24%\n9%\n\n\nZabezpečuje:\ndoc. Ing. Matúš Pleva, PhD.\nIng. Marianna Koctúrová, PhD.\nIng. Kristián Sopkovič\nIng. Anton Buday\nIng. Renát Haluška, PhD.\nIng. Hai Tran Ngoc\nIng. Eva Kupcová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

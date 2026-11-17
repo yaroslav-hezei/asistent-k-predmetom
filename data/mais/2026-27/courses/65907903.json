@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65907903",
+  "code": "2622611",
+  "name": "Dynamické deje elektrických strojov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65907903",
+  "fetched_at": "2026-11-17T15:05:51Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2622611"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Dynamické deje elektrických strojov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 2 zadaní"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy, stavba modelu"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Výsledky vzdelávania:\nŠtudenti získajú vedomosti v oblasti dynamických vlastností elektrických strojov, spôsoby riadenia rýchlosti a momentu jednotlivých strojov, získajú zručnosti pri stavbe dynamických modelov v prostredí Matlab Simulink"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Princípy elektromagnetickej premeny energie v elektrických strojoch..\n2. Matematický model komutátorových strojov.\n3. Dynamický model jednosmerného cudzobudeného motora, jednosmerného sériového motora a jednosmerného kompaudého motora.\n4. Dynamický model Ward - Leonardového sústrojenstva a dvojmotorových pohonov.\n5. Transformácie v oblasti elektrických strojov, Park, Clarke, Concordia, priestorový vektor.\n6. Matematický a dynamický model indukčných motorov\n7. Matematický a dynamický model synchrónnych motorov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Prednášky predmetu Dynamické deje elektrických strojov. [online] dostupné na\nhttp://kem.fei.tuke.sk/sk/predmety/dynamicke-deje-elektrickych-strojov/\n[2] J. Chatelain, Machine électriques, Switzerland: Ecole polytechnique de Lausane, 1992.\n[3] N.N. Hancock, Matrix Analysis of Electrical Machinery, Oxford: Pergamon Press, 1974."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu.\nPredmet sa otvorí v len prípade ak si ho zapíše 3 a viac študentov."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 305\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n25%\n24%\n23%\n13%\n6%\n9%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Želmíra Ferková, CSc.\nprof. Ing. Pavel Záskalický, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 305,
+    "percent": {
+      "A": 25,
+      "B": 24,
+      "C": 23,
+      "D": 13,
+      "E": 6,
+      "FX": 9
+    }
+  },
+  "teachers": [
+    "doc. Ing. Želmíra Ferková, CSc.",
+    "prof. Ing. Pavel Záskalický, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 2622611\nNázov predmetu: Dynamické deje elektrických strojov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 2 zadaní\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy, stavba modelu\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nVýsledky vzdelávania:\nŠtudenti získajú vedomosti v oblasti dynamických vlastností elektrických strojov, spôsoby riadenia rýchlosti a momentu jednotlivých strojov, získajú zručnosti pri stavbe dynamických modelov v prostredí Matlab Simulink\n\nStručná osnova predmetu:\n1. Princípy elektromagnetickej premeny energie v elektrických strojoch..\n2. Matematický model komutátorových strojov.\n3. Dynamický model jednosmerného cudzobudeného motora, jednosmerného sériového motora a jednosmerného kompaudého motora.\n4. Dynamický model Ward - Leonardového sústrojenstva a dvojmotorových pohonov.\n5. Transformácie v oblasti elektrických strojov, Park, Clarke, Concordia, priestorový vektor.\n6. Matematický a dynamický model indukčných motorov\n7. Matematický a dynamický model synchrónnych motorov.\n\nOdporúčaná literatúra:\n[1] Prednášky predmetu Dynamické deje elektrických strojov. [online] dostupné na\nhttp://kem.fei.tuke.sk/sk/predmety/dynamicke-deje-elektrickych-strojov/\n[2] J. Chatelain, Machine électriques, Switzerland: Ecole polytechnique de Lausane, 1992.\n[3] N.N. Hancock, Matrix Analysis of Electrical Machinery, Oxford: Pergamon Press, 1974.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu.\nPredmet sa otvorí v len prípade ak si ho zapíše 3 a viac študentov.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 305\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n25%\n24%\n23%\n13%\n6%\n9%\n\n\nZabezpečuje:\ndoc. Ing. Želmíra Ferková, CSc.\nprof. Ing. Pavel Záskalický, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

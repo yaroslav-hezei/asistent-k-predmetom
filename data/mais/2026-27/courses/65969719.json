@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65969719",
+  "code": "26001079",
+  "name": "Pokročilé meracie systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969719",
+  "fetched_at": "2026-11-17T15:14:07Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001079"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Pokročilé meracie systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra prezentácia spojená s obhajobu experimentálnych meraní za 15 bodov a obhajoba individuálneho projektu za 25 bodov. Pre získanie zápočtu je potrebných minimálne 21 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa získanie skúšky je potrebných min. 31 bodov z celkového počtu 60 bodov. Skúška pozostáva ústnej skúšky v rozsahu 20 bodov a písomnej skúšky v rozsahu 40 bodov (teoretické poznatky)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu absolvent získa znalosť princípov a použitia zložitých smart elektronických meracích prístrojov a komplexných meracích metód s využitím číslicového spracovania signálov, programovania meracích pracovísk a vytváraní systémov zberu dát pracujúcich v systémoch reálneho času a využívajúcich rekonfigurovateľné funkčné bloky na báze FPGA. Ťažisko je kladené na získavanie teoretických aj praktických skúseností a znalostí z vývoja a aplikácie smart elektronických meracích systémov a prístrojov formou experimentálnych cvičení a riešením individuálnych experimentálnych projektov"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Logický analyzátor. Spektrálny analyzátor a jeho možnosti využitia pre meranie parametrov signálov a sústav. Vektorový analyzátor signálov. Meranie parametrov sústav, obvodový analyzátor. Pokročilé funkcie číslicových oscilokopov. Priama syntéza, generátory ľubovoľných priebehov. Analógové a digitálne modulácie, princípy generovania, vektorové generátory. Modulárne meracie prístroje (instrument on a card) a ich programovanie. Systémy zberu dát v priemysle a ich programovanie. Rekonfigurovateľné meracie a priemyselné systémy na báze Real-time OS a FGA a ich programovanie. Riadenie, programovanie a komunikácia meracích prístrojov a meracích systémov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Šaliga J.: Základné meracie prístroje pre elektroniku/ Ján Šaliga - Košice : TU - 2022. - 190 s.. - ISBN 978-80-553-4076-0\nMorris, A.S., Langari, R.: Measurement and Instrumentation, Theory and Application, 2nd ed, Elsevier 2015, ISBN 978-0-12800-884-3\nBolton, W.: Instrumentation and Control Systems, 2nd ed, Elsevier 2015, ISBN 978-0-08100-613-9\nBucci, D.: Analog Electronics for Measuring Systems, Wiley 2017, ISBN: 978-1-78630-148-2\nWitte, R.A.: Electronic Test Instruments: Analog and Digital Measurements, 2nd ed, Prentice Hall 2011, ISBN: 978-8177587487\nFazel, K., Kaiser, S.: Multi-Carrier and Spread Spectrum Systems & Related Topics, Wiley 2012, ISBN: 978-1461370109\nTeppati V. and al: Modern RF and Microwave Measurement Techniques, Cambridge University Press 2013\nR.B. Northrop: Introduction to Instrumentation and Measurements. CRC 2005, ISBN: 978-0849337734\nLiu J. W. S.: Real-Time Systems, Prentice Hall, 2000"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 99\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n18%\n17%\n23%\n18%\n19%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Šaliga, PhD.\nIng. Filip Mahdal\ndoc. Ing. Peter Lukács, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 99,
+    "percent": {
+      "A": 18,
+      "B": 17,
+      "C": 23,
+      "D": 18,
+      "E": 19,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Šaliga, PhD.",
+    "Ing. Filip Mahdal",
+    "doc. Ing. Peter Lukács, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001079\nNázov predmetu: Pokročilé meracie systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra prezentácia spojená s obhajobu experimentálnych meraní za 15 bodov a obhajoba individuálneho projektu za 25 bodov. Pre získanie zápočtu je potrebných minimálne 21 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa získanie skúšky je potrebných min. 31 bodov z celkového počtu 60 bodov. Skúška pozostáva ústnej skúšky v rozsahu 20 bodov a písomnej skúšky v rozsahu 40 bodov (teoretické poznatky).\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu absolvent získa znalosť princípov a použitia zložitých smart elektronických meracích prístrojov a komplexných meracích metód s využitím číslicového spracovania signálov, programovania meracích pracovísk a vytváraní systémov zberu dát pracujúcich v systémoch reálneho času a využívajúcich rekonfigurovateľné funkčné bloky na báze FPGA. Ťažisko je kladené na získavanie teoretických aj praktických skúseností a znalostí z vývoja a aplikácie smart elektronických meracích systémov a prístrojov formou experimentálnych cvičení a riešením individuálnych experimentálnych projektov\n\nStručná osnova predmetu:\nLogický analyzátor. Spektrálny analyzátor a jeho možnosti využitia pre meranie parametrov signálov a sústav. Vektorový analyzátor signálov. Meranie parametrov sústav, obvodový analyzátor. Pokročilé funkcie číslicových oscilokopov. Priama syntéza, generátory ľubovoľných priebehov. Analógové a digitálne modulácie, princípy generovania, vektorové generátory. Modulárne meracie prístroje (instrument on a card) a ich programovanie. Systémy zberu dát v priemysle a ich programovanie. Rekonfigurovateľné meracie a priemyselné systémy na báze Real-time OS a FGA a ich programovanie. Riadenie, programovanie a komunikácia meracích prístrojov a meracích systémov.\n\nOdporúčaná literatúra:\nŠaliga J.: Základné meracie prístroje pre elektroniku/ Ján Šaliga - Košice : TU - 2022. - 190 s.. - ISBN 978-80-553-4076-0\nMorris, A.S., Langari, R.: Measurement and Instrumentation, Theory and Application, 2nd ed, Elsevier 2015, ISBN 978-0-12800-884-3\nBolton, W.: Instrumentation and Control Systems, 2nd ed, Elsevier 2015, ISBN 978-0-08100-613-9\nBucci, D.: Analog Electronics for Measuring Systems, Wiley 2017, ISBN: 978-1-78630-148-2\nWitte, R.A.: Electronic Test Instruments: Analog and Digital Measurements, 2nd ed, Prentice Hall 2011, ISBN: 978-8177587487\nFazel, K., Kaiser, S.: Multi-Carrier and Spread Spectrum Systems & Related Topics, Wiley 2012, ISBN: 978-1461370109\nTeppati V. and al: Modern RF and Microwave Measurement Techniques, Cambridge University Press 2013\nR.B. Northrop: Introduction to Instrumentation and Measurements. CRC 2005, ISBN: 978-0849337734\nLiu J. W. S.: Real-Time Systems, Prentice Hall, 2000\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 99\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n18%\n17%\n23%\n18%\n19%\n4%\n\n\nZabezpečuje:\nprof. Ing. Ján Šaliga, PhD.\nIng. Filip Mahdal\ndoc. Ing. Peter Lukács, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

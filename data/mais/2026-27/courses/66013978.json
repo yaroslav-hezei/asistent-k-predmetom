@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013978",
+  "code": "26001297",
+  "name": "Spracovanie prirodzeného jazyka",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013978",
+  "fetched_at": "2026-11-17T15:15:58Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001297"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Spracovanie prirodzeného jazyka"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": ""
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu Spracovanie prirodzeného jazyka budú mať študenti znalosti o moderných technikách spracovania textových dát. Budú schopní reprezentovať slová a vety pomocou tradičných metód, ako sú one-hot encoding, TF-IDF a word embeddings (Word2Vec a GloVe). Získajú vedomosti o klasických prístupoch v NLP vrátane metód strojového učenia a základných neurónových sietí, ako sú Recurrent Neural Networks (RNN) a Long Short-Term Memory siete (LSTM). Hlavný dôraz však bude kladený na pokročilé metódy, ako sú modely založené na\ntransformeroch, napríklad BERT a GPT, ktoré sú v súčasnosti dominantné v oblasti spracovania prirodzeného jazyka. Študenti si osvoja zručnosti potrebné na implementáciu a odladenie modelov pre rôzne aplikácie, ako napríklad generovanie textu (chatboty), detekcia emócií a sumarizácia."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do spracovania prirodzeného jazyka (prehľad NLP, základné pojmy)\n2. Reprezentácia textu a slov (One-hot encoding, TF-IDF, Word embeddings: Word2Vec, GloVe)\n3. Klasické prístupy v NLP (Pravidlové metódy pre analýzu textu, POS tagging a rozpoznávanie entít (NER)).\n4. Základy strojového učenia pre NLP (Naivný Bayes a SVM)\n5. Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) a Gated Recurrent Units (GRU), Siamese\nnetworks\n6. Transformery a mechanizmus pozornosti (Attention Mechanism) - BERT, architektúra transformerov\n7. GPT modely (napr. automatická tvorba obsahu, a chatovacie systémy)\n8. Multimodálne systémy, ako sú obraz (vision), reč (speech), a ich kombinácie (vision+text, speech+text,\nvision+speech+text)"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Daniel Jurafsky and James H. Martin. 2024. Speech and Language Processing: An Introduction to Natural\nLanguage Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition.\n2. Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, and Harshit Surana. 2020. Practical Natural Language\nProcessing: A Comprehensive Guide to Building Real-World NLP Systems. O'Reilly Media.\n3. Lewis Tunstall, Leandro Von Werra, and Thomas Wolf. 2022. Natural Language Processing with Transformers\n(Revised Edition). O'Reilly Media."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 29\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n34%\n24%\n10%\n3%\n17%\n10%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Bednár, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 29,
+    "percent": {
+      "A": 34,
+      "B": 24,
+      "C": 10,
+      "D": 3,
+      "E": 17,
+      "FX": 10
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Bednár, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001297\nNázov predmetu: Spracovanie prirodzeného jazyka\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby:\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): LS\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu Spracovanie prirodzeného jazyka budú mať študenti znalosti o moderných technikách spracovania textových dát. Budú schopní reprezentovať slová a vety pomocou tradičných metód, ako sú one-hot encoding, TF-IDF a word embeddings (Word2Vec a GloVe). Získajú vedomosti o klasických prístupoch v NLP vrátane metód strojového učenia a základných neurónových sietí, ako sú Recurrent Neural Networks (RNN) a Long Short-Term Memory siete (LSTM). Hlavný dôraz však bude kladený na pokročilé metódy, ako sú modely založené na\ntransformeroch, napríklad BERT a GPT, ktoré sú v súčasnosti dominantné v oblasti spracovania prirodzeného jazyka. Študenti si osvoja zručnosti potrebné na implementáciu a odladenie modelov pre rôzne aplikácie, ako napríklad generovanie textu (chatboty), detekcia emócií a sumarizácia.\n\nStručná osnova predmetu:\n1. Úvod do spracovania prirodzeného jazyka (prehľad NLP, základné pojmy)\n2. Reprezentácia textu a slov (One-hot encoding, TF-IDF, Word embeddings: Word2Vec, GloVe)\n3. Klasické prístupy v NLP (Pravidlové metódy pre analýzu textu, POS tagging a rozpoznávanie entít (NER)).\n4. Základy strojového učenia pre NLP (Naivný Bayes a SVM)\n5. Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) a Gated Recurrent Units (GRU), Siamese\nnetworks\n6. Transformery a mechanizmus pozornosti (Attention Mechanism) - BERT, architektúra transformerov\n7. GPT modely (napr. automatická tvorba obsahu, a chatovacie systémy)\n8. Multimodálne systémy, ako sú obraz (vision), reč (speech), a ich kombinácie (vision+text, speech+text,\nvision+speech+text)\n\nOdporúčaná literatúra:\n1. Daniel Jurafsky and James H. Martin. 2024. Speech and Language Processing: An Introduction to Natural\nLanguage Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition.\n2. Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, and Harshit Surana. 2020. Practical Natural Language\nProcessing: A Comprehensive Guide to Building Real-World NLP Systems. O'Reilly Media.\n3. Lewis Tunstall, Leandro Von Werra, and Thomas Wolf. 2022. Natural Language Processing with Transformers\n(Revised Edition). O'Reilly Media.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 29\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n34%\n24%\n10%\n3%\n17%\n10%\n\n\nZabezpečuje:\ndoc. Ing. Peter Bednár, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

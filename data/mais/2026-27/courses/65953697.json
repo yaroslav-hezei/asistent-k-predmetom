@@ -1,0 +1,170 @@
+{
+  "predmet_id": "65953697",
+  "code": "26000652",
+  "name": "Riešenie problémov rozsiahlych infraštruktúr",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953697",
+  "fetched_at": "2026-11-17T15:11:02Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000652"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Riešenie problémov rozsiahlych infraštruktúr"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26000657 - Technológie na báze prepínaných sietí, 2612331 - Smerovacie algoritmy v počítačových sieťach"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, konfiguračné zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet poskytuje moderný pohľad na správu a riadenie sieťových infraštruktúr s dôrazom na programovateľnosť a automatizáciu. Študenti sa oboznámia s konceptmi sieťovej programovateľnosti, ako sú YANG modely, RESTCONF a NETCONF, a získajú praktické skúsenosti s tvorbou desktopových aplikácií a využívaním REST API v rôznych programovacích jazykoch. Predmet zahŕňa aj analýzu a klasifikáciu sieťovej prevádzky pomocou modelov strojového učenia, tvorbu dátových jednotiek, a úvod do SDN technológií vrátane protokolu OpenFlow a kontroléra OpenDayLight. Predmet kladie dôraz na praktické aplikácie získaných vedomostí v reálnych sieťových scenároch."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do sieťovej programovateľnosti - YANG modely, protokol RESTCONF a NETCONF\n2. Tvorba desktopovej aplikácie a práca s REST API v rôznych programovacích jazykoch pre riadenie sieťových infraštruktúr\n3. Zber, analýza a klasifikácia sieťovej prevádzky modelmi strojového učenia\n4. Úvod do SDN - protokol OpenFlow a kontrolér OpenDayLight\n5. Smerovanie dát v riešení SD-Access - protokol LISP\n6. Skriptovanie v kontexte PC sietí a možnosti pre generovanie dátových jednotiek (Scapy, Yersinia)\n7. Penetračné testovanie LAN siete - Knižnica Scapy + Tkinter + Kali Linux nástroje\n8. Tvorba sieťových prostredí v AWS cloud-e\n9. Správa prostredí a ich konfigurácia využitím nástrojov Terraform a Ansible\n10. Sieťové prostredie v kontexte kontajnerov - technológie Docker, Swarm a Kubernetes"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Riešenie problémov rozsiahlych infraštruktúr / Rastislav Petija, Erika Abigail Katonová, Peter Feciľak - 1. vyd. - Košice : Technická univerzita v Košiciach - 2024. - 146 s. - ISBN 978-80-553-4197-2.\n2. Network Programmability and Automation: Skills for the Next-Generation Network Engineer / Jason Edelman, Scott S. Lowe, Matt Oswalt, O'Reilly Media.\n3. SDN and NFV Simplified: A Visual Guide to Understanding Software Defined Networks and Network Function Virtualization / Jim Doherty, Addison-Wesley."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 131\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n27%\n21%\n16%\n9%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Feciľak, PhD.\nIng. Ondrej Kainz, PhD.\nIng. Ivan Brťka"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 131,
+    "percent": {
+      "A": 26,
+      "B": 27,
+      "C": 21,
+      "D": 16,
+      "E": 9,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Feciľak, PhD.",
+    "Ing. Ondrej Kainz, PhD.",
+    "Ing. Ivan Brťka"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000652\nNázov predmetu: Riešenie problémov rozsiahlych infraštruktúr\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety: 26000657 - Technológie na báze prepínaných sietí, 2612331 - Smerovacie algoritmy v počítačových sieťach\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, konfiguračné zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet poskytuje moderný pohľad na správu a riadenie sieťových infraštruktúr s dôrazom na programovateľnosť a automatizáciu. Študenti sa oboznámia s konceptmi sieťovej programovateľnosti, ako sú YANG modely, RESTCONF a NETCONF, a získajú praktické skúsenosti s tvorbou desktopových aplikácií a využívaním REST API v rôznych programovacích jazykoch. Predmet zahŕňa aj analýzu a klasifikáciu sieťovej prevádzky pomocou modelov strojového učenia, tvorbu dátových jednotiek, a úvod do SDN technológií vrátane protokolu OpenFlow a kontroléra OpenDayLight. Predmet kladie dôraz na praktické aplikácie získaných vedomostí v reálnych sieťových scenároch.\n\nStručná osnova predmetu:\n1. Úvod do sieťovej programovateľnosti - YANG modely, protokol RESTCONF a NETCONF\n2. Tvorba desktopovej aplikácie a práca s REST API v rôznych programovacích jazykoch pre riadenie sieťových infraštruktúr\n3. Zber, analýza a klasifikácia sieťovej prevádzky modelmi strojového učenia\n4. Úvod do SDN - protokol OpenFlow a kontrolér OpenDayLight\n5. Smerovanie dát v riešení SD-Access - protokol LISP\n6. Skriptovanie v kontexte PC sietí a možnosti pre generovanie dátových jednotiek (Scapy, Yersinia)\n7. Penetračné testovanie LAN siete - Knižnica Scapy + Tkinter + Kali Linux nástroje\n8. Tvorba sieťových prostredí v AWS cloud-e\n9. Správa prostredí a ich konfigurácia využitím nástrojov Terraform a Ansible\n10. Sieťové prostredie v kontexte kontajnerov - technológie Docker, Swarm a Kubernetes\n\nOdporúčaná literatúra:\n1. Riešenie problémov rozsiahlych infraštruktúr / Rastislav Petija, Erika Abigail Katonová, Peter Feciľak - 1. vyd. - Košice : Technická univerzita v Košiciach - 2024. - 146 s. - ISBN 978-80-553-4197-2.\n2. Network Programmability and Automation: Skills for the Next-Generation Network Engineer / Jason Edelman, Scott S. Lowe, Matt Oswalt, O'Reilly Media.\n3. SDN and NFV Simplified: A Visual Guide to Understanding Software Defined Networks and Network Function Virtualization / Jim Doherty, Addison-Wesley.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 131\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n27%\n21%\n16%\n9%\n2%\n\n\nZabezpečuje:\ndoc. Ing. Peter Feciľak, PhD.\nIng. Ondrej Kainz, PhD.\nIng. Ivan Brťka\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

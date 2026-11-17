@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65682159",
+  "code": "26001376",
+  "name": "Analýza priestorovo-časových dát",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65682159",
+  "fetched_at": "2026-11-17T15:01:54Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001376"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Analýza priestorovo-časových dát"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13/LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežná kontrola znalostí a zadanie (semestrálny projekt)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa vedomosti o základoch analýzy časových radov a priestorovo-časových dát vrátane konceptov stacionarity, dekompozície a stavových modelov. Porozumie analýze kauzálnych vzťahov vo viacrozmerných dátach a naučí sa využívať metódy pre modelovanie dynamických procesov v priestore a čase. Na základe týchto základov dokáže navrhovať a implementovať architektúry hlbokého učenia pre pokročilé aplikácie v umelej inteligencii so zameraním na predikciu v oblasti priestorovo-časových dát. Absolvent bude pripravený riešiť reálne úlohy v danej oblasti od fázy exploračnej analýzy cez spracovanie neúplných dát, návrh a implementáciu vhodných modelov, až po ich nasadenie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do analýzy časových radov.\nLineárne a stavové modely pre jednorozmerné časové rady.\nModelovanie viacrozmerných časových radov a kauzálne vzťahy v dátach.\nZáklady priestorovej štatistiky a geoštatistiky.\nAnalýza a modelovanie dynamických priestorovo-časových dát.\nMetódy predpovedania z priestorovo-časových dát na báze mechanizmu pozornosti.\nHlboké učenie pre mriežkové a sieťové dátové štruktúry.\nPokročilé sieťové modely a grafové neurónové siete pre priestorovo-časové dáta.\nGeneratívne modely, využitie fyzikálnych informácií a spracovanie neúplných dát."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Hyndman, R. J., Athanasopoulos, G.: Forecasting: Principles and Practice, 3rd edition, OTexts, 2021\n- Hamilton, J. D.: Time Series Analysis, 1st edition, Princeton University Press, 1994\n- Cremonini, M.: Data Science Fundamentals with R, Python, and Open Data, 1st edition, Springer, 2024\n- Bivand, R. S., Pebesma, E., Gómez-Rubio, V.: Applied Spatial Data Analysis with R, 2nd edition, Springer, 2013\n- Hamilton, W. L.: Graph Representation Learning, 1st edition, Morgan & Claypool Publishers, 2020"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Priame konzultácie: 6 hodín\n- Projektová práca priamo na cvičeniach: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Spracovanie semestrálneho projektu: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Butka, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Butka, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001376\nNázov predmetu: Analýza priestorovo-časových dát\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13/LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežná kontrola znalostí a zadanie (semestrálny projekt).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa vedomosti o základoch analýzy časových radov a priestorovo-časových dát vrátane konceptov stacionarity, dekompozície a stavových modelov. Porozumie analýze kauzálnych vzťahov vo viacrozmerných dátach a naučí sa využívať metódy pre modelovanie dynamických procesov v priestore a čase. Na základe týchto základov dokáže navrhovať a implementovať architektúry hlbokého učenia pre pokročilé aplikácie v umelej inteligencii so zameraním na predikciu v oblasti priestorovo-časových dát. Absolvent bude pripravený riešiť reálne úlohy v danej oblasti od fázy exploračnej analýzy cez spracovanie neúplných dát, návrh a implementáciu vhodných modelov, až po ich nasadenie.\n\nStručná osnova predmetu:\nÚvod do analýzy časových radov.\nLineárne a stavové modely pre jednorozmerné časové rady.\nModelovanie viacrozmerných časových radov a kauzálne vzťahy v dátach.\nZáklady priestorovej štatistiky a geoštatistiky.\nAnalýza a modelovanie dynamických priestorovo-časových dát.\nMetódy predpovedania z priestorovo-časových dát na báze mechanizmu pozornosti.\nHlboké učenie pre mriežkové a sieťové dátové štruktúry.\nPokročilé sieťové modely a grafové neurónové siete pre priestorovo-časové dáta.\nGeneratívne modely, využitie fyzikálnych informácií a spracovanie neúplných dát.\n\nOdporúčaná literatúra:\n- Hyndman, R. J., Athanasopoulos, G.: Forecasting: Principles and Practice, 3rd edition, OTexts, 2021\n- Hamilton, J. D.: Time Series Analysis, 1st edition, Princeton University Press, 1994\n- Cremonini, M.: Data Science Fundamentals with R, Python, and Open Data, 1st edition, Springer, 2024\n- Bivand, R. S., Pebesma, E., Gómez-Rubio, V.: Applied Spatial Data Analysis with R, 2nd edition, Springer, 2013\n- Hamilton, W. L.: Graph Representation Learning, 1st edition, Morgan & Claypool Publishers, 2020\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Priame konzultácie: 6 hodín\n- Projektová práca priamo na cvičeniach: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Spracovanie semestrálneho projektu: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Butka, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

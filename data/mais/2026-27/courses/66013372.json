@@ -1,0 +1,163 @@
+{
+  "predmet_id": "66013372",
+  "code": "26000785",
+  "name": "Neurónové siete",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013372",
+  "fetched_at": "2026-11-17T15:15:08Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000785"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Neurónové siete"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nprojekty, testy"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet nadväzuje na predchádzajúce znalosti o metódach výpočtovej inteligencie, ktoré už študenti majú. Cieľom je jednak rozšírenie vedomosti o pokročilé metódy, ale aj získanie väčšej istoty pri aplikácií základných metód učenia neurónových sietí. Absolvovanie predmetu dáva predpoklad pre uplatnenie v oblastiach IT kde sa využívajú, nasadzujú, alebo aj vyvíjajú moderné prístupy využívajúce neurónové siete.\nNaštudované metódy učenia neurónových sietí je možné využiť pri riešení úloh modelovania, riadenia, optimalizácie a rozhodovania. Študenti získajú skúsenosť s praktickým programovaním vybraných metód efektívnym spôsobom s využitím možností paralelizácie, ktoré poskytujú súčasné hardvérové prostriedky. Taktiež získajú skúsenosť so spracovaním experimentalných výpočtových výsledkov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Rozdelenie výpočtových metód učenia neurónových sietí\n• Repetitórium – spätné šírenie chyby a Kohonenové siete\n• Prunning, regularizácia, generalizácia\n• Rekurentné neurónové siete, BPTT\n• Ďalšie metódy ART – FusionART, MF ARTMAP\n• Učenie reinforcement – Q-learning, adaptive critic\n• Deep learning, konvolučné siete – Neocognitron\n• Neuroevolúcia\n• Rezervoáre – echo-state siete\n• Podporné vektory – SVM\n• Moderné aplikácie neurónových sietí"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Sinčák, Andrejková : Neuronové siete I., Inžiniersky prístup, Elfa, Košice, 1996\n• Haykin: Neural Networks: A Comprehensive Foundation, MacMillan, 1994\n• Ďalšie zdroje budú dodané na prednáškách"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 529\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n17%\n20%\n16%\n7%\n14%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Peter Sinčák, CSc.\nIng. Maroš Hliboký, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 529,
+    "percent": {
+      "A": 26,
+      "B": 17,
+      "C": 20,
+      "D": 16,
+      "E": 7,
+      "FX": 14
+    }
+  },
+  "teachers": [
+    "prof. Ing. Peter Sinčák, CSc.",
+    "Ing. Maroš Hliboký, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000785\nNázov predmetu: Neurónové siete\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nprojekty, testy\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet nadväzuje na predchádzajúce znalosti o metódach výpočtovej inteligencie, ktoré už študenti majú. Cieľom je jednak rozšírenie vedomosti o pokročilé metódy, ale aj získanie väčšej istoty pri aplikácií základných metód učenia neurónových sietí. Absolvovanie predmetu dáva predpoklad pre uplatnenie v oblastiach IT kde sa využívajú, nasadzujú, alebo aj vyvíjajú moderné prístupy využívajúce neurónové siete.\nNaštudované metódy učenia neurónových sietí je možné využiť pri riešení úloh modelovania, riadenia, optimalizácie a rozhodovania. Študenti získajú skúsenosť s praktickým programovaním vybraných metód efektívnym spôsobom s využitím možností paralelizácie, ktoré poskytujú súčasné hardvérové prostriedky. Taktiež získajú skúsenosť so spracovaním experimentalných výpočtových výsledkov.\n\n\nStručná osnova predmetu:\n• Rozdelenie výpočtových metód učenia neurónových sietí\n• Repetitórium – spätné šírenie chyby a Kohonenové siete\n• Prunning, regularizácia, generalizácia\n• Rekurentné neurónové siete, BPTT\n• Ďalšie metódy ART – FusionART, MF ARTMAP\n• Učenie reinforcement – Q-learning, adaptive critic\n• Deep learning, konvolučné siete – Neocognitron\n• Neuroevolúcia\n• Rezervoáre – echo-state siete\n• Podporné vektory – SVM\n• Moderné aplikácie neurónových sietí\n\n\nOdporúčaná literatúra:\n• Sinčák, Andrejková : Neuronové siete I., Inžiniersky prístup, Elfa, Košice, 1996\n• Haykin: Neural Networks: A Comprehensive Foundation, MacMillan, 1994\n• Ďalšie zdroje budú dodané na prednáškách\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 529\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n17%\n20%\n16%\n7%\n14%\n\n\nZabezpečuje:\nprof. Ing. Peter Sinčák, CSc.\nIng. Maroš Hliboký, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65969942",
+  "code": "26001287",
+  "name": "Napájacie a pohonné systémy elektromobilov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969942",
+  "fetched_at": "2026-11-17T15:14:26Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001287"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Napájacie a pohonné systémy elektromobilov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH získaním zápočtu min. 21 zo 40%."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH úspešným vykonaním skúšky s hodnotením min. 31 zo 60%. Celkové hodnotenie je súčtom hodnotení získaných študentom za hodnotené obdobie v súlade s vnútornými predpismi TUKE."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvovaním predmetu získa študent poznatky z oblasti pohonných systémov elektromobilov vrátane elektromotorov a súvisiacich riadiacich, budiacich a pomocných obvodov, ako aj z oblasti manažmentu napájania elektromobilov, zahrnúc napájacie akumulátory, meniče napätia, nabíjacie a ochranné obvody."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do problematiky elektromobilov.\nKonštrukcia elektrickej výbavy elektromobilov.\nHybridné vozidlá (riadenie výkonu hybridných vozidiel, rekuperácia energie).\nElektromotory - konštrukcia, riadenie, charakteristiky.\nNapájacie elektrochemické články elektrických a hybridných vozidiel.\nSpráva nabíjania automobilových elektrochemických článkov.\nSystémy ochrany elektrochemických článkov (BMS).\nPrevádzková diagnostika elektrochemických článkov.\nŠtruktúra napájacej sústavy elektrických a hybridných vozidiel.\nPomocné prvky správy napájania elektrických vozidiel."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Michal Frivaldský: Elektromobilita. EDIS, 2020, ISBN: 9788055415987\n[2] Col. auth: Hybrid & Electric Vehicles (A CRCPress freebook), 2018, https://www.routledge.com/rsc/downloads/CRC_Hybrid_Vehicles_Freebook.pdf\n[3] Analog Devices: Power Management. Basic Linear Design. 2007, http://www.analog.com/media/en/training-seminars/design-handbooks/Basic-Linear-Design/Chapter9.pdf"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby na prednáškach, cvičeniach, ako aj samostatné štúdium a tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu a forme, spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 12\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n25%\n25%\n33%\n8%\n0%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Lukács, PhD.\nIng. Slavomír Kardoš, PhD.\nIng. Tomáš Lenger, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 12,
+    "percent": {
+      "A": 25,
+      "B": 25,
+      "C": 33,
+      "D": 8,
+      "E": 0,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Lukács, PhD.",
+    "Ing. Slavomír Kardoš, PhD.",
+    "Ing. Tomáš Lenger, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001287\nNázov predmetu: Napájacie a pohonné systémy elektromobilov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH získaním zápočtu min. 21 zo 40%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH úspešným vykonaním skúšky s hodnotením min. 31 zo 60%. Celkové hodnotenie je súčtom hodnotení získaných študentom za hodnotené obdobie v súlade s vnútornými predpismi TUKE.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvovaním predmetu získa študent poznatky z oblasti pohonných systémov elektromobilov vrátane elektromotorov a súvisiacich riadiacich, budiacich a pomocných obvodov, ako aj z oblasti manažmentu napájania elektromobilov, zahrnúc napájacie akumulátory, meniče napätia, nabíjacie a ochranné obvody.\n\nStručná osnova predmetu:\nÚvod do problematiky elektromobilov.\nKonštrukcia elektrickej výbavy elektromobilov.\nHybridné vozidlá (riadenie výkonu hybridných vozidiel, rekuperácia energie).\nElektromotory - konštrukcia, riadenie, charakteristiky.\nNapájacie elektrochemické články elektrických a hybridných vozidiel.\nSpráva nabíjania automobilových elektrochemických článkov.\nSystémy ochrany elektrochemických článkov (BMS).\nPrevádzková diagnostika elektrochemických článkov.\nŠtruktúra napájacej sústavy elektrických a hybridných vozidiel.\nPomocné prvky správy napájania elektrických vozidiel.\n\nOdporúčaná literatúra:\n[1] Michal Frivaldský: Elektromobilita. EDIS, 2020, ISBN: 9788055415987\n[2] Col. auth: Hybrid & Electric Vehicles (A CRCPress freebook), 2018, https://www.routledge.com/rsc/downloads/CRC_Hybrid_Vehicles_Freebook.pdf\n[3] Analog Devices: Power Management. Basic Linear Design. 2007, http://www.analog.com/media/en/training-seminars/design-handbooks/Basic-Linear-Design/Chapter9.pdf\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby na prednáškach, cvičeniach, ako aj samostatné štúdium a tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu a forme, spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 12\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n25%\n25%\n33%\n8%\n0%\n8%\n\n\nZabezpečuje:\ndoc. Ing. Peter Lukács, PhD.\nIng. Slavomír Kardoš, PhD.\nIng. Tomáš Lenger, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

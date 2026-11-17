@@ -1,0 +1,174 @@
+{
+  "predmet_id": "65667270",
+  "code": "26001069",
+  "name": "Pokročilé metódy analýzy dát",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667270",
+  "fetched_at": "2026-11-17T15:00:21Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001069"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Pokročilé metódy analýzy dát"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 13,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\n3.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21 bodov z 40 možných, ktoré môže získať za zadanie."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31 bodov zo 60 možných."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je poskytnúť študentom prehlaď vedomostí a nadobudnúť praktické zručnosti pri aplikovaní pokročilých metód analýzy dát zameraných hlavne na mnohorozmerné dáta a dáta, ktoré nie sú priamo reprezentované v tabuľkovej forme. Tento predmet nadväzuje a rozširuje vedomosti získané počas štúdia v základných predmetoch Objavovania znalostí v databázach a Strojového učenia."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Návrhové princípy algoritmov pre analýzu dát\n• Učenie reprezentácie dát\n• Analýza priestorovo usporiadaných dát\n• Analýza sekvenčných dát\n• Analýza grafových dát\n• Projekcia a vizualizácia dát"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Hastie, et. al.: The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics),Springer, 2016\n• O’Neil et. al.: Doing Data Science: Straight Talk from the Frontline, O’Reilly, 2013\n• Goodfellow, et. al..: Deep learning. MIT Press, 2016.\n• James, et. al.: An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics), Springer, 2016"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: 38h\n• Účasť na prednáškach: 13 h\n• Účasť na laboratórnych cvičeniach: 13 h\n• Priame konzultácie: 12 h\nNekontaktná výučba: 120\n• Príprava na prednášky a cvičenia (štúdium materiálov): 24h\n• Príprava na skúšku: 48h\n• Vypracovanie semestrálnych zadaní: 48h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 258\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n22%\n34%\n29%\n7%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Bednár, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 258,
+    "percent": {
+      "A": 6,
+      "B": 22,
+      "C": 34,
+      "D": 29,
+      "E": 7,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Bednár, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001069\nNázov predmetu: Pokročilé metódy analýzy dát\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,1,1\nExterná forma štúdia (hodiny za semester): ZS 13,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\n3.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21 bodov z 40 možných, ktoré môže získať za zadanie.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31 bodov zo 60 možných.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je poskytnúť študentom prehlaď vedomostí a nadobudnúť praktické zručnosti pri aplikovaní pokročilých metód analýzy dát zameraných hlavne na mnohorozmerné dáta a dáta, ktoré nie sú priamo reprezentované v tabuľkovej forme. Tento predmet nadväzuje a rozširuje vedomosti získané počas štúdia v základných predmetoch Objavovania znalostí v databázach a Strojového učenia.\n\nStručná osnova predmetu:\n• Návrhové princípy algoritmov pre analýzu dát\n• Učenie reprezentácie dát\n• Analýza priestorovo usporiadaných dát\n• Analýza sekvenčných dát\n• Analýza grafových dát\n• Projekcia a vizualizácia dát\n\n\nOdporúčaná literatúra:\n• Hastie, et. al.: The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics),Springer, 2016\n• O’Neil et. al.: Doing Data Science: Straight Talk from the Frontline, O’Reilly, 2013\n• Goodfellow, et. al..: Deep learning. MIT Press, 2016.\n• James, et. al.: An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics), Springer, 2016\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: 38h\n• Účasť na prednáškach: 13 h\n• Účasť na laboratórnych cvičeniach: 13 h\n• Priame konzultácie: 12 h\nNekontaktná výučba: 120\n• Príprava na prednášky a cvičenia (štúdium materiálov): 24h\n• Príprava na skúšku: 48h\n• Vypracovanie semestrálnych zadaní: 48h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 258\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n22%\n34%\n29%\n7%\n2%\n\n\nZabezpečuje:\ndoc. Ing. Peter Bednár, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

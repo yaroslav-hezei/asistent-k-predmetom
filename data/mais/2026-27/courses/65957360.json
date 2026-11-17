@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65957360",
+  "code": "26000604",
+  "name": "Princípy činnosti a použitie mikrosystémov v elektronike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65957360",
+  "fetched_at": "2026-11-17T15:11:44Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000604"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Princípy činnosti a použitie mikrosystémov v elektronike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežné testy, projekty"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa poznatky z oblasti mikrosystémovej techniky na báze MEMS z hľadiska princípov činnosti, snímania a spracovania signálu, ako aj využitia pre meranie širokého spektra neelektrických veličín v rôznych priemyselných, spotrebných a ďalších aplikáciách. Praktické cvičenia zahŕňajú názorné výpočty tlaku, akcelerácie, rýchlosti otáčania, inklinácie a ďalších parametrov na základe údajov MEMS a návrh vzorových systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Definícia a vymedzenie mikroelektromechanických systémov, história vývoja.\nČlenenie mikroelektromechanických systémov - senzory a aktory.\nŠtruktúry mikro/nanoelektromechanických systémov (MEMS/NEMS).\nFyzikálne princípy činnosti mikroelektromechanických systémov.\nSnímanie a spracovanie signálu MEMS snímačov.\nVymedzenie využitia senzorových a aktorových MEMS.\nMEMS akcelerometre, gyroskopy a magnetometre v inerciálnych meracích systémoch pre automobilovú a spotrebnú elektroniku.\nTlakové a prietokové MEMS pre automobilovú a medicínsku elektroniku.\nEnvironmentálne MEMS pre priemyselnú a spotrebnú elektroniku.\nPerspektívy mikroelektromechanických systémov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Kardoš, S., Duranka, P.: Princípy činnosti a aplikácie mikroelektromechanických systémov, TU v Košiciach, 2020, 120 s, ISBN 978-80-553-3615-2\nChollet, F., Liu, H.: A (not so) short introduction to MEMS. v. 5.4, ISBN: 978-2-9542015-0-4"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby na prednáškach, cvičeniach, ako aj samostatné štúdium a tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu a forme, spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 168\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n13%\n32%\n21%\n14%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Juraj Ďurišin, PhD.\nIng. Slavomír Kardoš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 168,
+    "percent": {
+      "A": 13,
+      "B": 13,
+      "C": 32,
+      "D": 21,
+      "E": 14,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. Juraj Ďurišin, PhD.",
+    "Ing. Slavomír Kardoš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26000604\nNázov predmetu: Princípy činnosti a použitie mikrosystémov v elektronike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežné testy, projekty\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa poznatky z oblasti mikrosystémovej techniky na báze MEMS z hľadiska princípov činnosti, snímania a spracovania signálu, ako aj využitia pre meranie širokého spektra neelektrických veličín v rôznych priemyselných, spotrebných a ďalších aplikáciách. Praktické cvičenia zahŕňajú názorné výpočty tlaku, akcelerácie, rýchlosti otáčania, inklinácie a ďalších parametrov na základe údajov MEMS a návrh vzorových systémov.\n\nStručná osnova predmetu:\nDefinícia a vymedzenie mikroelektromechanických systémov, história vývoja.\nČlenenie mikroelektromechanických systémov - senzory a aktory.\nŠtruktúry mikro/nanoelektromechanických systémov (MEMS/NEMS).\nFyzikálne princípy činnosti mikroelektromechanických systémov.\nSnímanie a spracovanie signálu MEMS snímačov.\nVymedzenie využitia senzorových a aktorových MEMS.\nMEMS akcelerometre, gyroskopy a magnetometre v inerciálnych meracích systémoch pre automobilovú a spotrebnú elektroniku.\nTlakové a prietokové MEMS pre automobilovú a medicínsku elektroniku.\nEnvironmentálne MEMS pre priemyselnú a spotrebnú elektroniku.\nPerspektívy mikroelektromechanických systémov.\n\nOdporúčaná literatúra:\nKardoš, S., Duranka, P.: Princípy činnosti a aplikácie mikroelektromechanických systémov, TU v Košiciach, 2020, 120 s, ISBN 978-80-553-3615-2\nChollet, F., Liu, H.: A (not so) short introduction to MEMS. v. 5.4, ISBN: 978-2-9542015-0-4\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby na prednáškach, cvičeniach, ako aj samostatné štúdium a tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu a forme, spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 168\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n13%\n32%\n21%\n14%\n8%\n\n\nZabezpečuje:\ndoc. Ing. Juraj Ďurišin, PhD.\nIng. Slavomír Kardoš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,194 @@
+{
+  "predmet_id": "65952607",
+  "code": "2611411",
+  "name": "Funkcionálne programovanie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952607",
+  "fetched_at": "2026-11-17T15:09:40Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2611411"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Funkcionálne programovanie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadania, projekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi s funkcionálnym prístupom k programovaniu. Naučí sa využívať čisté funkcie, funkcie vyššieho rádu, efektívne pracovať s nemennými štruktúrami údajov. Predmet sa tiež venuje významu typov v opise vlastností programu. Študent nadobudne aj vedomosti o jazyku lambda. Pri vyučovaní sa používa predovšetkým jazyk Haskell, príklady sú však uvádzané aj v iných jazykoch."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Charakteristika a význam funkcionálneho programovania.\n2. Základy jazyka Haskell.\n3. Práca so zoznamami a funkcie vyššieho rádu.\n4. Vlastnosti funkcií a ich vyhodnotenie.\n5. Metódy návrhu funkcionálnych programov.\n6. Význam typov vo opise vlastností programu.\n7. Hodnoty a algebraické typy, kategorizácia algebraických typov.\n8. Typové triedy a polymorfizmus.\n9. Realizácia vstupných a výstupných operácií v funkcionálnom jazyku.\n10. Monadický prístup k definovaniu programov.\n11. Modularita v jazyku Haskell.\n12. Jazyk lambda a kombinátory.\n13. Aplikácia funkcionálneho programovania v jazyku Java.\n14. Ďalšie funkcionálne programovacie jazyky."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] CHODAREV, S. Funkcionálne programovanie [online]. Dostupné na internete: .\n[2] KOLLÁR, J. Funkcionálne programovanie. Košice: Elfa, 2009. ISBN 978-80-8086-116-2.\n[3] THOMPSON, S. Haskell: the craft of functional programming [online]. 3. ed. Harlow Munich: Addison Wesley, 2011. 585 s. ISBN 978-0-201-88295-7. Dostupné na internete: .\n[4] HUDAK, P. et al. Gentle Introduction To Haskell, version 98 [online]. 2000. Dostupné na internete: ."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1732\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n25%\n24%\n16%\n8%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Slavomír Šimoňák, PhD.\nIng. Sergej Chodarev, PhD.\nIng. Filip Gurbáľ, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1732,
+    "percent": {
+      "A": 22,
+      "B": 25,
+      "C": 24,
+      "D": 16,
+      "E": 8,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "doc. Ing. Slavomír Šimoňák, PhD.",
+    "Ing. Sergej Chodarev, PhD.",
+    "Ing. Filip Gurbáľ, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2611411\nNázov predmetu: Funkcionálne programovanie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadania, projekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi s funkcionálnym prístupom k programovaniu. Naučí sa využívať čisté funkcie, funkcie vyššieho rádu, efektívne pracovať s nemennými štruktúrami údajov. Predmet sa tiež venuje významu typov v opise vlastností programu. Študent nadobudne aj vedomosti o jazyku lambda. Pri vyučovaní sa používa predovšetkým jazyk Haskell, príklady sú však uvádzané aj v iných jazykoch.\n\nStručná osnova predmetu:\n1. Charakteristika a význam funkcionálneho programovania.\n2. Základy jazyka Haskell.\n3. Práca so zoznamami a funkcie vyššieho rádu.\n4. Vlastnosti funkcií a ich vyhodnotenie.\n5. Metódy návrhu funkcionálnych programov.\n6. Význam typov vo opise vlastností programu.\n7. Hodnoty a algebraické typy, kategorizácia algebraických typov.\n8. Typové triedy a polymorfizmus.\n9. Realizácia vstupných a výstupných operácií v funkcionálnom jazyku.\n10. Monadický prístup k definovaniu programov.\n11. Modularita v jazyku Haskell.\n12. Jazyk lambda a kombinátory.\n13. Aplikácia funkcionálneho programovania v jazyku Java.\n14. Ďalšie funkcionálne programovacie jazyky.\n\nOdporúčaná literatúra:\n[1] CHODAREV, S. Funkcionálne programovanie [online]. Dostupné na internete: .\n[2] KOLLÁR, J. Funkcionálne programovanie. Košice: Elfa, 2009. ISBN 978-80-8086-116-2.\n[3] THOMPSON, S. Haskell: the craft of functional programming [online]. 3. ed. Harlow Munich: Addison Wesley, 2011. 585 s. ISBN 978-0-201-88295-7. Dostupné na internete: .\n[4] HUDAK, P. et al. Gentle Introduction To Haskell, version 98 [online]. 2000. Dostupné na internete: .\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1732\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n25%\n24%\n16%\n8%\n4%\n\n\nZabezpečuje:\ndoc. Ing. Slavomír Šimoňák, PhD.\nIng. Sergej Chodarev, PhD.\nIng. Filip Gurbáľ, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

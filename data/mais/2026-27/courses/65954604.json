@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65954604",
+  "code": "26001004",
+  "name": "Základy kryptografie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65954604",
+  "fetched_at": "2026-11-17T15:11:40Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001004"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy kryptografie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti si osvoja základné algoritmy symetrickej a asymetrickej kryptografie. Naučia sa ich implementovať a získajú základné znalosti o možnostiach kryptoanalýzy. Budú vedieť aplikovať kryptografické systémy v oblasti autentifikácie a porozumejú metódam a bezpečnostným rizikám generovania a distribúcie kryptografických kľúčov. Naučia sa posúdiť bezpečnosť komunikačných protokolov a implementovať a využívať certifikačné postupy."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Kryptografické systémy\n- Klasické substitučné a polyalfabetické šifry a možnosti ich kryptoanalýzy\n- Kerckhoffsové princípy a bezpečnosť kryptografických systémov\n- Kryptografické metódy: substitučné, transpozičné, prúdové a blokové šifry\nSymetrické šifry\n- Feistelova štruktúra, šifra DES, 3DES\n- Šifra AES a operačné módy blokových šifier\nAsymetrické šifry\n- Rozklad čísla na súčin prvočísel, Euklidov algoritmus, modulárna aritmetika, čínska veta o zvyškoch, Eulerova funkcia (totient), Eulerova veta, malá Fermatova veta\n- RSA šifra, generovanie kľúča, implementácia šifry: CRT, blinding, Mentgomeryho redukcia\n- Generovanie veľkých prvočísel, Millerov-Rabinov test prvočíselnosti\n- Eliptické krivky, grupové operácie na bodoch krivky, krivky NIST, implementácia šifry: projektívne súradnice, Montgomeryho skalárny súčin\nHešovacie funkcie\n- Kryptografické vlastnosti hešovacích funkcií\n- Merkleho-Damgårdova konštrukcia, funkcie SHA\n- Detekcia kolízií (MDC) a autentifikovaná kryptografia (MAC)\nDigitálny podpis\n- RSA podpis, RSA výplne, slepý podpis\n- ElGamalova schéma, DSA, podpis eliptickými krivkami (ECDSA)\n- Schnorrov podpis, Merkleho podpisová schéma, Lamportov jednorázový podpis\nGenerovanie a distribúcia kľúča\n- Použitie kryptografie v autentifikačných protokoloch, útoky na autentifikačné protokoly\n- Generovanie náhodných kľúčov (ANSI X9.31, CTR_DRBG),\n- Dohoda na kľúči, výmena kľúča, Kerberos, Diffieho-Hellmanova výmena kľuča (DH, ECDH, ECDHE)"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. PAAR, Ch., PELZL, J.: Understanding Cryptography, Springer 2010.\n2. STINSON, D. R.. PATERSON, M. B.: Cryptography: Theory and Practie. CRC Press, 2018.\n3. MAO, W. Modern Cryptography: Theory and Practice. Prentice Hall, 2003.\n4. MENEZES, A. - OORSCHOT, P. van - VANSTONE, S.: Handbook of Applied Cryptography. CRC Press, 1996.\n5. SCHNEIER, B.: Applied Cryptography, 20th Edition, John Wiley & Sons Inc., 2015."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 262\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n7%\n18%\n24%\n28%\n18%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Martin Tomášek, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 262,
+    "percent": {
+      "A": 5,
+      "B": 7,
+      "C": 18,
+      "D": 24,
+      "E": 28,
+      "FX": 18
+    }
+  },
+  "teachers": [
+    "doc. Ing. Martin Tomášek, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001004\nNázov predmetu: Základy kryptografie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti si osvoja základné algoritmy symetrickej a asymetrickej kryptografie. Naučia sa ich implementovať a získajú základné znalosti o možnostiach kryptoanalýzy. Budú vedieť aplikovať kryptografické systémy v oblasti autentifikácie a porozumejú metódam a bezpečnostným rizikám generovania a distribúcie kryptografických kľúčov. Naučia sa posúdiť bezpečnosť komunikačných protokolov a implementovať a využívať certifikačné postupy.\n\nStručná osnova predmetu:\nKryptografické systémy\n- Klasické substitučné a polyalfabetické šifry a možnosti ich kryptoanalýzy\n- Kerckhoffsové princípy a bezpečnosť kryptografických systémov\n- Kryptografické metódy: substitučné, transpozičné, prúdové a blokové šifry\nSymetrické šifry\n- Feistelova štruktúra, šifra DES, 3DES\n- Šifra AES a operačné módy blokových šifier\nAsymetrické šifry\n- Rozklad čísla na súčin prvočísel, Euklidov algoritmus, modulárna aritmetika, čínska veta o zvyškoch, Eulerova funkcia (totient), Eulerova veta, malá Fermatova veta\n- RSA šifra, generovanie kľúča, implementácia šifry: CRT, blinding, Mentgomeryho redukcia\n- Generovanie veľkých prvočísel, Millerov-Rabinov test prvočíselnosti\n- Eliptické krivky, grupové operácie na bodoch krivky, krivky NIST, implementácia šifry: projektívne súradnice, Montgomeryho skalárny súčin\nHešovacie funkcie\n- Kryptografické vlastnosti hešovacích funkcií\n- Merkleho-Damgårdova konštrukcia, funkcie SHA\n- Detekcia kolízií (MDC) a autentifikovaná kryptografia (MAC)\nDigitálny podpis\n- RSA podpis, RSA výplne, slepý podpis\n- ElGamalova schéma, DSA, podpis eliptickými krivkami (ECDSA)\n- Schnorrov podpis, Merkleho podpisová schéma, Lamportov jednorázový podpis\nGenerovanie a distribúcia kľúča\n- Použitie kryptografie v autentifikačných protokoloch, útoky na autentifikačné protokoly\n- Generovanie náhodných kľúčov (ANSI X9.31, CTR_DRBG),\n- Dohoda na kľúči, výmena kľúča, Kerberos, Diffieho-Hellmanova výmena kľuča (DH, ECDH, ECDHE)\n\nOdporúčaná literatúra:\n1. PAAR, Ch., PELZL, J.: Understanding Cryptography, Springer 2010.\n2. STINSON, D. R.. PATERSON, M. B.: Cryptography: Theory and Practie. CRC Press, 2018.\n3. MAO, W. Modern Cryptography: Theory and Practice. Prentice Hall, 2003.\n4. MENEZES, A. - OORSCHOT, P. van - VANSTONE, S.: Handbook of Applied Cryptography. CRC Press, 1996.\n5. SCHNEIER, B.: Applied Cryptography, 20th Edition, John Wiley & Sons Inc., 2015.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 262\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n7%\n18%\n24%\n28%\n18%\n\n\nZabezpečuje:\ndoc. Ing. Martin Tomášek, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,155 @@
+{
+  "predmet_id": "65960279",
+  "code": "26000725",
+  "name": "Diplomová práca",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960279",
+  "fetched_at": "2026-11-17T15:13:21Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000725"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Diplomová práca"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "9,9"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 117,117/LS 117,117"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": ""
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "12"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26000722 - Diplomový projekt 2"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie vedúcim ZP, Hodnotenie oponentom ZP"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nAbsolvovanie predmetu je podmienené absolvovaním štátnej skúšky s prospechom PROSPEL, na ktorú je študent pripustený len vtedy, ak má hodnotenie posudkov školiteľa a oponenta na viac ako 50 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa naučí samostatne a tvorivo pristupovať k riešeniu zadanej témy diplomovej práce a získa potrebné skúsenosti so spôsobmi a postupmi pri návrhu konkrétnych riešení. Výstupom je predloženie diplomovej práce, ktorá spĺňa stanovené ciele."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Rozbor problematiky danej témy diplomovej práce.\n- Získanie vhodných podkladov a literatúry pre riešenie diplomovej práce.\n- Návrh postupu riešenia a jeho spracovanie.\n- Riešenie diplomovej práce ( výpočty, simulácie, meranie, realizácia).\n- Vypracovanie výslednej diplomovej práce podľa pokynov vedúceho.\n- Zaregistrovanie diplomovej práce v knižnici TUKE.\n- Posudky vedúceho a oponenta diplomovej práce.\n- Štátna skúška."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Katuščák, D.: Ako písať vysokoškolské a kvalifikačné práce. 2.vyd, Bratislava 1998\n2. STN ISO 690:1998: Dokumentácia - Bibliografické odkazy - Obsah, forma a štruktúra.\n- Podľa odporučenia vedúceho projektovej práce."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 353\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n22%\n13%\n5%\n3%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Roman Cimbala, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 12,
+    "recommended_semester": "ZS, LS",
+    "completion": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [],
+  "grades": {
+    "total_students": 353,
+    "percent": {
+      "A": 50,
+      "B": 22,
+      "C": 13,
+      "D": 5,
+      "E": 3,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "prof. Ing. Roman Cimbala, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 26000725\nNázov predmetu: Diplomová práca\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 9,9\nExterná forma štúdia (hodiny za semester): ZS 117,117/LS 117,117\nMetóda štúdia:\n\nPočet kreditov: 12\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety: 26000722 - Diplomový projekt 2\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie vedúcim ZP, Hodnotenie oponentom ZP\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nAbsolvovanie predmetu je podmienené absolvovaním štátnej skúšky s prospechom PROSPEL, na ktorú je študent pripustený len vtedy, ak má hodnotenie posudkov školiteľa a oponenta na viac ako 50 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa naučí samostatne a tvorivo pristupovať k riešeniu zadanej témy diplomovej práce a získa potrebné skúsenosti so spôsobmi a postupmi pri návrhu konkrétnych riešení. Výstupom je predloženie diplomovej práce, ktorá spĺňa stanovené ciele.\n\nStručná osnova predmetu:\n- Rozbor problematiky danej témy diplomovej práce.\n- Získanie vhodných podkladov a literatúry pre riešenie diplomovej práce.\n- Návrh postupu riešenia a jeho spracovanie.\n- Riešenie diplomovej práce ( výpočty, simulácie, meranie, realizácia).\n- Vypracovanie výslednej diplomovej práce podľa pokynov vedúceho.\n- Zaregistrovanie diplomovej práce v knižnici TUKE.\n- Posudky vedúceho a oponenta diplomovej práce.\n- Štátna skúška.\n\nOdporúčaná literatúra:\n1. Katuščák, D.: Ako písať vysokoškolské a kvalifikačné práce. 2.vyd, Bratislava 1998\n2. STN ISO 690:1998: Dokumentácia - Bibliografické odkazy - Obsah, forma a štruktúra.\n- Podľa odporučenia vedúceho projektovej práce.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 353\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n22%\n13%\n5%\n3%\n7%\n\n\nZabezpečuje:\nprof. Ing. Roman Cimbala, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

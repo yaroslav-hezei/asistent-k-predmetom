@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65681971",
+  "code": "26001375",
+  "name": "Pokročilé riadenie a umelá inteligencia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65681971",
+  "fetched_at": "2026-11-17T15:01:51Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001375"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Pokročilé riadenie a umelá inteligencia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú písomku (20b), v ktorej budú výpočtovo/algoritmicky riešiť definované úlohy a následne postup riešenia a získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy definované v troch zadaniach (v súčte za 20b). Z priebežného hodnotenia študent môže získať 40b (min. počet je 21b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje výpočet a algoritmický návrh riešenia aplikačných úloh v jazyku Matlab/Simulink so simulačným overením na PC (35b), teoretická časť skúšky spočíva vo vypracovaní komplexných otázok vyplývajúcich z obsahu prednášok (25b).Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Hlavným cieľom predmetu je zvládnutie vybraných moderných klasických/inteligentných metód modelovania, riadenia a simulácie kyber-fyzikálnych systémov na teoretickej a algoritmickej úrovni, ktoré využívajú vlastnosti neurónových sietí v rôznych aplikáciách (neurónový dopredný model, neurónový inverzný model, neurónový estimátor). Predmet sa venuje metodike a etapám návrhu algoritmov optimálneho/prediktívneho riadenia pre fyzikálne systémy s využitím výsledkov experimentálnej identikácie (sivý model, model čiernej skrinky/black box model). Ďalším cieľom predmetu je verifikácia navrhnutých algoritmov inteligentného prediktívneho riadenia na simulačných modeloch fyzikálnych systémov (robot manipulátor, model helikoptéry, model guličky na ploche) v riadiacich štruktúrach v programovom prostredí MATLAB/Simulink s využitím aplikačných toolboxov. Predmet ďalej umožňuje získanie znalostí z algoritmického riešenia číslicového riadenia simulačných modelov nelineárnych systémov a ich simulačné overenie na laboratórnych výukových modeloch (hydraulický systém, model magnetickej levitácie, model areodynamickej levitácie) v programovom systéme MATLAB/Simulink/\nVýuka predmetu a riešenie zadaní je realizované na modeloch: http://kyb.fei.tuke.sk/laboratoria/modely/modely.php"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Prehľad moderných a inteligentných metód v modelovaní, riadení a simulácii kyber-fyzikálnych systémov.\n2. Algoritmizácia metód číslicového riadenia a jej overenie na simulačných/laboratórnych modeloch v simulačnom jazyku MATLAB/Simulink pre zvolené riadiace štruktúry (web portál : kyb.fei.tuke.sk)\n3. Experimentálna identifikácia modelov fyzikálnych systémov s premenlivými parametrami s využitím Identification Toolboxu (regresné modely) pre použitie v adaptívnych/prediktívnych algoritmoch riadenia\n4. Návrh algoritmov pre adaptívne a prediktívne riadenie nelineárnych systémov s využitím výsledkov analytickej/experimentálnej identifikácie (sivý model/grey model)\n5. Modelovanie nelineárnych fyzikálnych systémov s využitím nezrónových sietí, dynamické dopredné neurónové modely (NARX, NARMAX, NISS), trénovanie, testovanie, validácia, modely čiernej skrinky,\n6. Inteligentné algoritmy riadenia nelineárnych systémov s využitím neurónových dynamických modelov\n7. Metodika pre získanie dopredných a inverzných neurónových modelov, priame inverzné riadenie, riadenie s vnútorným modelom\n8. Riadiace štruktúry na báze dopredného neurónového modelu, riadenie s dopredným neurónovým modelom (FFC), aplikácie riešenia úlohy pre sledovanie trajektórie robotických manipulátorov, sledovanie trajektórie v mobilnej robotike\n9. Prediktívne riadenie (NMPC) s využitím viackrokového prediktora, inteligentné zovšeobecnené prediktívne riadenie (NGPC)\n10. Štruktúry riadenia na základe odhadu parametrov nelineárneho systému, inteligentné adaptívne algoritmy na báze neurónových modelov), simulačné overenie klasického/inteligentného adaptívneho riadenia s využítím výsledkov experimentálnej identifikácie"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Jajčišin, Š. - Jadlovská, A.: Návrh algoritmov prediktívneho riadenia s využitím nelineárnych modelov fyzikálnych systémov, FEI, TU, elfa, Košice, 2013\nČerkala, J. - Jadlovská, A.: Matematické modelovanie a riadenie kolesových mobilných robotov 1. vyd. - Košice : Elfa - 2019, s. 266, ISBN 978-80-8086-273-2\nJadlovská, A. - Jadlovská, S.: Moderné metódy modelovania a riadenia nelineárnych systémov, FEI, TU, Košice 2013\nJadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : TUKE - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1\nJadlovská, A. – Jadlovská, S,: Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3,\nChen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458\nVégh, P.: Neurónové a fuzzy systémy, STU, Bratislava 2014, ISBN 978-80-227-4227-6\nBíla, J.: Umělá inteligence a neurónové sitě, ČVUT Praha 1998\nŠvarc, I.,- Šeda, M.-Vítečková, M.: Automatické řízení, VUT Brno 2007, CERM, ISBN 978-80-214-3491-2\nTutoriály na výukovom web portáli pre simulačné a laboratórne modely výskumnej skupiny CMMRaPI (kyb.fei.tuke.sk)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 45 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 153 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Anna Jadlovská, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Anna Jadlovská, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001375\nNázov predmetu: Pokročilé riadenie a umelá inteligencia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú písomku (20b), v ktorej budú výpočtovo/algoritmicky riešiť definované úlohy a následne postup riešenia a získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy definované v troch zadaniach (v súčte za 20b). Z priebežného hodnotenia študent môže získať 40b (min. počet je 21b).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje výpočet a algoritmický návrh riešenia aplikačných úloh v jazyku Matlab/Simulink so simulačným overením na PC (35b), teoretická časť skúšky spočíva vo vypracovaní komplexných otázok vyplývajúcich z obsahu prednášok (25b).Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nHlavným cieľom predmetu je zvládnutie vybraných moderných klasických/inteligentných metód modelovania, riadenia a simulácie kyber-fyzikálnych systémov na teoretickej a algoritmickej úrovni, ktoré využívajú vlastnosti neurónových sietí v rôznych aplikáciách (neurónový dopredný model, neurónový inverzný model, neurónový estimátor). Predmet sa venuje metodike a etapám návrhu algoritmov optimálneho/prediktívneho riadenia pre fyzikálne systémy s využitím výsledkov experimentálnej identikácie (sivý model, model čiernej skrinky/black box model). Ďalším cieľom predmetu je verifikácia navrhnutých algoritmov inteligentného prediktívneho riadenia na simulačných modeloch fyzikálnych systémov (robot manipulátor, model helikoptéry, model guličky na ploche) v riadiacich štruktúrach v programovom prostredí MATLAB/Simulink s využitím aplikačných toolboxov. Predmet ďalej umožňuje získanie znalostí z algoritmického riešenia číslicového riadenia simulačných modelov nelineárnych systémov a ich simulačné overenie na laboratórnych výukových modeloch (hydraulický systém, model magnetickej levitácie, model areodynamickej levitácie) v programovom systéme MATLAB/Simulink/\nVýuka predmetu a riešenie zadaní je realizované na modeloch: http://kyb.fei.tuke.sk/laboratoria/modely/modely.php\n\n\n\n\nStručná osnova predmetu:\n1. Prehľad moderných a inteligentných metód v modelovaní, riadení a simulácii kyber-fyzikálnych systémov.\n2. Algoritmizácia metód číslicového riadenia a jej overenie na simulačných/laboratórnych modeloch v simulačnom jazyku MATLAB/Simulink pre zvolené riadiace štruktúry (web portál : kyb.fei.tuke.sk)\n3. Experimentálna identifikácia modelov fyzikálnych systémov s premenlivými parametrami s využitím Identification Toolboxu (regresné modely) pre použitie v adaptívnych/prediktívnych algoritmoch riadenia\n4. Návrh algoritmov pre adaptívne a prediktívne riadenie nelineárnych systémov s využitím výsledkov analytickej/experimentálnej identifikácie (sivý model/grey model)\n5. Modelovanie nelineárnych fyzikálnych systémov s využitím nezrónových sietí, dynamické dopredné neurónové modely (NARX, NARMAX, NISS), trénovanie, testovanie, validácia, modely čiernej skrinky,\n6. Inteligentné algoritmy riadenia nelineárnych systémov s využitím neurónových dynamických modelov\n7. Metodika pre získanie dopredných a inverzných neurónových modelov, priame inverzné riadenie, riadenie s vnútorným modelom\n8. Riadiace štruktúry na báze dopredného neurónového modelu, riadenie s dopredným neurónovým modelom (FFC), aplikácie riešenia úlohy pre sledovanie trajektórie robotických manipulátorov, sledovanie trajektórie v mobilnej robotike\n9. Prediktívne riadenie (NMPC) s využitím viackrokového prediktora, inteligentné zovšeobecnené prediktívne riadenie (NGPC)\n10. Štruktúry riadenia na základe odhadu parametrov nelineárneho systému, inteligentné adaptívne algoritmy na báze neurónových modelov), simulačné overenie klasického/inteligentného adaptívneho riadenia s využítím výsledkov experimentálnej identifikácie\n\n\nOdporúčaná literatúra:\nJajčišin, Š. - Jadlovská, A.: Návrh algoritmov prediktívneho riadenia s využitím nelineárnych modelov fyzikálnych systémov, FEI, TU, elfa, Košice, 2013\nČerkala, J. - Jadlovská, A.: Matematické modelovanie a riadenie kolesových mobilných robotov 1. vyd. - Košice : Elfa - 2019, s. 266, ISBN 978-80-8086-273-2\nJadlovská, A. - Jadlovská, S.: Moderné metódy modelovania a riadenia nelineárnych systémov, FEI, TU, Košice 2013\nJadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : TUKE - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1\nJadlovská, A. – Jadlovská, S,: Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3,\nChen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458\nVégh, P.: Neurónové a fuzzy systémy, STU, Bratislava 2014, ISBN 978-80-227-4227-6\nBíla, J.: Umělá inteligence a neurónové sitě, ČVUT Praha 1998\nŠvarc, I.,- Šeda, M.-Vítečková, M.: Automatické řízení, VUT Brno 2007, CERM, ISBN 978-80-214-3491-2\nTutoriály na výukovom web portáli pre simulačné a laboratórne modely výskumnej skupiny CMMRaPI (kyb.fei.tuke.sk)\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 45 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 153 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Anna Jadlovská, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

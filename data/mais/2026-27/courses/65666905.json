@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65666905",
+  "code": "2608621",
+  "name": "Rozvrhovanie a logistika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65666905",
+  "fetched_at": "2026-11-17T14:59:54Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2608621"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Rozvrhovanie a logistika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPísomka pozostávajúca z riešenia úloh, za ktoré je možné získať spolu max. 30 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška prebieha formou testu, kde je možné získať maximálne 50 bodov. Okrem toho je možné získať ďalších max. 20 bodov za riešenie priebežne zadávaných úloh z prednášok."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní tohto predmetu získajú študenti základné vedomosti a zručnosti potrebné pre formuláciu a riešenie rozhodovacích úloh výrobnej logistiky a rozvrhovania. Študenti sú zoznámení so základnými modelmi a technikami operačného výskumu používanými na riešenie logistických úloh ako napr. alokačné a distribučné úlohy, rozvrhovanie, optimalizácia skladových zásob, t.j. základy ekonomického riadenia. Študenti vedia tvorivo aplikovať získané poznatky, využívať systémový prístup pri analýze úloh rozvrhovania a logistiky a pri ich riešení vhodne použiť vybrané softvérové nástroje."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Štruktúra činností výrobnej logistiky a základné triedy úloh pre modelovanie a riadenie ekonomických systémov súvisiacich s logistikou a rozvrhovaním\n• Základné metódy operačného výskumu\n• Metódy umelej inteligencie pri riešení logistických úloh\n• Úlohy spĺňania ohraničení\n• Alokačné úlohy, prognózovanie\n• Plánovanie výrobných kapacít, zákazková logistika\n• Výrobné rozvrhovanie\n• Doprava, sklady"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Paralič, J.: Rozvrhovanie a logistika. Equilibria, s.r.o., Košice, 2010, 94 s.,ISBN 978-80-89284-63-4\nMach, M., Paralič, J.: Úlohy a ohraničeniami - od teórie k programovaniu. Elfa, 2000, 217 s., ISBN 80-88964-48-2\nParalič: Riešenie úloh rozvrhovania logickým programovaním ohraničení, dizertačná práca, Technická univerzita Košice, Máj 1997. Online. Dostupné na: https://jan.paralic.website.tuke.sk/knihy/RozvrhovanieCLP.pdf [cit. 3.2.3025]\nMalindžák, D.: Výrobná logistika I, 2. vyd., Štroffek, Košice, 1996, 267 s., ISBN 80-967636-6-0\nDudorkin: Operační výzkum, Praha, České vysoké učení technické, 1997, 296 s., ISBN 9788001005026"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 45 hodín\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 100 hodín\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Vypracovanie úloh z prednášok: 13 hodín\n• Programovanie a počítanie úloh z cvičení: 26 hodín\n• Príprava na skúšku: 48 hodín\n------------------------------------------------\nCelkovo výučba spolu: 145 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 987\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n9%\n17%\n24%\n32%\n14%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Paralič, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 987,
+    "percent": {
+      "A": 5,
+      "B": 9,
+      "C": 17,
+      "D": 24,
+      "E": 32,
+      "FX": 14
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Paralič, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2608621\nNázov predmetu: Rozvrhovanie a logistika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1\nExterná forma štúdia (hodiny za semester): LS 26,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPísomka pozostávajúca z riešenia úloh, za ktoré je možné získať spolu max. 30 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška prebieha formou testu, kde je možné získať maximálne 50 bodov. Okrem toho je možné získať ďalších max. 20 bodov za riešenie priebežne zadávaných úloh z prednášok.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní tohto predmetu získajú študenti základné vedomosti a zručnosti potrebné pre formuláciu a riešenie rozhodovacích úloh výrobnej logistiky a rozvrhovania. Študenti sú zoznámení so základnými modelmi a technikami operačného výskumu používanými na riešenie logistických úloh ako napr. alokačné a distribučné úlohy, rozvrhovanie, optimalizácia skladových zásob, t.j. základy ekonomického riadenia. Študenti vedia tvorivo aplikovať získané poznatky, využívať systémový prístup pri analýze úloh rozvrhovania a logistiky a pri ich riešení vhodne použiť vybrané softvérové nástroje.\n\nStručná osnova predmetu:\n• Štruktúra činností výrobnej logistiky a základné triedy úloh pre modelovanie a riadenie ekonomických systémov súvisiacich s logistikou a rozvrhovaním\n• Základné metódy operačného výskumu\n• Metódy umelej inteligencie pri riešení logistických úloh\n• Úlohy spĺňania ohraničení\n• Alokačné úlohy, prognózovanie\n• Plánovanie výrobných kapacít, zákazková logistika\n• Výrobné rozvrhovanie\n• Doprava, sklady\n\nOdporúčaná literatúra:\nParalič, J.: Rozvrhovanie a logistika. Equilibria, s.r.o., Košice, 2010, 94 s.,ISBN 978-80-89284-63-4\nMach, M., Paralič, J.: Úlohy a ohraničeniami - od teórie k programovaniu. Elfa, 2000, 217 s., ISBN 80-88964-48-2\nParalič: Riešenie úloh rozvrhovania logickým programovaním ohraničení, dizertačná práca, Technická univerzita Košice, Máj 1997. Online. Dostupné na: https://jan.paralic.website.tuke.sk/knihy/RozvrhovanieCLP.pdf [cit. 3.2.3025]\nMalindžák, D.: Výrobná logistika I, 2. vyd., Štroffek, Košice, 1996, 267 s., ISBN 80-967636-6-0\nDudorkin: Operační výzkum, Praha, České vysoké učení technické, 1997, 296 s., ISBN 9788001005026\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 45 hodín\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 100 hodín\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Vypracovanie úloh z prednášok: 13 hodín\n• Programovanie a počítanie úloh z cvičení: 26 hodín\n• Príprava na skúšku: 48 hodín\n------------------------------------------------\nCelkovo výučba spolu: 145 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 987\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n9%\n17%\n24%\n32%\n14%\n\n\nZabezpečuje:\nprof. Ing. Ján Paralič, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,171 @@
+{
+  "predmet_id": "66555943",
+  "code": "26001412",
+  "name": "Pokročilé inteligentné systémy v informatike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66555943",
+  "fetched_at": "2026-11-17T15:16:57Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001412"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Pokročilé inteligentné systémy v informatike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet nadväzuje na základné znalosti študentov z oblasti strojového učenia a umelej inteligencie a rozširuje ich o pokročilé metódy modelovania, hodnotenia a interpretácie dátových modelov.\nŠtudent po absolvovaní predmetu:\n- rozumie pokročilým technikám spracovania dát vrátane riešenia nevyvážených dát, výberu príznakov a validácie modelov,\n- ovláda metódy regularizácie, kalibrácie modelov a analýzy neistoty predikcií,\n- dokáže aplikovať metódy interpretácie a vizualizácie modelov (napr. SHAP, t-SNE),\n- rozumie princípom spracovania prirodzeného jazyka vrátane tokenizácie, lematizácie a embeddingov,\n- pozná architektúry hlbokých neurónových sietí (CNN, LSTM, autoenkodéry, GAN),\n- rozumie princípom modelovania časových radov a spracovania rečových a hlasových signálov,\n- pozná princípy federatívneho učenia a moderných jazykových modelov vrátane konceptu Retrieval-Augmented Generation (RAG),\n- je schopný navrhnúť, implementovať a vyhodnotiť pokročilé modely strojového učenia pre rôzne typy dát."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Učenie s učiteľom, učenie bez učiteľa, validácia modelov.\n2. Sampling, nevyvážené dáta a metódy riešenia data imbalance.\n3. Feature selection a redukcia dimenzionality.\n4. Interpretácia a vizualizácia modelov (t-SNE, SHAP).\n5. Regularizácia (L1, L2), generalizácia a stabilita modelov.\n6. Kalibrácia modelov, confidence, accuracy a neistota predikcie.\n7. Spracovanie prirodzeného jazyka – tokenizácia, lematizácia, stemming, embeddings.\n8. Spracovanie rečových a časových signálov – windowing, moving average, ARMA modely.\n9. Hlboké neurónové siete – CNN, LSTM.\n10. Autoenkodéry, GAN a generatívne modely.\n11. Federated learning.\n12. Veľké jazykové modely a RAG."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. GOODFELLOW, I. – BENGIO, Y. – COURVILLE, A.: Deep Learning. MIT Press, 2017.\n2. RASCHKA, S. – LIU, Y. H. – MIRJALILI, V.: Machine Learning with PyTorch and Scikit-Learn. Packt, 2022.\n3. MURPHY, K. P.: Machine Learning: A Probabilistic Perspective. MIT Press, 2012.\ndoplnková:\n4. JURAFSKY, D. – MARTIN, J.: Speech and Language Processing.\n5. HASTIE, T. – TIBSHIRANI, R. – FRIEDMAN, J.: The Elements of Statistical Learning.\n6. Aktuálne vedecké články z IEEE, ACM, arXiv."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Peter Drotár, PhD.\nIng. Peter Gnip, PhD.\nprof. Ing. Juraj Gazda, PhD.\nIng. Máté Hireš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Peter Drotár, PhD.",
+    "Ing. Peter Gnip, PhD.",
+    "prof. Ing. Juraj Gazda, PhD.",
+    "Ing. Máté Hireš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001412\nNázov predmetu: Pokročilé inteligentné systémy v informatike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet nadväzuje na základné znalosti študentov z oblasti strojového učenia a umelej inteligencie a rozširuje ich o pokročilé metódy modelovania, hodnotenia a interpretácie dátových modelov.\nŠtudent po absolvovaní predmetu:\n- rozumie pokročilým technikám spracovania dát vrátane riešenia nevyvážených dát, výberu príznakov a validácie modelov,\n- ovláda metódy regularizácie, kalibrácie modelov a analýzy neistoty predikcií,\n- dokáže aplikovať metódy interpretácie a vizualizácie modelov (napr. SHAP, t-SNE),\n- rozumie princípom spracovania prirodzeného jazyka vrátane tokenizácie, lematizácie a embeddingov,\n- pozná architektúry hlbokých neurónových sietí (CNN, LSTM, autoenkodéry, GAN),\n- rozumie princípom modelovania časových radov a spracovania rečových a hlasových signálov,\n- pozná princípy federatívneho učenia a moderných jazykových modelov vrátane konceptu Retrieval-Augmented Generation (RAG),\n- je schopný navrhnúť, implementovať a vyhodnotiť pokročilé modely strojového učenia pre rôzne typy dát.\n\nStručná osnova predmetu:\n1. Učenie s učiteľom, učenie bez učiteľa, validácia modelov.\n2. Sampling, nevyvážené dáta a metódy riešenia data imbalance.\n3. Feature selection a redukcia dimenzionality.\n4. Interpretácia a vizualizácia modelov (t-SNE, SHAP).\n5. Regularizácia (L1, L2), generalizácia a stabilita modelov.\n6. Kalibrácia modelov, confidence, accuracy a neistota predikcie.\n7. Spracovanie prirodzeného jazyka – tokenizácia, lematizácia, stemming, embeddings.\n8. Spracovanie rečových a časových signálov – windowing, moving average, ARMA modely.\n9. Hlboké neurónové siete – CNN, LSTM.\n10. Autoenkodéry, GAN a generatívne modely.\n11. Federated learning.\n12. Veľké jazykové modely a RAG.\n\nOdporúčaná literatúra:\n1. GOODFELLOW, I. – BENGIO, Y. – COURVILLE, A.: Deep Learning. MIT Press, 2017.\n2. RASCHKA, S. – LIU, Y. H. – MIRJALILI, V.: Machine Learning with PyTorch and Scikit-Learn. Packt, 2022.\n3. MURPHY, K. P.: Machine Learning: A Probabilistic Perspective. MIT Press, 2012.\ndoplnková:\n4. JURAFSKY, D. – MARTIN, J.: Speech and Language Processing.\n5. HASTIE, T. – TIBSHIRANI, R. – FRIEDMAN, J.: The Elements of Statistical Learning.\n6. Aktuálne vedecké články z IEEE, ACM, arXiv.\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Peter Drotár, PhD.\nIng. Peter Gnip, PhD.\nprof. Ing. Juraj Gazda, PhD.\nIng. Máté Hireš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,262 @@
+{
+  "predmet_id": "65699858",
+  "code": "26001233",
+  "name": "FEI - Jazyk 1",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65699858",
+  "fetched_at": "2026-11-17T15:02:15Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001233"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "FEI - Jazyk 1"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "2"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Získanie jazykových znalostí minimálne na úrovni A2.\nOsvojenie si a prehĺbenie jazykových schopností - terminológie a komunikácie v oblasti elektrotechniky a tiež informačných a komunikačných technológií."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do softvéru a operačný systém. Textový editor. Tabuľky a databázy. Grafika a dizajn. Desktop publishing. Programovanie a počítačové jazyky. Multimédiá. Internet a email. Web. Návrh webovej stránky. Chatovanie a konferencie cez internet. Bezpečnosť internetu. Komunikačné systémy. Automobilová elektronika, Priemyselná elektrotechnika, Elektroenergetika, Aplikovaná elektrotechnika"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Kulíková, T., Mazurová, H., Sorger, R., Timárová, D. Slovenčina v akademickom prostredí 1. 1. vyd. Košice: Technická univerzita v Košiciach, 2024. 151 s. ISBN 978-80-553-4735-6.\n2. Kamenárová, R. a kol. Krížom krážom – Slovenčina A2. 2. doplnené a prepracované vydanie. Bratislava: Studia Academica Slovaca, 2012. 207 s. ISBN 978-80-223-3265-1.\n3. Kamenárová, R. a kol. Krížom krážom – Slovenčina A1 + A2 Cvičebnica. Bratislava: Univerzita Komenského, 2009. 234 s. ISBN 978-80-223-2809-8.\n4. Kamenárová, R. a kol. Krížom krážom – Slovenčina A1. 2. doplnené a prepracované vydanie. Bratislava: Univerzita Komenského, 2018. 203 s. ISBN 978-80-223-4552-1.\n5. Kamenárová, R. a kol. Krížom krážom – Slovenčina B2. Bratislava: Studia Academica Slovaca, 2014. 248 s. ISBN 978-80-223-3660-4.\n6. Dratva, T., Buznová, V. Slovenčina pre cudzincov. Bratislava: Slovenské pedagogické nakladateľstvo. EAN 8588005572385.\n7. Karpátyová, E. Slovenčina II pre zahraničných študentov technického zamerania. Bratislava: Alfa, 1993. ISBN 80-7166-003-5.\n8. Rohová, J. Gramatika pre cudzincov: Pracovný zošit. Bratislava, 2022. ISBN 978-80-8140-686-7.\n9. Christie, D. Technical English for Beginners. Bratislava: Slovenské pedagogické nakladateľstvo, 2008. ISBN 80-7238-615-8.\n10. Bonamy, D. Technical English 1. Harlow: Pearson Education, Longman, 2008. ISBN 978-1-4058-4545-7.\n11. Bonamy, D. Technical English Level 2 Course Book. Harlow: Pearson Education, Longman, 2008. ISBN 978-1-4058-4554-0."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Predmet je realizovaný dištančnou metódou vzdelávania."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Emília Pietriková, PhD.\nIng. Alexander Bodnár\nMgr. Patrícia Gajdošová\nPhDr. Roman Sorger, PhD.\nIng. Zuzana Hudáková, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Fakulta elektrotechniky a informatiky",
+    "credits": 2,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Emília Pietriková, PhD.",
+    "Ing. Alexander Bodnár",
+    "Mgr. Patrícia Gajdošová",
+    "PhDr. Roman Sorger, PhD.",
+    "Ing. Zuzana Hudáková, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Fakulta elektrotechniky a informatiky\n\n\nKód predmetu: 26001233\nNázov predmetu: FEI - Jazyk 1\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2\nExterná forma štúdia (hodiny za semester): ZS 26\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 2\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet\nZáverečné hodnotenie (ZH):\nzápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZískanie jazykových znalostí minimálne na úrovni A2.\nOsvojenie si a prehĺbenie jazykových schopností - terminológie a komunikácie v oblasti elektrotechniky a tiež informačných a komunikačných technológií.\n\nStručná osnova predmetu:\nÚvod do softvéru a operačný systém. Textový editor. Tabuľky a databázy. Grafika a dizajn. Desktop publishing. Programovanie a počítačové jazyky. Multimédiá. Internet a email. Web. Návrh webovej stránky. Chatovanie a konferencie cez internet. Bezpečnosť internetu. Komunikačné systémy. Automobilová elektronika, Priemyselná elektrotechnika, Elektroenergetika, Aplikovaná elektrotechnika\n\nOdporúčaná literatúra:\n1. Kulíková, T., Mazurová, H., Sorger, R., Timárová, D. Slovenčina v akademickom prostredí 1. 1. vyd. Košice: Technická univerzita v Košiciach, 2024. 151 s. ISBN 978-80-553-4735-6.\n2. Kamenárová, R. a kol. Krížom krážom – Slovenčina A2. 2. doplnené a prepracované vydanie. Bratislava: Studia Academica Slovaca, 2012. 207 s. ISBN 978-80-223-3265-1.\n3. Kamenárová, R. a kol. Krížom krážom – Slovenčina A1 + A2 Cvičebnica. Bratislava: Univerzita Komenského, 2009. 234 s. ISBN 978-80-223-2809-8.\n4. Kamenárová, R. a kol. Krížom krážom – Slovenčina A1. 2. doplnené a prepracované vydanie. Bratislava: Univerzita Komenského, 2018. 203 s. ISBN 978-80-223-4552-1.\n5. Kamenárová, R. a kol. Krížom krážom – Slovenčina B2. Bratislava: Studia Academica Slovaca, 2014. 248 s. ISBN 978-80-223-3660-4.\n6. Dratva, T., Buznová, V. Slovenčina pre cudzincov. Bratislava: Slovenské pedagogické nakladateľstvo. EAN 8588005572385.\n7. Karpátyová, E. Slovenčina II pre zahraničných študentov technického zamerania. Bratislava: Alfa, 1993. ISBN 80-7166-003-5.\n8. Rohová, J. Gramatika pre cudzincov: Pracovný zošit. Bratislava, 2022. ISBN 978-80-8140-686-7.\n9. Christie, D. Technical English for Beginners. Bratislava: Slovenské pedagogické nakladateľstvo, 2008. ISBN 80-7238-615-8.\n10. Bonamy, D. Technical English 1. Harlow: Pearson Education, Longman, 2008. ISBN 978-1-4058-4545-7.\n11. Bonamy, D. Technical English Level 2 Course Book. Harlow: Pearson Education, Longman, 2008. ISBN 978-1-4058-4554-0.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Predmet je realizovaný dištančnou metódou vzdelávania.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Emília Pietriková, PhD.\nIng. Alexander Bodnár\nMgr. Patrícia Gajdošová\nPhDr. Roman Sorger, PhD.\nIng. Zuzana Hudáková, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

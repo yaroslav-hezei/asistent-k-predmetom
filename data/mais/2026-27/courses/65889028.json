@@ -1,0 +1,165 @@
+{
+  "predmet_id": "65889028",
+  "code": "26001207",
+  "name": "Riešenie problémov rozsiahlych infraštruktúr",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65889028",
+  "fetched_at": "2026-11-17T15:04:42Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001207"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Riešenie problémov rozsiahlych infraštruktúr"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npraktické konfiguračné zadanie, 40% záverečného hodnotenia"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n60% ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet predstavuje úzke prepojenie študijného programu s praxou pri príprave študentov na priemyselnú certifikačnú skúšku CCNP Tshoot (642-832 TSHOOT - Troubleshooting and Maintaining Cisco IP Networks). Študent sa oboznámi s problematikou riešenia problémov v rozsiahlych sieťových infraštruktúrach jednak na úrovni smerovacích protokolov a jednak na úrovni prepínaných sietí. Osvojí si problematiku riešenia problémov pri návrhu sietí s technológiami na báze virtuálnych sietí (VLAN), smerovania medzi VLAN s využitím rôznych dynamických smerovacích protokolov, využívania bezdrôtových sietí a konfiguračné postupy, ktoré sú využívané pri návrhu a riešení problémov reálnych sietí."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Plánovanie údržby v komplexných sieťach\n2. Modely a metodológie pre vykonanie zmien v rozsiahlych infraštruktúrach\n3. Voľba nástrojov pre riešenie problémov v rozsiahlych sieťach\n4. Plánovanie procesu riešenia problémov v komplexných infraštruktúrach\n5. Údržba a riešenie problémov na báze smerovaných sietí\n6. Údržba a riešenie problémov na báze prepínaných sietí\n7. Riešenie problémov v konvergovaných sieťach\n8. Riešenie bezpečnostných aspektov konvergovaných infraštruktúr\n9. Metodológie dokumentácie incidentov v produkčných infraštruktúrach"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Networking Academy Program, CCNP Route, Switch and Tshoot course\n2. H. Benjamin: CCNP Practical Studies: Routing, Cisco Press, Indianopolis, 2002, 545 pp.\n3. Robert Wright: IP Routing Primer. Cisco Press., Indianopolis, 1998, 290 pp.\n4. Craig Hunt: Konfigurace a správa síti. TCP/IP. Computer Press, Praha, 1997, 460 str.\n5. Dilip C. Naik : Internet : standardy a protokoly. Computer Press, Brno, 1999.6.\n6. Doyle J., Carrol J.: Routing TCP/IP"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 50\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n44%\n26%\n14%\n14%\n2%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Feciľak, PhD.\nIng. Ivan Brťka\nIng. Erika Abigail Katonová, PhD.\nIng. Ondrej Kainz, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 50,
+    "percent": {
+      "A": 44,
+      "B": 26,
+      "C": 14,
+      "D": 14,
+      "E": 2,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Feciľak, PhD.",
+    "Ing. Ivan Brťka",
+    "Ing. Erika Abigail Katonová, PhD.",
+    "Ing. Ondrej Kainz, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26001207\nNázov predmetu: Riešenie problémov rozsiahlych infraštruktúr\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npraktické konfiguračné zadanie, 40% záverečného hodnotenia\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n60% ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet predstavuje úzke prepojenie študijného programu s praxou pri príprave študentov na priemyselnú certifikačnú skúšku CCNP Tshoot (642-832 TSHOOT - Troubleshooting and Maintaining Cisco IP Networks). Študent sa oboznámi s problematikou riešenia problémov v rozsiahlych sieťových infraštruktúrach jednak na úrovni smerovacích protokolov a jednak na úrovni prepínaných sietí. Osvojí si problematiku riešenia problémov pri návrhu sietí s technológiami na báze virtuálnych sietí (VLAN), smerovania medzi VLAN s využitím rôznych dynamických smerovacích protokolov, využívania bezdrôtových sietí a konfiguračné postupy, ktoré sú využívané pri návrhu a riešení problémov reálnych sietí.\n\nStručná osnova predmetu:\n1. Plánovanie údržby v komplexných sieťach\n2. Modely a metodológie pre vykonanie zmien v rozsiahlych infraštruktúrach\n3. Voľba nástrojov pre riešenie problémov v rozsiahlych sieťach\n4. Plánovanie procesu riešenia problémov v komplexných infraštruktúrach\n5. Údržba a riešenie problémov na báze smerovaných sietí\n6. Údržba a riešenie problémov na báze prepínaných sietí\n7. Riešenie problémov v konvergovaných sieťach\n8. Riešenie bezpečnostných aspektov konvergovaných infraštruktúr\n9. Metodológie dokumentácie incidentov v produkčných infraštruktúrach\n\nOdporúčaná literatúra:\n1. Networking Academy Program, CCNP Route, Switch and Tshoot course\n2. H. Benjamin: CCNP Practical Studies: Routing, Cisco Press, Indianopolis, 2002, 545 pp.\n3. Robert Wright: IP Routing Primer. Cisco Press., Indianopolis, 1998, 290 pp.\n4. Craig Hunt: Konfigurace a správa síti. TCP/IP. Computer Press, Praha, 1997, 460 str.\n5. Dilip C. Naik : Internet : standardy a protokoly. Computer Press, Brno, 1999.6.\n6. Doyle J., Carrol J.: Routing TCP/IP\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 50\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n44%\n26%\n14%\n14%\n2%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Feciľak, PhD.\nIng. Ivan Brťka\nIng. Erika Abigail Katonová, PhD.\nIng. Ondrej Kainz, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

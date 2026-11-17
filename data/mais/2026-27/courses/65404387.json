@@ -1,0 +1,409 @@
+{
+  "predmet_id": "65404387",
+  "code": "26001337",
+  "name": "Odborný predmet na zahraničnej vysokej škole",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65404387",
+  "fetched_at": "2026-11-17T14:58:21Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001337"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Odborný predmet na zahraničnej vysokej škole"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Projektová práca, Stáž"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nPriemyselná elektrotechnika (PE_Ing_D_sk)\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\nPočítačové siete (PS_Ing_D_sk)\nUmelá inteligencia (UI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n1.rok LS\nHospodárska informatika (HI_Ing_D_sk)\nPriemyselná elektrotechnika (PE_Ing_D_sk)\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\nPočítačové siete (PS_Ing_D_sk)\nUmelá inteligencia (UI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nPriemyselná elektrotechnika (PE_Ing_D_sk)\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\nPočítačové siete (PS_Ing_D_sk)\nUmelá inteligencia (UI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní predmetu bude študent schopný preukázať rozšírené poznatky z odbornej témy ponúkanej zahraničnou vysokou školou v tom istom študijnom odbore, ktorý študuje na domovskej univerzite. Bude aplikovať nadobudnuté odborné poznatky a zručnosti pri riešení profesijných alebo akademických problémov vo svojom odbore. Porovnávať a reflektovať rozdielne teoretické a praktické prístupy využívané na zahraničnej vysokej škole a na domovskej univerzite. Integrovať skúsenosti získané počas štúdia v zahraničí do ďalšieho štúdia a profesijného rozvoja vo svojom odbore."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Podľa osnovy odborného predmetu na zahraničnej vysokej škole."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Podľa odporúčania odborného predmetu na zahraničnej vysokej škole."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický, nemecký"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Predmet sa študentom zapisuje podľa Pokynu dekana Fakulty elektrotechniky a informatiky Technickej univerzity v Košiciach PD/FEI/01/25 pre zabezpečenie mobilitných okien v bakalárskom a inžinierskom štúdiu."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Emília Pietriková, PhD.\nIng. Zuzana Hudáková, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Fakulta elektrotechniky a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Emília Pietriková, PhD.",
+    "Ing. Zuzana Hudáková, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Fakulta elektrotechniky a informatiky\n\n\nKód predmetu: 26001337\nNázov predmetu: Odborný predmet na zahraničnej vysokej škole\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Projektová práca, Stáž\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nPriemyselná elektrotechnika (PE_Ing_D_sk)\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\nPočítačové siete (PS_Ing_D_sk)\nUmelá inteligencia (UI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n1.rok LS\nHospodárska informatika (HI_Ing_D_sk)\nPriemyselná elektrotechnika (PE_Ing_D_sk)\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\nPočítačové siete (PS_Ing_D_sk)\nUmelá inteligencia (UI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nPriemyselná elektrotechnika (PE_Ing_D_sk)\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\nPočítačové siete (PS_Ing_D_sk)\nUmelá inteligencia (UI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní predmetu bude študent schopný preukázať rozšírené poznatky z odbornej témy ponúkanej zahraničnou vysokou školou v tom istom študijnom odbore, ktorý študuje na domovskej univerzite. Bude aplikovať nadobudnuté odborné poznatky a zručnosti pri riešení profesijných alebo akademických problémov vo svojom odbore. Porovnávať a reflektovať rozdielne teoretické a praktické prístupy využívané na zahraničnej vysokej škole a na domovskej univerzite. Integrovať skúsenosti získané počas štúdia v zahraničí do ďalšieho štúdia a profesijného rozvoja vo svojom odbore.\n\nStručná osnova predmetu:\nPodľa osnovy odborného predmetu na zahraničnej vysokej škole.\n\nOdporúčaná literatúra:\nPodľa odporúčania odborného predmetu na zahraničnej vysokej škole.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický, nemecký\n\nPoznámky: Predmet sa študentom zapisuje podľa Pokynu dekana Fakulty elektrotechniky a informatiky Technickej univerzity v Košiciach PD/FEI/01/25 pre zabezpečenie mobilitných okien v bakalárskom a inžinierskom štúdiu.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Emília Pietriková, PhD.\nIng. Zuzana Hudáková, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

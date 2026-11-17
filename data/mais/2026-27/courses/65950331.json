@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65950331",
+  "code": "2618851",
+  "name": "Kvantová fyzika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950331",
+  "fetched_at": "2026-11-17T15:07:26Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2618851"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Kvantová fyzika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nK udeleniu zápočtu študenti absolvujú dva kombinované testy (príklady, teória)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška písomnou formou (príklady + teória)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť študentom poznatky o základných princípoch kvantovej fyziky, zdôvodniť význam kvantového poľa a jeho využitie v opise fyzikálnych javoch v mikrofyzike."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Kvantovo-mechanický opis atómu vodíka, hustota pravdepodobnosti výskytu elektrónu, korekcia na pohyb jadra\nČastice so spinom, Sternov-Gerlachov experiment, Pauliho matice\nPohyb častice v elektromagnetickom poli, Pauliho rovnica, kanonické kvantovanie\nStacionárna a nestacionárna poruchová metóda v kvantovej mechanike, pravdepodobnosť prechodu medzi kvantovými stavmi\nMoment hybnosti, skladanie momentov hybnosti\nZmeny energetických hladín atómu vonkajším poľom, Starkov jav, Zeemanov jav\nZáklady teórie rozptylu"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] J. Pišút, L. Gomolčák, V. Černý:Úvod do kvantovej mechaniky, 2008\n[2] P.A.M.Dirac: The Principles of Quantum Mechanics, 1964\n[3] R.P. Feynman: Neobyčejná teórie svetla a látky, 2001\n[4] J.D. Bjorken, S.D.Drell: Relativistic Quantum Mechanics, 1978 (prvá časť)\n[5] J. Pišút, V. Černý, P. Prešnajder: Zbierka úloh z kvantovej mechaniky, 2008"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium pri príprave na zápočet a skúšku, spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 25\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n60%\n4%\n20%\n4%\n8%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. RNDr. Jana Tóthová, PhD.\nprof. RNDr. Vladimír Lisý, DrSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 25,
+    "percent": {
+      "A": 60,
+      "B": 4,
+      "C": 20,
+      "D": 4,
+      "E": 8,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "prof. RNDr. Jana Tóthová, PhD.",
+    "prof. RNDr. Vladimír Lisý, DrSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 2618851\nNázov predmetu: Kvantová fyzika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nK udeleniu zápočtu študenti absolvujú dva kombinované testy (príklady, teória).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška písomnou formou (príklady + teória).\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť študentom poznatky o základných princípoch kvantovej fyziky, zdôvodniť význam kvantového poľa a jeho využitie v opise fyzikálnych javoch v mikrofyzike.\n\nStručná osnova predmetu:\nKvantovo-mechanický opis atómu vodíka, hustota pravdepodobnosti výskytu elektrónu, korekcia na pohyb jadra\nČastice so spinom, Sternov-Gerlachov experiment, Pauliho matice\nPohyb častice v elektromagnetickom poli, Pauliho rovnica, kanonické kvantovanie\nStacionárna a nestacionárna poruchová metóda v kvantovej mechanike, pravdepodobnosť prechodu medzi kvantovými stavmi\nMoment hybnosti, skladanie momentov hybnosti\nZmeny energetických hladín atómu vonkajším poľom, Starkov jav, Zeemanov jav\nZáklady teórie rozptylu\n\n\nOdporúčaná literatúra:\n[1] J. Pišút, L. Gomolčák, V. Černý:Úvod do kvantovej mechaniky, 2008\n[2] P.A.M.Dirac: The Principles of Quantum Mechanics, 1964\n[3] R.P. Feynman: Neobyčejná teórie svetla a látky, 2001\n[4] J.D. Bjorken, S.D.Drell: Relativistic Quantum Mechanics, 1978 (prvá časť)\n[5] J. Pišút, V. Černý, P. Prešnajder: Zbierka úloh z kvantovej mechaniky, 2008\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium pri príprave na zápočet a skúšku, spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 25\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n60%\n4%\n20%\n4%\n8%\n4%\n\n\nZabezpečuje:\nprof. RNDr. Jana Tóthová, PhD.\nprof. RNDr. Vladimír Lisý, DrSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

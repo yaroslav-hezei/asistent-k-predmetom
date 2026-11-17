@@ -1,0 +1,199 @@
+{
+  "predmet_id": "45536785",
+  "code": "26001034",
+  "name": "Základy elektrických strojov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=45536785",
+  "fetched_at": "2026-11-17T14:57:15Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001034"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy elektrických strojov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nElektroenergetika (EE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nAutomatizované elektrotechnické systémy (AES_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAutomatizované elektrotechnické systémy (AES_Bc_D_sk)\nElektroenergetika (EE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nKombinovaná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\n6 laboratórnych protokolov (20b.), písomná previerka z výpočtových cvičení (20b). Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca z písomnej a ústnej časti. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Schopnosť previesť a vyhodnotiť základné merania na elektrických strojoch. Schopnosť uskutočniť základné výpočty vlastností elektrických strojov. Mať základné teoretické vedomosti o vlastnostiach, konštrukčnom usporiadaní a použití jednotlivých druhov elektrických strojov. Využívanie matematického aparátu programu Matlab, pre výpočty elektrických a mechanických veličín elektrických strojov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Transformátory- princíp pôsobenia, náhradná schéma, účinnosť, trojfázové transformátory, paralelný chod, špeciálne transformátory.\n2. Vyhodnotenie merania na trojfázovom transformátore, výpočet účinnosti, úbytku napätia a elektrických veličín pri rôznom charaktere záťaže. Meranie hodinového uhla trojfázových transformátorov (Matlab).\n3. Vlastnosti strojov na striedavý prúd, otáčavé magnetické pole, vinutia, indukované napätie a moment strojov na striedavý prúd.\n4. Synchrónne stroje- konštrukcia, náhradná schéma, fázovanie, synchrónny kompenzátor, synchrónne motory.\n5. Meranie parametrov náhradnej schémy, pripojenie na pevnú sieť, výpočty elektrických a mechanických veličín turbogenerátora a synchrónneho motora (Matlab).\n6. Asynchrónne stroje- konštrukcia, náhradná schéma, účinnosť, momentová charakteristika, riadenie rýchlosti, rozbeh, jednofázový asynchrónny motor, motor s tienenými pólmi.\n7. Meranie parametrov náhradnej schémy, vyhodnotenie momentovej charakteristiky, riešenie príkladov, zaťaženie, riadenie rýchlosti, účinnosť (Matlab).\n8. Jednosmerné stroje- konštrukcia, reakcia kotvy, komutácia, dynamá, jednosmerný cudzobudený motor, riadenie rýchlosti, jednosmerný sériový motor, univerzálny motor.\n9. Meranie regulačných charakteristík jednosmerného cudzobudeného motora, vyhodnotenie účinnosti, riešenie príkladov cudzobudený a sériový motor, riadenie rýchlosti (Matlab)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Záskalický, P.: Elektrické stroje, Košice 2016, web FEI\n2. Záskalický, P., Kaňuch, J.: Návody na cvičenia z elektrických strojov, web FEI\n3. Chapman, S.J.: Electric machinery Fundamentals, McGraw-Hill, 2005, New York\n4. Seguier, G., Notelet, F.: Electrotechnique industrielle, Lavoisier, 1994, Paris"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický, francúzsky"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Predmet je povinný\nPre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom vyhotovení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 462\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n7%\n12%\n21%\n31%\n26%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Želmíra Ferková, CSc.\nprof. Ing. Pavel Záskalický, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "31.08.2022"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2022-08-31",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Automatizované elektrotechnické systémy (AES_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Automatizované elektrotechnické systémy (AES_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 462,
+    "percent": {
+      "A": 3,
+      "B": 7,
+      "C": 12,
+      "D": 21,
+      "E": 31,
+      "FX": 26
+    }
+  },
+  "teachers": [
+    "doc. Ing. Želmíra Ferková, CSc.",
+    "prof. Ing. Pavel Záskalický, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001034\nNázov predmetu: Základy elektrických strojov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nElektroenergetika (EE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nAutomatizované elektrotechnické systémy (AES_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAutomatizované elektrotechnické systémy (AES_Bc_D_sk)\nElektroenergetika (EE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nKombinovaná\nKombinovaná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\n6 laboratórnych protokolov (20b.), písomná previerka z výpočtových cvičení (20b). Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca z písomnej a ústnej časti. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nSchopnosť previesť a vyhodnotiť základné merania na elektrických strojoch. Schopnosť uskutočniť základné výpočty vlastností elektrických strojov. Mať základné teoretické vedomosti o vlastnostiach, konštrukčnom usporiadaní a použití jednotlivých druhov elektrických strojov. Využívanie matematického aparátu programu Matlab, pre výpočty elektrických a mechanických veličín elektrických strojov.\n\nStručná osnova predmetu:\n1. Transformátory- princíp pôsobenia, náhradná schéma, účinnosť, trojfázové transformátory, paralelný chod, špeciálne transformátory.\n2. Vyhodnotenie merania na trojfázovom transformátore, výpočet účinnosti, úbytku napätia a elektrických veličín pri rôznom charaktere záťaže. Meranie hodinového uhla trojfázových transformátorov (Matlab).\n3. Vlastnosti strojov na striedavý prúd, otáčavé magnetické pole, vinutia, indukované napätie a moment strojov na striedavý prúd.\n4. Synchrónne stroje- konštrukcia, náhradná schéma, fázovanie, synchrónny kompenzátor, synchrónne motory.\n5. Meranie parametrov náhradnej schémy, pripojenie na pevnú sieť, výpočty elektrických a mechanických veličín turbogenerátora a synchrónneho motora (Matlab).\n6. Asynchrónne stroje- konštrukcia, náhradná schéma, účinnosť, momentová charakteristika, riadenie rýchlosti, rozbeh, jednofázový asynchrónny motor, motor s tienenými pólmi.\n7. Meranie parametrov náhradnej schémy, vyhodnotenie momentovej charakteristiky, riešenie príkladov, zaťaženie, riadenie rýchlosti, účinnosť (Matlab).\n8. Jednosmerné stroje- konštrukcia, reakcia kotvy, komutácia, dynamá, jednosmerný cudzobudený motor, riadenie rýchlosti, jednosmerný sériový motor, univerzálny motor.\n9. Meranie regulačných charakteristík jednosmerného cudzobudeného motora, vyhodnotenie účinnosti, riešenie príkladov cudzobudený a sériový motor, riadenie rýchlosti (Matlab).\n\n\nOdporúčaná literatúra:\n1. Záskalický, P.: Elektrické stroje, Košice 2016, web FEI\n2. Záskalický, P., Kaňuch, J.: Návody na cvičenia z elektrických strojov, web FEI\n3. Chapman, S.J.: Electric machinery Fundamentals, McGraw-Hill, 2005, New York\n4. Seguier, G., Notelet, F.: Electrotechnique industrielle, Lavoisier, 1994, Paris\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický, francúzsky\n\nPoznámky: Predmet je povinný\nPre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom vyhotovení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 462\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n7%\n12%\n21%\n31%\n26%\n\n\nZabezpečuje:\ndoc. Ing. Želmíra Ferková, CSc.\nprof. Ing. Pavel Záskalický, PhD.\n\nDátum poslednej zmeny: 31.08.2022\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

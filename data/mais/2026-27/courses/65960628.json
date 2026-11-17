@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65960628",
+  "code": "2620181",
+  "name": "Optimalizácia prevádzky elektrizačnej sústavy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960628",
+  "fetched_at": "2026-11-17T15:13:48Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2620181"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Optimalizácia prevádzky elektrizačnej sústavy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežná kontrola vo forme výpočtových úloh a testov"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca z písomnej a ústnej časti"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Oboznámiť študentov s matematickým modelovaním ustálených chodov a metódami ich riešenia a s riešením optimalizačných úloh v elektrizačnej sústave."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Modelovanie prvkov v elektrizačnej sústave\n- Metódy riešenia krátkych sietí\n- Lineárne matematické modely ustálených chodov elektrizačnej sústavy\n- Nelineárne matematické modely ustálených chodov elektrizačnej sústavy\n- Metódy riešenia ustálených chodov v elektrizačnej sústave pre lineárne modely\n- Metódy riešenia ustálených chodov v elektrizačnej sústave pre nelineárne modely\n- Hospodárne rozdeľovanie zaťaženia v elektrizačnej sústave (bez a s uvažovaním strát v sieťach)\n- Hospodárne rozdeľovanie zaťaženia v hydrotepelnej ES\n- Komplexná optimalizácia"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. KOLCUN, Michal - BEŇA, Ľubomír - MÉSZÁROS, Alexander: Optimalizácia prevádzky elektrizačnej sústavy / - 1. vyd - Košice : TU - 2009. - 265 s.. - ISBN 978-80-553-0323-9."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pracovná záťaž:\nprednášky : 26 hod., cvičenia: 26 hod., príprava na cvičenia: 26 hod., absolvovanie výukových kurzov pre výpočtový soft.: 12 hod., konzultácie vo forme semináru: 10 hod., samoštúdium: 50 hod."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 785\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n12%\n10%\n15%\n20%\n20%\n23%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ľubomír Beňa, PhD.\nIng. Samuel Bucko, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 785,
+    "percent": {
+      "A": 12,
+      "B": 10,
+      "C": 15,
+      "D": 20,
+      "E": 20,
+      "FX": 23
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ľubomír Beňa, PhD.",
+    "Ing. Samuel Bucko, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2620181\nNázov predmetu: Optimalizácia prevádzky elektrizačnej sústavy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežná kontrola vo forme výpočtových úloh a testov\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca z písomnej a ústnej časti\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOboznámiť študentov s matematickým modelovaním ustálených chodov a metódami ich riešenia a s riešením optimalizačných úloh v elektrizačnej sústave.\n\nStručná osnova predmetu:\n- Modelovanie prvkov v elektrizačnej sústave\n- Metódy riešenia krátkych sietí\n- Lineárne matematické modely ustálených chodov elektrizačnej sústavy\n- Nelineárne matematické modely ustálených chodov elektrizačnej sústavy\n- Metódy riešenia ustálených chodov v elektrizačnej sústave pre lineárne modely\n- Metódy riešenia ustálených chodov v elektrizačnej sústave pre nelineárne modely\n- Hospodárne rozdeľovanie zaťaženia v elektrizačnej sústave (bez a s uvažovaním strát v sieťach)\n- Hospodárne rozdeľovanie zaťaženia v hydrotepelnej ES\n- Komplexná optimalizácia\n\n\nOdporúčaná literatúra:\n1. KOLCUN, Michal - BEŇA, Ľubomír - MÉSZÁROS, Alexander: Optimalizácia prevádzky elektrizačnej sústavy / - 1. vyd - Košice : TU - 2009. - 265 s.. - ISBN 978-80-553-0323-9.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pracovná záťaž:\nprednášky : 26 hod., cvičenia: 26 hod., príprava na cvičenia: 26 hod., absolvovanie výukových kurzov pre výpočtový soft.: 12 hod., konzultácie vo forme semináru: 10 hod., samoštúdium: 50 hod.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 785\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n12%\n10%\n15%\n20%\n20%\n23%\n\n\nZabezpečuje:\ndoc. Ing. Ľubomír Beňa, PhD.\nIng. Samuel Bucko, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

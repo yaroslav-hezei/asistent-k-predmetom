@@ -1,0 +1,162 @@
+{
+  "predmet_id": "69735842",
+  "code": "26001498",
+  "name": "Digitálna transformácia a inteligentné inovácie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=69735842",
+  "fetched_at": "2026-11-17T15:19:34Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001498"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Digitálna transformácia a inteligentné inovácie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13/LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška z predmetu pre 1. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie za semester"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu porozumie princípom digitálnej transformácie, inteligentných inovácií a konceptom Industry 4.0/5.0 so zameraním na ich praktické uplatnenie v rôznych odvetviach. Získa prehľad o human-cyber-physical systémoch, inteligentných riešeniach a moderných referenčných architektúrach využívaných v súčasných technologických ekosystémoch.\nŠtudent nadobudne kompetencie pri návrhu a analýze riešení založených na internete vecí, edge computingu a digitálnej komunikácii v počítačových a technologických sieťach. Dokáže pracovať s nástrojmi 3D modelovania a aditívnej výroby a rozumie zásadám kybernetickej a informačnej bezpečnosti.\nOsvojí si princípy digitálnych dvojčiat a kooperácie človeka a technológii a ich aplikácie v doménach, ako sú výrobný priemysel, medicína, doprava či podnikové procesy. Predmet je orientovaný aj na skúsenosti z praxe a výskumu, analýzu aktuálnych trendov, prípadové štúdie a reálne projekty z rôznych aplikačných oblastí aj s dôrazom na využitie umelej inteligencie ako kľúčového nástroja digitálnej transformácie.\nSúčasťou vzdelávania sú praktické cvičenia, semináre, projektové práce, analýzy prípadových riešení či vedeckých článkov. Absolvovanie kurzov (napr. CISCO IoT & Digital Transformation, Industry 5.0 podľa EQF mikroosvedčení) podporí rozvoj certifikovaných a prakticky využiteľných kompetencií."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Digitálne transformácia, inteligentné inovácie, princípy Industry 4.0 a Industry 5.0\n• Human-Cyber-Physical systemy, Inteligentné (smart) systémy, referenčné architektúry\n• Internet vecí a výpočty na okraji siete\n• Komunikácie v digitálnej transformácii, Počítačové a technologické siete\n• 3D tlač a modelovanie\n• Bezpečnosť v sieťach a internete vecí\n• Digital twin, interakcia človek-technológia\n• AI-powered digital transformation\n• Skúsenosti a aktuálne trendy z praxe a výskumu v rôznych aplikačných doménach (napr. výrobný priemysel, medicína, doprava, podnikov0 procesy)\nKurzy\n• IoT a Digitálna transformácia; IIoT - CISCO kurz a certifikácia\n• Cyber-Physical Systems and Digital Transformation for Industry 5.0 – kurz EQF s mikroosvedčeniami"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Schwab, K.: The Fourth Industrial Revolution, Crown Business, 2017, ISBN 978‑1524758868.\n• European Commission; Directorate‑General for Research and Innovation: Industry 5.0: Towards a Sustainable, Human‑Centric and Resilient European Industry, Publications Office of the European Union, 2021, ISBN 978‑92‑76‑25308‑2.\n• European Commission; Directorate‑General for Research and Innovation: ERA Industrial Technologies Roadmap on Human‑Centric Research and Innovation for the Manufacturing Sector, Publications Office of the European Union, 2024, ISBN 978‑92‑68‑11250‑2.\n• Tao, F.; Zhang, M.; Nee, A. Y. C.: Digital Twin Driven Smart Manufacturing, Academic Press, 2019, ISBN 978‑0128176306.\n• Abramowicz, W.; Kowalkiewicz, M.; Węcel, K. (eds.): AI‑Driven Digital Transformation: Perspectives from a Business School, Routledge, 2025, ISBN 978‑1003659143.\n• Kanam, S.: AI‑Powered Digital Transformation: Intelligent Systems for Enterprise Impact, Xoffencer International Book Publication House, 2025, ISBN 978‑8119890857.\nOnline kurzy\n• Cisco Networking Academy – Introduction to IoT and Digital Transformation; Industrial IoT (IIoT)\n• EU Academy – Industry 5.0 and Human‑Centric Digital Transformation (EQF micro‑credentials)\n• EIT Manufacturing – Digital Transformation in Manufacturing and Industry 5.0\n• MIT Professional Education – Digital Transformation in the AI Age\n• INVEStech Academy - Industry 5.0 Foundations and Smart Environments; Cyber-Physical Systems and Digital Transformation for Industry 5.0; Cyber-Physical Architectures, Governance, and Human-Centred Innovation in Industry 5.0 (EQF micro‑credentials)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "V prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia. Jeden kredit predstavuje štandardne 25 hodín študijnej záťaže, vrátane samoštúdia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Iveta Zolotová, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Štátna skúška z predmetu pre 1. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Iveta Zolotová, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001498\nNázov predmetu: Digitálna transformácia a inteligentné inovácie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13/LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška z predmetu pre 1. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie za semester\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu porozumie princípom digitálnej transformácie, inteligentných inovácií a konceptom Industry 4.0/5.0 so zameraním na ich praktické uplatnenie v rôznych odvetviach. Získa prehľad o human-cyber-physical systémoch, inteligentných riešeniach a moderných referenčných architektúrach využívaných v súčasných technologických ekosystémoch.\nŠtudent nadobudne kompetencie pri návrhu a analýze riešení založených na internete vecí, edge computingu a digitálnej komunikácii v počítačových a technologických sieťach. Dokáže pracovať s nástrojmi 3D modelovania a aditívnej výroby a rozumie zásadám kybernetickej a informačnej bezpečnosti.\nOsvojí si princípy digitálnych dvojčiat a kooperácie človeka a technológii a ich aplikácie v doménach, ako sú výrobný priemysel, medicína, doprava či podnikové procesy. Predmet je orientovaný aj na skúsenosti z praxe a výskumu, analýzu aktuálnych trendov, prípadové štúdie a reálne projekty z rôznych aplikačných oblastí aj s dôrazom na využitie umelej inteligencie ako kľúčového nástroja digitálnej transformácie.\nSúčasťou vzdelávania sú praktické cvičenia, semináre, projektové práce, analýzy prípadových riešení či vedeckých článkov. Absolvovanie kurzov (napr. CISCO IoT & Digital Transformation, Industry 5.0 podľa EQF mikroosvedčení) podporí rozvoj certifikovaných a prakticky využiteľných kompetencií.\n\n\nStručná osnova predmetu:\n• Digitálne transformácia, inteligentné inovácie, princípy Industry 4.0 a Industry 5.0\n• Human-Cyber-Physical systemy, Inteligentné (smart) systémy, referenčné architektúry\n• Internet vecí a výpočty na okraji siete\n• Komunikácie v digitálnej transformácii, Počítačové a technologické siete\n• 3D tlač a modelovanie\n• Bezpečnosť v sieťach a internete vecí\n• Digital twin, interakcia človek-technológia\n• AI-powered digital transformation\n• Skúsenosti a aktuálne trendy z praxe a výskumu v rôznych aplikačných doménach (napr. výrobný priemysel, medicína, doprava, podnikov0 procesy)\nKurzy\n• IoT a Digitálna transformácia; IIoT - CISCO kurz a certifikácia\n• Cyber-Physical Systems and Digital Transformation for Industry 5.0 – kurz EQF s mikroosvedčeniami\n\n\nOdporúčaná literatúra:\n• Schwab, K.: The Fourth Industrial Revolution, Crown Business, 2017, ISBN 978‑1524758868.\n• European Commission; Directorate‑General for Research and Innovation: Industry 5.0: Towards a Sustainable, Human‑Centric and Resilient European Industry, Publications Office of the European Union, 2021, ISBN 978‑92‑76‑25308‑2.\n• European Commission; Directorate‑General for Research and Innovation: ERA Industrial Technologies Roadmap on Human‑Centric Research and Innovation for the Manufacturing Sector, Publications Office of the European Union, 2024, ISBN 978‑92‑68‑11250‑2.\n• Tao, F.; Zhang, M.; Nee, A. Y. C.: Digital Twin Driven Smart Manufacturing, Academic Press, 2019, ISBN 978‑0128176306.\n• Abramowicz, W.; Kowalkiewicz, M.; Węcel, K. (eds.): AI‑Driven Digital Transformation: Perspectives from a Business School, Routledge, 2025, ISBN 978‑1003659143.\n• Kanam, S.: AI‑Powered Digital Transformation: Intelligent Systems for Enterprise Impact, Xoffencer International Book Publication House, 2025, ISBN 978‑8119890857.\nOnline kurzy\n• Cisco Networking Academy – Introduction to IoT and Digital Transformation; Industrial IoT (IIoT)\n• EU Academy – Industry 5.0 and Human‑Centric Digital Transformation (EQF micro‑credentials)\n• EIT Manufacturing – Digital Transformation in Manufacturing and Industry 5.0\n• MIT Professional Education – Digital Transformation in the AI Age\n• INVEStech Academy - Industry 5.0 Foundations and Smart Environments; Cyber-Physical Systems and Digital Transformation for Industry 5.0; Cyber-Physical Architectures, Governance, and Human-Centred Innovation in Industry 5.0 (EQF micro‑credentials)\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: V prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia. Jeden kredit predstavuje štandardne 25 hodín študijnej záťaže, vrátane samoštúdia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Iveta Zolotová, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

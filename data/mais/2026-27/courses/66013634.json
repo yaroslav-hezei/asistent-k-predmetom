@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013634",
+  "code": "2617641",
+  "name": "Počítačové systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013634",
+  "fetched_at": "2026-11-17T15:15:29Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2617641"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Počítačové systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nV priebehu semestra študent naprogramuje 4 zadania s aplikačným výstupom po 6 bodov (v súčte za 24b), napíše dve písomky po 4 body. Za pripravenosť a aktivitu na cvičení študent môže získať 8 bodov za semester"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška pozostáva z dvoch častí. Praktická časť bude obsahovať 4 úlohy (aplikačné príklady) hodnotené 7 bodmi za naprogramovanie každej úlohy a písomná časť skúšky obsahuje vypracovanie 4-och teoretických otázok hodnotených po 8 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je naučiť študentov samostatne vytvárať praktické aplikácie pripojenia periférnych zariadení k počítačom pre úlohy z oblasti riadenia, vizualizácie a sieťovej komunikácie medzi počítačmi a procesmi, s overením v podmienkach počítačov PC, Rasspberry PI, Intel Edison a pod. Koncepcia predmetu je stavaná tak, aby po HW stránke študenti pochopili základnú architektúru počítača PC a jeho podsystémov ako napr. pamäťový podsystém, zbernice, prerušovaci podsystém, systém priameho prístupu do pamäte, vizualizačný podsystém, vstupno/výstupný podsystém, zahŕňajúci štandardné rozhrania PC (RS-232, USB, a pod.), technologické rozhrania (analógový, číslicový a frekvenčný V/V, PWM a pod.), siete a sieťové rozhrania.\nV nadväznosti na znalosti z programovania a algoritmizácie budú preberané jednotlivé úrovne programového vybavenia s popisom operačného systému a rozborom jeho jednotlivých častí s dôrazom na API (Application Programming Interface) tak, aby v tomto prostredí boli študenti schopní vytvárať aplikácie v jazyku C, umožňujúce komunikáciu vstupno-výstupných zariadení s počítačom a následne s aplikáciami na úrovni databázových systémov, SCADA systémov a simulačných modelov. Z hľadiska sieťových rozhraní budú prebrané princípy počítačových sietí a komunikačných systémov v distribuovaných riadiacich sieťach, základné sieťové rozhrania a protokoly, metódy riadenia komunikácie v počítačových sieťach až do tej úrovne, aby študenti boli schopní navrhnúť sieťové prepojenie a vytvoriť program v jazyku C, ktorý vytvorí komunikáciu medzi aplikáciami vytvorenými na nezávislých počítačoch prepojených počítačovou sieťou konkrétneho typu vrátane siete Internet. V rámci cvičení budú vytvárané praktické aplikácie s využitím vývojových prostriedkov a laboratórnych modelov, ktoré sú integrované na web portáli skupiny CMMRaPI (kyb.fei.tuke.sk) na KKUI FEI TU."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Základné pojmy z oblasti komunikácie počítačov s okolím a z oblasti periférnych zariadení\n• Prostriedky a nástroje pre vývoj aplikácií z oblasti komunikácie počítačov PC (Rasspberry PI, Intel Edison a pod.) s okolím a periférnymi zariadeniami, technické prostriedky, programové prostriedky, operačný systém a jeho definícia.\n• Technická podpora pre vývoj aplikácií na PC pod OS, procesor, časovač, pamäťový podsystém, prerušovací podsystém, systém priameho prístupu do pamäte, V/V podsystém.\n• Operačné systémy počítačov PC, charakteristika a funkcia OS, rozdelenie OS, štruktúra OS, administrácia procesov v OS, paralelné riadenie procesov v OS, riadenie pamäte v OS, súborový systém OS\n• Definícia počítačových sietí, metódy riadenia v počítačových sieťach (centralizované a distribuované riadenie, náhodný prístup, kruhové siete), prepojovacie štruktúry a prepájanie počítačových sietí, architektura a protokoly internetu, aplikačné rozhrania a aplikácia sietí v riadení.\n• Nástroje pre vývoj aplikácií pod OS (editory, prekladače, ladiace programy)\n• Aplikácie pre prácu s pamäťou a so súbormi\n• Aplikácie pre prácu s prerušeniami\n• Aplikácie pre prácu s priamým prístupom do pamäte\n• Aplikácie pre prácu so V/V adaptérmi na úrovni programových aplikácií pod OS:\no sériové rozhranie RS 232, RS 485,\no univerzálna sériová zbernica USB,\no grafické rozhranie PC,\no technológické rozhranie PC (systém číslicových V/V, systém analógových V/V, systém frekvenčných V/V)\n• Aplikácie komunikacie počítačov s perifériami s využitím sieťových komunikačných sietí vrátane Internetu"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Dráb, M.: Jádro systému Windows – Kompletní pruvodce programátora, Computer Press, 2011\nStallings, W.: Operating systems 6th, ed.Prentice Hall, 2005, ISBN 0-13-147954-7\nRichter, J.: Windows pro pokročilé a experty (Advanced Windows), Praha, Computer Press, 1997, 988 s., ISBN 80-85896-89-3\nHorák, J.: Hardware-učebnice pre pokročilé, Computer Press, 2007\nWhite, R.: Jak funguji počítače, SoftPress, Praha, 2003\nKoziorek, J. – Kocián, J. – Chromčák, L. – Láryš, T.: Distribuované systémy říení, Ostrava: Technická univerzita Ostrava, 2011, 264 strán, ISBN 978-80-248-2599-1\nKováč, F. 1998. Distribuované riadiace systémy: 1.vydanie. Bratislava: Vydavateľstvo STU, 1998. ISBN 80-227-1082-2\nVavrečková, Š.: Operační systémy, Ústav informatiky, Slezská univerzita Opava, 2006.\nŠnorek, M,: Standardní rozhraní PC, Vydavateľstvo GRADA, Praha 1992\n\nTutoriály a materiály pre modelové aplikácie (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php) integrované v rámci web portálu CMMRaPI (kyb.fei.tuke.sk)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 381\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n23%\n15%\n22%\n20%\n8%\n11%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Jadlovský, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 5,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 381,
+    "percent": {
+      "A": 23,
+      "B": 15,
+      "C": 22,
+      "D": 20,
+      "E": 8,
+      "FX": 11
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Jadlovský, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2617641\nNázov predmetu: Počítačové systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nV priebehu semestra študent naprogramuje 4 zadania s aplikačným výstupom po 6 bodov (v súčte za 24b), napíše dve písomky po 4 body. Za pripravenosť a aktivitu na cvičení študent môže získať 8 bodov za semester\n\n\n\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška pozostáva z dvoch častí. Praktická časť bude obsahovať 4 úlohy (aplikačné príklady) hodnotené 7 bodmi za naprogramovanie každej úlohy a písomná časť skúšky obsahuje vypracovanie 4-och teoretických otázok hodnotených po 8 bodov.\n\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je naučiť študentov samostatne vytvárať praktické aplikácie pripojenia periférnych zariadení k počítačom pre úlohy z oblasti riadenia, vizualizácie a sieťovej komunikácie medzi počítačmi a procesmi, s overením v podmienkach počítačov PC, Rasspberry PI, Intel Edison a pod. Koncepcia predmetu je stavaná tak, aby po HW stránke študenti pochopili základnú architektúru počítača PC a jeho podsystémov ako napr. pamäťový podsystém, zbernice, prerušovaci podsystém, systém priameho prístupu do pamäte, vizualizačný podsystém, vstupno/výstupný podsystém, zahŕňajúci štandardné rozhrania PC (RS-232, USB, a pod.), technologické rozhrania (analógový, číslicový a frekvenčný V/V, PWM a pod.), siete a sieťové rozhrania.\nV nadväznosti na znalosti z programovania a algoritmizácie budú preberané jednotlivé úrovne programového vybavenia s popisom operačného systému a rozborom jeho jednotlivých častí s dôrazom na API (Application Programming Interface) tak, aby v tomto prostredí boli študenti schopní vytvárať aplikácie v jazyku C, umožňujúce komunikáciu vstupno-výstupných zariadení s počítačom a následne s aplikáciami na úrovni databázových systémov, SCADA systémov a simulačných modelov. Z hľadiska sieťových rozhraní budú prebrané princípy počítačových sietí a komunikačných systémov v distribuovaných riadiacich sieťach, základné sieťové rozhrania a protokoly, metódy riadenia komunikácie v počítačových sieťach až do tej úrovne, aby študenti boli schopní navrhnúť sieťové prepojenie a vytvoriť program v jazyku C, ktorý vytvorí komunikáciu medzi aplikáciami vytvorenými na nezávislých počítačoch prepojených počítačovou sieťou konkrétneho typu vrátane siete Internet. V rámci cvičení budú vytvárané praktické aplikácie s využitím vývojových prostriedkov a laboratórnych modelov, ktoré sú integrované na web portáli skupiny CMMRaPI (kyb.fei.tuke.sk) na KKUI FEI TU.\n\n\n\nStručná osnova predmetu:\n• Základné pojmy z oblasti komunikácie počítačov s okolím a z oblasti periférnych zariadení\n• Prostriedky a nástroje pre vývoj aplikácií z oblasti komunikácie počítačov PC (Rasspberry PI, Intel Edison a pod.) s okolím a periférnymi zariadeniami, technické prostriedky, programové prostriedky, operačný systém a jeho definícia.\n• Technická podpora pre vývoj aplikácií na PC pod OS, procesor, časovač, pamäťový podsystém, prerušovací podsystém, systém priameho prístupu do pamäte, V/V podsystém.\n• Operačné systémy počítačov PC, charakteristika a funkcia OS, rozdelenie OS, štruktúra OS, administrácia procesov v OS, paralelné riadenie procesov v OS, riadenie pamäte v OS, súborový systém OS\n• Definícia počítačových sietí, metódy riadenia v počítačových sieťach (centralizované a distribuované riadenie, náhodný prístup, kruhové siete), prepojovacie štruktúry a prepájanie počítačových sietí, architektura a protokoly internetu, aplikačné rozhrania a aplikácia sietí v riadení.\n• Nástroje pre vývoj aplikácií pod OS (editory, prekladače, ladiace programy)\n• Aplikácie pre prácu s pamäťou a so súbormi\n• Aplikácie pre prácu s prerušeniami\n• Aplikácie pre prácu s priamým prístupom do pamäte\n• Aplikácie pre prácu so V/V adaptérmi na úrovni programových aplikácií pod OS:\no sériové rozhranie RS 232, RS 485,\no univerzálna sériová zbernica USB,\no grafické rozhranie PC,\no technológické rozhranie PC (systém číslicových V/V, systém analógových V/V, systém frekvenčných V/V)\n• Aplikácie komunikacie počítačov s perifériami s využitím sieťových komunikačných sietí vrátane Internetu\n\n\n\nOdporúčaná literatúra:\nDráb, M.: Jádro systému Windows – Kompletní pruvodce programátora, Computer Press, 2011\nStallings, W.: Operating systems 6th, ed.Prentice Hall, 2005, ISBN 0-13-147954-7\nRichter, J.: Windows pro pokročilé a experty (Advanced Windows), Praha, Computer Press, 1997, 988 s., ISBN 80-85896-89-3\nHorák, J.: Hardware-učebnice pre pokročilé, Computer Press, 2007\nWhite, R.: Jak funguji počítače, SoftPress, Praha, 2003\nKoziorek, J. – Kocián, J. – Chromčák, L. – Láryš, T.: Distribuované systémy říení, Ostrava: Technická univerzita Ostrava, 2011, 264 strán, ISBN 978-80-248-2599-1\nKováč, F. 1998. Distribuované riadiace systémy: 1.vydanie. Bratislava: Vydavateľstvo STU, 1998. ISBN 80-227-1082-2\nVavrečková, Š.: Operační systémy, Ústav informatiky, Slezská univerzita Opava, 2006.\nŠnorek, M,: Standardní rozhraní PC, Vydavateľstvo GRADA, Praha 1992\n\nTutoriály a materiály pre modelové aplikácie (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php) integrované v rámci web portálu CMMRaPI (kyb.fei.tuke.sk)\n\n\n\n\n\n\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 381\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n23%\n15%\n22%\n20%\n8%\n11%\n\n\nZabezpečuje:\ndoc. Ing. Ján Jadlovský, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65950478",
+  "code": "2619011",
+  "name": "Materiály v extrémnych podmienkach",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950478",
+  "fetched_at": "2026-11-17T15:07:36Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2619011"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Materiály v extrémnych podmienkach"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nSamostatne vypracované problémové úlohy, písomný test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška písomnou formou (príklady + teória)"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť študentom poznatky o princípoch a metódach, pomocou ktorých je možno vytvoriť extrémne podmienky, o technikách merania základných fyzikálnych veličín pri týchto podmienkach a o vplyve extrémnych podmienok, akými sú ultra nízke teploty, vysoké tlaky a silné magnetické polia na fyzikálne vlastnosti kondenzovaných látok."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Princípy dosahovania ultranízkych teplôt: rozpúšťací refrigerátor, adiabatická demagnetizácia paramagnetických solí a jadrová adiabatická demgantizácia, Pomerančukov efekt, demagnetizácia tuhého hélia-3.\n- Definícia teplotnej stupnice v oblasti ultranízkych teplôt. Meranie ultranízkych teplôt: primárna a sekundárna termometria. Jadrový orientačný teplomer, šumový teplomer, termometria na báze jadrovej magnetickej rezonancie a mechanických rezonátorov.\n- Vlastnosti kondenzovaných látok pri nízkych a ultranízkych teplotách: termodynamické, elektrické a magnetické vlastnosti, jav supravodivosti a supratekutosti. Základné fyzikálne princípy supravodivosti a supratekutosti.\n- Metódy získavania a merania vysokých tlakov: návrh a konštrukcia tlakových komôr, fyzikálne princípy merania vysokých tlakov. Meranie fyzikálnych veličín pri vysokých tlakoch.\n- Mechanické, elektrické a magnetické vlastnosti kondenzovaných látok pri vysokých tlakoch, vplyv tlaku na štruktúru látok, kvantové fázové prechody.\n- Metódy získavania silných magnetických polí, statické a impulzné magnetické polia. Klasické, supravodivé a hybridné magnety. Meranie silných magnetických polí. Silové pôsobenie medzi magnetmi.\n- Vlastnosti kondenzovaných látok v silných magnetických poliach, Hallov jav, vplyv magnetického poľa na supravodivosť a supratekutosť."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Kittel Ch., Úvod do fyziky pevných látek, Academia 1985\n[2] Kavečanský V., Fyzika tuhých látok, UPJŠ 1983, skriptá\n[3] Jánoš Š., Fyzika nízkych teplôt, ALFA Bratislava 1980, (aj skriptá)\n[4] Jelínek J., Málek Z., Kryogenní technika, SNTL Praha 1982"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 52 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 26 hodín\nNekontaktná výučba: spolu 98 hodín, z toho:\n• Príprava na prednášky a cvičenia – 49 hodín\n• Príprava na skúšku – 49 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 20\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n70%\n30%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Ing. Jozef Onufer, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 20,
+    "percent": {
+      "A": 70,
+      "B": 30,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Ing. Jozef Onufer, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 2619011\nNázov predmetu: Materiály v extrémnych podmienkach\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nSamostatne vypracované problémové úlohy, písomný test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška písomnou formou (príklady + teória)\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť študentom poznatky o princípoch a metódach, pomocou ktorých je možno vytvoriť extrémne podmienky, o technikách merania základných fyzikálnych veličín pri týchto podmienkach a o vplyve extrémnych podmienok, akými sú ultra nízke teploty, vysoké tlaky a silné magnetické polia na fyzikálne vlastnosti kondenzovaných látok.\n\nStručná osnova predmetu:\n- Princípy dosahovania ultranízkych teplôt: rozpúšťací refrigerátor, adiabatická demagnetizácia paramagnetických solí a jadrová adiabatická demgantizácia, Pomerančukov efekt, demagnetizácia tuhého hélia-3.\n- Definícia teplotnej stupnice v oblasti ultranízkych teplôt. Meranie ultranízkych teplôt: primárna a sekundárna termometria. Jadrový orientačný teplomer, šumový teplomer, termometria na báze jadrovej magnetickej rezonancie a mechanických rezonátorov.\n- Vlastnosti kondenzovaných látok pri nízkych a ultranízkych teplotách: termodynamické, elektrické a magnetické vlastnosti, jav supravodivosti a supratekutosti. Základné fyzikálne princípy supravodivosti a supratekutosti.\n- Metódy získavania a merania vysokých tlakov: návrh a konštrukcia tlakových komôr, fyzikálne princípy merania vysokých tlakov. Meranie fyzikálnych veličín pri vysokých tlakoch.\n- Mechanické, elektrické a magnetické vlastnosti kondenzovaných látok pri vysokých tlakoch, vplyv tlaku na štruktúru látok, kvantové fázové prechody.\n- Metódy získavania silných magnetických polí, statické a impulzné magnetické polia. Klasické, supravodivé a hybridné magnety. Meranie silných magnetických polí. Silové pôsobenie medzi magnetmi.\n- Vlastnosti kondenzovaných látok v silných magnetických poliach, Hallov jav, vplyv magnetického poľa na supravodivosť a supratekutosť.\n\nOdporúčaná literatúra:\n[1] Kittel Ch., Úvod do fyziky pevných látek, Academia 1985\n[2] Kavečanský V., Fyzika tuhých látok, UPJŠ 1983, skriptá\n[3] Jánoš Š., Fyzika nízkych teplôt, ALFA Bratislava 1980, (aj skriptá)\n[4] Jelínek J., Málek Z., Kryogenní technika, SNTL Praha 1982\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 52 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 26 hodín\nNekontaktná výučba: spolu 98 hodín, z toho:\n• Príprava na prednášky a cvičenia – 49 hodín\n• Príprava na skúšku – 49 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 20\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n70%\n30%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. RNDr. Ing. Jozef Onufer, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

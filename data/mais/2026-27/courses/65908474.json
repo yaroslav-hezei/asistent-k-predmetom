@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65908474",
+  "code": "2609221",
+  "name": "Simulácia výrobných systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908474",
+  "fetched_at": "2026-11-17T15:06:35Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2609221"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Simulácia výrobných systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent vypracuje dve zadania po 10 bodov, a absolvuje písomnú previerku za 20 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška má praktická časť (príklad) za 30 bodov, minimálne 15 bodov, ústnu časť za 30 bodov, minimálne 15 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent je po absolvovaní predmetu schopný vytvoriť počítačový model diskrétneho stochastického systému, vie overiť jeho správnosť, spustiť simulačné experimenty, analyzovať výsledky a vyvodiť z nich závery, ktoré sa po zavedení do praxe potvrdia s dostatočnou presnosťou."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Vyčlenenie oblasti simulácie\n2. Základné pojmy a koncepty\n3. Formulácia cieľov simulácie\n4. Zber a spracovanie údajov\n5. Konceptuálny model\n6. Počítačový model\n7. Overenie správnosti modelu\n8. Plánovanie a vyhodnotenie experimentov, optimalizácia\n9. Simulačný projekt\n10. Trendy v oblasti simulácie"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Bober, P.: Simulácia výrobných systémov. 1. vyd., Košice: Technická univerzita v Košiciach, 2013. 73 s., ISBN 978-80-553-1486-0.\n[2] Bober, P.: Simulácia výrobných systémov - návody na cvičenia. 1. vyd., Košice: Technická univerzita v Košiciach, 2018. 71 s., ISBN 978-80-553-2963-5.\n[3] Gregor, M - Košturiak, J - Halušková, M.: Priemyslové inžinierstvo - simulácia výrobných systémov. Žilina: Jozef Blaha, 1997. 166 s. ISBN 80-966996-8-7\n[4] Bučko, M.: Pravdepodobnosť a matematická štatistika, Bratislava: ALFA , 1990. 192 s. ISBN 80-05-00554-7"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 275\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n10%\n16%\n20%\n21%\n17%\n16%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Girovský, PhD.\nIng. Peter Bober, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 275,
+    "percent": {
+      "A": 10,
+      "B": 16,
+      "C": 20,
+      "D": 21,
+      "E": 17,
+      "FX": 16
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Girovský, PhD.",
+    "Ing. Peter Bober, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 2609221\nNázov predmetu: Simulácia výrobných systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent vypracuje dve zadania po 10 bodov, a absolvuje písomnú previerku za 20 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška má praktická časť (príklad) za 30 bodov, minimálne 15 bodov, ústnu časť za 30 bodov, minimálne 15 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent je po absolvovaní predmetu schopný vytvoriť počítačový model diskrétneho stochastického systému, vie overiť jeho správnosť, spustiť simulačné experimenty, analyzovať výsledky a vyvodiť z nich závery, ktoré sa po zavedení do praxe potvrdia s dostatočnou presnosťou.\n\nStručná osnova predmetu:\n1. Vyčlenenie oblasti simulácie\n2. Základné pojmy a koncepty\n3. Formulácia cieľov simulácie\n4. Zber a spracovanie údajov\n5. Konceptuálny model\n6. Počítačový model\n7. Overenie správnosti modelu\n8. Plánovanie a vyhodnotenie experimentov, optimalizácia\n9. Simulačný projekt\n10. Trendy v oblasti simulácie\n\nOdporúčaná literatúra:\n[1] Bober, P.: Simulácia výrobných systémov. 1. vyd., Košice: Technická univerzita v Košiciach, 2013. 73 s., ISBN 978-80-553-1486-0.\n[2] Bober, P.: Simulácia výrobných systémov - návody na cvičenia. 1. vyd., Košice: Technická univerzita v Košiciach, 2018. 71 s., ISBN 978-80-553-2963-5.\n[3] Gregor, M - Košturiak, J - Halušková, M.: Priemyslové inžinierstvo - simulácia výrobných systémov. Žilina: Jozef Blaha, 1997. 166 s. ISBN 80-966996-8-7\n[4] Bučko, M.: Pravdepodobnosť a matematická štatistika, Bratislava: ALFA , 1990. 192 s. ISBN 80-05-00554-7\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 275\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n10%\n16%\n20%\n21%\n17%\n16%\n\n\nZabezpečuje:\ndoc. Ing. Peter Girovský, PhD.\nIng. Peter Bober, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65950878",
+  "code": "2613351",
+  "name": "Teória elektromagnetického poľa",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950878",
+  "fetched_at": "2026-11-17T15:08:10Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2613351"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Teória elektromagnetického poľa"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ndva písomné testy z riešenia úloh"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\npísomná skúška - riešenie príkladov a teória"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa prehĺbené teoretické vedomosti z oblasti zo všeobecných princípov riešenia Maxwellových rovníc a ich aplikácií v oblastiach vedenia, vyžarovania a šírenia elektromagnetických vĺn."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Maxwellove rovnice pre vákuum. Rovnica kontinuity, potenciály elektromagnetického poľa. Poyntingov vektor, zákon zachovania energie v elektromagnetických poliach.\nMaxwellove rovnice v elektrostatickom, stacionárnom a nestacionárnom poli.\nElektromagnetické vlny v nevodivých prostrediach,rovinná elektromagnetická vlna v nevodivých a vo vodivých prostrediach.\nZdroje elektromagnetického vlnenia, elektromagnetické vlny v okolí dipólu.\nVedenie elektromagnetických vĺn, pozdĺž drôtov, vlnovod.\nElektrický a magnetický skinefekt."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "KVASNICA Jozef. Teorie elektromagnetického pole. Praha: Academia,1985.\nKREMPASKÝ Július. Fyzika. Bratislava: Alfa, 1988.\nKITTEL Charles. Úvod do fysiky pevných látek. Praha: Academia, 1985.\nDUDÁŠ Ján. Teória elektromagnetického poľa. Košice: ES TU, 1991.\nDUDÁŠ Ján. Príklady z teórie elektromagnetického poľa. Košice: ES TU, 1992.\nBOBÁK Andrej. Teória elektromagnetického poľa. Košice: UPJŠ, 2002."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 60 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 26 hodín\n• Priame konzultácie: 8 hodín\n\nNekontaktná výučba: spolu 90 hodín, z toho:\n• Príprava na cvičenia: 18 hodín\n• Príprava na priebežné kontrolné skúšky: 20 hodín\n• Príprava na skúšku: 52 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 159\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n14%\n23%\n28%\n18%\n5%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Mária Kovaľaková, PhD.\ndoc. RNDr. Jozef Kravčák, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 159,
+    "percent": {
+      "A": 11,
+      "B": 14,
+      "C": 23,
+      "D": 28,
+      "E": 18,
+      "FX": 5
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Mária Kovaľaková, PhD.",
+    "doc. RNDr. Jozef Kravčák, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 2613351\nNázov predmetu: Teória elektromagnetického poľa\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ndva písomné testy z riešenia úloh\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\npísomná skúška - riešenie príkladov a teória\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa prehĺbené teoretické vedomosti z oblasti zo všeobecných princípov riešenia Maxwellových rovníc a ich aplikácií v oblastiach vedenia, vyžarovania a šírenia elektromagnetických vĺn.\n\nStručná osnova predmetu:\nMaxwellove rovnice pre vákuum. Rovnica kontinuity, potenciály elektromagnetického poľa. Poyntingov vektor, zákon zachovania energie v elektromagnetických poliach.\nMaxwellove rovnice v elektrostatickom, stacionárnom a nestacionárnom poli.\nElektromagnetické vlny v nevodivých prostrediach,rovinná elektromagnetická vlna v nevodivých a vo vodivých prostrediach.\nZdroje elektromagnetického vlnenia, elektromagnetické vlny v okolí dipólu.\nVedenie elektromagnetických vĺn, pozdĺž drôtov, vlnovod.\nElektrický a magnetický skinefekt.\n\nOdporúčaná literatúra:\nKVASNICA Jozef. Teorie elektromagnetického pole. Praha: Academia,1985.\nKREMPASKÝ Július. Fyzika. Bratislava: Alfa, 1988.\nKITTEL Charles. Úvod do fysiky pevných látek. Praha: Academia, 1985.\nDUDÁŠ Ján. Teória elektromagnetického poľa. Košice: ES TU, 1991.\nDUDÁŠ Ján. Príklady z teórie elektromagnetického poľa. Košice: ES TU, 1992.\nBOBÁK Andrej. Teória elektromagnetického poľa. Košice: UPJŠ, 2002.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 60 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 26 hodín\n• Priame konzultácie: 8 hodín\n\nNekontaktná výučba: spolu 90 hodín, z toho:\n• Príprava na cvičenia: 18 hodín\n• Príprava na priebežné kontrolné skúšky: 20 hodín\n• Príprava na skúšku: 52 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 159\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n14%\n23%\n28%\n18%\n5%\n\n\nZabezpečuje:\ndoc. RNDr. Mária Kovaľaková, PhD.\ndoc. RNDr. Jozef Kravčák, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

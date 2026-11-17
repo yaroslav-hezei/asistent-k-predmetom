@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65517610",
+  "code": "2620573",
+  "name": "Modelovanie fyzikálnych procesov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517610",
+  "fetched_at": "2026-11-17T14:59:12Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2620573"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Modelovanie fyzikálnych procesov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26,13/,26,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Vypracovanie matlabovských programov"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\npísomný test"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť základné poznatky matematicko-fyzikálneho modelovania reálnych problémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Najkratšia trajektória pohybu s využitím prostredia Matlab.\n2. Trajektória dráhy torpéda s využitím prostredia Matlab.\n3. Ciolkovského rovnica, počet stupňov rakety.\n4. Matematické a fyzikálne kyvadlo.\n5. Netonové kyvadlo.\n6. Využitie AGM metódy pri výpočte eliptického integrálu.\n7. Rôzne pohybové úlohy - Druhý Newtonov pohybový zákon.\n8. Odraz lúča v elipse.\n9. Rozmerová analýza."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Džurina J., Baculíková B.,: Aplikácie diferenciálnych rovníc, Equilibria 2019."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 114\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n32%\n12%\n10%\n10%\n23%\n13%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. RNDr. Jozef Džurina, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 114,
+    "percent": {
+      "A": 32,
+      "B": 12,
+      "C": 10,
+      "D": 10,
+      "E": 23,
+      "FX": 13
+    }
+  },
+  "teachers": [
+    "prof. RNDr. Jozef Džurina, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2620573\nNázov predmetu: Modelovanie fyzikálnych procesov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2,1\nExterná forma štúdia (hodiny za semester): LS 26,26,13/,26,26,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nVypracovanie matlabovských programov\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\npísomný test\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť základné poznatky matematicko-fyzikálneho modelovania reálnych problémov.\n\nStručná osnova predmetu:\n1. Najkratšia trajektória pohybu s využitím prostredia Matlab.\n2. Trajektória dráhy torpéda s využitím prostredia Matlab.\n3. Ciolkovského rovnica, počet stupňov rakety.\n4. Matematické a fyzikálne kyvadlo.\n5. Netonové kyvadlo.\n6. Využitie AGM metódy pri výpočte eliptického integrálu.\n7. Rôzne pohybové úlohy - Druhý Newtonov pohybový zákon.\n8. Odraz lúča v elipse.\n9. Rozmerová analýza.\n\nOdporúčaná literatúra:\nDžurina J., Baculíková B.,: Aplikácie diferenciálnych rovníc, Equilibria 2019.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 114\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n32%\n12%\n10%\n10%\n23%\n13%\n\n\nZabezpečuje:\nprof. RNDr. Jozef Džurina, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

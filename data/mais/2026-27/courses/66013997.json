@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013997",
+  "code": "2609841",
+  "name": "Distribuované systémy riadenia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013997",
+  "fetched_at": "2026-11-17T15:16:00Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2609841"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Distribuované systémy riadenia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študent programovo spracuje spolu s dokumentáciou 2 zadania s aplikačným výstupom po 7 bodov, napíše esej za 6 bodov a absolvuje dve písomky po 6 bodov. Za pripravenosť a aktivitu na cvičení študent môže získať 8 bodov za semester."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška bude pozostávať z dvoch častí. Praktická časť bude obsahovať 2 úlohy (aplikačné príklady) hodnotené 10 bodmi za naprogramovanie každej úlohy , písomná časť skúšky obsahuje vypracovanie 4-och teoretických otázok z obsahu prednášok hodnotených 10 bodmi za otázku."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je naučiť študentov metodike, samostatnému návrhu a praktickej realizácii komplexného riadenia výrobných a obchodných organizácií. Tento cieľ zahŕňa návrh a programovú realizáciu celého procesu riadenia od \"riadenia výrobných liniek\" na najnižšej úrovni, cez dispečerskú úroveň riadenia, umožňujúcu dispečerský dohľad nad technologickým procesom veľkého rozsahu až po databázovú informačnú úroveň umožňujúcu operatívne riadenie podniku, ktoré pokrýva oblasť ekonomiky, marketingu, operatívneho plánovania, strategického manažérskeho riadenia a pod.\nPostupne sú preberané jednotlivé úrovne riadenia a metodicky navrhované logické väzby medzi nimi so špecifikáciou hardvéru, softvéru a inteligentných sieťových prepojení. Pri návrhu a realizácii všetkých úrovní „distribuovaného systému riadenia“ sú aplikované web technológie a technológie Internetu.\nV rámci cvičení študenti prakticky zrealizujú navrhnuté riešenie s využitím hardvérových, softvérových a sieťových prostriedkov, ktoré sú k dispozícii v rámci modelového pracoviska distribuovaného systému riadenia v CMMRaPI na KKUI (web Infraštruktúry DSR na KKUI: http://kyb.fei.tuke.sk/laboratoria/infdsr.php). Výuka predmetu a riešenie zadaní využívajú laboratórne výukové modely v rámci wwb portálu CMMPaPI (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Základné pojmy z oblasti distribuovaných systémov riadenia (DSR), popis Infraštruktúry modelového pracoviska DSR (http://kyb.fei.tuke.sk/laboratoria/infdsr.php)\n• Koncepcia distribuovaných systémov riadenia, základné úrovne riadenia, počítačové prostriedky pre riadenie na jednotlivých úrovniach, požiadavky na technické a programové vybavenie,\n• Model CIM, definícia, základné princípy, štruktúra modelu CIM a popis funkčných blokov\n• Charakteristika výrobného podniku, popis jednotlivých úrovní riadenia a aplikácia DSR na báze CIM koncepcie v štruktúrach jeho riadenia\n• Charakteristika technologického procesu (TP), dekompozícia technologického procesu na technologické zóny, väzba a väzobné prvky TP na DSR\n• Metódy návrhu rozsiahlych informačných a riadiacich systémov, vertikálne a horizontálne členenie DSR, informačná, dispečerská a technologická úroveň riadenia, strategické plánovanie, marketing, systém riadenia kvality, ekonomika.\n• Príklady aplikácie integrovaných technických a programových prostriedkov v rámci komplexného riadenia výrobných podnikov z hľadiska štandardného programového vybavenia, technických prostriedkov, ich sieťových rozhraní, technickej diagnostiky DSR,\n• Príklady implementácie prostriedkov UI a web technológií v rámci DSR s využitím modelového pracoviska 5- úrovňového modelu DSR v CMMRaPI na KKUI FEI (web: http://kyb.fei.tuke.sk/laboratoria/infdsr.php)\n• Prezentácia modelových aplikácií (modely výrobných liniek, modelové pracovisko mobilnej robotiky, pracovisko nedeštruktívnej diagnostiky) implementovaných do štruktúry DSR v laboratórnych podmienkach (Prezentácia CMMRaPI: http://matlab.fei.tuke.sk/akreditacia/index.html)"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Jadlovský, J.- Čopík, M.- Papcun, P.: Distribuované systémy riadenia, Vydavateľstvo Elfa s.r.o., Košice, 2014\nKoziorek, J.- Kocián, J. – Chromčák, L. – Láryš, T.: Distribuované systémy řízení, Ostrava, TU Ostrava, 2011, ISBN 978-80-248-2599-1\nHavlice, Z.: Modelovanie a prototypovanie pri projektovaní informačných systémov, Academic Press Elfa, s.r.o., Košice, 1999\nFiremná literatúra spoločností ORACLE, IBM\nKováč, F.: Distribuované riadiace systémy, Vydavateľstvo STU Bratislava, 1998, 211s., ISBN 80-227-1082-2\nJaneček, J.: Distribuované systémy, Vydavatelství ČVUT Praha, 1993\nVeselý, V.: Navrhovanie a projektovanie ASR TP, ALFA Bratislava, 1992"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 365\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n23%\n26%\n23%\n14%\n5%\n10%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Jadlovský, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 365,
+    "percent": {
+      "A": 23,
+      "B": 26,
+      "C": 23,
+      "D": 14,
+      "E": 5,
+      "FX": 10
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Jadlovský, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2609841\nNázov predmetu: Distribuované systémy riadenia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študent programovo spracuje spolu s dokumentáciou 2 zadania s aplikačným výstupom po 7 bodov, napíše esej za 6 bodov a absolvuje dve písomky po 6 bodov. Za pripravenosť a aktivitu na cvičení študent môže získať 8 bodov za semester.\n\n\n\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška bude pozostávať z dvoch častí. Praktická časť bude obsahovať 2 úlohy (aplikačné príklady) hodnotené 10 bodmi za naprogramovanie každej úlohy , písomná časť skúšky obsahuje vypracovanie 4-och teoretických otázok z obsahu prednášok hodnotených 10 bodmi za otázku.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je naučiť študentov metodike, samostatnému návrhu a praktickej realizácii komplexného riadenia výrobných a obchodných organizácií. Tento cieľ zahŕňa návrh a programovú realizáciu celého procesu riadenia od \"riadenia výrobných liniek\" na najnižšej úrovni, cez dispečerskú úroveň riadenia, umožňujúcu dispečerský dohľad nad technologickým procesom veľkého rozsahu až po databázovú informačnú úroveň umožňujúcu operatívne riadenie podniku, ktoré pokrýva oblasť ekonomiky, marketingu, operatívneho plánovania, strategického manažérskeho riadenia a pod.\nPostupne sú preberané jednotlivé úrovne riadenia a metodicky navrhované logické väzby medzi nimi so špecifikáciou hardvéru, softvéru a inteligentných sieťových prepojení. Pri návrhu a realizácii všetkých úrovní „distribuovaného systému riadenia“ sú aplikované web technológie a technológie Internetu.\nV rámci cvičení študenti prakticky zrealizujú navrhnuté riešenie s využitím hardvérových, softvérových a sieťových prostriedkov, ktoré sú k dispozícii v rámci modelového pracoviska distribuovaného systému riadenia v CMMRaPI na KKUI (web Infraštruktúry DSR na KKUI: http://kyb.fei.tuke.sk/laboratoria/infdsr.php). Výuka predmetu a riešenie zadaní využívajú laboratórne výukové modely v rámci wwb portálu CMMPaPI (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php).\n\n\n\n\nStručná osnova predmetu:\n• Základné pojmy z oblasti distribuovaných systémov riadenia (DSR), popis Infraštruktúry modelového pracoviska DSR (http://kyb.fei.tuke.sk/laboratoria/infdsr.php)\n• Koncepcia distribuovaných systémov riadenia, základné úrovne riadenia, počítačové prostriedky pre riadenie na jednotlivých úrovniach, požiadavky na technické a programové vybavenie,\n• Model CIM, definícia, základné princípy, štruktúra modelu CIM a popis funkčných blokov\n• Charakteristika výrobného podniku, popis jednotlivých úrovní riadenia a aplikácia DSR na báze CIM koncepcie v štruktúrach jeho riadenia\n• Charakteristika technologického procesu (TP), dekompozícia technologického procesu na technologické zóny, väzba a väzobné prvky TP na DSR\n• Metódy návrhu rozsiahlych informačných a riadiacich systémov, vertikálne a horizontálne členenie DSR, informačná, dispečerská a technologická úroveň riadenia, strategické plánovanie, marketing, systém riadenia kvality, ekonomika.\n• Príklady aplikácie integrovaných technických a programových prostriedkov v rámci komplexného riadenia výrobných podnikov z hľadiska štandardného programového vybavenia, technických prostriedkov, ich sieťových rozhraní, technickej diagnostiky DSR,\n• Príklady implementácie prostriedkov UI a web technológií v rámci DSR s využitím modelového pracoviska 5- úrovňového modelu DSR v CMMRaPI na KKUI FEI (web: http://kyb.fei.tuke.sk/laboratoria/infdsr.php)\n• Prezentácia modelových aplikácií (modely výrobných liniek, modelové pracovisko mobilnej robotiky, pracovisko nedeštruktívnej diagnostiky) implementovaných do štruktúry DSR v laboratórnych podmienkach (Prezentácia CMMRaPI: http://matlab.fei.tuke.sk/akreditacia/index.html)\n\n\n\nOdporúčaná literatúra:\nJadlovský, J.- Čopík, M.- Papcun, P.: Distribuované systémy riadenia, Vydavateľstvo Elfa s.r.o., Košice, 2014\nKoziorek, J.- Kocián, J. – Chromčák, L. – Láryš, T.: Distribuované systémy řízení, Ostrava, TU Ostrava, 2011, ISBN 978-80-248-2599-1\nHavlice, Z.: Modelovanie a prototypovanie pri projektovaní informačných systémov, Academic Press Elfa, s.r.o., Košice, 1999\nFiremná literatúra spoločností ORACLE, IBM\nKováč, F.: Distribuované riadiace systémy, Vydavateľstvo STU Bratislava, 1998, 211s., ISBN 80-227-1082-2\nJaneček, J.: Distribuované systémy, Vydavatelství ČVUT Praha, 1993\nVeselý, V.: Navrhovanie a projektovanie ASR TP, ALFA Bratislava, 1992\n\n\n\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 365\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n23%\n26%\n23%\n14%\n5%\n10%\n\n\nZabezpečuje:\ndoc. Ing. Ján Jadlovský, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

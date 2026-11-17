@@ -1,0 +1,170 @@
+{
+  "predmet_id": "65908543",
+  "code": "26001043",
+  "name": "Tvorba používateľských rozhraní",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908543",
+  "fetched_at": "2026-11-17T15:06:41Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001043"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Tvorba používateľských rozhraní"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 13,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti vypracujú 1 projekt za 10 bodov a absolvujú test v systéme Moodle za 30 bodov. Ak študent získa za projekt menej ako 6 bodov, absolvuje opravné zadanie projektu. Ak študent získa za test v systéme Moodle menej ako 16 bodov musí absolvovať opravný test. Študentovi bude udelený zápočet, ak získa za semester spolu minimálne 21 bodov, maximálny počet je 40 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov: 40 bodov praktická časť na počítači a 20 bodov ústna skúška. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 21 bodov za praktickú časť a 10 bodov za ústnu skúšku, a keď súčet bodov za priebežné a záverečné hodnotenie bude >= 51."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámiť študentov so základnými princípmi a úlohami realizácie interfejsu v systémoch MMI (Man Machine Interfejs). Sú tu preberané základné aspekty vizualizácie technologických procesov s dôrazom na praktickú realizáciu a s tým spojenú tvorbu aplikácií v systéme Control Web 6. Študenti sa naučia všeobecné princípy návrhu interfejsu, základnú filozofiu práce a technológiu vizuálneho programovania, vymedzenie základných cieľov a funkcií vizualizačného systému s ohľadom na ergonomické a psychologické hľadiská. Študenti budú vedieť vytvárať aplikácie pre monitorovanie a riadenie technologických procesov pomocou objektovo orientovaného programovania a aplikácie pre vzdialenú vizualizáciu procesov po sieti."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Systémy MMI, základné funkcie a úlohy systémov MMI, rozdelenie podsystémov systému MMI a ich charakteristika, operátorské a inžinierske funkcie systému MMI, podsystém MMI pre údržbu a jeho funkcie.\n- Zásady tvorby používateľských rozhraní, princípy ich generovania, základné ciele a funkcie vizualizačného procesu.\n- Štruktúra technologického procesu s vizualizáciou, Ergonomické a sociálne aspekty. Nové trendy v oblasti MMI.\n- Tvorba vizualizačných aplikácií v programe Conrol Web 6. Popis inteligentného vývojového prostredia, grafický editor, panely a virtuálne prístroje.\n- Nespojité a spojité prístroje, časovanie aplikácií, ovládače a kanály, systémové premenné.\n- Programovanie a procedúry OCL.\n- Animácie a schémy, modulárne a distribuované aplikácie\n- Tvorba vzdialených aplikácií (Internet), objekty Active X a SQL."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] D. Perduková and P. Fedor, Riadiace a vizualizačné systémy: E-Learningová učebnica, Košice, Slovakia: Technická univerzita v Košiciach, 2006, p. 70. ISBN 80-8073-486-0.\n[2] D. Perduková, Používateľské rozhrania, Košice, Slovakia: Technická univerzita v Košiciach, 2015, p. 199. ISBN 978-80-553-2050-2.\n[3] Podporné materiály pre vizualizačný systém Control Web [Online]. Available: www.mii.cz."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 271\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n25%\n21%\n17%\n4%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Daniela Perduková, PhD.\nIng. Ján Bačík, PhD.\nIng. Ladislav Hric"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 271,
+    "percent": {
+      "A": 30,
+      "B": 25,
+      "C": 21,
+      "D": 17,
+      "E": 4,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "prof. Ing. Daniela Perduková, PhD.",
+    "Ing. Ján Bačík, PhD.",
+    "Ing. Ladislav Hric"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001043\nNázov predmetu: Tvorba používateľských rozhraní\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,2,1\nExterná forma štúdia (hodiny za semester): ZS 13,26,13\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti vypracujú 1 projekt za 10 bodov a absolvujú test v systéme Moodle za 30 bodov. Ak študent získa za projekt menej ako 6 bodov, absolvuje opravné zadanie projektu. Ak študent získa za test v systéme Moodle menej ako 16 bodov musí absolvovať opravný test. Študentovi bude udelený zápočet, ak získa za semester spolu minimálne 21 bodov, maximálny počet je 40 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov: 40 bodov praktická časť na počítači a 20 bodov ústna skúška. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 21 bodov za praktickú časť a 10 bodov za ústnu skúšku, a keď súčet bodov za priebežné a záverečné hodnotenie bude >= 51.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámiť študentov so základnými princípmi a úlohami realizácie interfejsu v systémoch MMI (Man Machine Interfejs). Sú tu preberané základné aspekty vizualizácie technologických procesov s dôrazom na praktickú realizáciu a s tým spojenú tvorbu aplikácií v systéme Control Web 6. Študenti sa naučia všeobecné princípy návrhu interfejsu, základnú filozofiu práce a technológiu vizuálneho programovania, vymedzenie základných cieľov a funkcií vizualizačného systému s ohľadom na ergonomické a psychologické hľadiská. Študenti budú vedieť vytvárať aplikácie pre monitorovanie a riadenie technologických procesov pomocou objektovo orientovaného programovania a aplikácie pre vzdialenú vizualizáciu procesov po sieti.\n\nStručná osnova predmetu:\n- Systémy MMI, základné funkcie a úlohy systémov MMI, rozdelenie podsystémov systému MMI a ich charakteristika, operátorské a inžinierske funkcie systému MMI, podsystém MMI pre údržbu a jeho funkcie.\n- Zásady tvorby používateľských rozhraní, princípy ich generovania, základné ciele a funkcie vizualizačného procesu.\n- Štruktúra technologického procesu s vizualizáciou, Ergonomické a sociálne aspekty. Nové trendy v oblasti MMI.\n- Tvorba vizualizačných aplikácií v programe Conrol Web 6. Popis inteligentného vývojového prostredia, grafický editor, panely a virtuálne prístroje.\n- Nespojité a spojité prístroje, časovanie aplikácií, ovládače a kanály, systémové premenné.\n- Programovanie a procedúry OCL.\n- Animácie a schémy, modulárne a distribuované aplikácie\n- Tvorba vzdialených aplikácií (Internet), objekty Active X a SQL.\n\nOdporúčaná literatúra:\n[1] D. Perduková and P. Fedor, Riadiace a vizualizačné systémy: E-Learningová učebnica, Košice, Slovakia: Technická univerzita v Košiciach, 2006, p. 70. ISBN 80-8073-486-0.\n[2] D. Perduková, Používateľské rozhrania, Košice, Slovakia: Technická univerzita v Košiciach, 2015, p. 199. ISBN 978-80-553-2050-2.\n[3] Podporné materiály pre vizualizačný systém Control Web [Online]. Available: www.mii.cz.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 271\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n25%\n21%\n17%\n4%\n4%\n\n\nZabezpečuje:\nprof. Ing. Daniela Perduková, PhD.\nIng. Ján Bačík, PhD.\nIng. Ladislav Hric\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65679737",
+  "code": "26001354",
+  "name": "Hlboké učenie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65679737",
+  "fetched_at": "2026-11-17T15:01:12Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001354"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Hlboké učenie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nBody získa za jednu zápočtovú písomku a dve vypracované zadania."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečná skúška má teoretickú a praktickú časť."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet nadväzuje na predchádzajúce znalosti študentov z oblasti výpočtovej inteligencie a strojového učenia a zameriava sa na problematiku hlbokého učenia. Študent získa prehľad o základoch neurónových sietí a porozumenie konceptu hlbokého učenia. Jadrom predmetu je štúdium vybraných architektúr hlbokých neurónových sietí, najmä konvolučných neurónových sietí a rekurentných neurónových sietí, vrátane diskusie o ich vhodnosti pre rôzne typy úloh. Absolvent predmetu nadobudne prehľad o typoch modelov hlbokého učenia a schopnosť rozhodovať o ich použití pri riešení problémov modelovania, riadenia, optimalizácie a rozhodovania. Súčasťou predmetu je aj praktické programovanie vybraných metód s využitím moderných platforiem hlbokého učenia a paralelných výpočtových prostriedkov, ako aj spracovanie a vyhodnocovanie experimentálnych výsledkov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Rozdelenie výpočtových metód učenia neurónových sietí\n2. Štruktúra umelého neurónu\n3. Architekúra plytkých neurónových sietí\n4. Algoritmus spätného šírenia chyby\n5. Základné princípy hlbokého učenia\n6. Trénovanie hlbokých neurónových sietí\n7. Konvolučné neurónové siete\n8. Rekurentné neurónové siete"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "SINČÁK, P. - ANDREJKOVÁ, G.: \"Neurónové siete Inžiniersky prístup (1. diel).\" Elfa: Košice, 1996\nAGGARWAL, C. C.: Neural networks and deep learning. Vol. 10, no. 978. Cham: Springer, 2018\nBENGIO, Y. - GOODFELLOW, I. - COURVILLE, A.: Deep learning. Vol. 1. Cambridge, MA, USA: MIT press, 2017\nRASCHKA, S. - LIU, Y. H. - MIRJALILI, V.: Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python. Packt Publishing Ltd, 2022"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na cvičeniach: 13 hodín\n- Priame konzultácie: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní a projektová práca: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Peter Sinčák, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Peter Sinčák, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001354\nNázov predmetu: Hlboké učenie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nBody získa za jednu zápočtovú písomku a dve vypracované zadania.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečná skúška má teoretickú a praktickú časť.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet nadväzuje na predchádzajúce znalosti študentov z oblasti výpočtovej inteligencie a strojového učenia a zameriava sa na problematiku hlbokého učenia. Študent získa prehľad o základoch neurónových sietí a porozumenie konceptu hlbokého učenia. Jadrom predmetu je štúdium vybraných architektúr hlbokých neurónových sietí, najmä konvolučných neurónových sietí a rekurentných neurónových sietí, vrátane diskusie o ich vhodnosti pre rôzne typy úloh. Absolvent predmetu nadobudne prehľad o typoch modelov hlbokého učenia a schopnosť rozhodovať o ich použití pri riešení problémov modelovania, riadenia, optimalizácie a rozhodovania. Súčasťou predmetu je aj praktické programovanie vybraných metód s využitím moderných platforiem hlbokého učenia a paralelných výpočtových prostriedkov, ako aj spracovanie a vyhodnocovanie experimentálnych výsledkov.\n\nStručná osnova predmetu:\n1. Rozdelenie výpočtových metód učenia neurónových sietí\n2. Štruktúra umelého neurónu\n3. Architekúra plytkých neurónových sietí\n4. Algoritmus spätného šírenia chyby\n5. Základné princípy hlbokého učenia\n6. Trénovanie hlbokých neurónových sietí\n7. Konvolučné neurónové siete\n8. Rekurentné neurónové siete\n\nOdporúčaná literatúra:\nSINČÁK, P. - ANDREJKOVÁ, G.: \"Neurónové siete Inžiniersky prístup (1. diel).\" Elfa: Košice, 1996\nAGGARWAL, C. C.: Neural networks and deep learning. Vol. 10, no. 978. Cham: Springer, 2018\nBENGIO, Y. - GOODFELLOW, I. - COURVILLE, A.: Deep learning. Vol. 1. Cambridge, MA, USA: MIT press, 2017\nRASCHKA, S. - LIU, Y. H. - MIRJALILI, V.: Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python. Packt Publishing Ltd, 2022\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na cvičeniach: 13 hodín\n- Priame konzultácie: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní a projektová práca: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Peter Sinčák, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

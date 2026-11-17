@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65957561",
+  "code": "26001045",
+  "name": "Elektronika I",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65957561",
+  "fetched_at": "2026-11-17T15:12:01Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001045"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektronika I"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu získa študent základné poznatky o polovodičových elektronických prvkoch a zoznámi sa s princípmi činnosti jednoduchých elektronických obvodov spracovania spojitých signálov. Získa praktické skúsenosti a zručnosti potrebné pri meraní základných elektronických prvkov a jednoduchých elektronických obvodov. Tieto poznatky predstavujú fundamentálne poznatky z teórie elektronických prvkov a jednoduchých obvodov pre študijný odbor elektronika, ako aj pre študijný odbor telekomunikácie"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "(1) Polovodiče v elektronike. (2) Polovodičové diódy, fyzikálne procesy na PN priechode, obvodové modely a aplikácie diód. (3) Obmedzovače, usmerňovače, stabilizátory so Zenerovými diódami. (4) Bipolárny tranzistor (BJT), charakteristiky bipolárnych tranzistorov, modely tranzistorov ako zosilňovačov malých signálov, aplikácie tranzistorov v jednostupňových zapojeniach. (5) Nastavenia pracovného bodu BJT. (6) Poľom riadené tranzistory (FET), ich typy, modely FET a ich aplikácie. (7) Viactranzistorové zapojenia, viacstupňové tranzistorové obvody, diferenčný stupeň. (8) Diferenčný zosilňovač, prúdové zrkadlo ako zdroj a aktívna záťaž. (9) Spätná väzba v zosilňovačoch, ovplyvnenie vlastností zosilňovača so spätnou väzbou. (10) Výkonové zosilňovače).(11). Operačný zosilňovač (12) Praktické zapojenia s operačnými zosilňovačmi"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Michaeli, L.: Základy elektroniky, učebné texty FEI TU Košice 2007. [2] Galajda, P.: Elektronické prvky, Mercury- Smékal, 2002. [3] Seifart, M: Polovodičové prvky a obvody pre spracovanie spojitých signálov, ALFA 1987. [4] Savant C.J., Jr., Roden M. S., Carpenter G L.: Electronic circuit design : an engineering approach. Menlo Park, Calif. : Benjamin/Cummings Pub. Co., 1987. ISBN 080537860X"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 250\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n7%\n9%\n19%\n22%\n40%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Gamec, CSc.\ndoc. Ing. Mária Gamcová, PhD.\nIng. Tomáš Lenger, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 250,
+    "percent": {
+      "A": 2,
+      "B": 7,
+      "C": 9,
+      "D": 19,
+      "E": 22,
+      "FX": 40
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Gamec, CSc.",
+    "doc. Ing. Mária Gamcová, PhD.",
+    "Ing. Tomáš Lenger, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001045\nNázov predmetu: Elektronika I\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu získa študent základné poznatky o polovodičových elektronických prvkoch a zoznámi sa s princípmi činnosti jednoduchých elektronických obvodov spracovania spojitých signálov. Získa praktické skúsenosti a zručnosti potrebné pri meraní základných elektronických prvkov a jednoduchých elektronických obvodov. Tieto poznatky predstavujú fundamentálne poznatky z teórie elektronických prvkov a jednoduchých obvodov pre študijný odbor elektronika, ako aj pre študijný odbor telekomunikácie\n\nStručná osnova predmetu:\n(1) Polovodiče v elektronike. (2) Polovodičové diódy, fyzikálne procesy na PN priechode, obvodové modely a aplikácie diód. (3) Obmedzovače, usmerňovače, stabilizátory so Zenerovými diódami. (4) Bipolárny tranzistor (BJT), charakteristiky bipolárnych tranzistorov, modely tranzistorov ako zosilňovačov malých signálov, aplikácie tranzistorov v jednostupňových zapojeniach. (5) Nastavenia pracovného bodu BJT. (6) Poľom riadené tranzistory (FET), ich typy, modely FET a ich aplikácie. (7) Viactranzistorové zapojenia, viacstupňové tranzistorové obvody, diferenčný stupeň. (8) Diferenčný zosilňovač, prúdové zrkadlo ako zdroj a aktívna záťaž. (9) Spätná väzba v zosilňovačoch, ovplyvnenie vlastností zosilňovača so spätnou väzbou. (10) Výkonové zosilňovače).(11). Operačný zosilňovač (12) Praktické zapojenia s operačnými zosilňovačmi\n\nOdporúčaná literatúra:\n[1] Michaeli, L.: Základy elektroniky, učebné texty FEI TU Košice 2007. [2] Galajda, P.: Elektronické prvky, Mercury- Smékal, 2002. [3] Seifart, M: Polovodičové prvky a obvody pre spracovanie spojitých signálov, ALFA 1987. [4] Savant C.J., Jr., Roden M. S., Carpenter G L.: Electronic circuit design : an engineering approach. Menlo Park, Calif. : Benjamin/Cummings Pub. Co., 1987. ISBN 080537860X\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 250\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n7%\n9%\n19%\n22%\n40%\n\n\nZabezpečuje:\ndoc. Ing. Ján Gamec, CSc.\ndoc. Ing. Mária Gamcová, PhD.\nIng. Tomáš Lenger, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

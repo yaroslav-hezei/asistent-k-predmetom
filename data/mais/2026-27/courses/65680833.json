@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65680833",
+  "code": "26001361",
+  "name": "Agentová umelá inteligencia a inteligentné systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65680833",
+  "fetched_at": "2026-11-17T15:01:24Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001361"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Agentová umelá inteligencia a inteligentné systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet sa zameriava na princípy návrhu, implementácie a koordinácie inteligentných agentov a multiagentových systémov. Študenti sa oboznámia so životným cyklom agenta, jeho internými komponentmi a architektúrami agentových systémov, ako aj s komunikáciou medzi agentmi a jazykmi agentovej komunikácie. Súčasťou predmetu sú koncepty samostatných a kolaboratívnych AI agentov, porovnanie rôznych prístupov, práca s existujúcimi frameworkami a nástrojmi pre agentové systémy a štúdium komunikačných protokolov medzi AI agentmi. Dôraz sa kladie aj na etické a bezpečnostné aspekty, ako aj na zapojenie človeka do rozhodovacieho procesu (human-in-the-loop) pri návrhu a nasadzovaní inteligentných systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Agentové systémy, životný cyklus agenta\n- Komunikácia medzi agentmi, jazyky komunikácie\n- Multiagentové systémy\n- AI agenti\n- Komponenty AI agentov\n- Existujúce frameworky a nástroje\n- Komunikačné protokoly AI agentov\n- Etika, bezpečnosť, human-in-the-loop\n- Tvorba riešení založených na AI agentoch"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- K. Huang: Agentic AI Theories and Practices, Springer Cham, s. 407, ISBN: 978-3-031-90026-6\n- M. Albada: Building Applications with AI Agents, s. 354, ISBN: 978-1-098-17649-5\n- Internetové zdroje: moodle.tuke.sk, tutoriály, príručky (IBM, AWS, Google Cloud, Microsoft)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Papcun, PhD.\nprof. Ing. Iveta Zolotová, CSc.\nIng. Ľubomír Urblík, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Papcun, PhD.",
+    "prof. Ing. Iveta Zolotová, CSc.",
+    "Ing. Ľubomír Urblík, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001361\nNázov predmetu: Agentová umelá inteligencia a inteligentné systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet sa zameriava na princípy návrhu, implementácie a koordinácie inteligentných agentov a multiagentových systémov. Študenti sa oboznámia so životným cyklom agenta, jeho internými komponentmi a architektúrami agentových systémov, ako aj s komunikáciou medzi agentmi a jazykmi agentovej komunikácie. Súčasťou predmetu sú koncepty samostatných a kolaboratívnych AI agentov, porovnanie rôznych prístupov, práca s existujúcimi frameworkami a nástrojmi pre agentové systémy a štúdium komunikačných protokolov medzi AI agentmi. Dôraz sa kladie aj na etické a bezpečnostné aspekty, ako aj na zapojenie človeka do rozhodovacieho procesu (human-in-the-loop) pri návrhu a nasadzovaní inteligentných systémov.\n\nStručná osnova predmetu:\n- Agentové systémy, životný cyklus agenta\n- Komunikácia medzi agentmi, jazyky komunikácie\n- Multiagentové systémy\n- AI agenti\n- Komponenty AI agentov\n- Existujúce frameworky a nástroje\n- Komunikačné protokoly AI agentov\n- Etika, bezpečnosť, human-in-the-loop\n- Tvorba riešení založených na AI agentoch\n\n\nOdporúčaná literatúra:\n- K. Huang: Agentic AI Theories and Practices, Springer Cham, s. 407, ISBN: 978-3-031-90026-6\n- M. Albada: Building Applications with AI Agents, s. 354, ISBN: 978-1-098-17649-5\n- Internetové zdroje: moodle.tuke.sk, tutoriály, príručky (IBM, AWS, Google Cloud, Microsoft)\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Papcun, PhD.\nprof. Ing. Iveta Zolotová, CSc.\nIng. Ľubomír Urblík, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

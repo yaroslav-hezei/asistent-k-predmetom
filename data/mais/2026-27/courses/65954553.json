@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65954553",
+  "code": "26001250",
+  "name": "Základy DevOps",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65954553",
+  "fetched_at": "2026-11-17T15:11:38Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001250"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy DevOps"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\nindividuálne a skupinové zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní predmetu bude študent schopný pochopiť životný cyklus softvérových systémov – od plánovania, vývoja, testovania až po nasadzovanie, monitorovanie a údržbu. Študent získa základné zručnosti potrebné pre aplikovanie princípov DevOps pri integrácii vývojových a prevádzkových činností, využívanie nástrojov pre správu verzií a spoluprácu v tíme. Študent bude schopný implementovať procesy CI/CD a pracovať na softvérových projektoch s využitím DevOps postupov a nástrojov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do softvérového inžinierstva – pojmy, metódy a nástroje.\n2. Životný cyklus softvérového systému a agilný prístup k vývoju.\n3. Princípy organizácie projektov a iteratívny vývoj – extrémne programovanie a Scrum.\n4. Správa verzií a princíp fungovania systému Git.\n5. Základy testovania a jeho automatizácia, princípy a vzory vývoja jednotkových testov.\n6. Kvalita kódu – princípy a typické problémy.\n7. Ladenie softvéru – základné postupy a nástroje.\n8. Automatizácia procesov v softvérovom inžinierstve, CI/CD a Docker.\n9. Automatizácia infraštruktúry, nasadenie a monitorovanie softvérových systémov.\n10. Význam dokumentácie, princípy a nástroje pre jej vytváranie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] CHODAREV, S. et al. Základy softvérového inžinierstva [online]. Dostupné na internete: .\n[2] CHODAREV, S. et al. Základy softvérového inžinierstva. Košice: TUKE, 2020. 78 s. ISBN 978-80-553-3576-6.\n[3] THOMAS, D. - HUNT, A. The pragmatic programmer: your journey to mastery. Second edition, 20th anniversary edtion. Boston: Addison-Wesley, 2020. 321 s. ISBN 978-0-13-595705-9.\n[4] MARTIN, R.C. Clean Agile: back to basics. Boston New York Amsterdam London: Pearson, 2020. 205 s. ISBN 978-0-13-578186-9.\n[5] MARTIN, R.C. Clean code: a handbook of agile software craftsmanship. Upper Saddle River, N.J: Prentice Hall, 2009. 431 s. ISBN 978-0-13-608323-8.\n[6] PILONE, D. - MILES, R. Head first software development. Sebastopol, CA: O’Reilly, 2008. 459 s. ISBN 978-0-596-52735-8.\n[7] FARLEY, D. Modern software engineering: doing what works to build better software faster. Boston: Addison-Wesley, 2022. 224 s. ISBN 978-0-13-731491-1.\n[8] CHACON, S. Pro Git [online]. . Second edition. vyd. New York, NY: Apress, 2014. 426 s. ISBN 978-1-4842-0077-3. Dostupné na internete:\n[9] FRIED, J. et al. Getting real: the smarter, faster, easier way to build a successful web application. . Chicago: 37signals, 2006. 187 s. ISBN 978-0-578-01281-0. Dostupné na internete:\n[10] BUTCHER, P. Debug it! find, repair, and prevent bugs in your code. Raleigh, N.C: Pragmatic Bookshelf, 2009. 214 s. ISBN 978-1-934356-28-9."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 399\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n21%\n30%\n16%\n10%\n2%\n22%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. William Steingartner, PhD.\nIng. Sylvia Maťašová\nIng. Sergej Chodarev, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 399,
+    "percent": {
+      "A": 21,
+      "B": 30,
+      "C": 16,
+      "D": 10,
+      "E": 2,
+      "FX": 22
+    }
+  },
+  "teachers": [
+    "doc. Ing. William Steingartner, PhD.",
+    "Ing. Sylvia Maťašová",
+    "Ing. Sergej Chodarev, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001250\nNázov predmetu: Základy DevOps\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Dištančná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\nindividuálne a skupinové zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní predmetu bude študent schopný pochopiť životný cyklus softvérových systémov – od plánovania, vývoja, testovania až po nasadzovanie, monitorovanie a údržbu. Študent získa základné zručnosti potrebné pre aplikovanie princípov DevOps pri integrácii vývojových a prevádzkových činností, využívanie nástrojov pre správu verzií a spoluprácu v tíme. Študent bude schopný implementovať procesy CI/CD a pracovať na softvérových projektoch s využitím DevOps postupov a nástrojov.\n\nStručná osnova predmetu:\n1. Úvod do softvérového inžinierstva – pojmy, metódy a nástroje.\n2. Životný cyklus softvérového systému a agilný prístup k vývoju.\n3. Princípy organizácie projektov a iteratívny vývoj – extrémne programovanie a Scrum.\n4. Správa verzií a princíp fungovania systému Git.\n5. Základy testovania a jeho automatizácia, princípy a vzory vývoja jednotkových testov.\n6. Kvalita kódu – princípy a typické problémy.\n7. Ladenie softvéru – základné postupy a nástroje.\n8. Automatizácia procesov v softvérovom inžinierstve, CI/CD a Docker.\n9. Automatizácia infraštruktúry, nasadenie a monitorovanie softvérových systémov.\n10. Význam dokumentácie, princípy a nástroje pre jej vytváranie.\n\nOdporúčaná literatúra:\n[1] CHODAREV, S. et al. Základy softvérového inžinierstva [online]. Dostupné na internete: .\n[2] CHODAREV, S. et al. Základy softvérového inžinierstva. Košice: TUKE, 2020. 78 s. ISBN 978-80-553-3576-6.\n[3] THOMAS, D. - HUNT, A. The pragmatic programmer: your journey to mastery. Second edition, 20th anniversary edtion. Boston: Addison-Wesley, 2020. 321 s. ISBN 978-0-13-595705-9.\n[4] MARTIN, R.C. Clean Agile: back to basics. Boston New York Amsterdam London: Pearson, 2020. 205 s. ISBN 978-0-13-578186-9.\n[5] MARTIN, R.C. Clean code: a handbook of agile software craftsmanship. Upper Saddle River, N.J: Prentice Hall, 2009. 431 s. ISBN 978-0-13-608323-8.\n[6] PILONE, D. - MILES, R. Head first software development. Sebastopol, CA: O’Reilly, 2008. 459 s. ISBN 978-0-596-52735-8.\n[7] FARLEY, D. Modern software engineering: doing what works to build better software faster. Boston: Addison-Wesley, 2022. 224 s. ISBN 978-0-13-731491-1.\n[8] CHACON, S. Pro Git [online]. . Second edition. vyd. New York, NY: Apress, 2014. 426 s. ISBN 978-1-4842-0077-3. Dostupné na internete:\n[9] FRIED, J. et al. Getting real: the smarter, faster, easier way to build a successful web application. . Chicago: 37signals, 2006. 187 s. ISBN 978-0-578-01281-0. Dostupné na internete:\n[10] BUTCHER, P. Debug it! find, repair, and prevent bugs in your code. Raleigh, N.C: Pragmatic Bookshelf, 2009. 214 s. ISBN 978-1-934356-28-9.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 399\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n21%\n30%\n16%\n10%\n2%\n22%\n\n\nZabezpečuje:\ndoc. Ing. William Steingartner, PhD.\nIng. Sylvia Maťašová\nIng. Sergej Chodarev, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65890362",
+  "code": "2620513",
+  "name": "Semestrálny projekt I",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65890362",
+  "fetched_at": "2026-11-17T15:05:28Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2620513"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Semestrálny projekt I"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "projekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nklasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Naučiť študentov riešiť technické problémy."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Samostatná individuálna alebo kolektívna projektová práca je kontrolovaná priebežne pedagógmi."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "podľa zadávateľa"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 39 hodín (3 hodín / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 111 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 2\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n100%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ľubomír Beňa, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 2,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 100,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ľubomír Beňa, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 2620513\nNázov predmetu: Semestrálny projekt I\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3\nExterná forma štúdia (hodiny za semester): LS 39\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nprojekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nklasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nNaučiť študentov riešiť technické problémy.\n\nStručná osnova predmetu:\n- Samostatná individuálna alebo kolektívna projektová práca je kontrolovaná priebežne pedagógmi.\n\nOdporúčaná literatúra:\npodľa zadávateľa\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 39 hodín (3 hodín / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 111 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 2\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n100%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Ľubomír Beňa, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

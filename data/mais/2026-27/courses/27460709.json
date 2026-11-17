@@ -1,0 +1,162 @@
+{
+  "predmet_id": "27460709",
+  "code": "26000688",
+  "name": "Bakalársky projekt",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=27460709",
+  "fetched_at": "2026-11-17T14:57:05Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000688"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Bakalársky projekt"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,6"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,78"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nElektroenergetika (EE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nObhajoba projektu. Študent prospeje v ZH, keď splní podmienku získať min. 51% zo 100%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je, aby si študenti osvojili metódy a postupy riešenia relatívne rozsiahlych projektov a preukázali schopnosť samostatne a tvorivo riešiť zložité úlohy v súlade so súčasnými metódami a postupmi v oblasti odboru a tým preukázali pripravenosť na uplatnenie v praxi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Rozbor problematiky daného zadania úlohy.\n- Získanie vhodných podkladov a literatúry pre riešenie projektu.\n- Návrh postupu riešenia a jeho spracovanie.\n- Riešenie projektu (výpočty, simulácie, meranie, realizácia).\n- Vypracovanie výslednej správy projektu.\n- Obhajoba projektu."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Katuščák, D.: Ako písať vysokoškolské a kvalifikačné práce. 2.vyd, Bratislava 1998\n2. STN ISO 690:1998: Dokumentácia - Bibliografické odkazy - Obsah, forma a štruktúra.\n- Podľa odporučenia vedúceho projektovej práce."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 44\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n32%\n9%\n5%\n2%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "vedúci záverečnej práce"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "31.08.2016"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2016-08-31",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 44,
+    "percent": {
+      "A": 50,
+      "B": 32,
+      "C": 9,
+      "D": 5,
+      "E": 2,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "vedúci záverečnej práce"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 26000688\nNázov predmetu: Bakalársky projekt\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,6\nExterná forma štúdia (hodiny za semester): ZS 26,78\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nElektroenergetika (EE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nObhajoba projektu. Študent prospeje v ZH, keď splní podmienku získať min. 51% zo 100%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je, aby si študenti osvojili metódy a postupy riešenia relatívne rozsiahlych projektov a preukázali schopnosť samostatne a tvorivo riešiť zložité úlohy v súlade so súčasnými metódami a postupmi v oblasti odboru a tým preukázali pripravenosť na uplatnenie v praxi.\n\nStručná osnova predmetu:\n- Rozbor problematiky daného zadania úlohy.\n- Získanie vhodných podkladov a literatúry pre riešenie projektu.\n- Návrh postupu riešenia a jeho spracovanie.\n- Riešenie projektu (výpočty, simulácie, meranie, realizácia).\n- Vypracovanie výslednej správy projektu.\n- Obhajoba projektu.\n\nOdporúčaná literatúra:\n1. Katuščák, D.: Ako písať vysokoškolské a kvalifikačné práce. 2.vyd, Bratislava 1998\n2. STN ISO 690:1998: Dokumentácia - Bibliografické odkazy - Obsah, forma a štruktúra.\n- Podľa odporučenia vedúceho projektovej práce.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 44\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n32%\n9%\n5%\n2%\n2%\n\n\nZabezpečuje:\nvedúci záverečnej práce\n\nDátum poslednej zmeny: 31.08.2016\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

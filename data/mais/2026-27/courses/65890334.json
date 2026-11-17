@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65890334",
+  "code": "2620471",
+  "name": "Priemyselná elektrotechnika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65890334",
+  "fetched_at": "2026-11-17T15:05:26Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2620471"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Priemyselná elektrotechnika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntest"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Oboznámiť študentov s reguláciou jednosmerných pohonov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Základné výkonové polovodičové súčiastky.\n- Základné typy polovodičových meničov.\n- Základné informácie o statických elektrických strojoch.\n- Základné informácie o jednosmerných strojoch točivých.\n- Mechanika a kinematika jednosmerného elektrického pohonu.\n- Riadenie jednosmerných pohonov napájaných z riadených usmerňovačov a impulzových meničov.\n- Základné typy regulátorov.\n- Základné typy regulácie a regulačných štruktúr."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Poliak, F.- Fedák, V.- Zboray, L.: Elektrické pohony, Alfa, Bratislava 1987\nZboray, L.- Ďurovský, F.- Tomko, J.: Regulované pohony, Vienala , Košice 2000\nKrejčiřík, A.: DC/DC měniče, BEN - technická literatura, Praha 2002\nHamata, Měřička, Voženílek : Elektrické stroje, ČVUT Praha 1994\nHruškovič : Elektrické stroje , FEI STU Bratislava 2001\nTimko, J. - Dudrik, J.: Elektrické pohony a výkonová elektronika, Edičné stredisko TU, Košice, 1991.\nHart, D. W.: Introduction to Power Electronics, Prentice Hall, London, 1997\nMohan, N. - Undeland, T. M. - Robbins, W. P.: Power Electronics,Converters Applications, and Design. John Wiley, New York, 1995\nKováčová, I. – Kováč, D.: Priemyselná elektrotechnika : 1. časť Modelovanie meničov, TU v Košiciach, 2011, 65 strán, ISBN 978-80-553-0617-9.\nKováčová, I. – Kováč, D.: Priemyselná elektrotechnika : 2. časť Modelovanie meničov, TU v Košiciach, 2011, 66 strán, ISBN 978-80-553-0618-6.\nKováč, D. – Kováčová, I.: Priemyselná elektrotechnika, TU v Košiciach, 2015, 145 strán, ISBN 978-80-553-1939-1."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 313\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n16%\n18%\n14%\n19%\n26%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Dobroslav Kováč, CSc.\ndoc. Ing. Ján Molnár, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 313,
+    "percent": {
+      "A": 8,
+      "B": 16,
+      "C": 18,
+      "D": 14,
+      "E": 19,
+      "FX": 26
+    }
+  },
+  "teachers": [
+    "prof. Ing. Dobroslav Kováč, CSc.",
+    "doc. Ing. Ján Molnár, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 2620471\nNázov predmetu: Priemyselná elektrotechnika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntest\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOboznámiť študentov s reguláciou jednosmerných pohonov.\n\nStručná osnova predmetu:\n- Základné výkonové polovodičové súčiastky.\n- Základné typy polovodičových meničov.\n- Základné informácie o statických elektrických strojoch.\n- Základné informácie o jednosmerných strojoch točivých.\n- Mechanika a kinematika jednosmerného elektrického pohonu.\n- Riadenie jednosmerných pohonov napájaných z riadených usmerňovačov a impulzových meničov.\n- Základné typy regulátorov.\n- Základné typy regulácie a regulačných štruktúr.\n\nOdporúčaná literatúra:\nPoliak, F.- Fedák, V.- Zboray, L.: Elektrické pohony, Alfa, Bratislava 1987\nZboray, L.- Ďurovský, F.- Tomko, J.: Regulované pohony, Vienala , Košice 2000\nKrejčiřík, A.: DC/DC měniče, BEN - technická literatura, Praha 2002\nHamata, Měřička, Voženílek : Elektrické stroje, ČVUT Praha 1994\nHruškovič : Elektrické stroje , FEI STU Bratislava 2001\nTimko, J. - Dudrik, J.: Elektrické pohony a výkonová elektronika, Edičné stredisko TU, Košice, 1991.\nHart, D. W.: Introduction to Power Electronics, Prentice Hall, London, 1997\nMohan, N. - Undeland, T. M. - Robbins, W. P.: Power Electronics,Converters Applications, and Design. John Wiley, New York, 1995\nKováčová, I. – Kováč, D.: Priemyselná elektrotechnika : 1. časť Modelovanie meničov, TU v Košiciach, 2011, 65 strán, ISBN 978-80-553-0617-9.\nKováčová, I. – Kováč, D.: Priemyselná elektrotechnika : 2. časť Modelovanie meničov, TU v Košiciach, 2011, 66 strán, ISBN 978-80-553-0618-6.\nKováč, D. – Kováčová, I.: Priemyselná elektrotechnika, TU v Košiciach, 2015, 145 strán, ISBN 978-80-553-1939-1.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 313\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n16%\n18%\n14%\n19%\n26%\n\n\nZabezpečuje:\nprof. Ing. Dobroslav Kováč, CSc.\ndoc. Ing. Ján Molnár, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

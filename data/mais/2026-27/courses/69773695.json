@@ -1,0 +1,166 @@
+{
+  "predmet_id": "69773695",
+  "code": "26001500",
+  "name": "Inteligentné systémy v kyberbezpečnosti - štátna skúška",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=69773695",
+  "fetched_at": "2026-11-17T15:19:39Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001500"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Inteligentné systémy v kyberbezpečnosti - štátna skúška"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška z predmetu pre 1. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie za semester"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi so základnými princípmi, jednotlivými krokmi a algoritmami spracovania dát a strojového učenia. Predmet je zameraný na získanie praktických znalostí pre riešenie štandardných problémov dolovania dát a použitie nástrojov pre dolovanie dát. Študent získa znalosti potrebné pre praktické aplikácie ako je návrh spamového filtra, analýza správania zákazníka (basket analysis), rozpoznávanie tváre, detekcia nelegálnych bankových operácií. Študent rovnako získa základné zručnosti pre riešenie vybraných praktických problémov (jednoduché počítačové hry a logické rébusy) využitím vyhľadávacích problémov (A*, UCS a iných). Študent bude analyzovať výkonnosť jednotlivých algoritmov z pohľadu časovej a pamäťovej náročnosti. Pre vybrané problémy na základe získaných vedomostí vyberie sadu algoritmov, analyzuje ich, implementuje a prevedie komplexnú komparatívnu analýzu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do strojového učenia. Nástroje spracovania dát.\n2. Strojové učenie s učiteľom (perceptron, metóda podporných vektorov, rozhodovacie stromy, k-najbližších susedov).\n3. Predspracovanie dát (imputácia, škálovanie).\n4. Validácia a evaluácia modelov, ladenie parametrov modelu (krížová validácia, meranie výkonnosti modelu).\n5. Klastrovanie (K-means, DBSCAN).\n6. Výber premenných, redukcia vysokých rozmerov a praktické aspekty návrhu inteligentných systémov.\n7. Agentové systémy – typy agentov, stavový priestor a rozhodovanie agentov.\n8. Vyhľadávacie algoritmy bez prídavnej informácie – depth-first search (DFS), bread-first search (BFS) , uniform-cost search (UCS) a iteratívne hĺbenie (iterative deepening).\n9. Vyhľadávacie algoritmy s prídavnou heuristikou – vyhľadávanie typu Greedy a A*, návrh prípustných heuristík.\n10. Riešenie identifikačných problémov s ohraničeniami využitím agentových systémov – algoritmy typu spätné prehľadávanie, dopredná filtrácia a konzistencia hrany.\n11. Stochastické optimalizačné algoritmy a ich využitie v riešení identifikačných problémoch s ohraničeniami - optimalizačný algoritmus ACO (Ant Colony Optimization), hill-climbing, simulované žíhanie a lokálne vyhľadávanie.\n12. Hybridné prístupy (aplikácia biológiou inšpirovaných algoritmov s multi-agentovými systémami)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Python for Data Analysis, Wes McKinney, O'Reilly Media, 2012\nMachine Learning: An algorithmic perspective, Stephen Marsland, CRC Press, 2015\nAgent Based and Individual based modelling, Steven F. Railsback and Volker Grimm, Princeton Press, 2012\nArtificial Intelligence for Humans, Jeff Heaton, Heaton Research, 2014"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Juraj Gazda, PhD.\nprof. Ing. Peter Drotár, PhD.\nIng. Zuzana Dubajová\nIng. Marcel Vološin, PhD.\nIng. Miroslav Imrich"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Štátna skúška z predmetu pre 1. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Juraj Gazda, PhD.",
+    "prof. Ing. Peter Drotár, PhD.",
+    "Ing. Zuzana Dubajová",
+    "Ing. Marcel Vološin, PhD.",
+    "Ing. Miroslav Imrich"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001500\nNázov predmetu: Inteligentné systémy v kyberbezpečnosti - štátna skúška\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška z predmetu pre 1. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie za semester\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi so základnými princípmi, jednotlivými krokmi a algoritmami spracovania dát a strojového učenia. Predmet je zameraný na získanie praktických znalostí pre riešenie štandardných problémov dolovania dát a použitie nástrojov pre dolovanie dát. Študent získa znalosti potrebné pre praktické aplikácie ako je návrh spamového filtra, analýza správania zákazníka (basket analysis), rozpoznávanie tváre, detekcia nelegálnych bankových operácií. Študent rovnako získa základné zručnosti pre riešenie vybraných praktických problémov (jednoduché počítačové hry a logické rébusy) využitím vyhľadávacích problémov (A*, UCS a iných). Študent bude analyzovať výkonnosť jednotlivých algoritmov z pohľadu časovej a pamäťovej náročnosti. Pre vybrané problémy na základe získaných vedomostí vyberie sadu algoritmov, analyzuje ich, implementuje a prevedie komplexnú komparatívnu analýzu.\n\nStručná osnova predmetu:\n1. Úvod do strojového učenia. Nástroje spracovania dát.\n2. Strojové učenie s učiteľom (perceptron, metóda podporných vektorov, rozhodovacie stromy, k-najbližších susedov).\n3. Predspracovanie dát (imputácia, škálovanie).\n4. Validácia a evaluácia modelov, ladenie parametrov modelu (krížová validácia, meranie výkonnosti modelu).\n5. Klastrovanie (K-means, DBSCAN).\n6. Výber premenných, redukcia vysokých rozmerov a praktické aspekty návrhu inteligentných systémov.\n7. Agentové systémy – typy agentov, stavový priestor a rozhodovanie agentov.\n8. Vyhľadávacie algoritmy bez prídavnej informácie – depth-first search (DFS), bread-first search (BFS) , uniform-cost search (UCS) a iteratívne hĺbenie (iterative deepening).\n9. Vyhľadávacie algoritmy s prídavnou heuristikou – vyhľadávanie typu Greedy a A*, návrh prípustných heuristík.\n10. Riešenie identifikačných problémov s ohraničeniami využitím agentových systémov – algoritmy typu spätné prehľadávanie, dopredná filtrácia a konzistencia hrany.\n11. Stochastické optimalizačné algoritmy a ich využitie v riešení identifikačných problémoch s ohraničeniami - optimalizačný algoritmus ACO (Ant Colony Optimization), hill-climbing, simulované žíhanie a lokálne vyhľadávanie.\n12. Hybridné prístupy (aplikácia biológiou inšpirovaných algoritmov s multi-agentovými systémami).\n\n\nOdporúčaná literatúra:\nPython for Data Analysis, Wes McKinney, O'Reilly Media, 2012\nMachine Learning: An algorithmic perspective, Stephen Marsland, CRC Press, 2015\nAgent Based and Individual based modelling, Steven F. Railsback and Volker Grimm, Princeton Press, 2012\nArtificial Intelligence for Humans, Jeff Heaton, Heaton Research, 2014\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Juraj Gazda, PhD.\nprof. Ing. Peter Drotár, PhD.\nIng. Zuzana Dubajová\nIng. Marcel Vološin, PhD.\nIng. Miroslav Imrich\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

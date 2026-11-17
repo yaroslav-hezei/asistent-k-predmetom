@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65680867",
+  "code": "26001362",
+  "name": "Riadenie a umelá inteligencia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65680867",
+  "fetched_at": "2026-11-17T15:01:26Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001362"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Riadenie a umelá inteligencia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú jednu písomku za 20b, v ktorej budú výpočtovo/algoritmicky riešiť definované úlohy a následne postup riešenia a získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy definované v troch zadaniach v programovom prostredí MATLAB/Simulink (v súčte za 20b). Z priebežného hodnotenia študent môže získať 40b (min. počet je 21b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje výpočet a algoritmický návrh riešenia aplikačných úloh v jazyku Matlab/Simulink so simulačným overením na PC, teoretická časť skúšky spočíva vo vypracovaní komplexných otázok vyplývajúcich z obsahu prednášok. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je získanie základných poznatkov a praktických zručností z oblasti modelovania a simulácie jednoduchých kyber-fyzikálnych systémov (CPS) s využitím metód umelej inteligencie a moderných simulačných nástrojov. Pri návrhu CPS si študenti osvoja: a) metodiku modelovania jednoduchých fyzikálnych systémov (elektrické, hydraulické, mechanické systémy, mobilné roboty) s využitím klasických a inteligentných metód, b) výpočtové postupy pre analýzu dynamických vlastností typických modelov fyzikálnych systémov c) etapy návrhu algoritmov riadenia s využitím klasických/inteligentných metód. Dôraz bude kladený na verifikáciu uvedenej metodiky s využitím simulácie v programovom prostredí MATLAB/Simulink a simulačných/laboratórnych modelov. Súčasťou predmetu je stručný úvod do počítačového riadenia modelov fyzikálnych systémov a jeho programová realizácia v jazyku MATLAB. Predmet svojim obsahom tvorí metodický základ pre návrh a realizáciu algoritmov pre riešenie úloh z oblasti mobilnej a priemyselnej robotiky, pričom využíva modelové aplikácie integrované v rámci sieťového riadiaceho systému. Na riešenie zadaní študenti môžu využívať výukový portál laboratórnych modelov skupiny Centrum moderných metód riadenia a priemyselnej informatiky (CMMRaPI portal - http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Modelovanie a simulácia kyber-fyzikálnych systémov (CPS), dynamický systém, model, riadenie, riadiaca štruktúra, simulačný nástroj MATLAB/Simulink/aplikačné toolboxy pre vedecko-technické výpočty\n2. Analýza modelových aplikácií (modelové pracovisko pre mobilnú robotiku, model gulička na ploche, modely magnetickej/aerodynamickej levitácie, model helikoptéry) v sieťovom riadiacom systéme, popis web portálu\n3. Modelovanie fyzikálnych systémov s využitím metód analytickej identifikácie, matematický model dynamického systému v tvare LDR/NDR a stavovom priestore (biely model)\n4. Analýza dynamických vlastností fyzikálnych systémov na rôzne typové signály v časovej/frekvenčnej oblasti výpočtom a simuláciou v jazyku MATLAB/Simulink, demo simulácie pre riešenie aplikačných príkladov\n5. Architektúra a analýza riadiacich štruktúr, štandardné prenosy riadiacej štruktúry, simulácia riadiacich štruktúr v prostredí Simulink s využitím modelov fyzikálnych systémov\n6. Vyšetrovanie stability dynamických systémov, verifikácia výsledkov analytického výpočtu simuláciou aplikačných príkladov\n7. Programová aplikácia pre výpočtový postup návrhu algoritmov riadenia pre jednoduché modely fyzikálnych systémov s využitím základných metód syntézy\n8. Simulácia riadiacej štruktúry v prostredí MATLAB/Simulink s využitím modelov fyzikálnych systémov a navrhnutých algoritmov riadenia, simulačné vyhodnotenie kvality riadenia\n9. Programová realizácia algoritmu číslicového riadenia a jej simulačné overenie s využitím modelov fyzikálnych systémov v jazyku MATLAB/Simulink\n10. Linearizácia nelineárnych systémov s využitím funkcií Symbolic Math toolboxu, simulačné porovnanie odchýlkového modelu s nelineárnym modelom systému v pracovnom bode\n11. Výpočtové a simulačné overenie návrhu LQ stavového riadenia na modeloch fyzikálnych systémov pre rôzne ciele riadenia v simulačnom jazyku MATLAB/Simulink\n12. Experimentálna identifikácia fyzikálnych systémov s využitím klasických/inteligentných metód (regresné modely, dynamické neurónové modely NARX, NARMAX), trénovanie, testovanie, validácia\n13. Návrh algoritmov pre riadenie nelineárnych systémov s využitím výsledkov analytickej/experimentálnej identifikácie (biely model, sivý model, model čiernej skrinky na báze NN)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Jadlovská, A. - Jadlovská, S. et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1\nČerkala, J. - Jadlovská, A.: Matematické modelovanie a riadenie kolesových mobilných robotov 1. vyd. - Košice : Elfa - 2019, s. 266, ISBN 978-80-8086-273-2\nŠvarc, I.- Šeda, M. - Vítečková, M.: Automatické řízení, VUT Brno 2007, CERM, ISBN 978-80-214-3491-2\nJadlovská, A. – Jadlovská, S,: Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3\nVégh, P.: Neurónové a fuzzy systémy, STU, Bratislava 2014, ISBN 978-80-227-4227-6\nChen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458\nTewari, A.: Modern Control Design with Matlab and Simulink, John Wiley & Sons, 2014, ISBN 978-047-149-6793\nJadlovská, A. - Jadlovská, S.: Moderné metódy modelovania a riadenia nelineárnych systémov, FEI, TU, Košice 2013\nZaplatílek, K.: Matlab, začínáme se systémy, Tribun 2011, ISBN 978-807-399-2996\nTutoriály modelových aplikácii - web výukový portál Centra moderných metód riadenia a priemyselnej informatiky (CMMRaPI http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Anna Jadlovská, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Anna Jadlovská, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001362\nNázov predmetu: Riadenie a umelá inteligencia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2,1\nExterná forma štúdia (hodiny za semester): ZS 26,26,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú jednu písomku za 20b, v ktorej budú výpočtovo/algoritmicky riešiť definované úlohy a následne postup riešenia a získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy definované v troch zadaniach v programovom prostredí MATLAB/Simulink (v súčte za 20b). Z priebežného hodnotenia študent môže získať 40b (min. počet je 21b).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje výpočet a algoritmický návrh riešenia aplikačných úloh v jazyku Matlab/Simulink so simulačným overením na PC, teoretická časť skúšky spočíva vo vypracovaní komplexných otázok vyplývajúcich z obsahu prednášok. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je získanie základných poznatkov a praktických zručností z oblasti modelovania a simulácie jednoduchých kyber-fyzikálnych systémov (CPS) s využitím metód umelej inteligencie a moderných simulačných nástrojov. Pri návrhu CPS si študenti osvoja: a) metodiku modelovania jednoduchých fyzikálnych systémov (elektrické, hydraulické, mechanické systémy, mobilné roboty) s využitím klasických a inteligentných metód, b) výpočtové postupy pre analýzu dynamických vlastností typických modelov fyzikálnych systémov c) etapy návrhu algoritmov riadenia s využitím klasických/inteligentných metód. Dôraz bude kladený na verifikáciu uvedenej metodiky s využitím simulácie v programovom prostredí MATLAB/Simulink a simulačných/laboratórnych modelov. Súčasťou predmetu je stručný úvod do počítačového riadenia modelov fyzikálnych systémov a jeho programová realizácia v jazyku MATLAB. Predmet svojim obsahom tvorí metodický základ pre návrh a realizáciu algoritmov pre riešenie úloh z oblasti mobilnej a priemyselnej robotiky, pričom využíva modelové aplikácie integrované v rámci sieťového riadiaceho systému. Na riešenie zadaní študenti môžu využívať výukový portál laboratórnych modelov skupiny Centrum moderných metód riadenia a priemyselnej informatiky (CMMRaPI portal - http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)\n\n\nStručná osnova predmetu:\n1. Modelovanie a simulácia kyber-fyzikálnych systémov (CPS), dynamický systém, model, riadenie, riadiaca štruktúra, simulačný nástroj MATLAB/Simulink/aplikačné toolboxy pre vedecko-technické výpočty\n2. Analýza modelových aplikácií (modelové pracovisko pre mobilnú robotiku, model gulička na ploche, modely magnetickej/aerodynamickej levitácie, model helikoptéry) v sieťovom riadiacom systéme, popis web portálu\n3. Modelovanie fyzikálnych systémov s využitím metód analytickej identifikácie, matematický model dynamického systému v tvare LDR/NDR a stavovom priestore (biely model)\n4. Analýza dynamických vlastností fyzikálnych systémov na rôzne typové signály v časovej/frekvenčnej oblasti výpočtom a simuláciou v jazyku MATLAB/Simulink, demo simulácie pre riešenie aplikačných príkladov\n5. Architektúra a analýza riadiacich štruktúr, štandardné prenosy riadiacej štruktúry, simulácia riadiacich štruktúr v prostredí Simulink s využitím modelov fyzikálnych systémov\n6. Vyšetrovanie stability dynamických systémov, verifikácia výsledkov analytického výpočtu simuláciou aplikačných príkladov\n7. Programová aplikácia pre výpočtový postup návrhu algoritmov riadenia pre jednoduché modely fyzikálnych systémov s využitím základných metód syntézy\n8. Simulácia riadiacej štruktúry v prostredí MATLAB/Simulink s využitím modelov fyzikálnych systémov a navrhnutých algoritmov riadenia, simulačné vyhodnotenie kvality riadenia\n9. Programová realizácia algoritmu číslicového riadenia a jej simulačné overenie s využitím modelov fyzikálnych systémov v jazyku MATLAB/Simulink\n10. Linearizácia nelineárnych systémov s využitím funkcií Symbolic Math toolboxu, simulačné porovnanie odchýlkového modelu s nelineárnym modelom systému v pracovnom bode\n11. Výpočtové a simulačné overenie návrhu LQ stavového riadenia na modeloch fyzikálnych systémov pre rôzne ciele riadenia v simulačnom jazyku MATLAB/Simulink\n12. Experimentálna identifikácia fyzikálnych systémov s využitím klasických/inteligentných metód (regresné modely, dynamické neurónové modely NARX, NARMAX), trénovanie, testovanie, validácia\n13. Návrh algoritmov pre riadenie nelineárnych systémov s využitím výsledkov analytickej/experimentálnej identifikácie (biely model, sivý model, model čiernej skrinky na báze NN).\n\n\nOdporúčaná literatúra:\nJadlovská, A. - Jadlovská, S. et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1\nČerkala, J. - Jadlovská, A.: Matematické modelovanie a riadenie kolesových mobilných robotov 1. vyd. - Košice : Elfa - 2019, s. 266, ISBN 978-80-8086-273-2\nŠvarc, I.- Šeda, M. - Vítečková, M.: Automatické řízení, VUT Brno 2007, CERM, ISBN 978-80-214-3491-2\nJadlovská, A. – Jadlovská, S,: Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3\nVégh, P.: Neurónové a fuzzy systémy, STU, Bratislava 2014, ISBN 978-80-227-4227-6\nChen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458\nTewari, A.: Modern Control Design with Matlab and Simulink, John Wiley & Sons, 2014, ISBN 978-047-149-6793\nJadlovská, A. - Jadlovská, S.: Moderné metódy modelovania a riadenia nelineárnych systémov, FEI, TU, Košice 2013\nZaplatílek, K.: Matlab, začínáme se systémy, Tribun 2011, ISBN 978-807-399-2996\nTutoriály modelových aplikácii - web výukový portál Centra moderných metód riadenia a priemyselnej informatiky (CMMRaPI http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Anna Jadlovská, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

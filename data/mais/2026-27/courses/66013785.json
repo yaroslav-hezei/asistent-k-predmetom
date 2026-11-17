@@ -1,0 +1,165 @@
+{
+  "predmet_id": "66013785",
+  "code": "26000775",
+  "name": "Diplomová práca",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013785",
+  "fetched_at": "2026-11-17T15:15:41Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000775"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Diplomová práca"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "9,9"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 117,117/LS 117,117"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": ""
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "12"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26000769 - Diplomový projekt II"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie vedúcim ZP, Hodnotenie oponentom ZP"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nposudok oponenta a vedúceho práce, štátna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent v rámci predmetu pracuje metódou identifikácie problému, analýzy, návrhu a implementácie systémov a používa nové normy a štandardizovanú dokumentáciu ako aj využíva pri práci programovacie jazyky a využíva najnovšie trendy v programovani. V rámci projektu navrhuje a vyvíja moderné systémy priemyselnej informatiky a rozvíja funkčné a prevádzkové možnosti informačných riadiacich a rozhodovacích systémov, implementuje moderné informačné a riadiace systémy, súčasne je vedený pre individuálnu prácu, vo vybraných prípadoch v tíme ak práca je súčasťou vedeckého projektu pracoviska a jasne definovaným príspevkom študenta. Vo všeobecnosti je študent vedený aby udržiaval kontakt s odborom a je súčasne oboznamovaný s medzinárodnými profesnými organizáciami ako IEEE. Predmet práce sa dotýka špecializácie „Inteligentných systémov“ s prvkami adaptácie, rekonfigurácie, fault-tolerantných prístupov a samoorganizcie systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Identifikácia problému\n• Návrh riešenia\n• Overenie riešenia\n• Písomná prezentácia riešenia projektu\n• Ústna prezentácia výsledkov projektu"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• ISO 690:1987: Documentation-Bibliographic references. Content, form and structure\n• ISO 2145:1978: Documentation-Numbering of divisions and subdivisions in written documents.\n• W. Strunk, E.B. White: The Elements of Style , ISBN 0-02-418190-0\n• podľa odporúčaní vedúceho alebo konzultanta diplomovej práce"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 286\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n54%\n21%\n8%\n4%\n3%\n10%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Peter Sinčák, CSc.\nprof. Ing. Iveta Zolotová, CSc.\ndoc. Ing. Marián Mach, CSc.\nIng. Martina Szabóová, PhD.\nIng. Ján Magyar, PhD.\ndoc. Ing. Marek Bundzel, PhD.\ndoc. Dr. Ing. Ján Vaščák\ndoc. Ing. Anna Jadlovská, PhD.\nIng. Erik Kajáti, PhD.\ndoc. Ing. Ján Jadlovský, CSc.\ndoc. Ing. Peter Papcun, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 12,
+    "recommended_semester": "ZS, LS",
+    "completion": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [],
+  "grades": {
+    "total_students": 286,
+    "percent": {
+      "A": 54,
+      "B": 21,
+      "C": 8,
+      "D": 4,
+      "E": 3,
+      "FX": 10
+    }
+  },
+  "teachers": [
+    "prof. Ing. Peter Sinčák, CSc.",
+    "prof. Ing. Iveta Zolotová, CSc.",
+    "doc. Ing. Marián Mach, CSc.",
+    "Ing. Martina Szabóová, PhD.",
+    "Ing. Ján Magyar, PhD.",
+    "doc. Ing. Marek Bundzel, PhD.",
+    "doc. Dr. Ing. Ján Vaščák",
+    "doc. Ing. Anna Jadlovská, PhD.",
+    "Ing. Erik Kajáti, PhD.",
+    "doc. Ing. Ján Jadlovský, CSc.",
+    "doc. Ing. Peter Papcun, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000775\nNázov predmetu: Diplomová práca\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 9,9\nExterná forma štúdia (hodiny za semester): ZS 117,117/LS 117,117\nMetóda štúdia:\n\nPočet kreditov: 12\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety: 26000769 - Diplomový projekt II\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie vedúcim ZP, Hodnotenie oponentom ZP\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nposudok oponenta a vedúceho práce, štátna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent v rámci predmetu pracuje metódou identifikácie problému, analýzy, návrhu a implementácie systémov a používa nové normy a štandardizovanú dokumentáciu ako aj využíva pri práci programovacie jazyky a využíva najnovšie trendy v programovani. V rámci projektu navrhuje a vyvíja moderné systémy priemyselnej informatiky a rozvíja funkčné a prevádzkové možnosti informačných riadiacich a rozhodovacích systémov, implementuje moderné informačné a riadiace systémy, súčasne je vedený pre individuálnu prácu, vo vybraných prípadoch v tíme ak práca je súčasťou vedeckého projektu pracoviska a jasne definovaným príspevkom študenta. Vo všeobecnosti je študent vedený aby udržiaval kontakt s odborom a je súčasne oboznamovaný s medzinárodnými profesnými organizáciami ako IEEE. Predmet práce sa dotýka špecializácie „Inteligentných systémov“ s prvkami adaptácie, rekonfigurácie, fault-tolerantných prístupov a samoorganizcie systémov.\n\nStručná osnova predmetu:\n• Identifikácia problému\n• Návrh riešenia\n• Overenie riešenia\n• Písomná prezentácia riešenia projektu\n• Ústna prezentácia výsledkov projektu\n\n\nOdporúčaná literatúra:\n• ISO 690:1987: Documentation-Bibliographic references. Content, form and structure\n• ISO 2145:1978: Documentation-Numbering of divisions and subdivisions in written documents.\n• W. Strunk, E.B. White: The Elements of Style , ISBN 0-02-418190-0\n• podľa odporúčaní vedúceho alebo konzultanta diplomovej práce\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 286\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n54%\n21%\n8%\n4%\n3%\n10%\n\n\nZabezpečuje:\nprof. Ing. Peter Sinčák, CSc.\nprof. Ing. Iveta Zolotová, CSc.\ndoc. Ing. Marián Mach, CSc.\nIng. Martina Szabóová, PhD.\nIng. Ján Magyar, PhD.\ndoc. Ing. Marek Bundzel, PhD.\ndoc. Dr. Ing. Ján Vaščák\ndoc. Ing. Anna Jadlovská, PhD.\nIng. Erik Kajáti, PhD.\ndoc. Ing. Ján Jadlovský, CSc.\ndoc. Ing. Peter Papcun, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

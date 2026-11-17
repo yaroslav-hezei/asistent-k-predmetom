@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65889987",
+  "code": "26000426",
+  "name": "Aplikovaná číslicová elektronika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65889987",
+  "fetched_at": "2026-11-17T15:05:05Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000426"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Aplikovaná číslicová elektronika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadania"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu je schopný samostatného návrhu, realizácie a diagnostiky základných číslicových obvodov priemyselných elektrotechnických systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Aplikácia číslicovej techniky.\nAplikácie kombinačných obvodov.\nSekvenčné obvody.\nAplikácie klopných obvodov.\nČítače a registre.\nPamäte.\nMultiplexory."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Levický,D.: Číslicová a impulzová technika II. ES VŠT Košice, 1990\nGalajda,P-Lukáč,R.:Elektronické obvody.Mercury- Smékal,2002\nKováč, D.: Aplikovaná elektronika II. TU v Košiciach, 2021, 70 strán, ISBN 978-80-553-3813-2.\nKováč, D.: Elektronika I., TU v Košiciach, 2021, 70 strán, ISBN 978-80-553-3997-9.\nKováč, D. Elektronika II., TU v Košiciach, 2021, 78 strán, ISBN 978-80-553-3996-2.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektrotechnike 1. diel, TU v Košiciach, 2019, 113 strán, ISBN 978-80-553-3266-6.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektronike 2. diel, TU v Košiciach, 2019, 94 strán, ISBN 978-80-553-3269-7.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektronike 3. diel, TU v Košiciach, 2019, 75 strán, ISBN 978-80-553-3270-3.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektronike 4. diel, TU v Košiciach, 2020, 76 strán, ISBN 978-80-553-3510-0.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektronike 5. diel, TU v Košiciach, 2020, 76 strán, ISBN 978-80-553-3511-7."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 236\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n22%\n22%\n11%\n6%\n19%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Irena Kováčová, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 236,
+    "percent": {
+      "A": 22,
+      "B": 22,
+      "C": 22,
+      "D": 11,
+      "E": 6,
+      "FX": 19
+    }
+  },
+  "teachers": [
+    "prof. Ing. Irena Kováčová, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 26000426\nNázov predmetu: Aplikovaná číslicová elektronika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadania\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu je schopný samostatného návrhu, realizácie a diagnostiky základných číslicových obvodov priemyselných elektrotechnických systémov.\n\nStručná osnova predmetu:\nAplikácia číslicovej techniky.\nAplikácie kombinačných obvodov.\nSekvenčné obvody.\nAplikácie klopných obvodov.\nČítače a registre.\nPamäte.\nMultiplexory.\n\nOdporúčaná literatúra:\nLevický,D.: Číslicová a impulzová technika II. ES VŠT Košice, 1990\nGalajda,P-Lukáč,R.:Elektronické obvody.Mercury- Smékal,2002\nKováč, D.: Aplikovaná elektronika II. TU v Košiciach, 2021, 70 strán, ISBN 978-80-553-3813-2.\nKováč, D.: Elektronika I., TU v Košiciach, 2021, 70 strán, ISBN 978-80-553-3997-9.\nKováč, D. Elektronika II., TU v Košiciach, 2021, 78 strán, ISBN 978-80-553-3996-2.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektrotechnike 1. diel, TU v Košiciach, 2019, 113 strán, ISBN 978-80-553-3266-6.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektronike 2. diel, TU v Košiciach, 2019, 94 strán, ISBN 978-80-553-3269-7.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektronike 3. diel, TU v Košiciach, 2019, 75 strán, ISBN 978-80-553-3270-3.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektronike 4. diel, TU v Košiciach, 2020, 76 strán, ISBN 978-80-553-3510-0.\nKováčová, I.: Aplikácia elektronických obvodov v priemyselnej elektronike 5. diel, TU v Košiciach, 2020, 76 strán, ISBN 978-80-553-3511-7.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 236\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n22%\n22%\n11%\n6%\n19%\n\n\nZabezpečuje:\nprof. Ing. Irena Kováčová, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

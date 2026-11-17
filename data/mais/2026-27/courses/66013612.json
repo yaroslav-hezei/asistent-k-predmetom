@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013612",
+  "code": "2609621",
+  "name": "Simulačné systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013612",
+  "fetched_at": "2026-11-17T15:15:27Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2609621"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Simulačné systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú dve písomky (v súčte za obidve 25b), v ktorých budú riešiť definované príklady a následne ich simuláciou overia na PC. Súčasťou hodnotenia za semester je výpočtové a algoritmické vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy definované v 4-och zadaniach/projektoch (v súčte za 15 bodov). Z priebežného hodnotenia (zápočet) študent môže získať 40b (min počet bodov je 21b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje programové riešenie zadefinovaných aplikačných kybernetických úloh v jazyku Matlab/Simulink s následným simulačným overením na PC, teoretická časť skúšky spočíva vo vypracovaní teoretických otázok vyplývajúcich z obsahu prednášok predmetu. Zo skúšky môže študent získať 60b (min 31b)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Získanie znalostí a praktických zručností pri analýze a návrhu algoritmického riešenia definovaných typových úloh vyskytujúcich sa v modelovaní kyber-fyzikálnych systémov a ich následnej implementácii do simulačného jazyka Matlab s cieľom simulačne verifikovať navrhnuté riešenie na PC s využitím vhodných aplikačných Toolboxov.\nHlavným cieľom výuky v predmete je zvládnutie algoritmických, numerických, modelovacích a simulačných techník integrovaných v simulačnom jazyku Matlab spolu s jeho grafickými možnosťami a poukázanie na ich využitie pri riešení konkrétnych aplikačných úloh z priemyselnej informatiky a kybernetiky, ktoré v svojej podstate spočívajú v numerickom riešení lineárnych/nelineárnych algebraických rovníc, v numerickom riešení lineárnych/nelineárnych diferenciálnych rovníc popisujúcich modely fyzikálnych systémov, v riešení úloh aproximácie a interpolácie dát, úloh simulácie riadenia jednoduchých modelov fyzikálnych systémov s využitím Control Toolboxu. Śtudenti získajú vedomosti z riešenia optimalizačných úloh s využitím funcií Optimization, Symbolic Math a Identification Toolboxov. Na riešenie zadaní študenti môžu využívať výukový portál laboratórnych modelov skupiny CMMRaPI (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Štruktúra programového systému Matlab a charakteristika Toolboxov pre aplikačné oblasti využitia v priemyselnej informatike a kybernetike, prepojenie simulačného jazyka Matlab s procedurálnymi programovacími jazykmi\n• Vlastnosti simulačného jazyka Matlab, matematické operátory, datové typy, premenné, vektory, matice, maticové operácie a riadiace štruktúry: príkazy pre vetvenie (IF ELSE, SWITCH CASE), cykly, príkazy pre užívateľský vstup dát\n• Výpočtové riešenie aplikačných príkladov z elektrotechniky, ktorých topológia sa dá zapísať systémom lineárnych algebraických rovníc, simulácia pasívnych elektrických obvodov v Matlabe\n• Algoritmické riešenie definovaných úloh numerickými technikami (výpočet diferencie, integrálu, gradientu) s využitím funkcií jazyka Matlab a programovej štruktúry “funkcie funkcií”\n• Algoritmické a numerické riešenie dynamických systémov vyjadrených lineárnymi a nelineárnymi diferenciálnymi rovnicami pomocou vlastných užívateľských funkcií a riadiacich štruktúr simulačného jazyka Matlab (model pružina-tlmič, model kyvadla, model Van-der-Polovho oscilátora), simulácia DS s uvažovaním rôznych budiacich signálov\n• Riešenie úloh na vytváranie 2-D a 3-D grafov s vužitím grafického prostredia jazyka Matlab a riadiacich funkcií pre zobrazenie, popis grafov, základy tvorby užívateľského prostredia GUI\n• Riešenie úloh modelovania a simulácie fyzikálnych systémov, simulácia PID riadenia modelov kyber-fyzikálnych systémo s využitím funkcií Control Toolbox-u s overením v riadiacich štruktúrach v prostredí Simulink, (web Aplikácie: http://matlab.fei.tuke.sk/ss/aplikacie.aspx)\n• Zostavenie modelov fyzikálnych systémov na základe metód analytickej identifikácie a s využitím grafického programovania v prostredí Simulink metódou postupného znižovania rádu derivácie (nastavenie parametrov simulácie, tvorba subsystémov, maskovanie), vytváranie vlastných S-funkcií a ich využitie\n• Parametrická identifikácia modelov dynamických systémov z nameraných dát V/V dat a s využitím funkcií Identification Toolbox-u\n• Riešenie úloh aproximácie a interpolácie dat získaných z kybernetických modelov s využitím dátových súborov (ukladanie dát do súboru / čítanie dát zo súboru), import dát z Excelu, aplikácia základných funkcií Toolboxu Symbolickej matematiky v riešení definovaných úloh"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Jadlovská, A. – Jadlovská, S,:Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3\nNovák, J.-Pultarová, I.: Základy informatiky – Počítačové modelování v Matabu, ČVUT, 2005, ISBN 80-01-03308-2\nDušek, F.: MATLAB a Simulink – úvod do používání, Pardubice 2002\nZaplatílek, K.-Donař,B.:MATLAB pro začátečníky, BEN, Praha 2003\nBartová, S.-Kukal, J.-Panek,M.: Algoritmizace v systému Matlab, Výpočetní technika II, VŠCHT, Praha\nZaplatílek, K. – Donař, B.: MATLAB – tvorba užívatelských aplikací, BEN, Praha 2005\nKarban, P.: Výpočty a simulace v programech Matlab a Simulink, CP, a.s. Brno 2006\nTewari, A.: Modern Control Design with Matlab and Simulink, John Wiley & Sons, 2014, ISBN 978-047-149-6793,\nJadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1.\nChen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 603\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n12%\n13%\n22%\n20%\n9%\n24%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Anna Jadlovská, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 5,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 603,
+    "percent": {
+      "A": 12,
+      "B": 13,
+      "C": 22,
+      "D": 20,
+      "E": 9,
+      "FX": 24
+    }
+  },
+  "teachers": [
+    "doc. Ing. Anna Jadlovská, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2609621\nNázov predmetu: Simulačné systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú dve písomky (v súčte za obidve 25b), v ktorých budú riešiť definované príklady a následne ich simuláciou overia na PC. Súčasťou hodnotenia za semester je výpočtové a algoritmické vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy definované v 4-och zadaniach/projektoch (v súčte za 15 bodov). Z priebežného hodnotenia (zápočet) študent môže získať 40b (min počet bodov je 21b).\n\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje programové riešenie zadefinovaných aplikačných kybernetických úloh v jazyku Matlab/Simulink s následným simulačným overením na PC, teoretická časť skúšky spočíva vo vypracovaní teoretických otázok vyplývajúcich z obsahu prednášok predmetu. Zo skúšky môže študent získať 60b (min 31b).\n\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZískanie znalostí a praktických zručností pri analýze a návrhu algoritmického riešenia definovaných typových úloh vyskytujúcich sa v modelovaní kyber-fyzikálnych systémov a ich následnej implementácii do simulačného jazyka Matlab s cieľom simulačne verifikovať navrhnuté riešenie na PC s využitím vhodných aplikačných Toolboxov.\nHlavným cieľom výuky v predmete je zvládnutie algoritmických, numerických, modelovacích a simulačných techník integrovaných v simulačnom jazyku Matlab spolu s jeho grafickými možnosťami a poukázanie na ich využitie pri riešení konkrétnych aplikačných úloh z priemyselnej informatiky a kybernetiky, ktoré v svojej podstate spočívajú v numerickom riešení lineárnych/nelineárnych algebraických rovníc, v numerickom riešení lineárnych/nelineárnych diferenciálnych rovníc popisujúcich modely fyzikálnych systémov, v riešení úloh aproximácie a interpolácie dát, úloh simulácie riadenia jednoduchých modelov fyzikálnych systémov s využitím Control Toolboxu. Śtudenti získajú vedomosti z riešenia optimalizačných úloh s využitím funcií Optimization, Symbolic Math a Identification Toolboxov. Na riešenie zadaní študenti môžu využívať výukový portál laboratórnych modelov skupiny CMMRaPI (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)\n\n\nStručná osnova predmetu:\n• Štruktúra programového systému Matlab a charakteristika Toolboxov pre aplikačné oblasti využitia v priemyselnej informatike a kybernetike, prepojenie simulačného jazyka Matlab s procedurálnymi programovacími jazykmi\n• Vlastnosti simulačného jazyka Matlab, matematické operátory, datové typy, premenné, vektory, matice, maticové operácie a riadiace štruktúry: príkazy pre vetvenie (IF ELSE, SWITCH CASE), cykly, príkazy pre užívateľský vstup dát\n• Výpočtové riešenie aplikačných príkladov z elektrotechniky, ktorých topológia sa dá zapísať systémom lineárnych algebraických rovníc, simulácia pasívnych elektrických obvodov v Matlabe\n• Algoritmické riešenie definovaných úloh numerickými technikami (výpočet diferencie, integrálu, gradientu) s využitím funkcií jazyka Matlab a programovej štruktúry “funkcie funkcií”\n• Algoritmické a numerické riešenie dynamických systémov vyjadrených lineárnymi a nelineárnymi diferenciálnymi rovnicami pomocou vlastných užívateľských funkcií a riadiacich štruktúr simulačného jazyka Matlab (model pružina-tlmič, model kyvadla, model Van-der-Polovho oscilátora), simulácia DS s uvažovaním rôznych budiacich signálov\n• Riešenie úloh na vytváranie 2-D a 3-D grafov s vužitím grafického prostredia jazyka Matlab a riadiacich funkcií pre zobrazenie, popis grafov, základy tvorby užívateľského prostredia GUI\n• Riešenie úloh modelovania a simulácie fyzikálnych systémov, simulácia PID riadenia modelov kyber-fyzikálnych systémo s využitím funkcií Control Toolbox-u s overením v riadiacich štruktúrach v prostredí Simulink, (web Aplikácie: http://matlab.fei.tuke.sk/ss/aplikacie.aspx)\n• Zostavenie modelov fyzikálnych systémov na základe metód analytickej identifikácie a s využitím grafického programovania v prostredí Simulink metódou postupného znižovania rádu derivácie (nastavenie parametrov simulácie, tvorba subsystémov, maskovanie), vytváranie vlastných S-funkcií a ich využitie\n• Parametrická identifikácia modelov dynamických systémov z nameraných dát V/V dat a s využitím funkcií Identification Toolbox-u\n• Riešenie úloh aproximácie a interpolácie dat získaných z kybernetických modelov s využitím dátových súborov (ukladanie dát do súboru / čítanie dát zo súboru), import dát z Excelu, aplikácia základných funkcií Toolboxu Symbolickej matematiky v riešení definovaných úloh\n\n\nOdporúčaná literatúra:\nJadlovská, A. – Jadlovská, S,:Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3\nNovák, J.-Pultarová, I.: Základy informatiky – Počítačové modelování v Matabu, ČVUT, 2005, ISBN 80-01-03308-2\nDušek, F.: MATLAB a Simulink – úvod do používání, Pardubice 2002\nZaplatílek, K.-Donař,B.:MATLAB pro začátečníky, BEN, Praha 2003\nBartová, S.-Kukal, J.-Panek,M.: Algoritmizace v systému Matlab, Výpočetní technika II, VŠCHT, Praha\nZaplatílek, K. – Donař, B.: MATLAB – tvorba užívatelských aplikací, BEN, Praha 2005\nKarban, P.: Výpočty a simulace v programech Matlab a Simulink, CP, a.s. Brno 2006\nTewari, A.: Modern Control Design with Matlab and Simulink, John Wiley & Sons, 2014, ISBN 978-047-149-6793,\nJadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1.\nChen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458\n\n\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 603\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n12%\n13%\n22%\n20%\n9%\n24%\n\n\nZabezpečuje:\ndoc. Ing. Anna Jadlovská, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

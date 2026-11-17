@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65960178",
+  "code": "26000175",
+  "name": "Elektrické siete",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960178",
+  "fetched_at": "2026-11-17T15:13:12Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000175"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektrické siete"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nObhajoba projektu"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška pozostávajúca z písomnej a ústnej časti"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné vedomosti z oblasti projektovania vonkajších elektrických vedení, stanovenia ich ampacity pri rôznych klimatických podmienkach a tiež z oblasti jednosmerných prenosov"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- výpočet mechanických pomerov zaveseného vodiča\n- klimatické podmienky mechanického výpočtu vonkajších elektrických vedení\n- voľba trasy a rozmiestnenie stožiarov vonkajšieho elektrického vedenia\n- podmienky dimenzovania stožiarov vonkajších elektrických vedení\n- vodiče a izolátory vonkajších elektrických vedení\n- štruktúra a vlastnosti jednosmerného prenosu elektrickej energie\n- stanovenie ampacity vonkajších elektrických vedení pri rôznych klimatických podmienkach"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1) Bendík, J., Cenký, M., Bindzár, M.: Vonkajšie elektrické vedenia I, STU v Bratislave, 2020, ISBN 978-80-227-4997-8\n2) Ilenin, S., Varga, L.: Dynamické javy na vonkajších elektrických vedeniach v závislosti od klimatických vplyvov, TU Košice, 2019, ISBN 978-80-553-3304-5\n3) STN EN 50341-2-23:2017 Vonkajšie elektrické vedenia so striedavým napätím nad 1 kV. Časť 2-23: Národné normatívne hľadiská pre Slovensko\n4) Fecko, Š., a kol.: Vonkajšie elektrické vedenia, Renesans, s.r.o. Bratislava 2010, ISBN 80-89402-35-9"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Prednášky: 26 hodín, numerické cvičenie: 13 hodín, projektová práca: 13 hodín, príprava na priebežnú kontrolu: 15 hodín, domáca príprava na numerické cvičenia: 18 hodín, vypracovanie projektu: 20 hodín, príprava na skúšku: 45 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 469\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n26%\n22%\n14%\n6%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ľubomír Beňa, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 469,
+    "percent": {
+      "A": 26,
+      "B": 26,
+      "C": 22,
+      "D": 14,
+      "E": 6,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ľubomír Beňa, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 26000175\nNázov predmetu: Elektrické siete\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nObhajoba projektu\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška pozostávajúca z písomnej a ústnej časti\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné vedomosti z oblasti projektovania vonkajších elektrických vedení, stanovenia ich ampacity pri rôznych klimatických podmienkach a tiež z oblasti jednosmerných prenosov\n\nStručná osnova predmetu:\n- výpočet mechanických pomerov zaveseného vodiča\n- klimatické podmienky mechanického výpočtu vonkajších elektrických vedení\n- voľba trasy a rozmiestnenie stožiarov vonkajšieho elektrického vedenia\n- podmienky dimenzovania stožiarov vonkajších elektrických vedení\n- vodiče a izolátory vonkajších elektrických vedení\n- štruktúra a vlastnosti jednosmerného prenosu elektrickej energie\n- stanovenie ampacity vonkajších elektrických vedení pri rôznych klimatických podmienkach\n\nOdporúčaná literatúra:\n1) Bendík, J., Cenký, M., Bindzár, M.: Vonkajšie elektrické vedenia I, STU v Bratislave, 2020, ISBN 978-80-227-4997-8\n2) Ilenin, S., Varga, L.: Dynamické javy na vonkajších elektrických vedeniach v závislosti od klimatických vplyvov, TU Košice, 2019, ISBN 978-80-553-3304-5\n3) STN EN 50341-2-23:2017 Vonkajšie elektrické vedenia so striedavým napätím nad 1 kV. Časť 2-23: Národné normatívne hľadiská pre Slovensko\n4) Fecko, Š., a kol.: Vonkajšie elektrické vedenia, Renesans, s.r.o. Bratislava 2010, ISBN 80-89402-35-9\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Prednášky: 26 hodín, numerické cvičenie: 13 hodín, projektová práca: 13 hodín, príprava na priebežnú kontrolu: 15 hodín, domáca príprava na numerické cvičenia: 18 hodín, vypracovanie projektu: 20 hodín, príprava na skúšku: 45 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 469\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n26%\n22%\n14%\n6%\n7%\n\n\nZabezpečuje:\ndoc. Ing. Ľubomír Beňa, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

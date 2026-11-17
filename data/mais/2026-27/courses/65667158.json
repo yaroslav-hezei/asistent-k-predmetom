@@ -1,0 +1,170 @@
+{
+  "predmet_id": "65667158",
+  "code": "26000689",
+  "name": "Architektúry priemyselných informačných systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667158",
+  "fetched_at": "2026-11-17T15:00:11Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000689"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Architektúry priemyselných informačných systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 2,1,1"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti riešia projekt, za ktorý môžu získať maxímálne 30 bodov a previerku, za ktorú môžu získať maximálne 10 bodov. Z projektu, ako aj z previerky musia získať minimálne polovicu. Projekt sa prezentuje ústne v skupine."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z troch modulov, príklad, test a teoretická časť. Z každého modulu môžu študenti získať maximálne 20 bodov. Študenti musia získať minimálne 10 bodov z každého modulu. Získavajú body a certifikát z CISCO kurzu Úvod do IoE."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti si na tomto predmete osvoja znalosti z oblastí návrhu architektúr stredných vrstiev informačných a riadiacich systémov (IRS) na báze Industry 4.0, Internetu vecí (Internetu všetkého), Factory of future, naučia sa prakticky aplikovať web technológie v oblasti priemyselného riadenia, tvorby virtuálneho a vzdialeného prostredia pre interaktívnu simuláciu a vzdialené riadenie technologických procesov. Budú schopní využívať a aplikovať najmodernejšie informačné a komunikačné technológie na návrh a realizáciu architektúr IRS priemyselných podnikov. V rámci cvičení a projektovej práce tímovo navrhnú a zrealizujú integrovanú štruktúru stredných úrovni IRS na technologických systémoch v laboratórnych podmienkach. Získajú kompetencie v oblasti konfigurácie a využívania databázových systémov, počítačových sietí a vizualizačných produktov a služieb pre inteligentné interakcie. Vypracujú pokročilé prípadové štúdie alebo eseje na báze najnovších poznatkov a technológií (Machine and Production Intelligence, Factory of Future, Internet of Machine, Industrial Workflow, Cloud Manufacturing). Vypracujú pokročilejšie prípadové projekty pre vybrané podnikové priemyselné prostredie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Modely a architektúra informačných a riadiacich systémov (IRS) pre malé, stredné a veľké podniky s dôrazom na úroveň MES (Manufacturing Execution System) a CPPSS (Collaboration Planning and Production System and Services) na báze Industry 4.0, Internetu vecí (Internetu všetkého), Factory of future.\n• Úvod do internetu všetkého IoE- CISCO kurz\n• Funkcionalita, protokoly a štandardy stredných vrstiev IRS a napojenie na technologickú a SCADA/HMI (vizualizačnú úroveň riadenia) a technologické architektúry DCS (Distributed Control System) systému\n• Technológie zberu procesných dát prostredníctvom obojsmerných transakčných manažérov a procesných databázových serverov, tzv. historianov, mechanizmy redundancie a dostupnosti systémov (failover, store and forward, a pod.). Diagnostika a analýza zberu dát z pripojených dátových zdrojov\n• Systémy zberu a archivácie procesných dát v reálnom čase do procesných databázových serverov. Podsystémy, konfigurácia, parametrizácia procesných databázových systémov\n• Sledovanie kvality a efektivity výroby – sledovanie výrobkov a genealógia, nastavovanie receptúr a výrobných procesov a plánov, sledovanie výkonu a spotreby materiálov v reálnom čase, kalkulácia OEE a TEEP\n• Poskytovanie a publikovanie údajov pre stredné a vyššie úrovne IRS prostredníctvom webových a mobilných technológií, priemyselné portály a služby\n• Mobilný a webový reporting (druhy zostáv, korelácie a zostavy z viacerých dátových zdrojov, integrácia iného webového obsahu, apod.) - pokročilé prípadové štúdie a projekty\n• Výrobná inteligencia, integrácia a kooperácia – koncepcie FoF (Factory of the Future) a Industry 4.0, priemyselný workflow, výrobné analýzy a podpora rozhodovania - pokročilé prípadové štúdie a projekty\n• Virtualizačné a cloudové technológie v priemysle – CM (Cloud Manufacturing) a IoM (Internet of Machine, Things, EveringThings) – pokročilé prípadové štúdie a projekty"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/industry-50_en\n• https://www.aveva.com/en/solutions/operations/wonderware/\n• Internetové zdroje - projekty, články, moodle.tuke.sk.\n• Firemné literatúry a manuály spoločností Rockwell Automation, Siemens, Wonderware, Microsoft. WMWare"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 442\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n16%\n29%\n22%\n7%\n10%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Iveta Zolotová, CSc.\nIng. Alex Krempaský\ndoc. Ing. Peter Papcun, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 442,
+    "percent": {
+      "A": 16,
+      "B": 16,
+      "C": 29,
+      "D": 22,
+      "E": 7,
+      "FX": 10
+    }
+  },
+  "teachers": [
+    "prof. Ing. Iveta Zolotová, CSc.",
+    "Ing. Alex Krempaský",
+    "doc. Ing. Peter Papcun, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000689\nNázov predmetu: Architektúry priemyselných informačných systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 2,1,1\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti riešia projekt, za ktorý môžu získať maxímálne 30 bodov a previerku, za ktorú môžu získať maximálne 10 bodov. Z projektu, ako aj z previerky musia získať minimálne polovicu. Projekt sa prezentuje ústne v skupine.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z troch modulov, príklad, test a teoretická časť. Z každého modulu môžu študenti získať maximálne 20 bodov. Študenti musia získať minimálne 10 bodov z každého modulu. Získavajú body a certifikát z CISCO kurzu Úvod do IoE.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti si na tomto predmete osvoja znalosti z oblastí návrhu architektúr stredných vrstiev informačných a riadiacich systémov (IRS) na báze Industry 4.0, Internetu vecí (Internetu všetkého), Factory of future, naučia sa prakticky aplikovať web technológie v oblasti priemyselného riadenia, tvorby virtuálneho a vzdialeného prostredia pre interaktívnu simuláciu a vzdialené riadenie technologických procesov. Budú schopní využívať a aplikovať najmodernejšie informačné a komunikačné technológie na návrh a realizáciu architektúr IRS priemyselných podnikov. V rámci cvičení a projektovej práce tímovo navrhnú a zrealizujú integrovanú štruktúru stredných úrovni IRS na technologických systémoch v laboratórnych podmienkach. Získajú kompetencie v oblasti konfigurácie a využívania databázových systémov, počítačových sietí a vizualizačných produktov a služieb pre inteligentné interakcie. Vypracujú pokročilé prípadové štúdie alebo eseje na báze najnovších poznatkov a technológií (Machine and Production Intelligence, Factory of Future, Internet of Machine, Industrial Workflow, Cloud Manufacturing). Vypracujú pokročilejšie prípadové projekty pre vybrané podnikové priemyselné prostredie.\n\nStručná osnova predmetu:\n• Modely a architektúra informačných a riadiacich systémov (IRS) pre malé, stredné a veľké podniky s dôrazom na úroveň MES (Manufacturing Execution System) a CPPSS (Collaboration Planning and Production System and Services) na báze Industry 4.0, Internetu vecí (Internetu všetkého), Factory of future.\n• Úvod do internetu všetkého IoE- CISCO kurz\n• Funkcionalita, protokoly a štandardy stredných vrstiev IRS a napojenie na technologickú a SCADA/HMI (vizualizačnú úroveň riadenia) a technologické architektúry DCS (Distributed Control System) systému\n• Technológie zberu procesných dát prostredníctvom obojsmerných transakčných manažérov a procesných databázových serverov, tzv. historianov, mechanizmy redundancie a dostupnosti systémov (failover, store and forward, a pod.). Diagnostika a analýza zberu dát z pripojených dátových zdrojov\n• Systémy zberu a archivácie procesných dát v reálnom čase do procesných databázových serverov. Podsystémy, konfigurácia, parametrizácia procesných databázových systémov\n• Sledovanie kvality a efektivity výroby – sledovanie výrobkov a genealógia, nastavovanie receptúr a výrobných procesov a plánov, sledovanie výkonu a spotreby materiálov v reálnom čase, kalkulácia OEE a TEEP\n• Poskytovanie a publikovanie údajov pre stredné a vyššie úrovne IRS prostredníctvom webových a mobilných technológií, priemyselné portály a služby\n• Mobilný a webový reporting (druhy zostáv, korelácie a zostavy z viacerých dátových zdrojov, integrácia iného webového obsahu, apod.) - pokročilé prípadové štúdie a projekty\n• Výrobná inteligencia, integrácia a kooperácia – koncepcie FoF (Factory of the Future) a Industry 4.0, priemyselný workflow, výrobné analýzy a podpora rozhodovania - pokročilé prípadové štúdie a projekty\n• Virtualizačné a cloudové technológie v priemysle – CM (Cloud Manufacturing) a IoM (Internet of Machine, Things, EveringThings) – pokročilé prípadové štúdie a projekty\n\nOdporúčaná literatúra:\n• https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/industry-50_en\n• https://www.aveva.com/en/solutions/operations/wonderware/\n• Internetové zdroje - projekty, články, moodle.tuke.sk.\n• Firemné literatúry a manuály spoločností Rockwell Automation, Siemens, Wonderware, Microsoft. WMWare\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 442\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n16%\n29%\n22%\n7%\n10%\n\n\nZabezpečuje:\nprof. Ing. Iveta Zolotová, CSc.\nIng. Alex Krempaský\ndoc. Ing. Peter Papcun, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

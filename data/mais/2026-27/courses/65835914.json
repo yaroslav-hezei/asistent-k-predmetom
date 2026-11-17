@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65835914",
+  "code": "26000056",
+  "name": "Hlavné poznatky odboru a ich využitie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65835914",
+  "fetched_at": "2026-11-17T15:02:19Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000056"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Hlavné poznatky odboru a ich využitie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "4"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 52/LS 52"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška pre 1. a 2. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nzápočet\nštátna záverečná skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Zopakovanie hlavných poznatkov odboru elektrotechnika získaných počas štúdia a ich využitie v praxi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Súhrn všetkých poznatkov získaných počas štúdia."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "podľa predmetov daného odboru"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 265\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n34%\n23%\n19%\n8%\n6%\n10%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Dobroslav Kováč, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Štátna skúška pre 1. a 2. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 265,
+    "percent": {
+      "A": 34,
+      "B": 23,
+      "C": 19,
+      "D": 8,
+      "E": 6,
+      "FX": 10
+    }
+  },
+  "teachers": [
+    "prof. Ing. Dobroslav Kováč, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 26000056\nNázov predmetu: Hlavné poznatky odboru a ich využitie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 4\nExterná forma štúdia (hodiny za semester): ZS 52/LS 52\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška pre 1. a 2. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nzápočet\nštátna záverečná skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZopakovanie hlavných poznatkov odboru elektrotechnika získaných počas štúdia a ich využitie v praxi.\n\nStručná osnova predmetu:\nSúhrn všetkých poznatkov získaných počas štúdia.\n\nOdporúčaná literatúra:\npodľa predmetov daného odboru\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 265\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n34%\n23%\n19%\n8%\n6%\n10%\n\n\nZabezpečuje:\nprof. Ing. Dobroslav Kováč, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

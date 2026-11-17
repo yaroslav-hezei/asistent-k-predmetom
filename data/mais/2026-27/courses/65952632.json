@@ -1,0 +1,184 @@
+{
+  "predmet_id": "65952632",
+  "code": "26001280",
+  "name": "Generatívna umelá inteligencia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952632",
+  "fetched_at": "2026-11-17T15:09:42Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001280"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Generatívna umelá inteligencia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu študenti nadobudnú prehľad o princípoch fungovania hlbokých neurónových sietí a osvojia si základy ich návrhu, učenia a optimalizácie pomocou algoritmu spätného šírenia chyby (backpropagation). Oboznámia sa s architektúrou konvolučných neurónových sietí a významnými modelmi, ako sú LeNet, AlexNet, VGG, GoogLeNet a ResNet, pričom pochopia ich využitie pri spracovaní obrazových dát. Získajú poznatky o generatívnych modeloch založených na generatívnych superkonkurenčných sieťach (GAN), ich architektúre, procese učenia a možnostiach praktického využitia. Študenti porozumejú princípom autoenkodérov a variačných autoenkodérov (VAE), vrátane latentného priestoru, reparametrizačného triku a optimalizačnej funkcie Evidence Lower Bound (ELBO). Oboznámia sa so základnými princípmi difúznych modelov, procesom generovania dát prostredníctvom postupného odstraňovania šumu a ich využitím v moderných generatívnych systémoch. Zároveň získajú úvodné poznatky o architektúre transformerov, mechanizme self-attention a ich význame pre súčasný rozvoj umelej inteligencie. Absolventi predmetu získajú teoretické vedomosti potrebné na pochopenie moderných architektúr hlbokého učenia a generatívnych modelov, ako aj základ pre ich ďalšie štúdium a praktické využitie v oblasti umelej inteligencie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Neurónové siete a algoritmus spätného šírenia chyby (backpropagation) – základná architektúra neurónových sietí, aktivačné funkcie, optimalizačné algoritmy, výpočet gradientov a princíp učenia pomocou algoritmu backpropagation.\n\n2. Konvolučné neurónové siete (CNN) – princípy konvolúcie, poolingové vrstvy, architektúra CNN a významné modely ako LeNet, AlexNet, VGG (VGG-16/VGG-19), GoogLeNet (Inception), ResNet a ich využitie pri klasifikácii a spracovaní obrazu.\n\n3. Generatívne superkonkurenčné siete (GAN) – princíp adversariálneho učenia, architektúra generátora a diskriminátora, optimalizačný proces, najvýznamnejšie varianty GAN a ich aplikácie pri generovaní syntetických dát a obrazov.\n\n4. Autoenkodéry a variačné autoenkodéry (VAE) – princípy reprezentácie dát v latentnom priestore, rekonštrukčná chyba, variačné autoenkodéry, pravdepodobnostný prístup k latentným premenným, Evidence Lower Bound (ELBO), reparametrizačný trik a využitie VAE pri generovaní dát.\n\n5. Difúzne modely– princíp postupného pridávania a odstraňovania šumu (forward a reverse diffusion), proces trénovania, denoising, základné architektúry a využitie difúznych modelov pri generovaní obrazov a iných dát.\n\n6. Úvod do teórie transformerov – motivácia vzniku transformerov, mechanizmus self-attention a multi-head attention, pozičné kódovanie, architektúra encoder–decoder a význam transformerov ako základu moderných generatívnych modelov umelej inteligencie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "KAPLAN, J., (2024). Generative Artificial Intelligence: What Everyone Needs to Know. Oxford: Oxford University Press. 240 s. ISBN 978-0-19-777354-3.\nGAZDA, Juraj a kol. Generatívna umelá inteligencia, elektronické študijné materiály. 2025, v príprave. Dostupné na: https://moodle.fei.tuke.sk."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 87\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n48%\n14%\n25%\n10%\n1%\n1%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Juraj Gazda, PhD.\nIng. Laura Pituková\nIng. Eugen Šlapak, PhD.\nIng. Branislav Setlák\nIng. Chris Uličný"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 87,
+    "percent": {
+      "A": 48,
+      "B": 14,
+      "C": 25,
+      "D": 10,
+      "E": 1,
+      "FX": 1
+    }
+  },
+  "teachers": [
+    "prof. Ing. Juraj Gazda, PhD.",
+    "Ing. Laura Pituková",
+    "Ing. Eugen Šlapak, PhD.",
+    "Ing. Branislav Setlák",
+    "Ing. Chris Uličný"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001280\nNázov predmetu: Generatívna umelá inteligencia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu študenti nadobudnú prehľad o princípoch fungovania hlbokých neurónových sietí a osvojia si základy ich návrhu, učenia a optimalizácie pomocou algoritmu spätného šírenia chyby (backpropagation). Oboznámia sa s architektúrou konvolučných neurónových sietí a významnými modelmi, ako sú LeNet, AlexNet, VGG, GoogLeNet a ResNet, pričom pochopia ich využitie pri spracovaní obrazových dát. Získajú poznatky o generatívnych modeloch založených na generatívnych superkonkurenčných sieťach (GAN), ich architektúre, procese učenia a možnostiach praktického využitia. Študenti porozumejú princípom autoenkodérov a variačných autoenkodérov (VAE), vrátane latentného priestoru, reparametrizačného triku a optimalizačnej funkcie Evidence Lower Bound (ELBO). Oboznámia sa so základnými princípmi difúznych modelov, procesom generovania dát prostredníctvom postupného odstraňovania šumu a ich využitím v moderných generatívnych systémoch. Zároveň získajú úvodné poznatky o architektúre transformerov, mechanizme self-attention a ich význame pre súčasný rozvoj umelej inteligencie. Absolventi predmetu získajú teoretické vedomosti potrebné na pochopenie moderných architektúr hlbokého učenia a generatívnych modelov, ako aj základ pre ich ďalšie štúdium a praktické využitie v oblasti umelej inteligencie.\n\nStručná osnova predmetu:\n1. Neurónové siete a algoritmus spätného šírenia chyby (backpropagation) – základná architektúra neurónových sietí, aktivačné funkcie, optimalizačné algoritmy, výpočet gradientov a princíp učenia pomocou algoritmu backpropagation.\n\n2. Konvolučné neurónové siete (CNN) – princípy konvolúcie, poolingové vrstvy, architektúra CNN a významné modely ako LeNet, AlexNet, VGG (VGG-16/VGG-19), GoogLeNet (Inception), ResNet a ich využitie pri klasifikácii a spracovaní obrazu.\n\n3. Generatívne superkonkurenčné siete (GAN) – princíp adversariálneho učenia, architektúra generátora a diskriminátora, optimalizačný proces, najvýznamnejšie varianty GAN a ich aplikácie pri generovaní syntetických dát a obrazov.\n\n4. Autoenkodéry a variačné autoenkodéry (VAE) – princípy reprezentácie dát v latentnom priestore, rekonštrukčná chyba, variačné autoenkodéry, pravdepodobnostný prístup k latentným premenným, Evidence Lower Bound (ELBO), reparametrizačný trik a využitie VAE pri generovaní dát.\n\n5. Difúzne modely– princíp postupného pridávania a odstraňovania šumu (forward a reverse diffusion), proces trénovania, denoising, základné architektúry a využitie difúznych modelov pri generovaní obrazov a iných dát.\n\n6. Úvod do teórie transformerov – motivácia vzniku transformerov, mechanizmus self-attention a multi-head attention, pozičné kódovanie, architektúra encoder–decoder a význam transformerov ako základu moderných generatívnych modelov umelej inteligencie.\n\nOdporúčaná literatúra:\nKAPLAN, J., (2024). Generative Artificial Intelligence: What Everyone Needs to Know. Oxford: Oxford University Press. 240 s. ISBN 978-0-19-777354-3.\nGAZDA, Juraj a kol. Generatívna umelá inteligencia, elektronické študijné materiály. 2025, v príprave. Dostupné na: https://moodle.fei.tuke.sk.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 87\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n48%\n14%\n25%\n10%\n1%\n1%\n\n\nZabezpečuje:\nprof. Ing. Juraj Gazda, PhD.\nIng. Laura Pituková\nIng. Eugen Šlapak, PhD.\nIng. Branislav Setlák\nIng. Chris Uličný\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

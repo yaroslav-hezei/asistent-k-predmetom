@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65890033",
+  "code": "26000428",
+  "name": "Priemyselné logické automaty",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65890033",
+  "fetched_at": "2026-11-17T15:05:09Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000428"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Priemyselné logické automaty"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadania"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu je oboznámený so základnými princípmi a funkciami PLC a možnosťami ich aplikácie v praxi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Základy Booleovskej algebry.\nKontaktná logika.\nPLC firmy Siemens.\nVstupy a výstupy.\nKomunikačné rozhrania.\nSoftvérové nástroje.\nProgramovanie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1]. Siemens AG. SIMATIC S7-1200 Easy Book. Manual. 01/2015. A5E02486774-AG.Available online: https://support.industry.siemens.com/cs/document/39710145/simatic-s7-1200-easy-book\n[2]. Siemens AG. Programming Guideline for S7-1200/1500. Tia Portal.2018, available online: https://support.industry.siemens.com/cs/ww/en/view/81318674\n[3]. BERGER, Hans. Automating with SIMATIC S7-1200: Configuring, Programming and Testing with STEP 7 Basic. John Wiley & Sons, 2013.\n[4]. BERGER, Hans. Automating with SIMATIC S7-1500: Configuring, Programming and Testing with STEP 7 Professional. John Wiley & Sons, 2014.\n[5]. VINCE, Tibor, et al. PLC Universal Hardware in the Loop System Based on ATmega2560. In: 2020 IEEE Problems of Automated Electrodrive. Theory and Practice (PAEP). IEEE, 2020. p. 1-4."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 179\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n17%\n19%\n23%\n12%\n9%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Tibor Vince, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 179,
+    "percent": {
+      "A": 20,
+      "B": 17,
+      "C": 19,
+      "D": 23,
+      "E": 12,
+      "FX": 9
+    }
+  },
+  "teachers": [
+    "doc. Ing. Tibor Vince, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 26000428\nNázov predmetu: Priemyselné logické automaty\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadania\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu je oboznámený so základnými princípmi a funkciami PLC a možnosťami ich aplikácie v praxi.\n\nStručná osnova predmetu:\nZáklady Booleovskej algebry.\nKontaktná logika.\nPLC firmy Siemens.\nVstupy a výstupy.\nKomunikačné rozhrania.\nSoftvérové nástroje.\nProgramovanie.\n\nOdporúčaná literatúra:\n[1]. Siemens AG. SIMATIC S7-1200 Easy Book. Manual. 01/2015. A5E02486774-AG.Available online: https://support.industry.siemens.com/cs/document/39710145/simatic-s7-1200-easy-book\n[2]. Siemens AG. Programming Guideline for S7-1200/1500. Tia Portal.2018, available online: https://support.industry.siemens.com/cs/ww/en/view/81318674\n[3]. BERGER, Hans. Automating with SIMATIC S7-1200: Configuring, Programming and Testing with STEP 7 Basic. John Wiley & Sons, 2013.\n[4]. BERGER, Hans. Automating with SIMATIC S7-1500: Configuring, Programming and Testing with STEP 7 Professional. John Wiley & Sons, 2014.\n[5]. VINCE, Tibor, et al. PLC Universal Hardware in the Loop System Based on ATmega2560. In: 2020 IEEE Problems of Automated Electrodrive. Theory and Practice (PAEP). IEEE, 2020. p. 1-4.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 179\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n17%\n19%\n23%\n12%\n9%\n\n\nZabezpečuje:\ndoc. Ing. Tibor Vince, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

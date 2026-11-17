@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65985882",
+  "code": "26001391",
+  "name": "Generatívna umelá inteligencia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65985882",
+  "fetched_at": "2026-11-17T15:14:45Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001391"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Generatívna umelá inteligencia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (AI_Ing_join_D_en)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nŠtudenti úspešne absolvujú priebežné hodnotenie a získajú kredity splnením podmienky získania min. 16 % z 30 %. Hodnotené úlohy zahŕňajú praktickú implementáciu architektúr VAE a GAN."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nŠtudenti úspešne absolvujú záverečné hodnotenie a skúšku splnením podmienky získania minimálne 36 % zo 70 %. Skúška zahŕňa teoretické princípy difúznych procesov, adverzárneho tréningu a modelových architektúr."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní si študenti osvoja teoretické základy a praktickú implementáciu hlbokých generatívnych modelov, konkrétne variačných autokóderov (VAE), generatívnych adverzárnych sietí (GAN) a difúznych modelov. Získajú zručnosti v oblasti trénovania, optimalizácie a hodnotenia týchto architektúr pre vizuálnu syntézu dát a multimodálne úlohy. Okrem toho študenti pochopia etické dôsledky generatívnej umelej inteligencie vrátane deepfakeov, skreslenia a zodpovedného nasadenia."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do hlbokých generatívnych modelov: Taxonómia, rozdiely medzi diskriminačným a generatívnym modelovaním, prehľad typov modelov.\n- Variačné autoenkodéry (VAE): Od základných autoenkodérov k VAE, ELBO, triku reparametrizácie a VQ-VAE.\n- Generatívne adverzárne siete (GAN): Základy teórie hier, Minimax strata, Wassersteinova GAN (WGAN) a trénovacia stabilita.\n- Pokročilá syntéza obrazu s GAN: Najmodernejšie GAN (StyleGAN, CycleGAN) a úlohy prekladu obrazu do obrazu.\n- Difúzne modely I: Základy procesov priamej a spätnej difúzie, pravdepodobnostné modely difúzie s odšumovaním (DDPM).\n- Difúzne modely II: Latentné difúzne modely (stabilná difúzia), generatívne modely založené na skóre a podmieňovanie.\n- Architektúra transformátora: Mechanizmy pozornosti, pozornosť viacerých hláv a špecifická architektúra kodérov a dekodérov.\n- Modely veľkých jazykov (LLM): Autoregresné modely (rodina GPT), ciele predtrénovania a zákony škálovania.\n- Optimalizácia a riadenie LLM: Techniky jemného doladenia (PEFT, LoRA), RLHF a základy promptného inžinierstva.\n- Transformátory vo videní: Transformátory videnia (ViT), maskované autoenkodéry a zameranie pozornosti na generovanie obrázkov.\n- Multimodálne systémy: Prepájanie textu a obrázka (CLIP), zarovnávanie vkladacích priestorov a kanály generovania textu do obrázka.\n- Hodnotenie generatívnych modelov: Metriky pre obrázky (FID, IS) a text (Perplexity, ROUGE) a výzvy ľudského hodnotenia.\n- Etika a budúce trendy: Deepfakes, problémy s autorskými právami, skreslenie v tréningových dátach, halucinácie a zodpovedné nasadenie umelej inteligencie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "KAPLAN, J. Generative Artificial Intelligence: What Everyone Needs to Know. Oxford: Oxford University Press, 2024. 240 p. ISBN 978-0-19-777354-3.\n\nGAZDA, J. et al. Generatívna umelá inteligencia [online]. Košice: Technical University of Košice, 2025. Available at: https://moodle.fei.tuke.sk."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Juraj Gazda, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (AI_Ing_join_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Juraj Gazda, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001391\nNázov predmetu: Generatívna umelá inteligencia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (AI_Ing_join_D_en)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nŠtudenti úspešne absolvujú priebežné hodnotenie a získajú kredity splnením podmienky získania min. 16 % z 30 %. Hodnotené úlohy zahŕňajú praktickú implementáciu architektúr VAE a GAN.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nŠtudenti úspešne absolvujú záverečné hodnotenie a skúšku splnením podmienky získania minimálne 36 % zo 70 %. Skúška zahŕňa teoretické princípy difúznych procesov, adverzárneho tréningu a modelových architektúr.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní si študenti osvoja teoretické základy a praktickú implementáciu hlbokých generatívnych modelov, konkrétne variačných autokóderov (VAE), generatívnych adverzárnych sietí (GAN) a difúznych modelov. Získajú zručnosti v oblasti trénovania, optimalizácie a hodnotenia týchto architektúr pre vizuálnu syntézu dát a multimodálne úlohy. Okrem toho študenti pochopia etické dôsledky generatívnej umelej inteligencie vrátane deepfakeov, skreslenia a zodpovedného nasadenia.\n\nStručná osnova predmetu:\n- Úvod do hlbokých generatívnych modelov: Taxonómia, rozdiely medzi diskriminačným a generatívnym modelovaním, prehľad typov modelov.\n- Variačné autoenkodéry (VAE): Od základných autoenkodérov k VAE, ELBO, triku reparametrizácie a VQ-VAE.\n- Generatívne adverzárne siete (GAN): Základy teórie hier, Minimax strata, Wassersteinova GAN (WGAN) a trénovacia stabilita.\n- Pokročilá syntéza obrazu s GAN: Najmodernejšie GAN (StyleGAN, CycleGAN) a úlohy prekladu obrazu do obrazu.\n- Difúzne modely I: Základy procesov priamej a spätnej difúzie, pravdepodobnostné modely difúzie s odšumovaním (DDPM).\n- Difúzne modely II: Latentné difúzne modely (stabilná difúzia), generatívne modely založené na skóre a podmieňovanie.\n- Architektúra transformátora: Mechanizmy pozornosti, pozornosť viacerých hláv a špecifická architektúra kodérov a dekodérov.\n- Modely veľkých jazykov (LLM): Autoregresné modely (rodina GPT), ciele predtrénovania a zákony škálovania.\n- Optimalizácia a riadenie LLM: Techniky jemného doladenia (PEFT, LoRA), RLHF a základy promptného inžinierstva.\n- Transformátory vo videní: Transformátory videnia (ViT), maskované autoenkodéry a zameranie pozornosti na generovanie obrázkov.\n- Multimodálne systémy: Prepájanie textu a obrázka (CLIP), zarovnávanie vkladacích priestorov a kanály generovania textu do obrázka.\n- Hodnotenie generatívnych modelov: Metriky pre obrázky (FID, IS) a text (Perplexity, ROUGE) a výzvy ľudského hodnotenia.\n- Etika a budúce trendy: Deepfakes, problémy s autorskými právami, skreslenie v tréningových dátach, halucinácie a zodpovedné nasadenie umelej inteligencie.\n\nOdporúčaná literatúra:\nKAPLAN, J. Generative Artificial Intelligence: What Everyone Needs to Know. Oxford: Oxford University Press, 2024. 240 p. ISBN 978-0-19-777354-3.\n\nGAZDA, J. et al. Generatívna umelá inteligencia [online]. Košice: Technical University of Košice, 2025. Available at: https://moodle.fei.tuke.sk.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Juraj Gazda, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

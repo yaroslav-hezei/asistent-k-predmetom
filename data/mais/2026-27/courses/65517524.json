@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65517524",
+  "code": "2620031",
+  "name": "Aplikovaná matematika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517524",
+  "fetched_at": "2026-11-17T14:59:05Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2620031"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Aplikovaná matematika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 39,26/,39,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Naštudovať základné poznatky z matematickej teórie, ktorá sa využíva v kryptografii a v počítačových sieťach."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Vlastnosti celých čísel, deliteľnosť, kongruencie.\n2. Modulárna aritmetika.\n3. Prvočísla a zložené čísla.\n4. Špeciálne vlastnosti prvočísel.\n5. Fermatova veta, Eulerova funkcia a Eulerova veta.\n6. Pravdepodobnostné metódy generovania veľkých prvočísel.\n7. Grupy a ich vlastnosti, rozklady grúp.\n8. Polia a konečné polia.\n9. Polynomiálna aritmetika, multiplikatívna inverzia.\n10. Ohodnotené grafy.\n11. Transportné siete.\n12. Ford-Fulkersonov algoritmus maximálneho toku v transportnej sieti."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Bučko M. - Klešč, M., Diskrétna matematika, elfa, Košice, 2003\nHarminc, M., Elementárna teória čísel, UPJŠ, Košice, 1999\nLevický, D., Kryptografia v informačnej a sieťovej bezpečnosti, elfa, Košice, 2010\nKolář, J. a kol., Logika, algebry a grafy, SNTL, Praha, 1989"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1087\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n8%\n12%\n19%\n30%\n25%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Marián Klešč, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1087,
+    "percent": {
+      "A": 5,
+      "B": 8,
+      "C": 12,
+      "D": 19,
+      "E": 30,
+      "FX": 25
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Marián Klešč, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2620031\nNázov predmetu: Aplikovaná matematika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,2\nExterná forma štúdia (hodiny za semester): ZS 39,26/,39,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nNaštudovať základné poznatky z matematickej teórie, ktorá sa využíva v kryptografii a v počítačových sieťach.\n\nStručná osnova predmetu:\n1. Vlastnosti celých čísel, deliteľnosť, kongruencie.\n2. Modulárna aritmetika.\n3. Prvočísla a zložené čísla.\n4. Špeciálne vlastnosti prvočísel.\n5. Fermatova veta, Eulerova funkcia a Eulerova veta.\n6. Pravdepodobnostné metódy generovania veľkých prvočísel.\n7. Grupy a ich vlastnosti, rozklady grúp.\n8. Polia a konečné polia.\n9. Polynomiálna aritmetika, multiplikatívna inverzia.\n10. Ohodnotené grafy.\n11. Transportné siete.\n12. Ford-Fulkersonov algoritmus maximálneho toku v transportnej sieti.\n\nOdporúčaná literatúra:\nBučko M. - Klešč, M., Diskrétna matematika, elfa, Košice, 2003\nHarminc, M., Elementárna teória čísel, UPJŠ, Košice, 1999\nLevický, D., Kryptografia v informačnej a sieťovej bezpečnosti, elfa, Košice, 2010\nKolář, J. a kol., Logika, algebry a grafy, SNTL, Praha, 1989\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1087\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n8%\n12%\n19%\n30%\n25%\n\n\nZabezpečuje:\ndoc. RNDr. Marián Klešč, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

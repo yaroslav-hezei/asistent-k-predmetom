@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65836298",
+  "code": "2620921",
+  "name": "Aplikácia DSP procesorov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65836298",
+  "fetched_at": "2026-11-17T15:02:54Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2620921"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Aplikácia DSP procesorov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nprojekty"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "V rámci predmetu získajú študenti základné informácie o štruktúre a možných aplikáciách DSP procesorov v oblasti Priemyselnej elektrotechniky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Štruktúra DSP procesora.\nZákladné stavebné jednotky a ich vlastnosti.\nInštrukčná sada.\nŠtruktúra programu.\nProgramové prostredia.\nMožnosti aplikačného využitia jednotlivých blokov DSP.\nČasovače.\nA/Č prevodníky.\nČ/A prevodníky.\nMožnosti využitia externých pamäťových médií."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "STMicroelectronics, Reference manual - STM32F446xx advanced Arm®-based 32-bit MCUs, Available online: https://www.st.com/resource/en/reference_manual/dm00135183-stm32f446xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf\nSTMicroelectronics, User manual - STM32 Nucleo-64 boards, Available online: https://www.st.com/resource/en/user_manual/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf\nSTMicroelectronics, Datasheet - STM32F446xC/E, Available online: https://www.st.com/resource/en/datasheet/stm32f446re.pdf\nGeoffrey Brown, Discovering the STM32 Microcontroller, 2016, Available online: https://legacy.cs.indiana.edu/~geobrown/book.pdf\nTan, Lizhe, and Jean Jiang. Digital signal processing: fundamentals and applications. Academic Press, 2018."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 247\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n15%\n17%\n24%\n21%\n13%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Matej Bereš, PhD.\ndoc. Ing. Patrik Jacko, PhD.\ndoc. Ing. Ján Molnár, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 247,
+    "percent": {
+      "A": 11,
+      "B": 15,
+      "C": 17,
+      "D": 24,
+      "E": 21,
+      "FX": 13
+    }
+  },
+  "teachers": [
+    "doc. Ing. Matej Bereš, PhD.",
+    "doc. Ing. Patrik Jacko, PhD.",
+    "doc. Ing. Ján Molnár, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 2620921\nNázov predmetu: Aplikácia DSP procesorov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nprojekty\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nV rámci predmetu získajú študenti základné informácie o štruktúre a možných aplikáciách DSP procesorov v oblasti Priemyselnej elektrotechniky.\n\nStručná osnova predmetu:\nŠtruktúra DSP procesora.\nZákladné stavebné jednotky a ich vlastnosti.\nInštrukčná sada.\nŠtruktúra programu.\nProgramové prostredia.\nMožnosti aplikačného využitia jednotlivých blokov DSP.\nČasovače.\nA/Č prevodníky.\nČ/A prevodníky.\nMožnosti využitia externých pamäťových médií.\n\n\nOdporúčaná literatúra:\nSTMicroelectronics, Reference manual - STM32F446xx advanced Arm®-based 32-bit MCUs, Available online: https://www.st.com/resource/en/reference_manual/dm00135183-stm32f446xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf\nSTMicroelectronics, User manual - STM32 Nucleo-64 boards, Available online: https://www.st.com/resource/en/user_manual/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf\nSTMicroelectronics, Datasheet - STM32F446xC/E, Available online: https://www.st.com/resource/en/datasheet/stm32f446re.pdf\nGeoffrey Brown, Discovering the STM32 Microcontroller, 2016, Available online: https://legacy.cs.indiana.edu/~geobrown/book.pdf\nTan, Lizhe, and Jean Jiang. Digital signal processing: fundamentals and applications. Academic Press, 2018.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 247\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n15%\n17%\n24%\n21%\n13%\n\n\nZabezpečuje:\ndoc. Ing. Matej Bereš, PhD.\ndoc. Ing. Patrik Jacko, PhD.\ndoc. Ing. Ján Molnár, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

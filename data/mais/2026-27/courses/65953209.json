@@ -1,0 +1,182 @@
+{
+  "predmet_id": "65953209",
+  "code": "2611481",
+  "name": "Paralelné programovanie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953209",
+  "fetched_at": "2026-11-17T15:10:26Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2611481"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Paralelné programovanie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nsamostatná práca, spracovanie projektov"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet poskytuje znalosti v oblasti paralelného programovania z pohľadu inžinierskej disciplíny, ktorá je založená na poznaní metodologických postupov pri tvorbe paralelných programov. Cieľom je dosiahnutie efektívnosti, ktorá je založená na správnom návrhu, so vzťahom na riešený problém a cieľovú architektúru, na poznaní vlastností paralelných problémov a metóde analýzy a experimentálneho hodnotenia efektívnosti ako aj voľby vhodných prostriedkov pre výpočty vysokého výkonu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Vlastnosti problémov a algoritmov vo vzťahu k sekvenčnému a paralelnému počítaniu.\n2. Vzťah paralelných problémov a algoritmov, druhov paralelizmu a paralelných počítačových architektúr.\n3. Jednoduchý a prúdový paralelizmus.\n4. Expanzívny a masívny paralelizmus.\n5. Modelovanie a hodnotenie efektívnosti paralelného výpočtu.\n6. Metodológia návrhu paralelných algoritmov: dekompozícia problémov a plánovanie komunikácie.\n7. Metodológia návrhu paralelných algoritmov: zhlukovanie, priraďovanie a plánovanie úloh.\n8. Metodológia návrhu paralelných algoritmov: využitie komunikátorov a topológií procesov.\n9. Dynamické vyvažovanie záťaže pre zvýšenie efektívnosti paralelného výpočtu.\n10. Paradigmy paralelného programovania pre architektúry počítačov so zdieľanou pamäťou.\n11. Paradigmy paralelného programovanie pre architektúry počítačov s distribuovanou pamäťou.\n12. Koherenčné protokoly rýchlych vyrovnávacích pamätí."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Madoš, B. Paralelné programovanie (PP) [online]. Košice: KPI FEI TUKE, 2025. Dostupné z: https://moodle.fei.tuke.sk/course/view.php?id=82.\n2. Pacheco, P.; Malensek, M. An Introduction to Parallel Programming. 2nd edition, Morgan Kaufmann, 2021. ISBN 978-0-12-804605-0, eBook ISBN 978-0-12-804618-0.\n3. MPI: A Message-Passing Interface Standard Version 4.1, Message Passing Interface Forum, University of Tennessee, 2023. Dostupné z: https://www.mpi-forum.org/docs/mpi-4.1/mpi41-report.pdf."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 2722\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n28%\n34%\n25%\n11%\n1%\n1%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Branislav Madoš, PhD.\ndoc. Ing. Ján Genči, PhD.\nIng. Máté Hireš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 2722,
+    "percent": {
+      "A": 28,
+      "B": 34,
+      "C": 25,
+      "D": 11,
+      "E": 1,
+      "FX": 1
+    }
+  },
+  "teachers": [
+    "doc. Ing. Branislav Madoš, PhD.",
+    "doc. Ing. Ján Genči, PhD.",
+    "Ing. Máté Hireš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2611481\nNázov predmetu: Paralelné programovanie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nsamostatná práca, spracovanie projektov\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet poskytuje znalosti v oblasti paralelného programovania z pohľadu inžinierskej disciplíny, ktorá je založená na poznaní metodologických postupov pri tvorbe paralelných programov. Cieľom je dosiahnutie efektívnosti, ktorá je založená na správnom návrhu, so vzťahom na riešený problém a cieľovú architektúru, na poznaní vlastností paralelných problémov a metóde analýzy a experimentálneho hodnotenia efektívnosti ako aj voľby vhodných prostriedkov pre výpočty vysokého výkonu.\n\nStručná osnova predmetu:\n1. Vlastnosti problémov a algoritmov vo vzťahu k sekvenčnému a paralelnému počítaniu.\n2. Vzťah paralelných problémov a algoritmov, druhov paralelizmu a paralelných počítačových architektúr.\n3. Jednoduchý a prúdový paralelizmus.\n4. Expanzívny a masívny paralelizmus.\n5. Modelovanie a hodnotenie efektívnosti paralelného výpočtu.\n6. Metodológia návrhu paralelných algoritmov: dekompozícia problémov a plánovanie komunikácie.\n7. Metodológia návrhu paralelných algoritmov: zhlukovanie, priraďovanie a plánovanie úloh.\n8. Metodológia návrhu paralelných algoritmov: využitie komunikátorov a topológií procesov.\n9. Dynamické vyvažovanie záťaže pre zvýšenie efektívnosti paralelného výpočtu.\n10. Paradigmy paralelného programovania pre architektúry počítačov so zdieľanou pamäťou.\n11. Paradigmy paralelného programovanie pre architektúry počítačov s distribuovanou pamäťou.\n12. Koherenčné protokoly rýchlych vyrovnávacích pamätí.\n\nOdporúčaná literatúra:\n1. Madoš, B. Paralelné programovanie (PP) [online]. Košice: KPI FEI TUKE, 2025. Dostupné z: https://moodle.fei.tuke.sk/course/view.php?id=82.\n2. Pacheco, P.; Malensek, M. An Introduction to Parallel Programming. 2nd edition, Morgan Kaufmann, 2021. ISBN 978-0-12-804605-0, eBook ISBN 978-0-12-804618-0.\n3. MPI: A Message-Passing Interface Standard Version 4.1, Message Passing Interface Forum, University of Tennessee, 2023. Dostupné z: https://www.mpi-forum.org/docs/mpi-4.1/mpi41-report.pdf.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 2722\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n28%\n34%\n25%\n11%\n1%\n1%\n\n\nZabezpečuje:\ndoc. Ing. Branislav Madoš, PhD.\ndoc. Ing. Ján Genči, PhD.\nIng. Máté Hireš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

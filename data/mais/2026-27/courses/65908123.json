@@ -1,0 +1,170 @@
+{
+  "predmet_id": "65908123",
+  "code": "26001275",
+  "name": "Návrh pokročilých robotických aplikácií",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908123",
+  "fetched_at": "2026-11-17T15:06:06Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001275"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Návrh pokročilých robotických aplikácií"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Vypracovanie a odovzdanie jedného praktického zadania (40b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 4 zadané otázky."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti si osvoja praktické zručnosti pri používaní robotického frameworku ROS (Robot Operating System), ktorý umožňuje vytváranie pokročilých robotických aplikácií. Naučia sa pracovať so základnými knižnicami, ktoré tento framework podporuje, pre návrh a simuláciu priemyselných a mobilných robotov. Rovnako budú vedieť tieto knižnice rozšíriť, prispôsobiť a doplniť. Následne budú schopní overiť funkčnosť týchto rozšírených aplikácii pomocou simulačného prostredia Gazebo. Študenti tak získajú komplexný prehľad informácii z problematiky návrhu pokročilých aplikácií priemyselnej a mobilnej robotiky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základné pojmy ROS\n2. Inštalácia a spustenie ROS, príkazový riadok\n3. Program hello word - subscriber a publisher (základné ROS programy)\n4. TF - transfer functions a ich význam v ROS-e\n5. Simulačné prostredie Gazebo\n6. Knižnica moveIT - simulácia priemyselného ramena\n7. Knižnica move base - simulácia robotického podvozku"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] E. Fernández, L. Sanchez Crespo, A. Mahtani, and A. Martinez, Learning ROS for Robotics Programming: Your One-stop Guide to the Robot Operating System. Birmingham, UK: Packt Publishing, 2015. ISBN 978-1-78398-758-0.\n[2] L. Brombach, Practical Robotics in C++: Build and Program Real Autonomous Robots Using Raspberry Pi. BPB Publications, 2021. ISBN 978-93-89423-464.\n[3] J. Lentin, Learning Robotics using Python. Birmingham, UK: Packt Publishing, 2018. ISBN 978-1-78862-331-5.\n[4] B. Gerkey, M. Quigley, and W. D. Smart, Programming Robots with ROS: A Practical Introduction to the Robot Operating System. Sebastopol, CA, USA: O'Reilly Media, 2016. ISBN 978-1-44932-389-9."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ": Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, cvičeniach a projektovej práci, 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 13\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n46%\n31%\n0%\n15%\n8%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Daniela Perduková, PhD.\nIng. Ladislav Hric\nIng. Ján Bačík, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 13,
+    "percent": {
+      "A": 46,
+      "B": 31,
+      "C": 0,
+      "D": 15,
+      "E": 8,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Daniela Perduková, PhD.",
+    "Ing. Ladislav Hric",
+    "Ing. Ján Bačík, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001275\nNázov predmetu: Návrh pokročilých robotických aplikácií\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Vypracovanie a odovzdanie jedného praktického zadania (40b).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 4 zadané otázky.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti si osvoja praktické zručnosti pri používaní robotického frameworku ROS (Robot Operating System), ktorý umožňuje vytváranie pokročilých robotických aplikácií. Naučia sa pracovať so základnými knižnicami, ktoré tento framework podporuje, pre návrh a simuláciu priemyselných a mobilných robotov. Rovnako budú vedieť tieto knižnice rozšíriť, prispôsobiť a doplniť. Následne budú schopní overiť funkčnosť týchto rozšírených aplikácii pomocou simulačného prostredia Gazebo. Študenti tak získajú komplexný prehľad informácii z problematiky návrhu pokročilých aplikácií priemyselnej a mobilnej robotiky.\n\nStručná osnova predmetu:\n1. Základné pojmy ROS\n2. Inštalácia a spustenie ROS, príkazový riadok\n3. Program hello word - subscriber a publisher (základné ROS programy)\n4. TF - transfer functions a ich význam v ROS-e\n5. Simulačné prostredie Gazebo\n6. Knižnica moveIT - simulácia priemyselného ramena\n7. Knižnica move base - simulácia robotického podvozku\n\nOdporúčaná literatúra:\n[1] E. Fernández, L. Sanchez Crespo, A. Mahtani, and A. Martinez, Learning ROS for Robotics Programming: Your One-stop Guide to the Robot Operating System. Birmingham, UK: Packt Publishing, 2015. ISBN 978-1-78398-758-0.\n[2] L. Brombach, Practical Robotics in C++: Build and Program Real Autonomous Robots Using Raspberry Pi. BPB Publications, 2021. ISBN 978-93-89423-464.\n[3] J. Lentin, Learning Robotics using Python. Birmingham, UK: Packt Publishing, 2018. ISBN 978-1-78862-331-5.\n[4] B. Gerkey, M. Quigley, and W. D. Smart, Programming Robots with ROS: A Practical Introduction to the Robot Operating System. Sebastopol, CA, USA: O'Reilly Media, 2016. ISBN 978-1-44932-389-9.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: : Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, cvičeniach a projektovej práci, 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 13\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n46%\n31%\n0%\n15%\n8%\n0%\n\n\nZabezpečuje:\nprof. Ing. Daniela Perduková, PhD.\nIng. Ladislav Hric\nIng. Ján Bačík, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

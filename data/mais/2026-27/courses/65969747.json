@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65969747",
+  "code": "26001081",
+  "name": "Umelá inteligencia v elektronike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969747",
+  "fetched_at": "2026-11-17T15:14:09Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001081"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Umelá inteligencia v elektronike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nsemestrálny projekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné vedomosti z oblasti umelej inteligencie. Oboznámi sa so základmi strojového učenia, s umelými neurónovými sieťami, fuzzy logikou a evolučnými prístupmi riešenia vybraných problémov a to hlavne v oblasti riadenia, rozpoznávania a klasifikovania. Bude si vedieť zvoliť a aplikovať základné metódy umelej inteligencie na jednoduché systémy riadenia a implementovať algoritmy a prvky UI do hardvéru. Problematika je z hľadiska teórie preberaná všeobecne, pričom príklady aplikačného využitia sú smerované pre oblasť automobilov. Študent bude vedieť riešiť vybrané problémy z danej oblasti v programovom prostredí MATLAB s knižnicami Control System Toolbox, Fuzzy Logic Toolbox a Deep Learning Toolbox."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "(1) Úvod do umelej inteligencie (UI) a UI vo vnorených systémoch a automobiloch.\n(2) PID regulátor v spojitej a diskrétnej forme, kritéria kvality regulácie, určenie konštánt PID regulátora a implementácia PID do mikrokontroléra.\n(3) Fuzzy logika a regulácia: fyzzy množiny, inferenčný mechanizmus, Mamdaniho a Takagi-Sugenov fuzzy regulátor, adaptívny fuzzy regulátor, špecifiká implementácie fuzzy regulátora do mikrokontroléra.\n(4) Úvod do strojového učenia a typy učení (kontrolované, nekontrolované, s odmenou).\n(5) Neurónové siete (NN): základná štruktúra, dopredné NN a kontrolované učenie, konvolučné hlboké NN pre klasifikáciu, samoorganizujúce sa mapy a nekontrolované učenie, NN pre systémy automatického riadenia.\n(6) Kombinované systémy založené na genetických algoritmoch, fuzzy systémoch a NN: princíp a použitie genetických algoritmov pre optimalizačné problémy, genetické fuzzy systémy, neuro-fuzzy systémy a genetické neuro-fuzzy systémy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Materiály v systéme moodle: https://moodle2.tuke.sk/moodle/course/view.php?id=1239\n\nSiddique, N.: Intelligent Control - A Hybrid Approach Based on Fuzzy Logic, Neural Networks and Genetic Algorithms (Studies in Computational Intelligence). Springer 2014\nBehera, L. and Kar, I.: Intelligent Systems and Control - Principles and Applications, Oxford University Press, 2010.\nKacprzyk, J. and Pedrycz, W. (ed.): Springer Handbook of Computational Intelligence. Springer 2015\nAghdam, H. H. and Heravi, E. J.: Guide to Convolutional Neural Networks, Springer 2017\nMatlab documentation (Simulink, Control System Toolbox, Fuzzy Logic Toolbox, Deep Learning Toolbox).\nMařík, V., Štepánková O., Lažanský J. a kol.: Umělá inteligence 1 – 6, Academia 1993 – 2013.\nSekanina, L. a kol.: Eloluční hardware. Academia, 2009.\nKvasnička, V. a kol.: Úvod do teórie neurónových sietí. IRIS 1997.\nKotek, Z. a kol.: Adaptivní a učíci se systémy, SNTL 1980."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 81\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n14%\n33%\n22%\n15%\n10%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Alena Pietriková, CSc.\nIng. Igor Vehec, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 81,
+    "percent": {
+      "A": 14,
+      "B": 33,
+      "C": 22,
+      "D": 15,
+      "E": 10,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "prof. Ing. Alena Pietriková, CSc.",
+    "Ing. Igor Vehec, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001081\nNázov predmetu: Umelá inteligencia v elektronike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nsemestrálny projekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné vedomosti z oblasti umelej inteligencie. Oboznámi sa so základmi strojového učenia, s umelými neurónovými sieťami, fuzzy logikou a evolučnými prístupmi riešenia vybraných problémov a to hlavne v oblasti riadenia, rozpoznávania a klasifikovania. Bude si vedieť zvoliť a aplikovať základné metódy umelej inteligencie na jednoduché systémy riadenia a implementovať algoritmy a prvky UI do hardvéru. Problematika je z hľadiska teórie preberaná všeobecne, pričom príklady aplikačného využitia sú smerované pre oblasť automobilov. Študent bude vedieť riešiť vybrané problémy z danej oblasti v programovom prostredí MATLAB s knižnicami Control System Toolbox, Fuzzy Logic Toolbox a Deep Learning Toolbox.\n\nStručná osnova predmetu:\n(1) Úvod do umelej inteligencie (UI) a UI vo vnorených systémoch a automobiloch.\n(2) PID regulátor v spojitej a diskrétnej forme, kritéria kvality regulácie, určenie konštánt PID regulátora a implementácia PID do mikrokontroléra.\n(3) Fuzzy logika a regulácia: fyzzy množiny, inferenčný mechanizmus, Mamdaniho a Takagi-Sugenov fuzzy regulátor, adaptívny fuzzy regulátor, špecifiká implementácie fuzzy regulátora do mikrokontroléra.\n(4) Úvod do strojového učenia a typy učení (kontrolované, nekontrolované, s odmenou).\n(5) Neurónové siete (NN): základná štruktúra, dopredné NN a kontrolované učenie, konvolučné hlboké NN pre klasifikáciu, samoorganizujúce sa mapy a nekontrolované učenie, NN pre systémy automatického riadenia.\n(6) Kombinované systémy založené na genetických algoritmoch, fuzzy systémoch a NN: princíp a použitie genetických algoritmov pre optimalizačné problémy, genetické fuzzy systémy, neuro-fuzzy systémy a genetické neuro-fuzzy systémy.\n\nOdporúčaná literatúra:\nMateriály v systéme moodle: https://moodle2.tuke.sk/moodle/course/view.php?id=1239\n\nSiddique, N.: Intelligent Control - A Hybrid Approach Based on Fuzzy Logic, Neural Networks and Genetic Algorithms (Studies in Computational Intelligence). Springer 2014\nBehera, L. and Kar, I.: Intelligent Systems and Control - Principles and Applications, Oxford University Press, 2010.\nKacprzyk, J. and Pedrycz, W. (ed.): Springer Handbook of Computational Intelligence. Springer 2015\nAghdam, H. H. and Heravi, E. J.: Guide to Convolutional Neural Networks, Springer 2017\nMatlab documentation (Simulink, Control System Toolbox, Fuzzy Logic Toolbox, Deep Learning Toolbox).\nMařík, V., Štepánková O., Lažanský J. a kol.: Umělá inteligence 1 – 6, Academia 1993 – 2013.\nSekanina, L. a kol.: Eloluční hardware. Academia, 2009.\nKvasnička, V. a kol.: Úvod do teórie neurónových sietí. IRIS 1997.\nKotek, Z. a kol.: Adaptivní a učíci se systémy, SNTL 1980.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 81\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n14%\n33%\n22%\n15%\n10%\n6%\n\n\nZabezpečuje:\nprof. Ing. Alena Pietriková, CSc.\nIng. Igor Vehec, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

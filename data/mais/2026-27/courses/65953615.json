@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65953615",
+  "code": "26001253",
+  "name": "Programovanie v jazyku Python",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953615",
+  "fetched_at": "2026-11-17T15:10:58Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001253"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Programovanie v jazyku Python"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Pozostáva z projektu"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nPozostáva z projektu"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámiť študentov s programovaním v jazyku Python a vysvetliť paradigmy procedurálneho, objektovo-orientovaného a funkcionálneho programovania. Absolvent predmetu získa znalosti o údajových štruktúrach, algoritmoch a optimalizačných metódach."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Syntax jazyka Python, základné jazykové konštrukty. Funkcie, iteratívne programy, rekurzia. Zoznamy, knižnice. Triediace a vyhľadávacie algoritmy. Zložitosť algoritmov, optimalizácia, dynamické programovanie. Vyhľadávacie stromy. Testovanie a ladenie programu; výnimky a chyby. Simulácie a výpočtové modely. Práca s údajmi v Pythone – knižnice numpy, pandas, matplotlib. Grafické používateľské rozhrania v Pythone."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Guttag, J. V. Introduction to Computation and Programming Using Python. Rev. and expanded ed. Cambridge: MIT Press, 2013. ISBN 978-0-262-52508-0.\n2. Cormen, T. H., Leiserson, C. E., Rivest, R. L., Stein, C. Introduction to Algorithms. 3. vyd. Cambridge: MIT Press, 2009. ISBN 978-0-262-03384-4.\n3. Raschka, S. Python Machine Learning. Birmingham: Packt Publishing, 2015. ISBN 978-1-78398-280-7.\n4. McKinney, W. Python for Data Analysis: Data Wrangling with Pandas, Numpy, and Jupyter. 3. vyd. Sebastopol: O'Reilly Media, 2022. ISBN 978-1-098-45174-2.\n5. Severance, C. Python for Everybody: Exploring Data in Python 3. 2. vyd. Ann Arbor: CreateSpace Independent Publishing, 2021. ISBN 978-1-716-07328-4.\n6. Van Rossum, G., Warsaw, B. The Python Handbook. New York: Wiley, 2021. ISBN 978-1-262-18340-8."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n100%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Emília Pietriková, PhD.\nIng. Marek Horváth, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 100
+    }
+  },
+  "teachers": [
+    "doc. Ing. Emília Pietriková, PhD.",
+    "Ing. Marek Horváth, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001253\nNázov predmetu: Programovanie v jazyku Python\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Dištančná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nPozostáva z projektu\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nPozostáva z projektu\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámiť študentov s programovaním v jazyku Python a vysvetliť paradigmy procedurálneho, objektovo-orientovaného a funkcionálneho programovania. Absolvent predmetu získa znalosti o údajových štruktúrach, algoritmoch a optimalizačných metódach.\n\nStručná osnova predmetu:\nSyntax jazyka Python, základné jazykové konštrukty. Funkcie, iteratívne programy, rekurzia. Zoznamy, knižnice. Triediace a vyhľadávacie algoritmy. Zložitosť algoritmov, optimalizácia, dynamické programovanie. Vyhľadávacie stromy. Testovanie a ladenie programu; výnimky a chyby. Simulácie a výpočtové modely. Práca s údajmi v Pythone – knižnice numpy, pandas, matplotlib. Grafické používateľské rozhrania v Pythone.\n\nOdporúčaná literatúra:\n1. Guttag, J. V. Introduction to Computation and Programming Using Python. Rev. and expanded ed. Cambridge: MIT Press, 2013. ISBN 978-0-262-52508-0.\n2. Cormen, T. H., Leiserson, C. E., Rivest, R. L., Stein, C. Introduction to Algorithms. 3. vyd. Cambridge: MIT Press, 2009. ISBN 978-0-262-03384-4.\n3. Raschka, S. Python Machine Learning. Birmingham: Packt Publishing, 2015. ISBN 978-1-78398-280-7.\n4. McKinney, W. Python for Data Analysis: Data Wrangling with Pandas, Numpy, and Jupyter. 3. vyd. Sebastopol: O'Reilly Media, 2022. ISBN 978-1-098-45174-2.\n5. Severance, C. Python for Everybody: Exploring Data in Python 3. 2. vyd. Ann Arbor: CreateSpace Independent Publishing, 2021. ISBN 978-1-716-07328-4.\n6. Van Rossum, G., Warsaw, B. The Python Handbook. New York: Wiley, 2021. ISBN 978-1-262-18340-8.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n100%\n\n\nZabezpečuje:\ndoc. Ing. Emília Pietriková, PhD.\nIng. Marek Horváth, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

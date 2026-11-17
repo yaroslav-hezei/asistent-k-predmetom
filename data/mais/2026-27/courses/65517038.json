@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65517038",
+  "code": "26001284",
+  "name": "Numerická matematika, pravdepodobnosť a štatistika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517038",
+  "fetched_at": "2026-11-17T14:57:55Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001284"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Numerická matematika, pravdepodobnosť a štatistika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 78,52/,39,26/LS 78,52/,39,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInformatika (INF_Bc_D_KM)\n1.\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26001210 - Matematika I"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nklasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť základné poznatky z numerickej matematiky, pravdepodobnosti a popisnej štatistiky"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Numerické riešenie nelineárnych rovníc.\n2. Iteračné metódy riešenia sústav lineárnych algebrických rovníc.\n3. Metódy riešenia sústavy nelineárnych rovníc.\n4. Aproximácia funkcií.\n5. Numerický výpočet určitého integrálu\n6. Pravdepodobnosť.\n7. Popisná štatistika."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Buša J., Pirč V., Schrötter Š.: Numerické metódy, pravdepodobnosť a matematická štatistika, 2006, ISBN 80-8073-632-4.\n2. Daňo I., Ostertagová E.: Vybrané kapitoly z numerických metód, pravdepodobnosti a matematickej štatistiky, Equilibria, s.r.o., Košice, 2012, ISBN 978-80-8143-012-1.\n3. Doplňujúce materiály k cvičeniam vytvorené v rámci projektu IT4KT (http://it4kt.cnl.sk/c/nm/student/01.html)\n4. Ostertágová, Eva: Aplikovaná štatistika v počítačovom prostredí MATLABu, Technická univerzita v Košiciach, Košice (2015)."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 358\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n9%\n14%\n18%\n27%\n23%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Helena Myšková, PhD.\nRNDr. Emília Draženská, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 358,
+    "percent": {
+      "A": 8,
+      "B": 9,
+      "C": 14,
+      "D": 18,
+      "E": 27,
+      "FX": 23
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Helena Myšková, PhD.",
+    "RNDr. Emília Draženská, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 26001284\nNázov predmetu: Numerická matematika, pravdepodobnosť a štatistika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,2\nExterná forma štúdia (hodiny za semester): ZS 78,52/,39,26/LS 78,52/,39,26\nMetóda štúdia: Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInformatika (INF_Bc_D_KM)\n1.\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety: 26001210 - Matematika I\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nklasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť základné poznatky z numerickej matematiky, pravdepodobnosti a popisnej štatistiky\n\nStručná osnova predmetu:\n1. Numerické riešenie nelineárnych rovníc.\n2. Iteračné metódy riešenia sústav lineárnych algebrických rovníc.\n3. Metódy riešenia sústavy nelineárnych rovníc.\n4. Aproximácia funkcií.\n5. Numerický výpočet určitého integrálu\n6. Pravdepodobnosť.\n7. Popisná štatistika.\n\nOdporúčaná literatúra:\n1. Buša J., Pirč V., Schrötter Š.: Numerické metódy, pravdepodobnosť a matematická štatistika, 2006, ISBN 80-8073-632-4.\n2. Daňo I., Ostertagová E.: Vybrané kapitoly z numerických metód, pravdepodobnosti a matematickej štatistiky, Equilibria, s.r.o., Košice, 2012, ISBN 978-80-8143-012-1.\n3. Doplňujúce materiály k cvičeniam vytvorené v rámci projektu IT4KT (http://it4kt.cnl.sk/c/nm/student/01.html)\n4. Ostertágová, Eva: Aplikovaná štatistika v počítačovom prostredí MATLABu, Technická univerzita v Košiciach, Košice (2015).\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 358\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n9%\n14%\n18%\n27%\n23%\n\n\nZabezpečuje:\ndoc. RNDr. Helena Myšková, PhD.\nRNDr. Emília Draženská, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

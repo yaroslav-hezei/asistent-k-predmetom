@@ -1,0 +1,183 @@
+{
+  "predmet_id": "65969602",
+  "code": "26000610",
+  "name": "Výrobné procesy v elektronike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969602",
+  "fetched_at": "2026-11-17T15:13:56Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000610"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Výrobné procesy v elektronike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\n\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\n- Semestrálny projekt (20 %),\n- prezentácia na vybranú tému (10 %),\n- testy v priebehu semestra (10%).\n\nŠtudent musí vypracovať a odovzdať elaboráty a semestrálnu prácu podľa zadania, absolvovať testy, a pripraviť a predniesť prezentáciu na vybranú tému, aby mohol byť pripustený ku skúške."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n\nSkúška prebieha písomnou aj ústnou formou.\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu študent získa komplexné poznatky a ich pochopenie z oblasti základných výrobných procesov a materiálov aplikovaných v elektronike. Hlavný dôraz je kladený na princípy a použitie zložitých technologických operácií v montážnych technológiách v elektronike za použitia znalostí z oblasti najmodernejších materiálov používaných v tejto oblasti. Ťažisko predmetu je kladené na získavanie teoretických aj praktických skúseností a znalostí z vývoja a aplikácie v oblasti výroby elektronických prvkov a senzorov, materiálov aplikovaných vo výrobných procesoch v elektronike, vlastností hrubých vrstiev, spájkovania a technológie dosiek plošných spojov. Študent vie použiť získané vedomosti a má schopnosť tvorivo riešiť často v súvislosti s výskumom problémy v rámci riešenia individuálnych experimentálnych projektov. Študent získa schopnosť integrovať vedomosti tak, aby vedel jednoznačne komunikovať závery a zdôvodnenia a to nielen v rámci projektových prác v predmete, ale aj pri riešení diplomovej práce (v prípade takto orientovaného zadania). Predpokladá sa, že študent je oboznámený s fyzikálnymi princípmi a vlastnosťami polovodičových materiálov a základných polovodičových štruktúr."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Materiály pre hrubé vrstvy – základné pojmy, viskozita pást, spracovanie, návrh hrubovrstvového integrovaného obvodu, tvorba hrubovrstvovej pasívnej siete sieťotlačou, tlač vrstiev a sieťotlačové zariadenia, výpal hrubých vrstiev. Montážne a ukončovacie operácie HIO. Keramické substráty v elektronike. Substráty pre výkonové elektronické aplikácie. Materiály dosiek plošných spojov (tuhé a flexibilné DPS). Povrchové úpravy DPS. Základy technológií dosiek plošných spojov a ich moderné trendy. Spájky v elektronike, tavivá. Spájkovacia pasta, spôsoby jej nanášania. Technológie povrchovej montáže a špecifiká montáže puzdier BGA. Spájkovanie vlnou a pretavením. Teplotné profily, testy spájkovateľnosti. Fázový diagram eutektickej zliatiny Sn-Pb a Si-Au. Poruchy v procese spájkovania. Normy pre testovanie kvality spájkovaných spojov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Pietriková, A, Ďurišin J., Mach, P.: Diagnostika a optimalizácia použitia ekologických materiálov pre vodivé spájanie v elektronike, FEI TU - 2010. - 301 s. - ISBN 978-80-553-0447-2\nPietriková, A., Ďurišin, J., Cabúk, P.: Výrobné procesy v elektronike / - 1. revidované vyd. - Košice : TU - 2012. - 150 s. [CD ROM]. - ISBN 978-80-553-1099-2.\nVybrané kapitoly z technológií v elektronike / Alena Pietriková, Juraj Ďurišin - 1. vyd - Košice : Technická univerzita - 2016. - 151 s.. - ISBN 978-80-553-2617-7.\nIPC- A - Acceptability of Printed Wiring Assemblies\nJSTD 003 - Solderability Test for Printed Boards\nJ STD 006 - General requirements and Test Methods for Soft Solder alloys and Fluxed and Non-fluxed Solid Solder for Electronic Soldering Application\nAnaya Vardya, Robert Tarzwell, Dan Beaulieu: Fundamentals of Printed Circuit Board Technologies, ISBN 78-104764237-2,\nSTANG, Harald. BGA Rework. In SMT Rožnov 2003, Rožnov p. R., 5. - 6. června 2003. Sborník na CD. 2003.\nRAHN, A. Changes in Different Soldering Procedures. EPP Europe. 2004, 9/10, p. 24-27. ISSN 1618-5587.\nIntel, Easy BGA Packaging for Intel(R) Flash Memory Devices Product Overview. Dostupné z WWW: http://www.intel.com/design/flcomp/prodbref/298043.htm\nSZENDIUCH, I. Technologie elektronických obvodů a systémů. Brno: VUTIUM, 2002. 242 stran. ISBN 80-214-2072-3.\nHaskard M., Pitt K.: Thick Film Technology and Applications, Electrochemical Publications, Ltd., England, 1997, ISBN 0 901150355.\nReal-time profiling of reflow process in VPS chamber / Ľubomír Livovský, Alena Pietriková - 2017. In: Soldering and Surface Mount Technology. Vol. 29, no. 1 (2017), p. 42-48. - ISSN 0954-0911\nSurface analysis of polymeric substrates used for inkjet printing technology / Alena Pietriková ... [et al.] - 2016. In: Circuit World. Vol. 42, no. 1 (2016), p. 9-16. - ISSN 0305-6120 Spôsob prístupu: http://www.emeraldinsight.com/doi/pdfplus/10.1108/CW-10-2015-0047...\nIn situ investigation of the SnAgCu solder alloy microstructure / Alena Pietriková, Jozef Bednarčík, Juraj Ďurišin - 2011. In: Journal of Alloys and Compounds. Vol. 509, no. 5 (2011), p. 1550–1553. - ISSN 0925-8388 Spôsob prístupu: http://www.sciencedirect.com/science?_ob=PublicationURLa_tockey=%23TOC%235575%232011%23994909994%232...\nMeasurement and regulation of saturated vapour height level in VPS chamber / Ľubomír Livovský, Alena Pietriková - 2019. In: Soldering a Surface Mount Technology. Roč. 31, č. 3 (2019), s. 157-162 [print]. - ISSN 0954-0911\nImpact analysis of LTCC materials on microstrip filters' behaviour up to 13 GHz / Alena Pietriková ... [et al.] - 2015. In: Microelectronics International. Vol. 32, no. 3 (2015), p. 122-125. - ISSN 1356-5362 Spôsob prístupu: http://www.emeraldinsight.com/doi/pdfplus/10.1108/MI-01-2015-0003..."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu, prípravu na zápočtovú písomku, vypracovanie seminárnej práce v spolupráci s firmou, prípravu na skúšku, celkom 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 281\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n20%\n27%\n18%\n8%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Alena Pietriková, CSc.\nIng. Slavomír Kardoš, PhD.\nIng. Daniel Dzivý, PhD.\nIng. Igor Vehec, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 281,
+    "percent": {
+      "A": 20,
+      "B": 20,
+      "C": 27,
+      "D": 18,
+      "E": 8,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "prof. Ing. Alena Pietriková, CSc.",
+    "Ing. Slavomír Kardoš, PhD.",
+    "Ing. Daniel Dzivý, PhD.",
+    "Ing. Igor Vehec, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26000610\nNázov predmetu: Výrobné procesy v elektronike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2,1\nExterná forma štúdia (hodiny za semester): ZS 26,26,13\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\n\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\n- Semestrálny projekt (20 %),\n- prezentácia na vybranú tému (10 %),\n- testy v priebehu semestra (10%).\n\nŠtudent musí vypracovať a odovzdať elaboráty a semestrálnu prácu podľa zadania, absolvovať testy, a pripraviť a predniesť prezentáciu na vybranú tému, aby mohol byť pripustený ku skúške.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n\nSkúška prebieha písomnou aj ústnou formou.\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia).\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu študent získa komplexné poznatky a ich pochopenie z oblasti základných výrobných procesov a materiálov aplikovaných v elektronike. Hlavný dôraz je kladený na princípy a použitie zložitých technologických operácií v montážnych technológiách v elektronike za použitia znalostí z oblasti najmodernejších materiálov používaných v tejto oblasti. Ťažisko predmetu je kladené na získavanie teoretických aj praktických skúseností a znalostí z vývoja a aplikácie v oblasti výroby elektronických prvkov a senzorov, materiálov aplikovaných vo výrobných procesoch v elektronike, vlastností hrubých vrstiev, spájkovania a technológie dosiek plošných spojov. Študent vie použiť získané vedomosti a má schopnosť tvorivo riešiť často v súvislosti s výskumom problémy v rámci riešenia individuálnych experimentálnych projektov. Študent získa schopnosť integrovať vedomosti tak, aby vedel jednoznačne komunikovať závery a zdôvodnenia a to nielen v rámci projektových prác v predmete, ale aj pri riešení diplomovej práce (v prípade takto orientovaného zadania). Predpokladá sa, že študent je oboznámený s fyzikálnymi princípmi a vlastnosťami polovodičových materiálov a základných polovodičových štruktúr.\n\nStručná osnova predmetu:\nMateriály pre hrubé vrstvy – základné pojmy, viskozita pást, spracovanie, návrh hrubovrstvového integrovaného obvodu, tvorba hrubovrstvovej pasívnej siete sieťotlačou, tlač vrstiev a sieťotlačové zariadenia, výpal hrubých vrstiev. Montážne a ukončovacie operácie HIO. Keramické substráty v elektronike. Substráty pre výkonové elektronické aplikácie. Materiály dosiek plošných spojov (tuhé a flexibilné DPS). Povrchové úpravy DPS. Základy technológií dosiek plošných spojov a ich moderné trendy. Spájky v elektronike, tavivá. Spájkovacia pasta, spôsoby jej nanášania. Technológie povrchovej montáže a špecifiká montáže puzdier BGA. Spájkovanie vlnou a pretavením. Teplotné profily, testy spájkovateľnosti. Fázový diagram eutektickej zliatiny Sn-Pb a Si-Au. Poruchy v procese spájkovania. Normy pre testovanie kvality spájkovaných spojov.\n\nOdporúčaná literatúra:\nPietriková, A, Ďurišin J., Mach, P.: Diagnostika a optimalizácia použitia ekologických materiálov pre vodivé spájanie v elektronike, FEI TU - 2010. - 301 s. - ISBN 978-80-553-0447-2\nPietriková, A., Ďurišin, J., Cabúk, P.: Výrobné procesy v elektronike / - 1. revidované vyd. - Košice : TU - 2012. - 150 s. [CD ROM]. - ISBN 978-80-553-1099-2.\nVybrané kapitoly z technológií v elektronike / Alena Pietriková, Juraj Ďurišin - 1. vyd - Košice : Technická univerzita - 2016. - 151 s.. - ISBN 978-80-553-2617-7.\nIPC- A - Acceptability of Printed Wiring Assemblies\nJSTD 003 - Solderability Test for Printed Boards\nJ STD 006 - General requirements and Test Methods for Soft Solder alloys and Fluxed and Non-fluxed Solid Solder for Electronic Soldering Application\nAnaya Vardya, Robert Tarzwell, Dan Beaulieu: Fundamentals of Printed Circuit Board Technologies, ISBN 78-104764237-2,\nSTANG, Harald. BGA Rework. In SMT Rožnov 2003, Rožnov p. R., 5. - 6. června 2003. Sborník na CD. 2003.\nRAHN, A. Changes in Different Soldering Procedures. EPP Europe. 2004, 9/10, p. 24-27. ISSN 1618-5587.\nIntel, Easy BGA Packaging for Intel(R) Flash Memory Devices Product Overview. Dostupné z WWW: http://www.intel.com/design/flcomp/prodbref/298043.htm\nSZENDIUCH, I. Technologie elektronických obvodů a systémů. Brno: VUTIUM, 2002. 242 stran. ISBN 80-214-2072-3.\nHaskard M., Pitt K.: Thick Film Technology and Applications, Electrochemical Publications, Ltd., England, 1997, ISBN 0 901150355.\nReal-time profiling of reflow process in VPS chamber / Ľubomír Livovský, Alena Pietriková - 2017. In: Soldering and Surface Mount Technology. Vol. 29, no. 1 (2017), p. 42-48. - ISSN 0954-0911\nSurface analysis of polymeric substrates used for inkjet printing technology / Alena Pietriková ... [et al.] - 2016. In: Circuit World. Vol. 42, no. 1 (2016), p. 9-16. - ISSN 0305-6120 Spôsob prístupu: http://www.emeraldinsight.com/doi/pdfplus/10.1108/CW-10-2015-0047...\nIn situ investigation of the SnAgCu solder alloy microstructure / Alena Pietriková, Jozef Bednarčík, Juraj Ďurišin - 2011. In: Journal of Alloys and Compounds. Vol. 509, no. 5 (2011), p. 1550–1553. - ISSN 0925-8388 Spôsob prístupu: http://www.sciencedirect.com/science?_ob=PublicationURLa_tockey=%23TOC%235575%232011%23994909994%232...\nMeasurement and regulation of saturated vapour height level in VPS chamber / Ľubomír Livovský, Alena Pietriková - 2019. In: Soldering a Surface Mount Technology. Roč. 31, č. 3 (2019), s. 157-162 [print]. - ISSN 0954-0911\nImpact analysis of LTCC materials on microstrip filters' behaviour up to 13 GHz / Alena Pietriková ... [et al.] - 2015. In: Microelectronics International. Vol. 32, no. 3 (2015), p. 122-125. - ISSN 1356-5362 Spôsob prístupu: http://www.emeraldinsight.com/doi/pdfplus/10.1108/MI-01-2015-0003...\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu, prípravu na zápočtovú písomku, vypracovanie seminárnej práce v spolupráci s firmou, prípravu na skúšku, celkom 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 281\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n20%\n27%\n18%\n8%\n7%\n\n\nZabezpečuje:\nprof. Ing. Alena Pietriková, CSc.\nIng. Slavomír Kardoš, PhD.\nIng. Daniel Dzivý, PhD.\nIng. Igor Vehec, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,178 @@
+{
+  "predmet_id": "65953306",
+  "code": "2609051",
+  "name": "Počítačové siete",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953306",
+  "fetched_at": "2026-11-17T15:10:35Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2609051"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Počítačové siete"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npísomka z podsieťovania, teoretická písomka, praktická konfigurácia, 40% záverečného hodnotenia"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n60% ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi so základným pojmovým aparátom v oblasti počítačových sietí a princípmi prenosu informácie v počítačových sieťach v kontexte sieťových modelov ISO-OSI a TCP-IP. Naučí sa praktický riešiť problémy spojené s fyzickou vrstvou sieťového modelu pri realizácií počítačových sietí a osvojí si základy problematiky smerovania pri prenose informácií v sieťových infraštruktúrach. V rámci predmetu zvládne problematiku, ktorá je obsiahnutá v prvom a časti druhého semestra Sieťového Akademického Programu Cisco a nadobudne vedomosti, ktoré mu dajú základ pre vykonanie medzinárodnej certifikačnej skúšky CCNA 200-301.\nŠtudent má pri štúdiu k dispozícií vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom LMS systému (http://www.netacad.com)."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do problematiky počítačových sietí (modely sieťovej komunikácie).\n2. Adresácia v IP sieťach a podsieťovanie.\n3. Fyzická, linková vrstva a technológia Ethernet.\n4. Základy prepínania a smerovania.\n5. Transportná a aplikačná vrstva.\n6. Koncept prepínaných sietí.\n7. VLAN a inter-VLAN smerovanie.\n8. Sieťové služby (DHCP, HSRP).\n9. Základy smerovania v počítačových sieťach.\n10. Bezdrôtové siete (WLAN).\n11. Sieťové programovanie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Cisco Networking Academy Program (NetAcad, Cisco): CCNA: Introduction to networks, CCNA: Switching, Routing, and Wireless Essentials - http://cisco.netacad.net.\n2. Doyle J., Caroll J. D.: Routing TCP/IP (Volume 1) 2nd edition, 2005.\n3. Tanenbaum A. S., Wetherall D. J.: Computer Networks, Pearson, 2010.\n4. Kurose J. F., Ross K. W.: Computer Networking: A Top-Down Approach, Pearson, 2020.\n5. Odom W.: CCNA 200-301 Official Cert Guide Library, Cisco Press, 2020.\n6. Pužmanová R.: TCP/IP v kostce, Kopp, 2009.\n7. Pužmanová, R.: Moderní komunikační sítě od A do Z. Computer Press, Praha 2004.\n8. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004.\n9. Dilip C. Naik : Internet : standardy a protokoly. Computer Press, Brno, 1999.\n10. Dostálek L., Kabelová A.: Velký prúvodce protokoly TCP/IP a systemem DNS, Computer Press, Praha, 2000."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 3630\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n17%\n18%\n17%\n11%\n17%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Feciľak, PhD.\nIng. Ondrej Kainz, PhD.\ndoc. Ing. Miroslav Michalko, PhD.\nIng. Ivan Brťka\nIng. Samuel Šulek"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 3630,
+    "percent": {
+      "A": 20,
+      "B": 17,
+      "C": 18,
+      "D": 17,
+      "E": 11,
+      "FX": 17
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Feciľak, PhD.",
+    "Ing. Ondrej Kainz, PhD.",
+    "doc. Ing. Miroslav Michalko, PhD.",
+    "Ing. Ivan Brťka",
+    "Ing. Samuel Šulek"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2609051\nNázov predmetu: Počítačové siete\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npísomka z podsieťovania, teoretická písomka, praktická konfigurácia, 40% záverečného hodnotenia\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n60% ústna skúška\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi so základným pojmovým aparátom v oblasti počítačových sietí a princípmi prenosu informácie v počítačových sieťach v kontexte sieťových modelov ISO-OSI a TCP-IP. Naučí sa praktický riešiť problémy spojené s fyzickou vrstvou sieťového modelu pri realizácií počítačových sietí a osvojí si základy problematiky smerovania pri prenose informácií v sieťových infraštruktúrach. V rámci predmetu zvládne problematiku, ktorá je obsiahnutá v prvom a časti druhého semestra Sieťového Akademického Programu Cisco a nadobudne vedomosti, ktoré mu dajú základ pre vykonanie medzinárodnej certifikačnej skúšky CCNA 200-301.\nŠtudent má pri štúdiu k dispozícií vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom LMS systému (http://www.netacad.com).\n\n\nStručná osnova predmetu:\n1. Úvod do problematiky počítačových sietí (modely sieťovej komunikácie).\n2. Adresácia v IP sieťach a podsieťovanie.\n3. Fyzická, linková vrstva a technológia Ethernet.\n4. Základy prepínania a smerovania.\n5. Transportná a aplikačná vrstva.\n6. Koncept prepínaných sietí.\n7. VLAN a inter-VLAN smerovanie.\n8. Sieťové služby (DHCP, HSRP).\n9. Základy smerovania v počítačových sieťach.\n10. Bezdrôtové siete (WLAN).\n11. Sieťové programovanie.\n\nOdporúčaná literatúra:\n1. Cisco Networking Academy Program (NetAcad, Cisco): CCNA: Introduction to networks, CCNA: Switching, Routing, and Wireless Essentials - http://cisco.netacad.net.\n2. Doyle J., Caroll J. D.: Routing TCP/IP (Volume 1) 2nd edition, 2005.\n3. Tanenbaum A. S., Wetherall D. J.: Computer Networks, Pearson, 2010.\n4. Kurose J. F., Ross K. W.: Computer Networking: A Top-Down Approach, Pearson, 2020.\n5. Odom W.: CCNA 200-301 Official Cert Guide Library, Cisco Press, 2020.\n6. Pužmanová R.: TCP/IP v kostce, Kopp, 2009.\n7. Pužmanová, R.: Moderní komunikační sítě od A do Z. Computer Press, Praha 2004.\n8. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004.\n9. Dilip C. Naik : Internet : standardy a protokoly. Computer Press, Brno, 1999.\n10. Dostálek L., Kabelová A.: Velký prúvodce protokoly TCP/IP a systemem DNS, Computer Press, Praha, 2000.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 3630\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n17%\n18%\n17%\n11%\n17%\n\n\nZabezpečuje:\ndoc. Ing. Peter Feciľak, PhD.\nIng. Ondrej Kainz, PhD.\ndoc. Ing. Miroslav Michalko, PhD.\nIng. Ivan Brťka\nIng. Samuel Šulek\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

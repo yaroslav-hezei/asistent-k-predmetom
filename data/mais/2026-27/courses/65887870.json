@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65887870",
+  "code": "26000847",
+  "name": "Multimediálne signály v komunikačných sieťach",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65887870",
+  "fetched_at": "2026-11-17T15:03:24Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000847"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Multimediálne signály v komunikačných sieťach"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,0,1,1,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtudent prospeje v ZH, keď splní podmienku získať min. 51% zo 100%.\nNa získanie klasifikovaného zápočtu je potrebných min. 51 bodov z celkového počtu 100 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvovaním predmetu študent porozumie základom spracovania multimediálnych signálov v komunikačných sieťach; oboznámi sa so základnými princípmi a metódami spracovania multimediálnych signálov, ktoré vedú k zníženiu redundancie a redukcii entropie (komprimácii) zdrojových dát; získa vedomosti z oblasti digitalizácie signálov, časovo-frekvenčnej analýzy, transformácie a filtrácie a predspracovania a postspracovania signálov; pochopí základným princípom a metódam, ktoré sa používajú pri digitálnom spracovaní a kódovaní textu, statických obrazov, rečových, audio a video signálov a ich aplikácii v medzinárodne uznávaných štandardoch; a oboznámi sa so základnými technikami v oblasti ochrany multimediálneho obsahu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Spojité signály\n2. Základné pojmy a definície multimediálnych signálov\n3. Základné parametre modalít, hodnotenie kvality modalít\n4. Všeobecný model kompresie\n5. Predikčné kódovanie\n6. Transformačné kódovanie\n7. Subpásmové kódovanie\n8. Bezstratové kódovanie\n9. Analýza obsahu multimediálnych signálov\n10. Metódy a štandardy na kódovanie statických obrazov (JPEG, JPEG 2000, GIF, PNG, WebP)\n11. Metódy a štandardy na kódovanie rečových a audio signálov (MPEG audio, Dolby AC-3, Sony ATRAC, FLAC, Ogg Vorbis, Windows Media Audio)\n12. Metódy a štandardy na kódovanie video signálov (MPEG video, štandardy H.261 a H.263, MPEG-4 AVC/H.264, WebM)\n13. Ochrana obsahu multimédií (kryptografia, steganografia, digitálna vodotlač)"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Levický, D. a Bugár, G. (2012) Multimédiá a ochrana ich obsahu. Elfa, Košice\n[2] Rozinaj, G. a kol. (2014) Multimédiá. Nakladateľstvo CVUT, Praha\n[3] Coelho, R. F. (2017) Signals and images: Advances and results in speech, estimation, compression, recognition, filtering, and processing. CRC Press\n[4] Ohm, J.R. (2015) Multimedia signal coding and transmission. Springer-Verlag Berlin Heidelberg\n[5] Juhár, J. a kol. (2011) Rečové technológie v telekomunikačných a informačných systémoch. EQUILIBRIA, Košice\n[6] Mihalík, J., Zavacký, J. (2011) Diskrétne spracovanie signálov. FEI TU Košice"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať klasifikovaný zápočet. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 hod. časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 623\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n12%\n15%\n24%\n28%\n7%\n15%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Staš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 623,
+    "percent": {
+      "A": 12,
+      "B": 15,
+      "C": 24,
+      "D": 28,
+      "E": 7,
+      "FX": 15
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Staš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000847\nNázov predmetu: Multimediálne signály v komunikačných sieťach\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,0,1,1,0,0,0,0\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtudent prospeje v ZH, keď splní podmienku získať min. 51% zo 100%.\nNa získanie klasifikovaného zápočtu je potrebných min. 51 bodov z celkového počtu 100 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvovaním predmetu študent porozumie základom spracovania multimediálnych signálov v komunikačných sieťach; oboznámi sa so základnými princípmi a metódami spracovania multimediálnych signálov, ktoré vedú k zníženiu redundancie a redukcii entropie (komprimácii) zdrojových dát; získa vedomosti z oblasti digitalizácie signálov, časovo-frekvenčnej analýzy, transformácie a filtrácie a predspracovania a postspracovania signálov; pochopí základným princípom a metódam, ktoré sa používajú pri digitálnom spracovaní a kódovaní textu, statických obrazov, rečových, audio a video signálov a ich aplikácii v medzinárodne uznávaných štandardoch; a oboznámi sa so základnými technikami v oblasti ochrany multimediálneho obsahu.\n\nStručná osnova predmetu:\n1. Spojité signály\n2. Základné pojmy a definície multimediálnych signálov\n3. Základné parametre modalít, hodnotenie kvality modalít\n4. Všeobecný model kompresie\n5. Predikčné kódovanie\n6. Transformačné kódovanie\n7. Subpásmové kódovanie\n8. Bezstratové kódovanie\n9. Analýza obsahu multimediálnych signálov\n10. Metódy a štandardy na kódovanie statických obrazov (JPEG, JPEG 2000, GIF, PNG, WebP)\n11. Metódy a štandardy na kódovanie rečových a audio signálov (MPEG audio, Dolby AC-3, Sony ATRAC, FLAC, Ogg Vorbis, Windows Media Audio)\n12. Metódy a štandardy na kódovanie video signálov (MPEG video, štandardy H.261 a H.263, MPEG-4 AVC/H.264, WebM)\n13. Ochrana obsahu multimédií (kryptografia, steganografia, digitálna vodotlač)\n\nOdporúčaná literatúra:\n[1] Levický, D. a Bugár, G. (2012) Multimédiá a ochrana ich obsahu. Elfa, Košice\n[2] Rozinaj, G. a kol. (2014) Multimédiá. Nakladateľstvo CVUT, Praha\n[3] Coelho, R. F. (2017) Signals and images: Advances and results in speech, estimation, compression, recognition, filtering, and processing. CRC Press\n[4] Ohm, J.R. (2015) Multimedia signal coding and transmission. Springer-Verlag Berlin Heidelberg\n[5] Juhár, J. a kol. (2011) Rečové technológie v telekomunikačných a informačných systémoch. EQUILIBRIA, Košice\n[6] Mihalík, J., Zavacký, J. (2011) Diskrétne spracovanie signálov. FEI TU Košice\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať klasifikovaný zápočet. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 hod. časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 623\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n12%\n15%\n24%\n28%\n7%\n15%\n\n\nZabezpečuje:\ndoc. Ing. Ján Staš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

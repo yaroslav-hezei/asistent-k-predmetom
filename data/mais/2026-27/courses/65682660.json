@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65682660",
+  "code": "26001383",
+  "name": "Počítačové videnie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65682660",
+  "fetched_at": "2026-11-17T15:02:06Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001383"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Počítačové videnie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZápočet a skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet predstavuje postupy, metódy a algoritmy pre získanie informácie z digitálneho obrazu. Študenti sa bližšie zoznámia s technikou na získanie obrazu, s algoritmami pre zistenie vlastností a polohy snímacích zariadení, postupmi pre získanie 3D informácie, s algoritmami vyhľadávania čŕt a ich použitím na rozpoznávanie objektov a 3D rekonštrukcie a s modernými architektúrami DL pre rozpoznávanie objektov a sémantickú segmentáciu. Súčasťou predmetu sú ukážky praktických aplikácií. Pracujeme s jazykom Python a jeho knižnicami."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Predspracovanie obrazu: Konvolúcia a Fouriérova transformácia\nHoughova transformácia\nModel kamery a kalibrácia kamery\nZáklady fotografie, vlastnosti kamier a objektívov.\nKalibrácia systému dvoch kamier\nStereovízia\nScale Invariant Feature Transform\nHaarove črty a Framework Viola-Jones\nSpeeded Up Robust Features\nStructure from motion\nMultiple view stereo\nIné metódy získania 3D obrazu\nModerné architektúry pre rozpoznávanie objektov a segmentáciu obrazu"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Bundzel, M. – Zolotová, I.: Počítačové videnie v praxi, Elfa 2013, s. 90, ISBN 978-80-8086-225-1\n• Richard Szeliski, Computer Vision: Algorithms and Applications, http://szeliski.org/Book/"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Bundzel, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Bundzel, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001383\nNázov predmetu: Počítačové videnie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZápočet a skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet predstavuje postupy, metódy a algoritmy pre získanie informácie z digitálneho obrazu. Študenti sa bližšie zoznámia s technikou na získanie obrazu, s algoritmami pre zistenie vlastností a polohy snímacích zariadení, postupmi pre získanie 3D informácie, s algoritmami vyhľadávania čŕt a ich použitím na rozpoznávanie objektov a 3D rekonštrukcie a s modernými architektúrami DL pre rozpoznávanie objektov a sémantickú segmentáciu. Súčasťou predmetu sú ukážky praktických aplikácií. Pracujeme s jazykom Python a jeho knižnicami.\n\nStručná osnova predmetu:\nPredspracovanie obrazu: Konvolúcia a Fouriérova transformácia\nHoughova transformácia\nModel kamery a kalibrácia kamery\nZáklady fotografie, vlastnosti kamier a objektívov.\nKalibrácia systému dvoch kamier\nStereovízia\nScale Invariant Feature Transform\nHaarove črty a Framework Viola-Jones\nSpeeded Up Robust Features\nStructure from motion\nMultiple view stereo\nIné metódy získania 3D obrazu\nModerné architektúry pre rozpoznávanie objektov a segmentáciu obrazu\n\nOdporúčaná literatúra:\n• Bundzel, M. – Zolotová, I.: Počítačové videnie v praxi, Elfa 2013, s. 90, ISBN 978-80-8086-225-1\n• Richard Szeliski, Computer Vision: Algorithms and Applications, http://szeliski.org/Book/\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Marek Bundzel, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

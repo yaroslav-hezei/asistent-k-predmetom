@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65680211",
+  "code": "26001357",
+  "name": "Vizualizácia dát",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65680211",
+  "fetched_at": "2026-11-17T15:01:16Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001357"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Vizualizácia dát"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent po absolvovaní predmetu rozumie základom vizualizácie dát, princípom vizuálneho vnímania a dokáže vhodne vybrať typ grafu podľa charakteru dát. Ovláda prácu s farebnými schémami, vie zvoliť správne palety pre rôzne typy vizualizácií a zároveň vie aplikovať pravidlá prístupnosti vrátane farbosleposti. Dokáže vizuálne spracovať trendy, porovnania a základné analýzy dát, aj efektívne znázorniť časové rady vrátane zmien, sezónnosti a dlhodobých vývojov.\nZvláda tvorbu interaktívnych dashboardov v Power BI a vie pracovať aj s Grafanou pri vizualizácii rýchlych, veľkých alebo streamingových dát. Rozumie základným princípom vizualizácie big data, technikám agregácie, redukcie a optimalizácie tak, aby boli výstupy prehľadné a použiteľné. Vie posudzovať kvalitu vizualizácií, identifikovať chyby, nejasnosti či klamlivé grafy a navrhnúť vhodné zlepšenia.\nPri návrhu vizualizácií dokáže využiť zásady UX, moderné prístupy a odporúčania z praxe a výskumu, design thinking, pričom zohľadňuje aj aktuálne trendy vrátane využitia umelej inteligencie. Zároveň je schopný vytvárať vizualizácie s ohľadom na inkluzívny dizajn, dostupnosť a špecifické potreby používateľov, ako sú nevidiaci, slabozrakí alebo farboslepí."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Základy vizualizácie\nFarebné schémy\nGrafické vyobrazenie dát (trendy)\nČasové rady\nInteraktívna vizualizácia (PowerBI)\nInteraktívna vizualizácia (Grafana)\nVizualizácia veľkých a rýchlych dát\nEvaluácia a kvalita vizualizácie\nSkúsenosti a aktuálne trendy z praxe a výskumu"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "C. Ware: Information Visualization: Perception for Design, Morgan Kaufmann, Burlington, MA, United States, ISBN: 9780123814647, 2012.\n\nT. Munzner: Visualization Analysis and Design, A K Peters / CRC Press, Boca Raton, FL, United States, ISBN: 9781466508910, 2014.\n\nK. Healy: Data Visualization: A Practical Introduction, Princeton University Press, Princeton, NJ, United States, ISBN: 9780691181622, 2018.\n\nB. Powell: Power BI Cookbook, Packt Publishing, Birmingham, United Kingdom, ISBN: 9781788290149, 2017.\n\nA. Woods: Hands-On Dashboard Development with Grafana, Packt Publishing, Birmingham, United Kingdom, ISBN: 9781800560677, 2021.\n\nS. Few: Information Dashboard Design (Displaying Data for At-a-Glance Monitoring), Analytics Press, Oakland, United States, ISBN: 9781938377006, 2013.\n\nL. Goodridge: AI for UX: Designing with Artificial Intelligence, Apress, New York, United States, ISBN: 9781484275178, 2022.\n\nS. Horton, W. Quesenbery: A Web for Everyone: Designing Accessible User Experiences, Rosenfeld Media, Brooklyn, NY, United States, ISBN: 9781933820972, 2014.\n\nJ. Lazar, D. F. Goldstein, A. Taylor: Disability, Human Rights, and Information Technology, University of Pennsylvania Press, Philadelphia, PA, United States, ISBN: 9780812244697, 2015.\n\nW3C: Web Content Accessibility Guidelines (WCAG), World Wide Web Consortium, dostupné online, 2018.\n\nLiterárne zdroje môžu byť doplnené o tréningové materiály využívané pri interných a externých vzdelávacích aktivitách spoločností, ktoré sa môžu podieľať na zabezpečení predmetu."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "V prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia. Jeden kredit predstavuje štandardne 25 hodín študijnej záťaže vrátane samoštúdia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Iveta Zolotová, CSc.\nIng. Oliver Lohaj, PhD.\nIng. Erik Kajáti, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Iveta Zolotová, CSc.",
+    "Ing. Oliver Lohaj, PhD.",
+    "Ing. Erik Kajáti, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001357\nNázov predmetu: Vizualizácia dát\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent po absolvovaní predmetu rozumie základom vizualizácie dát, princípom vizuálneho vnímania a dokáže vhodne vybrať typ grafu podľa charakteru dát. Ovláda prácu s farebnými schémami, vie zvoliť správne palety pre rôzne typy vizualizácií a zároveň vie aplikovať pravidlá prístupnosti vrátane farbosleposti. Dokáže vizuálne spracovať trendy, porovnania a základné analýzy dát, aj efektívne znázorniť časové rady vrátane zmien, sezónnosti a dlhodobých vývojov.\nZvláda tvorbu interaktívnych dashboardov v Power BI a vie pracovať aj s Grafanou pri vizualizácii rýchlych, veľkých alebo streamingových dát. Rozumie základným princípom vizualizácie big data, technikám agregácie, redukcie a optimalizácie tak, aby boli výstupy prehľadné a použiteľné. Vie posudzovať kvalitu vizualizácií, identifikovať chyby, nejasnosti či klamlivé grafy a navrhnúť vhodné zlepšenia.\nPri návrhu vizualizácií dokáže využiť zásady UX, moderné prístupy a odporúčania z praxe a výskumu, design thinking, pričom zohľadňuje aj aktuálne trendy vrátane využitia umelej inteligencie. Zároveň je schopný vytvárať vizualizácie s ohľadom na inkluzívny dizajn, dostupnosť a špecifické potreby používateľov, ako sú nevidiaci, slabozrakí alebo farboslepí.\n\nStručná osnova predmetu:\nZáklady vizualizácie\nFarebné schémy\nGrafické vyobrazenie dát (trendy)\nČasové rady\nInteraktívna vizualizácia (PowerBI)\nInteraktívna vizualizácia (Grafana)\nVizualizácia veľkých a rýchlych dát\nEvaluácia a kvalita vizualizácie\nSkúsenosti a aktuálne trendy z praxe a výskumu\n\n\nOdporúčaná literatúra:\nC. Ware: Information Visualization: Perception for Design, Morgan Kaufmann, Burlington, MA, United States, ISBN: 9780123814647, 2012.\n\nT. Munzner: Visualization Analysis and Design, A K Peters / CRC Press, Boca Raton, FL, United States, ISBN: 9781466508910, 2014.\n\nK. Healy: Data Visualization: A Practical Introduction, Princeton University Press, Princeton, NJ, United States, ISBN: 9780691181622, 2018.\n\nB. Powell: Power BI Cookbook, Packt Publishing, Birmingham, United Kingdom, ISBN: 9781788290149, 2017.\n\nA. Woods: Hands-On Dashboard Development with Grafana, Packt Publishing, Birmingham, United Kingdom, ISBN: 9781800560677, 2021.\n\nS. Few: Information Dashboard Design (Displaying Data for At-a-Glance Monitoring), Analytics Press, Oakland, United States, ISBN: 9781938377006, 2013.\n\nL. Goodridge: AI for UX: Designing with Artificial Intelligence, Apress, New York, United States, ISBN: 9781484275178, 2022.\n\nS. Horton, W. Quesenbery: A Web for Everyone: Designing Accessible User Experiences, Rosenfeld Media, Brooklyn, NY, United States, ISBN: 9781933820972, 2014.\n\nJ. Lazar, D. F. Goldstein, A. Taylor: Disability, Human Rights, and Information Technology, University of Pennsylvania Press, Philadelphia, PA, United States, ISBN: 9780812244697, 2015.\n\nW3C: Web Content Accessibility Guidelines (WCAG), World Wide Web Consortium, dostupné online, 2018.\n\nLiterárne zdroje môžu byť doplnené o tréningové materiály využívané pri interných a externých vzdelávacích aktivitách spoločností, ktoré sa môžu podieľať na zabezpečení predmetu.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: V prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia. Jeden kredit predstavuje štandardne 25 hodín študijnej záťaže vrátane samoštúdia.\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Iveta Zolotová, CSc.\nIng. Oliver Lohaj, PhD.\nIng. Erik Kajáti, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

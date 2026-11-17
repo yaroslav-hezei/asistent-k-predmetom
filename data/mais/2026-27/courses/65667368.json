@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65667368",
+  "code": "2611021",
+  "name": "Objavovanie znalostí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667368",
+  "fetched_at": "2026-11-17T15:00:30Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2611021"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Objavovanie znalostí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra sú 2 písomky z prebranej teórie, každá za 5 bodov a 5 bodov možno získať za ďalšie úlohy riešené počas cvičení. Ďalších 25 bodov možno získať za zadanie, ktoré spočíva v analýze konkrétnej dátovej množiny podľa metodiky CRISP-DM."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZahŕňa ohodnotenie práce počas semestra formou priebežných úloh z prednášok a záverečného testu na skúške. Spolu je možné získať maximálne 60 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní tohto predmetu získajú študenti teoretické vedomosti o procese objavovania znalostí z databáz a ďalších typov zdrojov dát, vrátane metód pre získavanie modelov za účelom efektívnejšieho riadenia zložitých ekonomických systémov. Študenti získajú aj zručnosti potrebné pre riešenie náročných analytických úloh, t.j. rozvíjať a navrhovať vlastné riešenia problémov, tvorivo aplikovať získané poznatky, efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov zameraných na analýzu rôznych typov dátových množín pre získavanie rôznych typov cieľových znalostí."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Základné pojmy z oblasti objavovania znalostí a dolovania v dátach. Proces objavovania znalostí, podrobná náplň jednotlivých fáz tohto procesu v zmysle metodiky CRISP-DM. Metódy dolovania v dátach, ich rozdelenie podľa rôznych kritérií. Vybrané algoritmy používané v dátovej analytike podľa typov cieľovej úlohy dolovania v dátach. Prediktívne dolovanie v dátach: klasifikácia a predikcia (regresia). Metriky pre meranie podobnosti a vzdialenosti pre rôzne typy dát. Analýza zhlukov. Detekcia anomálií. Asociačné pravidlá."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- J. Paralič: Objavovanie znalostí v databázach. Elfa, Košice 2003, 80 s., ISBN 80-89066-60-7\n- Charu C. Aggarwal: Data Mining: The Textbook. Springer, 2015, 763 s., ISBN 9783319141411\n- Altair® AI Studio: Data Science Design Software. Online. Dostupné na: https://altair.com/altair-ai-studio [cit. 3.2.2025]"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 50 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 11 hodín\n\nNekontaktná výučba: spolu 115 hodín, z toho:\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Vypracovanie úloh z prednášok a cvičení: 26 hodín\n• Vypracovanie tímového semestrálneho projektu: 36 hodín\n• Príprava na skúšku: 40 hodín\n------------------------------------------------\nCelkovo výučba spolu: 165 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1206\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n15%\n27%\n28%\n18%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Paralič, PhD.\nIng. Oliver Lohaj, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1206,
+    "percent": {
+      "A": 7,
+      "B": 15,
+      "C": 27,
+      "D": 28,
+      "E": 18,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Paralič, PhD.",
+    "Ing. Oliver Lohaj, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2611021\nNázov predmetu: Objavovanie znalostí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra sú 2 písomky z prebranej teórie, každá za 5 bodov a 5 bodov možno získať za ďalšie úlohy riešené počas cvičení. Ďalších 25 bodov možno získať za zadanie, ktoré spočíva v analýze konkrétnej dátovej množiny podľa metodiky CRISP-DM.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZahŕňa ohodnotenie práce počas semestra formou priebežných úloh z prednášok a záverečného testu na skúške. Spolu je možné získať maximálne 60 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní tohto predmetu získajú študenti teoretické vedomosti o procese objavovania znalostí z databáz a ďalších typov zdrojov dát, vrátane metód pre získavanie modelov za účelom efektívnejšieho riadenia zložitých ekonomických systémov. Študenti získajú aj zručnosti potrebné pre riešenie náročných analytických úloh, t.j. rozvíjať a navrhovať vlastné riešenia problémov, tvorivo aplikovať získané poznatky, efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov zameraných na analýzu rôznych typov dátových množín pre získavanie rôznych typov cieľových znalostí.\n\nStručná osnova predmetu:\nZákladné pojmy z oblasti objavovania znalostí a dolovania v dátach. Proces objavovania znalostí, podrobná náplň jednotlivých fáz tohto procesu v zmysle metodiky CRISP-DM. Metódy dolovania v dátach, ich rozdelenie podľa rôznych kritérií. Vybrané algoritmy používané v dátovej analytike podľa typov cieľovej úlohy dolovania v dátach. Prediktívne dolovanie v dátach: klasifikácia a predikcia (regresia). Metriky pre meranie podobnosti a vzdialenosti pre rôzne typy dát. Analýza zhlukov. Detekcia anomálií. Asociačné pravidlá.\n\nOdporúčaná literatúra:\n- J. Paralič: Objavovanie znalostí v databázach. Elfa, Košice 2003, 80 s., ISBN 80-89066-60-7\n- Charu C. Aggarwal: Data Mining: The Textbook. Springer, 2015, 763 s., ISBN 9783319141411\n- Altair® AI Studio: Data Science Design Software. Online. Dostupné na: https://altair.com/altair-ai-studio [cit. 3.2.2025]\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 50 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 11 hodín\n\nNekontaktná výučba: spolu 115 hodín, z toho:\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Vypracovanie úloh z prednášok a cvičení: 26 hodín\n• Vypracovanie tímového semestrálneho projektu: 36 hodín\n• Príprava na skúšku: 40 hodín\n------------------------------------------------\nCelkovo výučba spolu: 165 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1206\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n15%\n27%\n28%\n18%\n6%\n\n\nZabezpečuje:\nprof. Ing. Ján Paralič, PhD.\nIng. Oliver Lohaj, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

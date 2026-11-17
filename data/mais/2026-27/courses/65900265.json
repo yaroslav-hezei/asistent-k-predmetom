@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65900265",
+  "code": "35000077",
+  "name": "Ekonomické informačné systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65900265",
+  "fetched_at": "2026-11-17T15:05:34Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Ekonomická fakulta"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra aplikovanej matematiky a hospodárskej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "35000077"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Ekonomické informačné systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 13,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nV priebehu semestra študenti plnia nasledovné bodované úlohy, práce a zadania v presnom časovom harmonograme. Založenie firmy – legislatíva, vytvorenie firemnej web-stránky, vytvorenie a naplnenie e-shopu, vypracovanie podnikateľského zámeru, vypracovanie strategickej štúdie, vytvorenie účtovníctva a analýza IS. Záverečné hodnotenie je realizované klasifikovaným zápočtom získaným na základe hodnotenia úloh počas semestra. Max 100%, min 51%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je prostredníctvom informačných a komunikačných technológií naučiť sa prevádzkovať malú virtuálnu firmu od jej založenia až po ročnú uzávierku. Predmet poskytne praktické skúsenosti z vedenia účtovníctva, marketingu a budovania ekonomického informačného systému modernej firmy.\n\nPo absolvovaní predmetu by mal študent mať:\n- vedomosti – základné pojmy z oblasti podnikania, legislatívy firmy, bezpečnosti elektronickej komunikácie, platobných systémov, elektronického obchodu, účtovníctva firmy a analýzy IS.\n\n- zručnosti - schopnosť ovládať základné úkony potrebné na založenie podnikateľského subjektu, pracovať s elektronickou podateľňou, podávať elektronické dokumenty týkajúce sa založenia podnikateľského subjektu, pracovať s elektronickou bankou, vytvárať web stránku podnikateľského subjektu, prevádzkovať elektronický obchod, realizovať elektronické platby za tovar zakúpený v elektronickom obchode, vypracovať strategickú štúdiu a podnikateľský zámer, podať elektronický vytvorené daňové priznanie, zaúčtovať transakcie podnikateľského subjektu v účtovnom softvéri, vypracovať analýzu informačného systému laboratória elektronického podnikania (eLaboratória).\n\n- kompetentnosti – predmet významne rozvíja logické a kritické myslenie, poskytuje schopnosť orientovať sa v podnikateľskom prostredí a prostredí elektronických informačných systémov pre podporu podnikania a následne ich použiť na zvládnutie získaných zručnosti popísaných vyššie. Prostredníctvom záverečnej analýzy IS si študenta rozvíja schopnosť zhodnotiť prostredie a procesy, ktoré vykonával počas praktických úkonov počas prevádzkovania firmy. Predmet nadväzujú na množstvo poznatkov získaných v predchádzajúcich absolvovaných predmetoch z nižších ročníkov.\n\nZákladnou metódou je práca vo virtuálnom laboratóriu elektronického podnikania a plnenie praktických problémových úloh kopírujúcich reálne prostredie elektronického podnikania v slovenských podmienkach. Ďalšou metódou je samoštúdium, ktoré je nevyhnutné pri zvládnutí širokého spektra komplexných úloh podnikania."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. P:Úvod do predmetu a IS\nS: Úvod do predmetu a IS\n2. P: Založenie firmy, legislatíva, podnikateľský zámer\nS: Založenie firmy, legislatíva, podnikateľský zámer\n3. P: Web prezentácia firmy\nS: Tvorba web stránky\n4. P: Bezpečnosť elektronickej komunikácie, certifikačná autorita, elektronický podpis\nS: Používanie elektronického podpisu 1\n5. P: Elektronická podateľňa, vypĺňanie, podpisovanie a podávanie elektronických formulárov\nS: Práca s elektronickou podateľňou\n6. P: Praktické aspekty používania elektronického podpisu, eGovernment\nS: Používanie elektronického podpisu 2\n7. P: Účtovníctvo firmy\nS: Príklady účtovania firemných položiek\n8. P: Účtovná závierka, príklady EIS - Helios, Pohoda, SAP\nS: Práca s účtovnými softvérmi\n7. P: Elektronická banka – služby ebanking\nS: Práca s elektronickou bankou\n8. P: Elektronický obchod, správa a použitie\nS: Vytvorenie elektronického obchodu\n9. P: Strategická štúdia, vypracovanie, význam\nS: Tvorba strategickej štúdie\n10. P: Marketing firmy – základy elektronického marketingu\nS: Práca so systémom Adwords\n11. P:Záverečné zhrnutie života firmy, daňové priznanie\nS: Podávanie daňového priznania\n12. P:Informačné systémy firmy, procesná analýza v UML\nS: Modelovanie procesov v UML\n13. P: Ukončenie predmetu, diskusia\nS: Ukončenie predmetu, diskusia"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Povinná literatúra:\nBucko, J., Vejačka, M.: Ekonomické informačné systémy, Košice : Technická univerzita, 2016. - 86 s. ISBN 978-80-553-2606-1.\nBucko, J., Vejačka, M.: Elektronické služby v bankovníctve, Košice, 2015, 79 s., ISBN 978-80-553-2525-5.\nAndrejovská, A., Bánociová, A., Nosáľová, O., Petríková, D., Raisová, M.: Ekonomické kompetencie v podnikaní a v podnikateľskom prostredí, Košice: Technická univerzita v Košiciach, Ekonomická fakulta, 2013.,218 s.,ISBN 978-80-553-1524-9.\n\nOdporúčaná literatúra:\nRévészová, L., Paľová, D.: Základy modelovania podnikových procesov, Košice TU, EkF - 2009., 122 s. - ISBN 978-80-553-0174-7.\nBartková, D., Raisová, M.: Odborné vedomosti a zručnosti potrebné pre podnikanie, Košice, TU EkF,, 2006, 118 s., ISBN 80-8073-444-5.\nŠimková, H., Vejačka, M.: Manažment, Košice, TU, 2013, 74 s, ISBN 978-80-553-1000-8.\nŠimková, H.: Podnik a podnikanie, Košice, TU, 2011, 18 s, ISBN 978-80-553-0746-6.\nAndrejovská, A.: Základné princípy účtovníctva. Elfa, s.r.o, Košice, 2013s, tr. 184, ISBN 978-80-8086-222-0.\nAndrejovská, A., Tušan, R.: Základy podvojného účtovníctva. Zbierka príkladov, Elfa, Košice, 2013, str.148, ISBN 978-80-8086-213-8.\nAntošová, M.: Strategický manažment a rozhodovanie. Bratislava: IURA EDITION. 2012."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Časová záťaž: 75h\nNepriama výučba: 36h"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 436\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n66%\n24%\n7%\n2%\n0%\n1%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Jozef Bucko, PhD.\nIng. Martin Vejačka, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra aplikovanej matematiky a hospodárskej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 436,
+    "percent": {
+      "A": 66,
+      "B": 24,
+      "C": 7,
+      "D": 2,
+      "E": 0,
+      "FX": 1
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Jozef Bucko, PhD.",
+    "Ing. Martin Vejačka, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Ekonomická fakulta\n\nPracovisko: Katedra aplikovanej matematiky a hospodárskej informatiky\n\n\nKód predmetu: 35000077\nNázov predmetu: Ekonomické informačné systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,2\nExterná forma štúdia (hodiny za semester): ZS 13,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nV priebehu semestra študenti plnia nasledovné bodované úlohy, práce a zadania v presnom časovom harmonograme. Založenie firmy – legislatíva, vytvorenie firemnej web-stránky, vytvorenie a naplnenie e-shopu, vypracovanie podnikateľského zámeru, vypracovanie strategickej štúdie, vytvorenie účtovníctva a analýza IS. Záverečné hodnotenie je realizované klasifikovaným zápočtom získaným na základe hodnotenia úloh počas semestra. Max 100%, min 51%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je prostredníctvom informačných a komunikačných technológií naučiť sa prevádzkovať malú virtuálnu firmu od jej založenia až po ročnú uzávierku. Predmet poskytne praktické skúsenosti z vedenia účtovníctva, marketingu a budovania ekonomického informačného systému modernej firmy.\n\nPo absolvovaní predmetu by mal študent mať:\n- vedomosti – základné pojmy z oblasti podnikania, legislatívy firmy, bezpečnosti elektronickej komunikácie, platobných systémov, elektronického obchodu, účtovníctva firmy a analýzy IS.\n\n- zručnosti - schopnosť ovládať základné úkony potrebné na založenie podnikateľského subjektu, pracovať s elektronickou podateľňou, podávať elektronické dokumenty týkajúce sa založenia podnikateľského subjektu, pracovať s elektronickou bankou, vytvárať web stránku podnikateľského subjektu, prevádzkovať elektronický obchod, realizovať elektronické platby za tovar zakúpený v elektronickom obchode, vypracovať strategickú štúdiu a podnikateľský zámer, podať elektronický vytvorené daňové priznanie, zaúčtovať transakcie podnikateľského subjektu v účtovnom softvéri, vypracovať analýzu informačného systému laboratória elektronického podnikania (eLaboratória).\n\n- kompetentnosti – predmet významne rozvíja logické a kritické myslenie, poskytuje schopnosť orientovať sa v podnikateľskom prostredí a prostredí elektronických informačných systémov pre podporu podnikania a následne ich použiť na zvládnutie získaných zručnosti popísaných vyššie. Prostredníctvom záverečnej analýzy IS si študenta rozvíja schopnosť zhodnotiť prostredie a procesy, ktoré vykonával počas praktických úkonov počas prevádzkovania firmy. Predmet nadväzujú na množstvo poznatkov získaných v predchádzajúcich absolvovaných predmetoch z nižších ročníkov.\n\nZákladnou metódou je práca vo virtuálnom laboratóriu elektronického podnikania a plnenie praktických problémových úloh kopírujúcich reálne prostredie elektronického podnikania v slovenských podmienkach. Ďalšou metódou je samoštúdium, ktoré je nevyhnutné pri zvládnutí širokého spektra komplexných úloh podnikania.\n\nStručná osnova predmetu:\n1. P:Úvod do predmetu a IS\nS: Úvod do predmetu a IS\n2. P: Založenie firmy, legislatíva, podnikateľský zámer\nS: Založenie firmy, legislatíva, podnikateľský zámer\n3. P: Web prezentácia firmy\nS: Tvorba web stránky\n4. P: Bezpečnosť elektronickej komunikácie, certifikačná autorita, elektronický podpis\nS: Používanie elektronického podpisu 1\n5. P: Elektronická podateľňa, vypĺňanie, podpisovanie a podávanie elektronických formulárov\nS: Práca s elektronickou podateľňou\n6. P: Praktické aspekty používania elektronického podpisu, eGovernment\nS: Používanie elektronického podpisu 2\n7. P: Účtovníctvo firmy\nS: Príklady účtovania firemných položiek\n8. P: Účtovná závierka, príklady EIS - Helios, Pohoda, SAP\nS: Práca s účtovnými softvérmi\n7. P: Elektronická banka – služby ebanking\nS: Práca s elektronickou bankou\n8. P: Elektronický obchod, správa a použitie\nS: Vytvorenie elektronického obchodu\n9. P: Strategická štúdia, vypracovanie, význam\nS: Tvorba strategickej štúdie\n10. P: Marketing firmy – základy elektronického marketingu\nS: Práca so systémom Adwords\n11. P:Záverečné zhrnutie života firmy, daňové priznanie\nS: Podávanie daňového priznania\n12. P:Informačné systémy firmy, procesná analýza v UML\nS: Modelovanie procesov v UML\n13. P: Ukončenie predmetu, diskusia\nS: Ukončenie predmetu, diskusia\n\nOdporúčaná literatúra:\nPovinná literatúra:\nBucko, J., Vejačka, M.: Ekonomické informačné systémy, Košice : Technická univerzita, 2016. - 86 s. ISBN 978-80-553-2606-1.\nBucko, J., Vejačka, M.: Elektronické služby v bankovníctve, Košice, 2015, 79 s., ISBN 978-80-553-2525-5.\nAndrejovská, A., Bánociová, A., Nosáľová, O., Petríková, D., Raisová, M.: Ekonomické kompetencie v podnikaní a v podnikateľskom prostredí, Košice: Technická univerzita v Košiciach, Ekonomická fakulta, 2013.,218 s.,ISBN 978-80-553-1524-9.\n\nOdporúčaná literatúra:\nRévészová, L., Paľová, D.: Základy modelovania podnikových procesov, Košice TU, EkF - 2009., 122 s. - ISBN 978-80-553-0174-7.\nBartková, D., Raisová, M.: Odborné vedomosti a zručnosti potrebné pre podnikanie, Košice, TU EkF,, 2006, 118 s., ISBN 80-8073-444-5.\nŠimková, H., Vejačka, M.: Manažment, Košice, TU, 2013, 74 s, ISBN 978-80-553-1000-8.\nŠimková, H.: Podnik a podnikanie, Košice, TU, 2011, 18 s, ISBN 978-80-553-0746-6.\nAndrejovská, A.: Základné princípy účtovníctva. Elfa, s.r.o, Košice, 2013s, tr. 184, ISBN 978-80-8086-222-0.\nAndrejovská, A., Tušan, R.: Základy podvojného účtovníctva. Zbierka príkladov, Elfa, Košice, 2013, str.148, ISBN 978-80-8086-213-8.\nAntošová, M.: Strategický manažment a rozhodovanie. Bratislava: IURA EDITION. 2012.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Časová záťaž: 75h\nNepriama výučba: 36h\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 436\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n66%\n24%\n7%\n2%\n0%\n1%\n\n\nZabezpečuje:\ndoc. RNDr. Jozef Bucko, PhD.\nIng. Martin Vejačka, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

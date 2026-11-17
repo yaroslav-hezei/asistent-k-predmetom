@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65681929",
+  "code": "26001374",
+  "name": "Spracovanie prirodzeného jazyka",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65681929",
+  "fetched_at": "2026-11-17T15:01:49Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001374"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Spracovanie prirodzeného jazyka"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti odovzdajú 1 zadanie a absolvujú písomnú previerku vedomostí."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa skúške študenti absolvujú písomnú previerku vedomostí."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa prehľad o základných princípoch počítačovej lingvistiky a spracovania prirodzeného jazyka. Osvojí si metódy reprezentácie textu a slov, od jednoduchých štatistických prístupov až po moderné kontextové vektorové reprezentácie a veľké jazykové modely založené na architektúre Transformer. Porozumie procesom vyhľadávania informácií a práci s rozsiahlymi textovými kolekciami vrátane techník ako latentné sémantické indexovanie a vyhľadávaním rozšírené generovanie. Nadobudne znalosti v oblasti analýzy a spracovania hovoreného aj písaného jazyka, automatického prekladu a viacjazyčných modelov. Zároveň sa oboznámi s praktickými úlohami NLP, ako je sumarizácia textu, extrakcia entít a vzťahov, rozlíšenie koreferencií, klasifikácia, zhlukovanie textov a modelovanie tém."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do počítačovej lingvistiky a spracovania prirodzeného jazyka (prehľad NLP, základné pojmy)\n- Reprezentácia textu a slov (one-hot encoding, TF-IDF, kontextová reprezentácia: Word2Vec, GloVe, ElMO)\n- Veľké jazykové modely, architektúry založené na Transformer sieťach, učenie jazykových modelov\n- Vyhľadávanie informácií, proces indexovania textových dokumentov, Latentné Sémantické Indexovanie\n- Zodpovedanie otázok a vyhľadávaním rozšírené generovanie (RAG)\n- Rozpoznávanie hovorenej reči, morfosyntaktická analýza textu\n- Automatický preklad a viacjazyčná reprezentácia textu\n- Sumarizácia textov\n- Dialógové a agentové systémy\n- Extrahovanie entít, relácií a rozlíšenie koreferencií\n- Klasifikácia textov, zhlukovanie textov a modelovanie tém"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Daniel Jurafsky and James H. Martin. 2024. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition\n- Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, and Harshit Surana. 2020. Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems. O'Reilly Media.\n- Lewis Tunstall, Leandro Von Werra, and Thomas Wolf. 2022. Natural Language Processing with Transformers (Revised Edition). O'Reilly Media."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: 58h\n- Účasť na prednáškach: 26 h\n- Účasť na laboratórnych cvičeniach: 13 h\n- Projektová práca na cvičení 13 h\n- Priame konzultácie: 6 h\nNekontaktná výučba: 120\n- Príprava na prednášky a cvičenia (štúdium materiálov): 12h\n- Vypracovanie domácich úloh na cvičenia: 12h\n- Vypracovanie semestrálneho projektu: 48h\n- Príprava na skúšku: 48h\nCelkový počet: 178h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Bednár, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Bednár, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001374\nNázov predmetu: Spracovanie prirodzeného jazyka\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti odovzdajú 1 zadanie a absolvujú písomnú previerku vedomostí.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa skúške študenti absolvujú písomnú previerku vedomostí.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa prehľad o základných princípoch počítačovej lingvistiky a spracovania prirodzeného jazyka. Osvojí si metódy reprezentácie textu a slov, od jednoduchých štatistických prístupov až po moderné kontextové vektorové reprezentácie a veľké jazykové modely založené na architektúre Transformer. Porozumie procesom vyhľadávania informácií a práci s rozsiahlymi textovými kolekciami vrátane techník ako latentné sémantické indexovanie a vyhľadávaním rozšírené generovanie. Nadobudne znalosti v oblasti analýzy a spracovania hovoreného aj písaného jazyka, automatického prekladu a viacjazyčných modelov. Zároveň sa oboznámi s praktickými úlohami NLP, ako je sumarizácia textu, extrakcia entít a vzťahov, rozlíšenie koreferencií, klasifikácia, zhlukovanie textov a modelovanie tém.\n\nStručná osnova predmetu:\n- Úvod do počítačovej lingvistiky a spracovania prirodzeného jazyka (prehľad NLP, základné pojmy)\n- Reprezentácia textu a slov (one-hot encoding, TF-IDF, kontextová reprezentácia: Word2Vec, GloVe, ElMO)\n- Veľké jazykové modely, architektúry založené na Transformer sieťach, učenie jazykových modelov\n- Vyhľadávanie informácií, proces indexovania textových dokumentov, Latentné Sémantické Indexovanie\n- Zodpovedanie otázok a vyhľadávaním rozšírené generovanie (RAG)\n- Rozpoznávanie hovorenej reči, morfosyntaktická analýza textu\n- Automatický preklad a viacjazyčná reprezentácia textu\n- Sumarizácia textov\n- Dialógové a agentové systémy\n- Extrahovanie entít, relácií a rozlíšenie koreferencií\n- Klasifikácia textov, zhlukovanie textov a modelovanie tém\n\nOdporúčaná literatúra:\n- Daniel Jurafsky and James H. Martin. 2024. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models, 3rd edition\n- Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, and Harshit Surana. 2020. Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems. O'Reilly Media.\n- Lewis Tunstall, Leandro Von Werra, and Thomas Wolf. 2022. Natural Language Processing with Transformers (Revised Edition). O'Reilly Media.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: 58h\n- Účasť na prednáškach: 26 h\n- Účasť na laboratórnych cvičeniach: 13 h\n- Projektová práca na cvičení 13 h\n- Priame konzultácie: 6 h\nNekontaktná výučba: 120\n- Príprava na prednášky a cvičenia (štúdium materiálov): 12h\n- Vypracovanie domácich úloh na cvičenia: 12h\n- Vypracovanie semestrálneho projektu: 48h\n- Príprava na skúšku: 48h\nCelkový počet: 178h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Bednár, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

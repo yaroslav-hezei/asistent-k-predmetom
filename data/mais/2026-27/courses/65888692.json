@@ -1,0 +1,173 @@
+{
+  "predmet_id": "65888692",
+  "code": "26000995",
+  "name": "Objektovo orientované programovanie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888692",
+  "fetched_at": "2026-11-17T15:04:19Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000995"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Objektovo orientované programovanie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 2,2"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Bc_D_sk)\n1.\nPrezenčná\n\n\n3.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Získanie poznatkov o princípoch objektovo orientovaného programovania. Osvojenie si programátorských zručností pri objektovo orientovanom návrhu a implementácii softvérových systémov použitím objektovo orientovaných programovacích jazykov a návrhových vzorov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Trieda a objekt\n2. Stav a správanie sa objektu\n3. Dedičnosť tried\n4. Abstraktné triedy a rozhrania\n5. Správne používanie polymorfizmu\n6. Generické programovanie\n7. Výnimky a zotavenie\n8. Základy objektovo orientovaného modelovania\n9. Návrhové vzory a softvérové rámce\n10. Vytváracie návrhové vzory\n11. Štrukturálne návrhové vzory\n12. Návrhové vzory správania sa"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. MEYER, B.: Object-Oriented Software Construction. 2nd Edition, Prentice Hall, 1997\n2. COAD, P. – YOURDON, E.: Object-Oriented Analysis. 2nd Edition, Prentice Hall, 1990\n3. COAD, P. – YOURDON, E.: Object-Oriented Design. Prentice Hall, 1991\n4. COAD, P. – NICOLA, J.: Object-Oriented Programming. Prentice Hall, 1993\n5. ECKEL, B.: Thinking in Java. 4th Edition, Prentice Hall, 2006\n6. PECINOVSKÝ, R.: Myslíme objektově v jazyku Java. GRADA, 2008\n7. CLARK, D.: Beginning C# Object-Oriented Programming. Apress, 2011\n8. SHARP, J.: Microsoft Visual C# krok za krokem. Computer Press, 2011\n9. STROUSTRUP, B.: C++ Programming Language. 3rd Edition, Addison-Wesley Professional, 1997\n10. VIRIUS, M.: Jazyky C a C++. 2. aktualizované vydání, Grada, 2011\n11. GAMMA, E. – HELEM, R. – JOHNSON, R. – VLISSIDES, J. M.: Design Patterns: Elements of Reusable Object-Oriented Software.\nAddison-Wesley Professional, 1994\n12. PECINOVSKÝ, R.: Návrhové vzory. Computer Press, 2007\n13. RUMBAUGH, J. – JACOBSON, I. – BOOCH, G.: The Unified Modeling Language Reference Manual. 2nd Edition, Addison-Wesley\nProfessional, 2004\n14. ARLOW, J. – NEUSTADT, I.: UML 2 a unifikovaný proces vývoje aplikací. Computer Press, 2007"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 843\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n25%\n28%\n21%\n14%\n6%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Stanislav Ondáš, PhD.\nIng. Matej Gazda, PhD.\nIng. Zuzana Sokolová, PhD.\ndoc. Ing. Daniel Hládek, PhD.\nIng. Renát Haluška, PhD.\nIng. Matúš Čavojský"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 843,
+    "percent": {
+      "A": 25,
+      "B": 28,
+      "C": 21,
+      "D": 14,
+      "E": 6,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Stanislav Ondáš, PhD.",
+    "Ing. Matej Gazda, PhD.",
+    "Ing. Zuzana Sokolová, PhD.",
+    "doc. Ing. Daniel Hládek, PhD.",
+    "Ing. Renát Haluška, PhD.",
+    "Ing. Matúš Čavojský"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000995\nNázov predmetu: Objektovo orientované programovanie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 2,2\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Bc_D_sk)\n1.\nPrezenčná\n\n\n3.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZískanie poznatkov o princípoch objektovo orientovaného programovania. Osvojenie si programátorských zručností pri objektovo orientovanom návrhu a implementácii softvérových systémov použitím objektovo orientovaných programovacích jazykov a návrhových vzorov.\n\nStručná osnova predmetu:\n1. Trieda a objekt\n2. Stav a správanie sa objektu\n3. Dedičnosť tried\n4. Abstraktné triedy a rozhrania\n5. Správne používanie polymorfizmu\n6. Generické programovanie\n7. Výnimky a zotavenie\n8. Základy objektovo orientovaného modelovania\n9. Návrhové vzory a softvérové rámce\n10. Vytváracie návrhové vzory\n11. Štrukturálne návrhové vzory\n12. Návrhové vzory správania sa\n\nOdporúčaná literatúra:\n1. MEYER, B.: Object-Oriented Software Construction. 2nd Edition, Prentice Hall, 1997\n2. COAD, P. – YOURDON, E.: Object-Oriented Analysis. 2nd Edition, Prentice Hall, 1990\n3. COAD, P. – YOURDON, E.: Object-Oriented Design. Prentice Hall, 1991\n4. COAD, P. – NICOLA, J.: Object-Oriented Programming. Prentice Hall, 1993\n5. ECKEL, B.: Thinking in Java. 4th Edition, Prentice Hall, 2006\n6. PECINOVSKÝ, R.: Myslíme objektově v jazyku Java. GRADA, 2008\n7. CLARK, D.: Beginning C# Object-Oriented Programming. Apress, 2011\n8. SHARP, J.: Microsoft Visual C# krok za krokem. Computer Press, 2011\n9. STROUSTRUP, B.: C++ Programming Language. 3rd Edition, Addison-Wesley Professional, 1997\n10. VIRIUS, M.: Jazyky C a C++. 2. aktualizované vydání, Grada, 2011\n11. GAMMA, E. – HELEM, R. – JOHNSON, R. – VLISSIDES, J. M.: Design Patterns: Elements of Reusable Object-Oriented Software.\nAddison-Wesley Professional, 1994\n12. PECINOVSKÝ, R.: Návrhové vzory. Computer Press, 2007\n13. RUMBAUGH, J. – JACOBSON, I. – BOOCH, G.: The Unified Modeling Language Reference Manual. 2nd Edition, Addison-Wesley\nProfessional, 2004\n14. ARLOW, J. – NEUSTADT, I.: UML 2 a unifikovaný proces vývoje aplikací. Computer Press, 2007\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 843\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n25%\n28%\n21%\n14%\n6%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Stanislav Ondáš, PhD.\nIng. Matej Gazda, PhD.\nIng. Zuzana Sokolová, PhD.\ndoc. Ing. Daniel Hládek, PhD.\nIng. Renát Haluška, PhD.\nIng. Matúš Čavojský\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

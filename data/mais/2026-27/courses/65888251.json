@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65888251",
+  "code": "26000869",
+  "name": "Inteligentné systémy a digitálne technológie internetu vecí (IoT)",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888251",
+  "fetched_at": "2026-11-17T15:03:47Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000869"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Inteligentné systémy a digitálne technológie internetu vecí (IoT)"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZáverečné hodnotenie má formu komplexného praktického zadania zameraného na návrh, implementáciu, testovanie a prezentáciu funkčného IoT riešenia (napr. senzorový uzol a jeho integrácia do IoT infraštruktúry). Študent prospeje v ZH a úspešne vykoná klasifikovaný zápočet, keď splní podmienku získať min. 51 bodov z celkového počtu 100 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu získa študent rozšírené znalosti a praktické zručnosti z oblasti návrhu a implementácie IoT senzorových uzlov na báze mikrokontroléra ESP32 a vstavaných systémov. Dôraz je kladený na kompletný postup od zberu a spracovania dát zo senzorov (ADC, PWM) cez periférne zbernice (UART, SPI, I²C) až po bezdrôtovú komunikáciu a integráciu do IoT infraštruktúry (Wi-Fi, ESP-NOW, MQTT). Študent si osvojí zásady diagnostiky a verifikácie signálov a komunikácie meraním a dekódovaním na osciloskope, naučí sa navrhovať energeticky úspornú prevádzku senzorových uzlov (spánkové režimy, monitorovanie batérie) a realizovať základné spracovanie a vizualizáciu dát v nástrojoch typu Home Assistant a Grafana. Absolvent predmetu je schopný samostatne navrhnúť, implementovať a otestovať funkčný IoT uzol a jeho pripojenie k lokálnemu IoT serveru (napr. Raspberry Pi)."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "(1) Motivačný úvod do predmetu, úvod do IoT, simulácia Wokwi.\n(2) Vstavané systémy pre IoT- ESP32 vývojové prostredie, programovanie, sériová linka, základné diagnostické výpisy.\n(3) PWM a ADC: generovanie signálov, vzorkovanie, základná filtrácia a vyhodnotenie; meranie osciloskopom.\n(4) Zbernica UART: komunikácia ESP32↔PC a ESP32↔ESP32, overenie a dekódovanie komunikácie osciloskopom.\n(5) Zbernica SPI: pripojenie periférií (displej/ADC/flash), časovanie a režimy prenosu, dekódovanie komunikácie osciloskopom.\n(6) Zbernica I2C so senzormi: integrácia senzorov (BME/ SHT), overenie komunikácie; dekódovanie osciloskopom.\n(7) Bezdrôtové komunikačné technológie IoT (Wi-Fi, BLE, LoRaWAN, ZigBee).\n(8) ESP-NOW komunikácia: priame bezdrôtové prepojenie, vysielač/ prijímač, spoľahlivosť prenosu.\n(9) MQTT: model publish/ subscribe, broker (Mosquitto), návrh tém a správ, publikovanie a odber dát.\n(10) Senzorový uzol I: meranie environmentálnych veličín, štruktúra firmvéru, monitorovanie napájania a batérie.\n(11) Senzorový uzol II: spánkové režimy, režimy úspory energie, diagnostika prevádzky, odhad spotreby a výdrže napájania.\n(12) Senzorový uzol III: integrácia cez MQTT, spracovanie a vizualizácia dát (Home Assistant, Grafana).\n(13) Raspberry Pi ako IoT brána: lokálny broker a služby, správa komponentov, koncept gateway a nasadenie riešenia."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Oner, V. O. Developing IoT Projects with ESP32 (2nd Edition). Packt Publishing, 2023. ISBN 978-1803237688. [2] Ziegler, S. a kol. Springer Handbook of Internet of Things. Springer,\n[3] MISRA, Sudip; MUKHERJEE, Anandarup; ROY, Arijit. Introduction to IoT. Cambridge University Press, 2021.\n[4] KURNIAWAN, Agus. Internet of Things Projects with ESP32: Build exciting and powerful IoT projects using the all-new Espressif ESP32. Packt Publishing Ltd, 2019.\n[5] LEA, Perry. Internet of Things for Architects: Architecting IoT solutions by implementing sensors, communication infrastructure, edge computing, analytics, and security. Packt Publishing Ltd, 2018.\n[6] Vel, Aadhitya & .A.R, Krithika & Chepauk, Jeevanthika. (2025). Embedded Systems and IoT Foundations, Design, and Smart Applications, Published by Amazon Kindle Direct Publishing, ISBN: 9798268353969."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať klasifikovaný zápočet. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 112\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n29%\n20%\n13%\n14%\n11%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Pavol Galajda, CSc.\nIng. Patrik Jurík, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 112,
+    "percent": {
+      "A": 13,
+      "B": 29,
+      "C": 20,
+      "D": 13,
+      "E": 14,
+      "FX": 11
+    }
+  },
+  "teachers": [
+    "prof. Ing. Pavol Galajda, CSc.",
+    "Ing. Patrik Jurík, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000869\nNázov predmetu: Inteligentné systémy a digitálne technológie internetu vecí (IoT)\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZáverečné hodnotenie má formu komplexného praktického zadania zameraného na návrh, implementáciu, testovanie a prezentáciu funkčného IoT riešenia (napr. senzorový uzol a jeho integrácia do IoT infraštruktúry). Študent prospeje v ZH a úspešne vykoná klasifikovaný zápočet, keď splní podmienku získať min. 51 bodov z celkového počtu 100 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu získa študent rozšírené znalosti a praktické zručnosti z oblasti návrhu a implementácie IoT senzorových uzlov na báze mikrokontroléra ESP32 a vstavaných systémov. Dôraz je kladený na kompletný postup od zberu a spracovania dát zo senzorov (ADC, PWM) cez periférne zbernice (UART, SPI, I²C) až po bezdrôtovú komunikáciu a integráciu do IoT infraštruktúry (Wi-Fi, ESP-NOW, MQTT). Študent si osvojí zásady diagnostiky a verifikácie signálov a komunikácie meraním a dekódovaním na osciloskope, naučí sa navrhovať energeticky úspornú prevádzku senzorových uzlov (spánkové režimy, monitorovanie batérie) a realizovať základné spracovanie a vizualizáciu dát v nástrojoch typu Home Assistant a Grafana. Absolvent predmetu je schopný samostatne navrhnúť, implementovať a otestovať funkčný IoT uzol a jeho pripojenie k lokálnemu IoT serveru (napr. Raspberry Pi).\n\nStručná osnova predmetu:\n(1) Motivačný úvod do predmetu, úvod do IoT, simulácia Wokwi.\n(2) Vstavané systémy pre IoT- ESP32 vývojové prostredie, programovanie, sériová linka, základné diagnostické výpisy.\n(3) PWM a ADC: generovanie signálov, vzorkovanie, základná filtrácia a vyhodnotenie; meranie osciloskopom.\n(4) Zbernica UART: komunikácia ESP32↔PC a ESP32↔ESP32, overenie a dekódovanie komunikácie osciloskopom.\n(5) Zbernica SPI: pripojenie periférií (displej/ADC/flash), časovanie a režimy prenosu, dekódovanie komunikácie osciloskopom.\n(6) Zbernica I2C so senzormi: integrácia senzorov (BME/ SHT), overenie komunikácie; dekódovanie osciloskopom.\n(7) Bezdrôtové komunikačné technológie IoT (Wi-Fi, BLE, LoRaWAN, ZigBee).\n(8) ESP-NOW komunikácia: priame bezdrôtové prepojenie, vysielač/ prijímač, spoľahlivosť prenosu.\n(9) MQTT: model publish/ subscribe, broker (Mosquitto), návrh tém a správ, publikovanie a odber dát.\n(10) Senzorový uzol I: meranie environmentálnych veličín, štruktúra firmvéru, monitorovanie napájania a batérie.\n(11) Senzorový uzol II: spánkové režimy, režimy úspory energie, diagnostika prevádzky, odhad spotreby a výdrže napájania.\n(12) Senzorový uzol III: integrácia cez MQTT, spracovanie a vizualizácia dát (Home Assistant, Grafana).\n(13) Raspberry Pi ako IoT brána: lokálny broker a služby, správa komponentov, koncept gateway a nasadenie riešenia.\n\n\nOdporúčaná literatúra:\n[1] Oner, V. O. Developing IoT Projects with ESP32 (2nd Edition). Packt Publishing, 2023. ISBN 978-1803237688. [2] Ziegler, S. a kol. Springer Handbook of Internet of Things. Springer,\n[3] MISRA, Sudip; MUKHERJEE, Anandarup; ROY, Arijit. Introduction to IoT. Cambridge University Press, 2021.\n[4] KURNIAWAN, Agus. Internet of Things Projects with ESP32: Build exciting and powerful IoT projects using the all-new Espressif ESP32. Packt Publishing Ltd, 2019.\n[5] LEA, Perry. Internet of Things for Architects: Architecting IoT solutions by implementing sensors, communication infrastructure, edge computing, analytics, and security. Packt Publishing Ltd, 2018.\n[6] Vel, Aadhitya & .A.R, Krithika & Chepauk, Jeevanthika. (2025). Embedded Systems and IoT Foundations, Design, and Smart Applications, Published by Amazon Kindle Direct Publishing, ISBN: 9798268353969.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať klasifikovaný zápočet. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 112\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n29%\n20%\n13%\n14%\n11%\n\n\nZabezpečuje:\nprof. Ing. Pavol Galajda, CSc.\nIng. Patrik Jurík, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

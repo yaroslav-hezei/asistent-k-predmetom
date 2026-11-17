@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65908619",
+  "code": "2610631",
+  "name": "Výkonové polovodičové systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908619",
+  "fetched_at": "2026-11-17T15:06:48Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2610631"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Výkonové polovodičové systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 6 laboratórnych protokolov (18b.), Kontrolný test (22b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 4 zadané otázky."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú vedomosti z oblasti teórie a využitia moderných výkonových polovodičových systémov. Naučia sa analyzovať pokročilé výkonové polovodičové meniče pre moderné aplikácie v oblasti obnoviteľných zdrojov energie, elektromobility, regulovaných jednosmerných a striedavých elektrických pohonov, batériových úložísk energie. Študenti budú rozumieť činnosti usmerňovačov riadených šírkovo-impluzovou moduláciou, jednosmerným meničom s obojsmerným tokom energie, meničom s jednotkovým účinníkom, nepriamym meničom frekvencie, viacúrovňovým striedačom, atď. Ďalej sa naučia dimenzovať unipolárne a bipolárne výkonové polovodičové súčiastky, búdu poznať vlastnosti a oblasti použitia moderných súčiastok na báze GaN a SiC.\nŠtudenti sa v rámci laboratórnych meraní naučia merať základné zapojenia výkonových polovodičových meničov a budú vedieť vypočítať ich základné parametre. Naučia sa používať modernú meraciu techniku, oboznámia sa s metodikou merania v laboratóriu výkonovej elektroniky a naučia sa spracovať namerané hodnoty a vyvodzovať závery. V rámci meraní sa zdokonalia v tímovej práci a prezentovaní výsledkov. Študenti tak získajú komplexné znalosti, ktoré budú uplatňovať pri štúdiu nadväzujúcich odborných predmetov z oblasti výkonovej elektroniky a zároveň ich pripravia na prácu v špecialistu/špecialistky výkonovej elektroniky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Moderné výkonové polovodičové súčiastky na báze GaN a SiC a oblasti ich využitia. Požiadavky na výkonové polovodičové systémy a trendy v modernej výkonovej elektronike.\n2. Usmerňovače riadené šírkovo-impulzovou moduláciou aj s obojsmerným tokom výkonu, ich vlastnosti, aplikácie, topológie.\n3. Meniče s jednotkovým účinníkom aj s obojsmerným tokom výkonu, ich vlastnosti, aplikácie, topológie.\n4. Priame jednosmerné meniče aj s obojsmerným tokom výkonu, ich vlastnosti, aplikácie, topológie.\n5. Nepriame jednosmerné meniče aj s obojsmerným tokom výkonu, ich vlastnosti, aplikácie, topológie.\n6. Mäkké spínanie výkonových polovodičových súčiastok v meničoch so šírkovo-impluzovou moduláciou a rezonančných meničoch.\n7. Meniče pre jednosmerné pohony aj s rekuperáciou energie, ich vlastnosti, aplikácie, topológie.\n8. Meniče pre striedavé pohony aj s rekuperáciou energie, ich vlastnosti, aplikácie, topológie.\n9. Viacúrovňové a viacfázové meniče.\n10. Dimenzovanie unipolárnych a bipolárnych výkonových polovodičových súčiastok."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] N. Mohan, T. Undeland, and W. Robbins, Power Electronics. New York: John Wiley & Sons, 1995.\n[2] J. Oetter, Výkonová elektronika pre elektrické pohony. Bratislava: ALFA, 1988.\n[3] F. Vondrášek, Výkonová elektronika. Měniče s vnější komutací. Plzeň: ZČU, 2001.\n[4] J. Dudrik, Návrh, dimenzovanie a ochrana výkonových polovodičových súčiastok. Košice: Elfa, 2010. ISBN:978-80-8086-141-4\n[5] J. Dudrik, Výkonové polovodičové systémy podklady na prednášky. 1. vyd. Košice: Technická univerzita v Košiciach, 2019. 88 s. [CD-ROM]. ISBN: 978-80-553-3254-3\n[6] L. Bobra, Elektrické pohony a výkonová elektronika. Bratislava: Slovenská technická univerzita, 2013. ISBN: 978-80-227-3858-3"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (103 hodín), spolu 168 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 590\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n11%\n14%\n20%\n28%\n16%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Pástor, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 590,
+    "percent": {
+      "A": 11,
+      "B": 11,
+      "C": 14,
+      "D": 20,
+      "E": 28,
+      "FX": 16
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Pástor, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 2610631\nNázov predmetu: Výkonové polovodičové systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): ZS 26,39\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 6 laboratórnych protokolov (18b.), Kontrolný test (22b).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 4 zadané otázky.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú vedomosti z oblasti teórie a využitia moderných výkonových polovodičových systémov. Naučia sa analyzovať pokročilé výkonové polovodičové meniče pre moderné aplikácie v oblasti obnoviteľných zdrojov energie, elektromobility, regulovaných jednosmerných a striedavých elektrických pohonov, batériových úložísk energie. Študenti budú rozumieť činnosti usmerňovačov riadených šírkovo-impluzovou moduláciou, jednosmerným meničom s obojsmerným tokom energie, meničom s jednotkovým účinníkom, nepriamym meničom frekvencie, viacúrovňovým striedačom, atď. Ďalej sa naučia dimenzovať unipolárne a bipolárne výkonové polovodičové súčiastky, búdu poznať vlastnosti a oblasti použitia moderných súčiastok na báze GaN a SiC.\nŠtudenti sa v rámci laboratórnych meraní naučia merať základné zapojenia výkonových polovodičových meničov a budú vedieť vypočítať ich základné parametre. Naučia sa používať modernú meraciu techniku, oboznámia sa s metodikou merania v laboratóriu výkonovej elektroniky a naučia sa spracovať namerané hodnoty a vyvodzovať závery. V rámci meraní sa zdokonalia v tímovej práci a prezentovaní výsledkov. Študenti tak získajú komplexné znalosti, ktoré budú uplatňovať pri štúdiu nadväzujúcich odborných predmetov z oblasti výkonovej elektroniky a zároveň ich pripravia na prácu v špecialistu/špecialistky výkonovej elektroniky.\n\nStručná osnova predmetu:\n1. Moderné výkonové polovodičové súčiastky na báze GaN a SiC a oblasti ich využitia. Požiadavky na výkonové polovodičové systémy a trendy v modernej výkonovej elektronike.\n2. Usmerňovače riadené šírkovo-impulzovou moduláciou aj s obojsmerným tokom výkonu, ich vlastnosti, aplikácie, topológie.\n3. Meniče s jednotkovým účinníkom aj s obojsmerným tokom výkonu, ich vlastnosti, aplikácie, topológie.\n4. Priame jednosmerné meniče aj s obojsmerným tokom výkonu, ich vlastnosti, aplikácie, topológie.\n5. Nepriame jednosmerné meniče aj s obojsmerným tokom výkonu, ich vlastnosti, aplikácie, topológie.\n6. Mäkké spínanie výkonových polovodičových súčiastok v meničoch so šírkovo-impluzovou moduláciou a rezonančných meničoch.\n7. Meniče pre jednosmerné pohony aj s rekuperáciou energie, ich vlastnosti, aplikácie, topológie.\n8. Meniče pre striedavé pohony aj s rekuperáciou energie, ich vlastnosti, aplikácie, topológie.\n9. Viacúrovňové a viacfázové meniče.\n10. Dimenzovanie unipolárnych a bipolárnych výkonových polovodičových súčiastok.\n\nOdporúčaná literatúra:\n[1] N. Mohan, T. Undeland, and W. Robbins, Power Electronics. New York: John Wiley & Sons, 1995.\n[2] J. Oetter, Výkonová elektronika pre elektrické pohony. Bratislava: ALFA, 1988.\n[3] F. Vondrášek, Výkonová elektronika. Měniče s vnější komutací. Plzeň: ZČU, 2001.\n[4] J. Dudrik, Návrh, dimenzovanie a ochrana výkonových polovodičových súčiastok. Košice: Elfa, 2010. ISBN:978-80-8086-141-4\n[5] J. Dudrik, Výkonové polovodičové systémy podklady na prednášky. 1. vyd. Košice: Technická univerzita v Košiciach, 2019. 88 s. [CD-ROM]. ISBN: 978-80-553-3254-3\n[6] L. Bobra, Elektrické pohony a výkonová elektronika. Bratislava: Slovenská technická univerzita, 2013. ISBN: 978-80-227-3858-3\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (103 hodín), spolu 168 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 590\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n11%\n14%\n20%\n28%\n16%\n\n\nZabezpečuje:\ndoc. Ing. Marek Pástor, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

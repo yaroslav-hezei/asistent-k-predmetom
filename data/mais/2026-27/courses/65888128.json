@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65888128",
+  "code": "26000859",
+  "name": "Rečové interaktívne komunikačné systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888128",
+  "fetched_at": "2026-11-17T15:03:39Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000859"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Rečové interaktívne komunikačné systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 2,0,0,2,0,0,0,0,0"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je zameraný na získanie teoretických vedomostí a nadobudnutie praktických zručností v oblasti návrhu interaktívnej komunikácie prostredníctvom mobilných telekomunikačných terminálov, ako sú smartfóny, tablety a pod. Študenti sa oboznámia s rečovými a multimodálnymi interakčnými systémami, s ich štruktúrou a s technológiami, ktoré umožňujú komunikáciu rečou a tiež pomocou ďalších modalít (gestá, dotyk, ...). Absolvovanie predmetu poskytne absolventovi základné poznatky o technológiách rozpoznávania a syntézy reči, riadenia interakcie, multimodálnej fúzie a fízie a o technológiach pre hlasovú interakciu cez web, sprostredkovanú cez mobilné telekomunikačné terminály. Študenti získajú praktické skúsenosti s návrhom interaktívnych služieb s hlasovou modalitou pre rečové interaktívne systémy a tiež pre aplikácie pre mobilné terminály s využitím technológií na rozpoznávanie a syntézu reči."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základy multimodálnej interakcie medzi počítačmi a ľuďmi;\n2. Rečové a multimodálne interaktívne systémy – definícia, klasifikácia, princípy a štruktúra;\n3. Mobilné a webové interaktívne systémy a technológie (server-klient riešenia, dostupné realizácie technológií, štandardy, prostriedky na vytváranie mobilných webobých aplikácií s VUI);\n4. Komunikačné modality (text, dotyk, reč, gestá, snímanie tváre, mozgové vlny);\n5. Multimodálne technológie pre mobilné terminály;\n6. Automatické rozpoznávanie reči a hovoriaceho;\n7. Automatické rozpoznávanie tváre, giest a ďalších modalít;\n8. Fúzia a fízia modalít;\n9. Riadenie interakcie;\n10. Syntéza reči;\n11. Doménové dáta v interaktívných systémoch a ich službách;\n12. Metódy evaluácie interaktívnych telekomunikačných aplikácií."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Juhár, J. a kol.: Rečové technológie v telekomunikačných a informačných systémoch, Košice 2011, ISBN 978-80-89284-75-7\n[2] J.-P. Thiran, F. Marqués, H. Bourlard, Eds., Multimodal Signal Processing Theory and Applications for ,Human–Computer Interaction, Elsevier Academic Press, 2010.\n[3] David Benyon, Designing Interactive Systems, 2ed., Pearson Academic Wesley, 2010.\n[4] Alan Dix et.al., Human-computer interaction, 3ed., Pearson Prentice Hall, 2004."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 81\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n30%\n20%\n16%\n6%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Stanislav Ondáš, PhD.\ndoc. Ing. Daniel Hládek, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 81,
+    "percent": {
+      "A": 22,
+      "B": 30,
+      "C": 20,
+      "D": 16,
+      "E": 6,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Stanislav Ondáš, PhD.",
+    "doc. Ing. Daniel Hládek, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000859\nNázov predmetu: Rečové interaktívne komunikačné systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): LS 2,0,0,2,0,0,0,0,0\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je zameraný na získanie teoretických vedomostí a nadobudnutie praktických zručností v oblasti návrhu interaktívnej komunikácie prostredníctvom mobilných telekomunikačných terminálov, ako sú smartfóny, tablety a pod. Študenti sa oboznámia s rečovými a multimodálnymi interakčnými systémami, s ich štruktúrou a s technológiami, ktoré umožňujú komunikáciu rečou a tiež pomocou ďalších modalít (gestá, dotyk, ...). Absolvovanie predmetu poskytne absolventovi základné poznatky o technológiách rozpoznávania a syntézy reči, riadenia interakcie, multimodálnej fúzie a fízie a o technológiach pre hlasovú interakciu cez web, sprostredkovanú cez mobilné telekomunikačné terminály. Študenti získajú praktické skúsenosti s návrhom interaktívnych služieb s hlasovou modalitou pre rečové interaktívne systémy a tiež pre aplikácie pre mobilné terminály s využitím technológií na rozpoznávanie a syntézu reči.\n\nStručná osnova predmetu:\n1. Základy multimodálnej interakcie medzi počítačmi a ľuďmi;\n2. Rečové a multimodálne interaktívne systémy – definícia, klasifikácia, princípy a štruktúra;\n3. Mobilné a webové interaktívne systémy a technológie (server-klient riešenia, dostupné realizácie technológií, štandardy, prostriedky na vytváranie mobilných webobých aplikácií s VUI);\n4. Komunikačné modality (text, dotyk, reč, gestá, snímanie tváre, mozgové vlny);\n5. Multimodálne technológie pre mobilné terminály;\n6. Automatické rozpoznávanie reči a hovoriaceho;\n7. Automatické rozpoznávanie tváre, giest a ďalších modalít;\n8. Fúzia a fízia modalít;\n9. Riadenie interakcie;\n10. Syntéza reči;\n11. Doménové dáta v interaktívných systémoch a ich službách;\n12. Metódy evaluácie interaktívnych telekomunikačných aplikácií.\n\n\nOdporúčaná literatúra:\n[1] Juhár, J. a kol.: Rečové technológie v telekomunikačných a informačných systémoch, Košice 2011, ISBN 978-80-89284-75-7\n[2] J.-P. Thiran, F. Marqués, H. Bourlard, Eds., Multimodal Signal Processing Theory and Applications for ,Human–Computer Interaction, Elsevier Academic Press, 2010.\n[3] David Benyon, Designing Interactive Systems, 2ed., Pearson Academic Wesley, 2010.\n[4] Alan Dix et.al., Human-computer interaction, 3ed., Pearson Prentice Hall, 2004.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 81\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n30%\n20%\n16%\n6%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Stanislav Ondáš, PhD.\ndoc. Ing. Daniel Hládek, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

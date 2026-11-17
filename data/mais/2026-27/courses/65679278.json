@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65679278",
+  "code": "26001351",
+  "name": "Rozvrhovanie a logistika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65679278",
+  "fetched_at": "2026-11-17T15:01:07Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001351"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Rozvrhovanie a logistika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPísomka pozostávajúca z riešenia úloh, za ktoré je možné získať spolu max. 30 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška prebieha formou testu, kde je možné získať maximálne 50 bodov. Okrem toho je možné získať ďalších max. 20 bodov za riešenie priebežne zadávaných úloh z prednášok."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní predmetu študent získa základné vedomosti a praktické zručnosti potrebné na formuláciu a riešenie rozhodovacích a optimalizačných úloh v oblasti rozvrhovania, logistiky a plánovania zdrojov. Študent porozumie základným modelom a metódam operačného výskumu, optimalizácie a umelej inteligencie, ktoré sa používajú pri riešení alokačných, distribučných, rozvrhovacích a ďalších logistických úloh. Absolvent predmetu je schopný analyzovať úlohy rozvrhovania a logistiky systémovým prístupom, formulovať rozhodovacie problémy pomocou modelov s ohraničeniami, zvoliť vhodné riešiace metódy (exaktné, heuristické, prístupy umelej inteligencie), tvorivo aplikovať získané poznatky pri riešení praktických úloh, využívať vybrané softvérové nástroje na podporu rozhodovania a optimalizácie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Rozvrhovanie a logistika ako rozhodovacie a optimalizačné problémy.\n2. Modelovanie rozvrhovacích a logistických úloh.\n3. Základy optimalizačných metód a operačného výskumu.\n4. Úlohy spĺňania ohraničení (CSP) – reprezentácia a riešenie rozhodovacích problémov.\n5. Metódy umelej inteligencie pri riešení úloh rozvrhovania a logistiky (plánovanie, znalostné a pravidlové prístupy).\n6. Heuristické a metaheuristické metódy v rozvrhovaní a logistike.\n7. Alokačné, distribučné a plánovacie úlohy.\n8. Výrobné rozvrhovanie a plánovanie operácií.\n9. Logistika dopravy a skladovania.\n10. Integrácia rozvrhovania a logistiky v inteligentných systémoch."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Paralič, J.: Rozvrhovanie a logistika. Equilibria, s.r.o., Košice, 2010, 94 s.,ISBN 978-80-89284-63-4\n- Mach, M., Paralič, J.: Úlohy a ohraničeniami - od teórie k programovaniu. Elfa, 2000, 217 s., ISBN 80-88964-48-2\n- Paralič, J.: Riešenie úloh rozvrhovania logickým programovaním ohraničení, dizertačná práca, Technická univerzita Košice, máj 1997. Online. Dostupné na: https://jan.paralic.website.tuke.sk/knihy/RozvrhovanieCLP.pdf [cit. 13.1.2026]\n- Dudorkin, J.: Operační výzkum, Praha, České vysoké učení technické, 1997, 296 s., ISBN 9788001005026"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 45 hodín\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 100 hodín\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Vypracovanie úloh z prednášok: 13 hodín\n• Programovanie a počítanie úloh z cvičení: 26 hodín\n• Príprava na skúšku: 48 hodín\n------------------------------------------------\nCelkovo výučba spolu: 145 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Paralič, PhD.\ndoc. Ing. Peter Butka, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Paralič, PhD.",
+    "doc. Ing. Peter Butka, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001351\nNázov predmetu: Rozvrhovanie a logistika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1\nExterná forma štúdia (hodiny za semester): LS 26,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPísomka pozostávajúca z riešenia úloh, za ktoré je možné získať spolu max. 30 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška prebieha formou testu, kde je možné získať maximálne 50 bodov. Okrem toho je možné získať ďalších max. 20 bodov za riešenie priebežne zadávaných úloh z prednášok.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní predmetu študent získa základné vedomosti a praktické zručnosti potrebné na formuláciu a riešenie rozhodovacích a optimalizačných úloh v oblasti rozvrhovania, logistiky a plánovania zdrojov. Študent porozumie základným modelom a metódam operačného výskumu, optimalizácie a umelej inteligencie, ktoré sa používajú pri riešení alokačných, distribučných, rozvrhovacích a ďalších logistických úloh. Absolvent predmetu je schopný analyzovať úlohy rozvrhovania a logistiky systémovým prístupom, formulovať rozhodovacie problémy pomocou modelov s ohraničeniami, zvoliť vhodné riešiace metódy (exaktné, heuristické, prístupy umelej inteligencie), tvorivo aplikovať získané poznatky pri riešení praktických úloh, využívať vybrané softvérové nástroje na podporu rozhodovania a optimalizácie.\n\nStručná osnova predmetu:\n1. Rozvrhovanie a logistika ako rozhodovacie a optimalizačné problémy.\n2. Modelovanie rozvrhovacích a logistických úloh.\n3. Základy optimalizačných metód a operačného výskumu.\n4. Úlohy spĺňania ohraničení (CSP) – reprezentácia a riešenie rozhodovacích problémov.\n5. Metódy umelej inteligencie pri riešení úloh rozvrhovania a logistiky (plánovanie, znalostné a pravidlové prístupy).\n6. Heuristické a metaheuristické metódy v rozvrhovaní a logistike.\n7. Alokačné, distribučné a plánovacie úlohy.\n8. Výrobné rozvrhovanie a plánovanie operácií.\n9. Logistika dopravy a skladovania.\n10. Integrácia rozvrhovania a logistiky v inteligentných systémoch.\n\nOdporúčaná literatúra:\n- Paralič, J.: Rozvrhovanie a logistika. Equilibria, s.r.o., Košice, 2010, 94 s.,ISBN 978-80-89284-63-4\n- Mach, M., Paralič, J.: Úlohy a ohraničeniami - od teórie k programovaniu. Elfa, 2000, 217 s., ISBN 80-88964-48-2\n- Paralič, J.: Riešenie úloh rozvrhovania logickým programovaním ohraničení, dizertačná práca, Technická univerzita Košice, máj 1997. Online. Dostupné na: https://jan.paralic.website.tuke.sk/knihy/RozvrhovanieCLP.pdf [cit. 13.1.2026]\n- Dudorkin, J.: Operační výzkum, Praha, České vysoké učení technické, 1997, 296 s., ISBN 9788001005026\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 45 hodín\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 100 hodín\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Vypracovanie úloh z prednášok: 13 hodín\n• Programovanie a počítanie úloh z cvičení: 26 hodín\n• Príprava na skúšku: 48 hodín\n------------------------------------------------\nCelkovo výučba spolu: 145 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Ján Paralič, PhD.\ndoc. Ing. Peter Butka, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

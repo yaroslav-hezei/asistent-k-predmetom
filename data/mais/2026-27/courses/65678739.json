@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65678739",
+  "code": "26001345",
+  "name": "Úvod do dátovej vedy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65678739",
+  "fetched_at": "2026-11-17T15:00:55Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001345"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Úvod do dátovej vedy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%. Priebežné hodnotenie pozostáva zo semestrálneho zadania, ktoré je riešené v tímoch."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu študent/ka rozumie základným pojmom, metódam a životnému cyklu dátovej vedy v kontexte IT a umelej inteligencie, pozná typy dát, ich zdroje, základné štatistické princípy a význam prieskumnej analýzy dát. Dokáže samostatne pracovať s dátami pomocou bežných nástrojov (napr. Python), vykonávať čistenie, transformáciu, analýzu a vizualizáciu dát a vytvárať jednoduché prediktívne modely. Vie interpretovať a kriticky hodnotiť výsledky analýz s ohľadom na kvalitu dát, obmedzenia použitých metód a vhodnosť zvoleného postupu. Získané poznatky dokáže aplikovať na riešenie praktických úloh a na informačnú podporu rozhodovacích procesov, pričom výsledky vie zrozumiteľne komunikovať rôznym cieľovým skupinám. Zároveň je schopný spolupracovať v tíme, uvedomuje si etické, právne a spoločenské aspekty práce s dátami a význam zodpovedného a transparentného využívania dát pri rozhodovaní."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- úvod do dátovej vedy, vzťah k umelej inteligencii, strojovému učeniu a informatike, procesný model analytického projektu\n- typy dát a zdroje dát, štruktúrované a neštruktúrované dáta\n- čistenie a príprava dát, spracovanie chýbajúcich dát, normalizácia dát\n- prieskumná analýza dát, hľadanie vzťahov a vzorcov v dátach\n- vizualizácia dát, základné typy grafov, vizualizácia ako nástroj podpory rozhodovania\n- základy pravdepodobnosti a štatistiky, korelácia vs. kauzalita\n- úvod do prediktívneho dolovania, regresia a klasifikácia\n- hodnotenie modelov, metriky, preučenie a generalizácia\n- dátová veda a podpora rozhodovania, základy systémov na podporu rozhodovania\n- etické, právne a spoločenské aspekty, bias v dátch, zodpovedné využívanie dát a umelej inteligencie"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Cremonini, M.: Data Science Fundamentals with R, Python, and Open Data, 1st edition, Springer, 2024\nVincent, K. P.: A Friendly Guide to Data Science: Everything You Should Know About the Hottest Field in Tech, 1st edition, Apress (Springer Nature), 2025"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "V prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\nKontaktná výučba: spolu 58 hodín\no Účasť na prednáškach: 26 hodín\no Účasť na laboratórnych cvičeniach: 13 hodín\no Priame konzultácie: 6 hodín\no Projektová práca priamo na cvičeniach: 13 hodín\nNekontaktná výučba: spolu 114 hodín\n• Príprava na prednášky a cvičenia (štúdium literatúry): 12 hodín\n• Vypracovanie domácich úloh na cvičenia: 6 hodín\n• Spracovanie semestrálneho projektu: 48 hodín\n• Príprava na skúšku: 48 hodín\nCelkový počet hodín: 172 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. František Babič, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. František Babič, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001345\nNázov predmetu: Úvod do dátovej vedy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%. Priebežné hodnotenie pozostáva zo semestrálneho zadania, ktoré je riešené v tímoch.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu študent/ka rozumie základným pojmom, metódam a životnému cyklu dátovej vedy v kontexte IT a umelej inteligencie, pozná typy dát, ich zdroje, základné štatistické princípy a význam prieskumnej analýzy dát. Dokáže samostatne pracovať s dátami pomocou bežných nástrojov (napr. Python), vykonávať čistenie, transformáciu, analýzu a vizualizáciu dát a vytvárať jednoduché prediktívne modely. Vie interpretovať a kriticky hodnotiť výsledky analýz s ohľadom na kvalitu dát, obmedzenia použitých metód a vhodnosť zvoleného postupu. Získané poznatky dokáže aplikovať na riešenie praktických úloh a na informačnú podporu rozhodovacích procesov, pričom výsledky vie zrozumiteľne komunikovať rôznym cieľovým skupinám. Zároveň je schopný spolupracovať v tíme, uvedomuje si etické, právne a spoločenské aspekty práce s dátami a význam zodpovedného a transparentného využívania dát pri rozhodovaní.\n\nStručná osnova predmetu:\n- úvod do dátovej vedy, vzťah k umelej inteligencii, strojovému učeniu a informatike, procesný model analytického projektu\n- typy dát a zdroje dát, štruktúrované a neštruktúrované dáta\n- čistenie a príprava dát, spracovanie chýbajúcich dát, normalizácia dát\n- prieskumná analýza dát, hľadanie vzťahov a vzorcov v dátach\n- vizualizácia dát, základné typy grafov, vizualizácia ako nástroj podpory rozhodovania\n- základy pravdepodobnosti a štatistiky, korelácia vs. kauzalita\n- úvod do prediktívneho dolovania, regresia a klasifikácia\n- hodnotenie modelov, metriky, preučenie a generalizácia\n- dátová veda a podpora rozhodovania, základy systémov na podporu rozhodovania\n- etické, právne a spoločenské aspekty, bias v dátch, zodpovedné využívanie dát a umelej inteligencie\n\n\nOdporúčaná literatúra:\nCremonini, M.: Data Science Fundamentals with R, Python, and Open Data, 1st edition, Springer, 2024\nVincent, K. P.: A Friendly Guide to Data Science: Everything You Should Know About the Hottest Field in Tech, 1st edition, Apress (Springer Nature), 2025\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: V prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\nKontaktná výučba: spolu 58 hodín\no Účasť na prednáškach: 26 hodín\no Účasť na laboratórnych cvičeniach: 13 hodín\no Priame konzultácie: 6 hodín\no Projektová práca priamo na cvičeniach: 13 hodín\nNekontaktná výučba: spolu 114 hodín\n• Príprava na prednášky a cvičenia (štúdium literatúry): 12 hodín\n• Vypracovanie domácich úloh na cvičenia: 6 hodín\n• Spracovanie semestrálneho projektu: 48 hodín\n• Príprava na skúšku: 48 hodín\nCelkový počet hodín: 172 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. František Babič, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

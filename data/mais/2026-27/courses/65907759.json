@@ -1,0 +1,175 @@
+{
+  "predmet_id": "65907759",
+  "code": "26001098",
+  "name": "Aplikácie signálových mikrokontrolérov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65907759",
+  "fetched_at": "2026-11-17T15:05:36Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001098"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Aplikácie signálových mikrokontrolérov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26001272 - Signálové mikrokontroléry"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Zápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nPri tom z každého čiastkového hodnotenia získa aspoň 51% bodov. Hodnotenie pozostáva z: priebežný test (15 bodov), tímové zadanie (40 bodov), záverečný test (45 bodov). Študent môže mať max. 3 ospravedlnené neúčasti na cvičeniach. bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet nadväzuje na predmet Signálové mikrokontroléry a je zameraný na praktické aplikácie mikrokontrolérov v embedded systémoch. Študenti sa v tomto predmete naučia pomocou signálového mikrokontroléra vyhodnocovať rôzne typy snímačov, komunikovať s inými zariadeniami či navrhnúť a realizovať FOC riadenie synchrónneho motora s permanentnými magnetmi. Praktickými cvičeniami si študenti zlepšia algoritmické myslenie a zručnosti pri programovaní v jazyku C, budú sa orientovať v nákresoch elektrických obvodov a naučia sa prepájať vedomostí z oblasti výkonovej elektroniky a polovodičových meničov, regulovaných pohonov, teórie riadenia, programovania a algoritmizácie.\nPri praktickom tímovom zadaní budú študenti pracovať na tímovom projekte / zákazke pre fiktívneho zákazníka z priemyslu, kde budú navrhovať firmvér pre už existujúci hardvér. Počas riešenia zadania sa študenti naučia vykonávať projektový manažment, t.j. určia si čiastkové ciele, zostavia harmonogram prác, zadelia úlohy a budú kontrolovať dodržiavanie plánu. Pri tomto zadaní si študenti zdokonalia aj mäkké zručnosti, ako sú tímová práca, komunikačné a prezentačné zručnosti.\nPri praktickom tímovom zadaní budú študenti pracovať na tímovom projekte / zákazke pre fiktívneho zákazníka z priemyslu, kde budú navrhovať firmvér pre už existujúci hardvér. Počas riešenia zadania sa študenti naučia vykonávať projektový manažment, t.j. určia si čiastkové ciele, zostavia harmonogram prác, zadelia úlohy a budú kontrolovať dodržiavanie plánu. Pri tomto zadaní si študenti zdokonalia aj mäkké zručnosti, ako sú tímová práca, komunikačné a prezentačné zručnosti."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Rekapitulácia poznatkov z programovania a algoritmizácie – práca so štruktúrami a smerníkmi, zvyklosti a štandardy v programovaní, dokumentácia programového kódu a jej automatická generácia pomocou DOXYGEN, práca s GIT.\n2. Generovanie výstupného napätia – sínusová modulácia, modulácia s treťou harmonickou, SVM modulácia, realizácia modulácií pomocou mikrokontroléra.\n3. Diskretizácia a jej programový zápis – diskrétne filtre, diskrétny integrátor, diskrétny PI regulátor a ich programová reprezentácia.\n4. Základná architektúra riadiaceho programu pre FOC riadenie synchrónneho motora s permanentnými magnetmi – matematický model motora, regulačná štruktúra, návrh regulátorov, začlenenie častí regulačnej štruktúry v rámci firmvéru, ladenie regulátorov v praxi.\n5. Komunikačné periférie SPI, I2C, SCI – princípy činnosti, príklady použitia, vzájomné porovnanie, výhody, nevýhody.\n6. Zobrazovacie prvky – 7-segmentovky, maticové displeje, alfanumerické displeje a princípy ich riadenia.\n7. Komunikačné štandardy RS232, RS422, RS485 – princípy činnosti, príklady použitia, vzájomné porovnanie, výhody, nevýhody.\n8. Snímače polohy s komunikačnými protokolmi – snímače s rozhraním SSI, BiSS-C, EnDat, HIPERFACE a ich prepojenie s mikrokontrolérom s využitím komunikačných periférií."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] P. Herout, Učebnice jazyka C (1. díl), České Budějovice: Kopp nakladatelství, 2009, ISBN 978-80-7232-383-8\n[2] V. Šlapák, M. Lacko, Signálové mikrokontroléry, Košice: Technická univerzita v Košiciach, 2018, ISBN 978-80-553-2970-3\n[3] Texas Instruments, Inc., TMS320F2837xD Dual-Core Real-Time Microcontrollers : Datasheet. Dallas (Texas, USA) : Texas Instruments, 2024, rev. Feb. 2024, Lit. Number SPRS880,\n[4] Texas Instruments, Inc., TMS320F2837xD Dual-Core Real-Time Microcontrollers : Technical Reference Manual, Dallas (Texas, USA) : Texas Instruments, 2024, rev. May 2024, Lit. Number SPRUHM8"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 55\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n24%\n27%\n11%\n11%\n5%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Milan Lacko, PhD.\nIng. Viktor Šlapák, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 55,
+    "percent": {
+      "A": 22,
+      "B": 24,
+      "C": 27,
+      "D": 11,
+      "E": 11,
+      "FX": 5
+    }
+  },
+  "teachers": [
+    "doc. Ing. Milan Lacko, PhD.",
+    "Ing. Viktor Šlapák, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001098\nNázov predmetu: Aplikácie signálových mikrokontrolérov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): LS 26,39\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety: 26001272 - Signálové mikrokontroléry\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nPri tom z každého čiastkového hodnotenia získa aspoň 51% bodov. Hodnotenie pozostáva z: priebežný test (15 bodov), tímové zadanie (40 bodov), záverečný test (45 bodov). Študent môže mať max. 3 ospravedlnené neúčasti na cvičeniach. bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet nadväzuje na predmet Signálové mikrokontroléry a je zameraný na praktické aplikácie mikrokontrolérov v embedded systémoch. Študenti sa v tomto predmete naučia pomocou signálového mikrokontroléra vyhodnocovať rôzne typy snímačov, komunikovať s inými zariadeniami či navrhnúť a realizovať FOC riadenie synchrónneho motora s permanentnými magnetmi. Praktickými cvičeniami si študenti zlepšia algoritmické myslenie a zručnosti pri programovaní v jazyku C, budú sa orientovať v nákresoch elektrických obvodov a naučia sa prepájať vedomostí z oblasti výkonovej elektroniky a polovodičových meničov, regulovaných pohonov, teórie riadenia, programovania a algoritmizácie.\nPri praktickom tímovom zadaní budú študenti pracovať na tímovom projekte / zákazke pre fiktívneho zákazníka z priemyslu, kde budú navrhovať firmvér pre už existujúci hardvér. Počas riešenia zadania sa študenti naučia vykonávať projektový manažment, t.j. určia si čiastkové ciele, zostavia harmonogram prác, zadelia úlohy a budú kontrolovať dodržiavanie plánu. Pri tomto zadaní si študenti zdokonalia aj mäkké zručnosti, ako sú tímová práca, komunikačné a prezentačné zručnosti.\nPri praktickom tímovom zadaní budú študenti pracovať na tímovom projekte / zákazke pre fiktívneho zákazníka z priemyslu, kde budú navrhovať firmvér pre už existujúci hardvér. Počas riešenia zadania sa študenti naučia vykonávať projektový manažment, t.j. určia si čiastkové ciele, zostavia harmonogram prác, zadelia úlohy a budú kontrolovať dodržiavanie plánu. Pri tomto zadaní si študenti zdokonalia aj mäkké zručnosti, ako sú tímová práca, komunikačné a prezentačné zručnosti.\n\nStručná osnova predmetu:\n1. Rekapitulácia poznatkov z programovania a algoritmizácie – práca so štruktúrami a smerníkmi, zvyklosti a štandardy v programovaní, dokumentácia programového kódu a jej automatická generácia pomocou DOXYGEN, práca s GIT.\n2. Generovanie výstupného napätia – sínusová modulácia, modulácia s treťou harmonickou, SVM modulácia, realizácia modulácií pomocou mikrokontroléra.\n3. Diskretizácia a jej programový zápis – diskrétne filtre, diskrétny integrátor, diskrétny PI regulátor a ich programová reprezentácia.\n4. Základná architektúra riadiaceho programu pre FOC riadenie synchrónneho motora s permanentnými magnetmi – matematický model motora, regulačná štruktúra, návrh regulátorov, začlenenie častí regulačnej štruktúry v rámci firmvéru, ladenie regulátorov v praxi.\n5. Komunikačné periférie SPI, I2C, SCI – princípy činnosti, príklady použitia, vzájomné porovnanie, výhody, nevýhody.\n6. Zobrazovacie prvky – 7-segmentovky, maticové displeje, alfanumerické displeje a princípy ich riadenia.\n7. Komunikačné štandardy RS232, RS422, RS485 – princípy činnosti, príklady použitia, vzájomné porovnanie, výhody, nevýhody.\n8. Snímače polohy s komunikačnými protokolmi – snímače s rozhraním SSI, BiSS-C, EnDat, HIPERFACE a ich prepojenie s mikrokontrolérom s využitím komunikačných periférií.\n\nOdporúčaná literatúra:\n[1] P. Herout, Učebnice jazyka C (1. díl), České Budějovice: Kopp nakladatelství, 2009, ISBN 978-80-7232-383-8\n[2] V. Šlapák, M. Lacko, Signálové mikrokontroléry, Košice: Technická univerzita v Košiciach, 2018, ISBN 978-80-553-2970-3\n[3] Texas Instruments, Inc., TMS320F2837xD Dual-Core Real-Time Microcontrollers : Datasheet. Dallas (Texas, USA) : Texas Instruments, 2024, rev. Feb. 2024, Lit. Number SPRS880,\n[4] Texas Instruments, Inc., TMS320F2837xD Dual-Core Real-Time Microcontrollers : Technical Reference Manual, Dallas (Texas, USA) : Texas Instruments, 2024, rev. May 2024, Lit. Number SPRUHM8\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 55\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n24%\n27%\n11%\n11%\n5%\n\n\nZabezpečuje:\ndoc. Ing. Milan Lacko, PhD.\nIng. Viktor Šlapák, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

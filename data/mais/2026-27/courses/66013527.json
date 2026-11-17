@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013527",
+  "code": "26001178",
+  "name": "Strojové učenie II",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013527",
+  "fetched_at": "2026-11-17T15:15:18Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001178"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Strojové učenie II"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 2,2"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra bude zápočtový test za 10 bodov. Ďalších 30 bodov je možné získať za zadania, ktoré spočívajú v individuálnej práci na projektoch obsahujúcich návrh a implementáciu systémov založených na strojovom učení."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent zvládne vybrané metódy a techniky strojového učenia s dôrazom na učenie s posilňovaním. Naučí sa rozvíjať a navrhovať vlastné riešenia problémov pomocou vytvárania modelov odvodených z ovplyvňovania reálnych aj simulovaných systémov s dôrazom na porozumenie používaným metódam. Naučí sa tvorivo aplikovať získané poznatky o širokej škále metód strojového učenia s posilňovaním a efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov. Naučí sa pracovať na projektoch obsahujúcich identifikáciu stratégií, metód, techník a prostriedkov riešenia problémov rôznych typov, analýzu, návrh a implementáciu učiacich sa systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Markovovské rozhodovacie procesy\n- Základné pojmy, podmienka optimality, Bellmanova rovnica, explorácia vs exploatácia, on vs off policy\n- Dynamické programovanie\n- Monte Carlo prístupy\n- Temporal difference prístupy\n- Hybridizácia základných prístupov\n- Aproximácia hodnotovej funkcie, tabuľkové vs deep reprezentácie\n- Policy gradient prístupy, Actor-critic\n- Učenie s posilňovaním v doméne hier"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Sutton a Barto: Reinforcement learning (2nd ed.). MIT Press, 2018\n- Russell a Nordvig: Artificial Intelligence – A modern Approach., (4th ed). Pearson, 2020\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 86\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n21%\n14%\n16%\n16%\n14%\n19%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marián Mach, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 86,
+    "percent": {
+      "A": 21,
+      "B": 14,
+      "C": 16,
+      "D": 16,
+      "E": 14,
+      "FX": 19
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marián Mach, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001178\nNázov predmetu: Strojové učenie II\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): LS 2,2\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra bude zápočtový test za 10 bodov. Ďalších 30 bodov je možné získať za zadania, ktoré spočívajú v individuálnej práci na projektoch obsahujúcich návrh a implementáciu systémov založených na strojovom učení.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent zvládne vybrané metódy a techniky strojového učenia s dôrazom na učenie s posilňovaním. Naučí sa rozvíjať a navrhovať vlastné riešenia problémov pomocou vytvárania modelov odvodených z ovplyvňovania reálnych aj simulovaných systémov s dôrazom na porozumenie používaným metódam. Naučí sa tvorivo aplikovať získané poznatky o širokej škále metód strojového učenia s posilňovaním a efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov. Naučí sa pracovať na projektoch obsahujúcich identifikáciu stratégií, metód, techník a prostriedkov riešenia problémov rôznych typov, analýzu, návrh a implementáciu učiacich sa systémov.\n\nStručná osnova predmetu:\n- Markovovské rozhodovacie procesy\n- Základné pojmy, podmienka optimality, Bellmanova rovnica, explorácia vs exploatácia, on vs off policy\n- Dynamické programovanie\n- Monte Carlo prístupy\n- Temporal difference prístupy\n- Hybridizácia základných prístupov\n- Aproximácia hodnotovej funkcie, tabuľkové vs deep reprezentácie\n- Policy gradient prístupy, Actor-critic\n- Učenie s posilňovaním v doméne hier\n\nOdporúčaná literatúra:\n- Sutton a Barto: Reinforcement learning (2nd ed.). MIT Press, 2018\n- Russell a Nordvig: Artificial Intelligence – A modern Approach., (4th ed). Pearson, 2020\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 86\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n21%\n14%\n16%\n16%\n14%\n19%\n\n\nZabezpečuje:\ndoc. Ing. Marián Mach, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

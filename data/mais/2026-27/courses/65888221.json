@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65888221",
+  "code": "26000867",
+  "name": "Lokalizácia v bezdrôtových a mobilných sieťach",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888221",
+  "fetched_at": "2026-11-17T15:03:45Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000867"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Lokalizácia v bezdrôtových a mobilných sieťach"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nŠtudent úspešne absolvuje PH a získa zápočet, ak dosiahne minimálne 21 % z čiastkovej hodnoty predstavujúcej 40 % celkového hodnotenia. Na získanie zápočtu je potrebné získať minimálne 16 bodov z celkového počtu 30 bodov. Hodnotenie sa udeľuje na základe priebežne odovzdaných úloh zameraných na modelovanie a simuláciu čiastkových procesov využívaných pri lokalizácii terminálov v mobilných a bezdrôtových komunikačných systémoch. Modelovanie a simulácie budú realizované v programe MATLAB."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nŠtudent úspešne splní podmienky ZH a následne aj skúšky, ak dosiahne minimálne 31 % z čiastkovej hodnoty predstavujúcej 60 % celkového hodnotenia. Na úspešné absolvovanie skúšky je potrebné získať najmenej 36 bodov z celkového možného počtu 70 bodov. Skúška sa skladá z písomnej časti (test základných vedomostí a riešenie odborných úloh) a z ústnej časti (overenie teoretických poznatkov z oblasti lokalizácie mobilných systémov)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu študent získa ucelené základy šírenia rádiových vĺn v mobilnom prostredí a porozumie moderným metódam lokalizácie mobilných terminálov v rôznych typoch bezdrôtových sietí. Osvojí praktické zručnosti v návrhu a implementácii lokalizačných algoritmov využívajúcich parametre extrahované zo signálu pri jeho šírení prostredím."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základné pojmy, význam lokalizácie - Lokalizácia v mobilných a IoT sieťach, prehľad scenárov a požiadaviek.\n2. Klasifikácia lokalizačných techník a metód - Absolútne vs. relatívne metódy, infraštruktúrou podporované a autonómne riešenia, pasívne a aktívne prístupy.\n3. Lokalizácia v bunkových sieťach (2G–5G/6G) - Metódy založené na meraniach v sieťach operátorov, hybridné prístupy, nové možnosti v 5G/6G (beamforming, sidelink, NR-positioning).\n4. Lokalizácia vo WLAN a ad-hoc/mesh sieťach - Fingerprinting, trilaterácia, vplyv prostredia, metódy zvyšovania presnosti, špecifiká distribuovaných a kooperatívnych riešení.\n5. Lokalizácia v senzorových a IoT sieťach - Energetická efektivita, obmedzenia uzlov, distribuované algoritmy, low-power lokalizácia."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Xiaohua Tian, Xinyu Tong, Xinbing Wang: Wireless Localization Techniques, 2023, 368 s. ISBN 978-3-031-21180-5;\n[2] Kegen Yu, Elena-Simona Lohan, Ian Oppermann: Handbook of Wireless Positioning, 2025, 430 s. ISBN 978-981-99-1650-4;\n[3] L. Doboš: Mobilné technológie a služby. Technická univerzita v Košiciach, 2012, 90 s. ISBN 978-80-553-1025-1,\n[4] J. Papaj a kol.: Lokalizácia mobilných objektov prostredníctvom rádiových sietí, EDIS, 185 s. 2015, ISBN 978-80-554-1087-6"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 222\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n23%\n41%\n21%\n2%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Papaj, PhD.\nIng. Hai Tran Ngoc\nIng. Renát Haluška, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 222,
+    "percent": {
+      "A": 7,
+      "B": 23,
+      "C": 41,
+      "D": 21,
+      "E": 2,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Papaj, PhD.",
+    "Ing. Hai Tran Ngoc",
+    "Ing. Renát Haluška, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000867\nNázov predmetu: Lokalizácia v bezdrôtových a mobilných sieťach\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nŠtudent úspešne absolvuje PH a získa zápočet, ak dosiahne minimálne 21 % z čiastkovej hodnoty predstavujúcej 40 % celkového hodnotenia. Na získanie zápočtu je potrebné získať minimálne 16 bodov z celkového počtu 30 bodov. Hodnotenie sa udeľuje na základe priebežne odovzdaných úloh zameraných na modelovanie a simuláciu čiastkových procesov využívaných pri lokalizácii terminálov v mobilných a bezdrôtových komunikačných systémoch. Modelovanie a simulácie budú realizované v programe MATLAB.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nŠtudent úspešne splní podmienky ZH a následne aj skúšky, ak dosiahne minimálne 31 % z čiastkovej hodnoty predstavujúcej 60 % celkového hodnotenia. Na úspešné absolvovanie skúšky je potrebné získať najmenej 36 bodov z celkového možného počtu 70 bodov. Skúška sa skladá z písomnej časti (test základných vedomostí a riešenie odborných úloh) a z ústnej časti (overenie teoretických poznatkov z oblasti lokalizácie mobilných systémov).\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu študent získa ucelené základy šírenia rádiových vĺn v mobilnom prostredí a porozumie moderným metódam lokalizácie mobilných terminálov v rôznych typoch bezdrôtových sietí. Osvojí praktické zručnosti v návrhu a implementácii lokalizačných algoritmov využívajúcich parametre extrahované zo signálu pri jeho šírení prostredím.\n\nStručná osnova predmetu:\n1. Základné pojmy, význam lokalizácie - Lokalizácia v mobilných a IoT sieťach, prehľad scenárov a požiadaviek.\n2. Klasifikácia lokalizačných techník a metód - Absolútne vs. relatívne metódy, infraštruktúrou podporované a autonómne riešenia, pasívne a aktívne prístupy.\n3. Lokalizácia v bunkových sieťach (2G–5G/6G) - Metódy založené na meraniach v sieťach operátorov, hybridné prístupy, nové možnosti v 5G/6G (beamforming, sidelink, NR-positioning).\n4. Lokalizácia vo WLAN a ad-hoc/mesh sieťach - Fingerprinting, trilaterácia, vplyv prostredia, metódy zvyšovania presnosti, špecifiká distribuovaných a kooperatívnych riešení.\n5. Lokalizácia v senzorových a IoT sieťach - Energetická efektivita, obmedzenia uzlov, distribuované algoritmy, low-power lokalizácia.\n\n\n\nOdporúčaná literatúra:\n[1] Xiaohua Tian, Xinyu Tong, Xinbing Wang: Wireless Localization Techniques, 2023, 368 s. ISBN 978-3-031-21180-5;\n[2] Kegen Yu, Elena-Simona Lohan, Ian Oppermann: Handbook of Wireless Positioning, 2025, 430 s. ISBN 978-981-99-1650-4;\n[3] L. Doboš: Mobilné technológie a služby. Technická univerzita v Košiciach, 2012, 90 s. ISBN 978-80-553-1025-1,\n[4] J. Papaj a kol.: Lokalizácia mobilných objektov prostredníctvom rádiových sietí, EDIS, 185 s. 2015, ISBN 978-80-554-1087-6\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 222\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n23%\n41%\n21%\n2%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Ján Papaj, PhD.\nIng. Hai Tran Ngoc\nIng. Renát Haluška, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

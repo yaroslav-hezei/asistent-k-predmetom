@@ -1,0 +1,163 @@
+{
+  "predmet_id": "69490983",
+  "code": "26001447",
+  "name": "Automobilová elektronika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=69490983",
+  "fetched_at": "2026-11-17T15:17:58Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001447"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Automobilová elektronika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška z predmetu pre 1. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie za semester"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet poskytuje poslucháčom informácie o moderných elektronických zariadeniach v automobile. Študent získa znalosti o architektúre, koncepcii a systéme riadiacich jednotiek v automobile. Oboznámi sa so systematickým členením agregátov vo vozidle, fyzikálnymi veličinami a princípmi senzorov, ktoré sa využívajú na ich snímanie. Dôraz je v tomto predmete kladený na filozofiu manažmentu zážihových aj vznetových motorov. Študent získa taktiež praktické skúsenosti s diagnostikou vozidiel, vývojom a začleňovaním riadiacich jednotiek do systému zberníc vozidla hlavne CAN zbernice."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "(1) História automobilovej elektroniky, (2) Hlavné agregáty automobilu a veličiny používané pre ich riadenie, (3) Senzory polohy, (4) Senzory otáčok, rýchlosti a akcelerácií, (5) Senzory tlaku, sily a krútiaceho momentu, (6) Senzory rýchlosti a hmotnosti prietoku tekutín, (7) Senzory koncentrácie kyslíka vo výfukových plynoch, (8) Senzory vlhkosti a teploty, (9) Termodynamická bilancia a účinnosť jednotlivých koncepcií motorov, (10) Riadenie prípravy zmesí a aspekty jej horenia, (11) Riadenie zapaľovania a samovznietenie. (12) Riadenie parametra lambda a katalytický konvertor, (13)Snímanie a riadenie klepania."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Ronald K. Jurgen: Automotive Electronics Handbook (2nd ed.). McGraw-Hill Professional, 1999.\n[2] Bosch: Automotive Handbook (8th ed.). Bentley Publishers, 2011.\n[3]Ján Gamec: Automobilová elektronika 1.1. vyd. - Košice : Technická univerzita - 2015. - 248 s. [CD-ROM]. - ISBN 978-80-553-2084-7."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Gamec, CSc.\nIng. Daniel Dzivý, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Štátna skúška z predmetu pre 1. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Gamec, CSc.",
+    "Ing. Daniel Dzivý, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001447\nNázov predmetu: Automobilová elektronika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška z predmetu pre 1. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie za semester\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet poskytuje poslucháčom informácie o moderných elektronických zariadeniach v automobile. Študent získa znalosti o architektúre, koncepcii a systéme riadiacich jednotiek v automobile. Oboznámi sa so systematickým členením agregátov vo vozidle, fyzikálnymi veličinami a princípmi senzorov, ktoré sa využívajú na ich snímanie. Dôraz je v tomto predmete kladený na filozofiu manažmentu zážihových aj vznetových motorov. Študent získa taktiež praktické skúsenosti s diagnostikou vozidiel, vývojom a začleňovaním riadiacich jednotiek do systému zberníc vozidla hlavne CAN zbernice.\n\nStručná osnova predmetu:\n(1) História automobilovej elektroniky, (2) Hlavné agregáty automobilu a veličiny používané pre ich riadenie, (3) Senzory polohy, (4) Senzory otáčok, rýchlosti a akcelerácií, (5) Senzory tlaku, sily a krútiaceho momentu, (6) Senzory rýchlosti a hmotnosti prietoku tekutín, (7) Senzory koncentrácie kyslíka vo výfukových plynoch, (8) Senzory vlhkosti a teploty, (9) Termodynamická bilancia a účinnosť jednotlivých koncepcií motorov, (10) Riadenie prípravy zmesí a aspekty jej horenia, (11) Riadenie zapaľovania a samovznietenie. (12) Riadenie parametra lambda a katalytický konvertor, (13)Snímanie a riadenie klepania.\n\nOdporúčaná literatúra:\n[1] Ronald K. Jurgen: Automotive Electronics Handbook (2nd ed.). McGraw-Hill Professional, 1999.\n[2] Bosch: Automotive Handbook (8th ed.). Bentley Publishers, 2011.\n[3]Ján Gamec: Automobilová elektronika 1.1. vyd. - Košice : Technická univerzita - 2015. - 248 s. [CD-ROM]. - ISBN 978-80-553-2084-7.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Ján Gamec, CSc.\nIng. Daniel Dzivý, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

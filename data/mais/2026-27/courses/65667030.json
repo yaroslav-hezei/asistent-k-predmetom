@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65667030",
+  "code": "2621421",
+  "name": "Riadenie IT prostredia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667030",
+  "fetched_at": "2026-11-17T15:00:00Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2621421"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Riadenie IT prostredia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%. V priebehu semestra študenti odovzdajú 1 zadanie a absolvujú písomnú previerku zameranú na praktickú aplikáciu vedomostí."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%. Na skúške študenti absolvujú písomnú previerku vedomostí"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné poznatky z oblasti riadenia IT služieb a súvisiacich noriem a rámcov. Študent nadobudne základné znalosti rámca ITIL, a jednotlivých princípov, konceptov a procesov, ktoré popisuje. Študent si osvojí základné myšlienky IT Governance a súvisiaceho rámca COBIT, základné vedomosti o informačnej bezpečnosti a súvisiacich normách a rámcoch. Prostredníctvom praktických cvičení nadobudne študent skúsenosti s vybraným nástrojom pre podporu procesov riadenia IT služieb. Na sérii cvičení si osvojí základné zručnosti v oblasti administrácie nástroja a na množine praktických scenárov ho použije pre realizáciu vybraných procesov obsiahnutých v prednáškach"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Úvod do problematiky riadenia IT služieb, existujúcich metodík a rámcov\n• Úvod do rámca ITIL, história rámca ITIL\n• Stratégia služby – procesy a základné koncepty\n• Návrh služby – základné princípy, procesy, katalóg služieb\n• Prechod služby – konfiguračný manažment, konfiguračné databázy a prostriedky pre ich podporu\n• Prevádzka služieb a service desk – procesy a nástroje pre ich podporu, metodiky merania výkonnosti\n• Kontinuálna prevádzka služieb\n• IT Governance – úvod do IT governance a metodika COBIT\n• Meranie výkonnosti z pohľadu IT procesov\n• IT bezpečnosť – základy informačnej bezpečnosti, súvisiace normy a rámce"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Kolektív autorov: ITIL 2011, Computer Press, 2012, 216 s., ISBN: 9788025137321\n• J. Van Bon, A. de Jong, A. Kolthof: Foundations of IT Service Management Based on ITIL V3, Van Haren Publishing, 2007, 350 s., ISBN:\n9789087530570\n• M. Sarnovský, K. Furdík, E. Školová: Riadenie IT prostredia, TU Košice, 2015, 103 s., ISBN: 9788055320458\n• Ľ. Lukáč: IT management, Computer Press, 2012, 208 s., ISBN: 9788025133781"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Poznámky:\nKontaktná výučba: spolu 60 hodín, z toho:\n\n1. Účasť na prednáškach: 15 hodín\n2. Účasť na cvičeniach: 30 hodín\n3. Priame konzultácie: 15 hodín\n\nNekontaktná výučba: spolu 78 hodín, z toho:\n1. Príprava na prednášky a cvičenia (štúdium literatúry): 10 hodín\n2. Riešenie úloh z cvičení: 10 hodín\n3. Príprava na zápočtový test: 10 hodín\n4. Príprava na skúšku: 48 hodín\n------------------------------------------------\nCelkovo výučba spolu: 138 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1169\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n13%\n25%\n33%\n21%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Kristína Machová, PhD.\ndoc. Ing. Martin Sarnovský, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1169,
+    "percent": {
+      "A": 3,
+      "B": 13,
+      "C": 25,
+      "D": 33,
+      "E": 21,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "prof. Ing. Kristína Machová, PhD.",
+    "doc. Ing. Martin Sarnovský, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2621421\nNázov predmetu: Riadenie IT prostredia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2,0\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%. V priebehu semestra študenti odovzdajú 1 zadanie a absolvujú písomnú previerku zameranú na praktickú aplikáciu vedomostí.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%. Na skúške študenti absolvujú písomnú previerku vedomostí\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné poznatky z oblasti riadenia IT služieb a súvisiacich noriem a rámcov. Študent nadobudne základné znalosti rámca ITIL, a jednotlivých princípov, konceptov a procesov, ktoré popisuje. Študent si osvojí základné myšlienky IT Governance a súvisiaceho rámca COBIT, základné vedomosti o informačnej bezpečnosti a súvisiacich normách a rámcoch. Prostredníctvom praktických cvičení nadobudne študent skúsenosti s vybraným nástrojom pre podporu procesov riadenia IT služieb. Na sérii cvičení si osvojí základné zručnosti v oblasti administrácie nástroja a na množine praktických scenárov ho použije pre realizáciu vybraných procesov obsiahnutých v prednáškach\n\nStručná osnova predmetu:\n• Úvod do problematiky riadenia IT služieb, existujúcich metodík a rámcov\n• Úvod do rámca ITIL, história rámca ITIL\n• Stratégia služby – procesy a základné koncepty\n• Návrh služby – základné princípy, procesy, katalóg služieb\n• Prechod služby – konfiguračný manažment, konfiguračné databázy a prostriedky pre ich podporu\n• Prevádzka služieb a service desk – procesy a nástroje pre ich podporu, metodiky merania výkonnosti\n• Kontinuálna prevádzka služieb\n• IT Governance – úvod do IT governance a metodika COBIT\n• Meranie výkonnosti z pohľadu IT procesov\n• IT bezpečnosť – základy informačnej bezpečnosti, súvisiace normy a rámce\n\nOdporúčaná literatúra:\n• Kolektív autorov: ITIL 2011, Computer Press, 2012, 216 s., ISBN: 9788025137321\n• J. Van Bon, A. de Jong, A. Kolthof: Foundations of IT Service Management Based on ITIL V3, Van Haren Publishing, 2007, 350 s., ISBN:\n9789087530570\n• M. Sarnovský, K. Furdík, E. Školová: Riadenie IT prostredia, TU Košice, 2015, 103 s., ISBN: 9788055320458\n• Ľ. Lukáč: IT management, Computer Press, 2012, 208 s., ISBN: 9788025133781\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Poznámky:\nKontaktná výučba: spolu 60 hodín, z toho:\n\n1. Účasť na prednáškach: 15 hodín\n2. Účasť na cvičeniach: 30 hodín\n3. Priame konzultácie: 15 hodín\n\nNekontaktná výučba: spolu 78 hodín, z toho:\n1. Príprava na prednášky a cvičenia (štúdium literatúry): 10 hodín\n2. Riešenie úloh z cvičení: 10 hodín\n3. Príprava na zápočtový test: 10 hodín\n4. Príprava na skúšku: 48 hodín\n------------------------------------------------\nCelkovo výučba spolu: 138 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1169\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n13%\n25%\n33%\n21%\n4%\n\n\nZabezpečuje:\nprof. Ing. Kristína Machová, PhD.\ndoc. Ing. Martin Sarnovský, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

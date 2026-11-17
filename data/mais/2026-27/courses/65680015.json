@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65680015",
+  "code": "26001356",
+  "name": "Učenie posilňovaním",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65680015",
+  "fetched_at": "2026-11-17T15:01:14Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001356"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Učenie posilňovaním"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra získavajú študenti body v rámci zápočtu za vypracovanie individuálnych zadaní riešiacich výber, návrh a implementáciu systémov založených na učení posilňovaním."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent zvládne vybrané metódy a techniky strojového učenia s dôrazom na učenie s posilňovaním. Naučí sa rozvíjať a navrhovať vlastné riešenia problémov pomocou vytvárania modelov odvodených z ovplyvňovania reálnych aj simulovaných systémov s dôrazom na porozumenie používaným metódam. Naučí sa tvorivo aplikovať získané poznatky o širokej škále metód strojového učenia s posilňovaním a efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov. Naučí sa pracovať na projektoch obsahujúcich identifikáciu stratégií, metód, techník a prostriedkov riešenia problémov rôznych typov, analýzu, návrh a implementáciu učiacich sa systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do oblasti učenia posilňovaním, základné pojmy, model interakcie\n- Konečné Markovovské rozhodovacie procesy, hodnotové funkcie, Bellmanove rovnice\n- Monte Carlo prístupy\n- Temporal difference prístupy\n- Hybridizácia základných prístupov\n- Aproximácia hodnotovej funkcie, lineárny vs nelineárny aproximátor\n- Aproximácia politiky, gradientový prístup\n- Actor-critic prístupy\n- Učenie s modelom prostredia, dynamické programovanie\n- Plánovanie a učenie, vytváranie modelu prostredia\n- Imitačné učenie, inverzné učenie, off-line učenie"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Sutton, Barto: Reinforcement learning (2nd ed.). MIT Press, 2018\n- Russell, Nordvig: Artificial Intelligence – A modern Approach., (4th ed). Pearson, 2020\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na numerických cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marián Mach, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marián Mach, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001356\nNázov predmetu: Učenie posilňovaním\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra získavajú študenti body v rámci zápočtu za vypracovanie individuálnych zadaní riešiacich výber, návrh a implementáciu systémov založených na učení posilňovaním.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent zvládne vybrané metódy a techniky strojového učenia s dôrazom na učenie s posilňovaním. Naučí sa rozvíjať a navrhovať vlastné riešenia problémov pomocou vytvárania modelov odvodených z ovplyvňovania reálnych aj simulovaných systémov s dôrazom na porozumenie používaným metódam. Naučí sa tvorivo aplikovať získané poznatky o širokej škále metód strojového učenia s posilňovaním a efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov. Naučí sa pracovať na projektoch obsahujúcich identifikáciu stratégií, metód, techník a prostriedkov riešenia problémov rôznych typov, analýzu, návrh a implementáciu učiacich sa systémov.\n\nStručná osnova predmetu:\n- Úvod do oblasti učenia posilňovaním, základné pojmy, model interakcie\n- Konečné Markovovské rozhodovacie procesy, hodnotové funkcie, Bellmanove rovnice\n- Monte Carlo prístupy\n- Temporal difference prístupy\n- Hybridizácia základných prístupov\n- Aproximácia hodnotovej funkcie, lineárny vs nelineárny aproximátor\n- Aproximácia politiky, gradientový prístup\n- Actor-critic prístupy\n- Učenie s modelom prostredia, dynamické programovanie\n- Plánovanie a učenie, vytváranie modelu prostredia\n- Imitačné učenie, inverzné učenie, off-line učenie\n\nOdporúčaná literatúra:\n- Sutton, Barto: Reinforcement learning (2nd ed.). MIT Press, 2018\n- Russell, Nordvig: Artificial Intelligence – A modern Approach., (4th ed). Pearson, 2020\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na numerických cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Marián Mach, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

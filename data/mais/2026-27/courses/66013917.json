@@ -1,0 +1,168 @@
+{
+  "predmet_id": "66013917",
+  "code": "26001188",
+  "name": "Navigačné metódy v robotike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013917",
+  "fetched_at": "2026-11-17T15:15:52Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001188"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Navigačné metódy v robotike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť úvod do problematiky navigácie mobilných robotov, t. j. prehľad prostriedkov lokalizácie a plánovania cesty. Podrobnejšie sa bude riešiť problematika technických prostriedkov pre lokalizáciu robotov v tzv. inteligentnom priestore s využitím konceptu Internetu vecí (IoT). Budú prezentované vybrané metódy plánovania cesty individuálnych robotov ako aj v prostredí multiagentových systémov (MAS). Bude poskytnutý aj úvod do problematiky plánovania a riadenia pohybu. Študenti si v rámci zadania navrhnú reálny experiment s využitím vybraných lokalizačných prostriedkov a metód plánovania cesty."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Úvod do problematiky navigácie – predmet záujmy, základné úlohy.\n• Koncept tzv. všadeprítomnej robotiky.\n• Prostriedky IoT pre potreby lokalizácie (RFID, rádiomajáky, WiFi, GPS, atď.) a mapovania prostredia (SLAM).\n• Princípy a základné delenie metód plánovania cesty.\n• Vybrané metódy plánovania ciest úloh (grafové algoritmy, potenciálové polia, biologicky inšpirované algoritmy).\n• Výpočtové prostriedky pre riešenie navigačných (triangulácia a trilaterácia, Kalmanov filter, fuzzy kognitívne mapy, Markovové procesy).\n• Navigácia v prostredí MAS-u.\n• Základné prostriedky a prístupy v plánovaní a riadení pohybu (odometria, ZMP, riadiace middlewares ako napr. ROS)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. F. Duchoň: Lokalizácia a navigácia mobilných robotov do vnútorného prostredia.\n2. S.M. LaValle: Planning Algorithms.\n3. M. Vermeer: Methods of Navigation."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na cvičeniach: 13 hodín\n- Priame konzultácie k projektovej práci: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 160 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 130\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n32%\n11%\n2%\n3%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Dr. Ing. Ján Vaščák"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 130,
+    "percent": {
+      "A": 50,
+      "B": 32,
+      "C": 11,
+      "D": 2,
+      "E": 3,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "doc. Dr. Ing. Ján Vaščák"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001188\nNázov predmetu: Navigačné metódy v robotike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť úvod do problematiky navigácie mobilných robotov, t. j. prehľad prostriedkov lokalizácie a plánovania cesty. Podrobnejšie sa bude riešiť problematika technických prostriedkov pre lokalizáciu robotov v tzv. inteligentnom priestore s využitím konceptu Internetu vecí (IoT). Budú prezentované vybrané metódy plánovania cesty individuálnych robotov ako aj v prostredí multiagentových systémov (MAS). Bude poskytnutý aj úvod do problematiky plánovania a riadenia pohybu. Študenti si v rámci zadania navrhnú reálny experiment s využitím vybraných lokalizačných prostriedkov a metód plánovania cesty.\n\nStručná osnova predmetu:\n• Úvod do problematiky navigácie – predmet záujmy, základné úlohy.\n• Koncept tzv. všadeprítomnej robotiky.\n• Prostriedky IoT pre potreby lokalizácie (RFID, rádiomajáky, WiFi, GPS, atď.) a mapovania prostredia (SLAM).\n• Princípy a základné delenie metód plánovania cesty.\n• Vybrané metódy plánovania ciest úloh (grafové algoritmy, potenciálové polia, biologicky inšpirované algoritmy).\n• Výpočtové prostriedky pre riešenie navigačných (triangulácia a trilaterácia, Kalmanov filter, fuzzy kognitívne mapy, Markovové procesy).\n• Navigácia v prostredí MAS-u.\n• Základné prostriedky a prístupy v plánovaní a riadení pohybu (odometria, ZMP, riadiace middlewares ako napr. ROS).\n\nOdporúčaná literatúra:\n1. F. Duchoň: Lokalizácia a navigácia mobilných robotov do vnútorného prostredia.\n2. S.M. LaValle: Planning Algorithms.\n3. M. Vermeer: Methods of Navigation.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na cvičeniach: 13 hodín\n- Priame konzultácie k projektovej práci: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 160 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 130\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n32%\n11%\n2%\n3%\n2%\n\n\nZabezpečuje:\ndoc. Dr. Ing. Ján Vaščák\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

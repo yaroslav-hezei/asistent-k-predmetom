@@ -1,0 +1,170 @@
+{
+  "predmet_id": "65908375",
+  "code": "26001274",
+  "name": "Riadiace systémy s programovateľnými automatmi",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908375",
+  "fetched_at": "2026-11-17T15:06:29Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001274"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Riadiace systémy s programovateľnými automatmi"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 13,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Vypracovanie a odovzdanie jedného praktického zadania (40b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 4 zadané otázky."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti si rozšíria svoje teoretické vedomosti z oblasti programovania logických programovateľných automatov a nadobudnú praktické skúsenosti pomocou riešenia vybraných typov úloh z oblasti riadiacich systémov. Rovnako budú vedieť navrhnúť pokročilé algoritmy pre riadenie elektrických pohonov, vytvoriť vhodnú vizualizáciu a chápať základné princípy z bezpečnosti strojových zariadení"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Zopakovanie základných pojmov a definícií z prostredia programovateľných logických automatov\n2. Oboznámenie sa s hardvérovými možnosťami riadenia elektrického motora pomocou programovateľného logického automatu a ich zakomponovanie riadenia montážnych liniek\n3. Hardvérové prepojenie elektrického pohonu s programovateľným logickým automatom\n4. Základné bloky logického riadenia\n5. Základné bloky režimov riadenia elektrického motora (rýchlostný režim, polohový režim, prúdový režim)\n6. Aplikácia stavového automatu na riadenie elektrického motora\n7. Tvorba komplexného riadiaceho programu pre riadenie elektrického motora s vizualizáciou\n8. Základné princípy bezpečnosti pri riadení elektrických pohonov v rámci montážnych liniek\n9. Základné informácie smernici 2006/42 / ES o strojových zariadeniach"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Olejár, M.: Programovanie PLC. Nitra: Slovenská poľnohospodárska univerzita v Nitre, 2015, ISBN 9788055213972\n[2] D. Perduková and P. Fedor, Riadiace a vizualizačné systémy: E-Learningová učebnica. Košice, Slovakia: Technická univerzita v Košiciach, 2006, p. 70. ISBN 80-8073-486-0.\n[3] P. Fedor and D. Perduková, Riadiace systémy s programovateľnými automatmi. Košice, Slovakia: Technická univerzita v Košiciach, 2017, p. 214. ISBN 978-80-553-2812-6.\n[4] P. Fedor and D. Perduková, Control of Assembling Lines with PLC. Košice, Slovakia: Technická univerzita v Košiciach, 2014, p. 73. ISBN 978-80-553-1775-5.\n[5] D. Perduková and P. Fedor, “Virtual Laboratory for the Study of Technological Process Automation,” International Journal of Engineering Education, vol. 29, no. 1, pp. 230–238, 2013. ISSN 0949-149X"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach a projektovej práci, 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 18\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n39%\n44%\n17%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Daniela Perduková, PhD.\nprof. Ing. Pavol Fedor, PhD.\nIng. Ján Bačík, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 18,
+    "percent": {
+      "A": 39,
+      "B": 44,
+      "C": 17,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Daniela Perduková, PhD.",
+    "prof. Ing. Pavol Fedor, PhD.",
+    "Ing. Ján Bačík, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001274\nNázov predmetu: Riadiace systémy s programovateľnými automatmi\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,2,1\nExterná forma štúdia (hodiny za semester): LS 13,26,13\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Vypracovanie a odovzdanie jedného praktického zadania (40b).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 4 zadané otázky.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti si rozšíria svoje teoretické vedomosti z oblasti programovania logických programovateľných automatov a nadobudnú praktické skúsenosti pomocou riešenia vybraných typov úloh z oblasti riadiacich systémov. Rovnako budú vedieť navrhnúť pokročilé algoritmy pre riadenie elektrických pohonov, vytvoriť vhodnú vizualizáciu a chápať základné princípy z bezpečnosti strojových zariadení\n\nStručná osnova predmetu:\n1. Zopakovanie základných pojmov a definícií z prostredia programovateľných logických automatov\n2. Oboznámenie sa s hardvérovými možnosťami riadenia elektrického motora pomocou programovateľného logického automatu a ich zakomponovanie riadenia montážnych liniek\n3. Hardvérové prepojenie elektrického pohonu s programovateľným logickým automatom\n4. Základné bloky logického riadenia\n5. Základné bloky režimov riadenia elektrického motora (rýchlostný režim, polohový režim, prúdový režim)\n6. Aplikácia stavového automatu na riadenie elektrického motora\n7. Tvorba komplexného riadiaceho programu pre riadenie elektrického motora s vizualizáciou\n8. Základné princípy bezpečnosti pri riadení elektrických pohonov v rámci montážnych liniek\n9. Základné informácie smernici 2006/42 / ES o strojových zariadeniach\n\nOdporúčaná literatúra:\n[1] Olejár, M.: Programovanie PLC. Nitra: Slovenská poľnohospodárska univerzita v Nitre, 2015, ISBN 9788055213972\n[2] D. Perduková and P. Fedor, Riadiace a vizualizačné systémy: E-Learningová učebnica. Košice, Slovakia: Technická univerzita v Košiciach, 2006, p. 70. ISBN 80-8073-486-0.\n[3] P. Fedor and D. Perduková, Riadiace systémy s programovateľnými automatmi. Košice, Slovakia: Technická univerzita v Košiciach, 2017, p. 214. ISBN 978-80-553-2812-6.\n[4] P. Fedor and D. Perduková, Control of Assembling Lines with PLC. Košice, Slovakia: Technická univerzita v Košiciach, 2014, p. 73. ISBN 978-80-553-1775-5.\n[5] D. Perduková and P. Fedor, “Virtual Laboratory for the Study of Technological Process Automation,” International Journal of Engineering Education, vol. 29, no. 1, pp. 230–238, 2013. ISSN 0949-149X\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach a projektovej práci, 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 18\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n39%\n44%\n17%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Daniela Perduková, PhD.\nprof. Ing. Pavol Fedor, PhD.\nIng. Ján Bačík, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

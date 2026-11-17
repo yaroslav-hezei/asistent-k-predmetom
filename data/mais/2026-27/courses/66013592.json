@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013592",
+  "code": "26001293",
+  "name": "Matematické metódy v priemyselnej informatike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013592",
+  "fetched_at": "2026-11-17T15:15:24Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001293"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Matematické metódy v priemyselnej informatike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": ""
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú jednu písomku za 20 bodov, v ktorej budú výpočtom a algoritmicky riešiť definované príklady a následne postup riešenia a získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy optimálneho riadenia definované v 2-och zadaniach/projektoch (v súčte za 10b). Z priebežného hodnotenia študent môže získať 30b (min. počet je 16b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje výpočtové a algoritmické riešenie aplikačných príkladov v jazyku Matlab/Simulink s následným simulačným overením na PC, teoretická časť skúšky spočíva vo vypracovaní teoretických otázok vyplývajúcich z obsahu prednášok predmetu. Zo skúšky môže študent získať 70b (min 36b)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Hlavným cieľom predmetu je zvládnutie metód optimálneho stavového riadenia nelineárnych dynamických systémov (NDS) na výpočtovej a algoritmickej úrovni a ich verifikácia na simulačných modeloch fyzikálnych systémov (gulička na ploche, robot manipulátor, systém inverzných kyvadiel, žeriav, helikoptéra, hydraulický systém) v riadiacich štruktúrach implementovaných do programového prostredia Matlab/Simulink s využitím špecializovaných toolboxov. Predmet ďalej umožňuje rozvíjanie znalostí z algoritmického riešenia úloh z priemyselnej informatiky ako je modelovanie fyzikálnych systémov v stavovom priestore (bez a s hybridnou dynamikou) a riadenie nelineárnych systémov s následným simulačným overením v prostredí Matlab/Simulink s využitím simulačných a laboratórnych modelov integrovaných do výukového portálu CMMRaPI (kyb.fei.tuke.sk)"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Prehľad simulačných nástrojov vhodných pre modelovanie fyzikálnych systémov s aplikačným využitím v priemyselnej informatike\n• Zostavenie simulačných modelov fyzikálnych systémov v stavovom priestore (gulička na tyči, gulička na ploche, modely klasických/rotačných inverzných kyvadiel, model helikoptéry, robotické ramená, mobilný robot s diferenciálnym podvozkom), analýza nelineárnych systémov na rôzne vstupné signály,\n• Algoritmické riešenie linearizácie nelineárnych systémov s využitím funkcií Symbolic Math toolboxu, generovanie Jacobianov s využitím nepriamej LM, simulačné porovnanie linearizovaného modelu s nelineárnym modelom fyzikálneho systému v pracovnom bode, vyhodnotenie validity modelov pre použitie v riadení,\n• Metódy riadenia nelineárnych systémov s využitím metódy linearizácie, návrh algoritmov riadenia s obmedzením akčných veličín, simulačné overenie návrhu riadenia na laboratórnych modeloch umiestnených na web portáli skupiny CMMRaPI (kyb.fei.tuke.sk)\n• Dynamická optimalizácia a jej využitie v priemyselnej informatike, princíp optimality a typy funkcionálov, štruktúra pre programové a spätnoväzobné optimálne riadenie,\n• Kanonický tvar Euler-Lagrangeovej rovnice, Pontrjaginov princíp maxima, výpočtové a programové riešenie úloh stavového optimálneho riadenia lineárnych dynamických systémov v prostredí Matlab/Simulink,\n• Návrh otimálneho stavového riadenia s využitím princípu minimalizácie kvadratickeho funkcionálu (LQ), výpočtové a simulačné overenie návrhu optimálneho stavového riadenia v riadiacich štruktúrach na modeloch nelineárnych (mechatronických) systémov v simulačnom jazyku Matlab/Simulink pre rôzne ciele riadenia,\n• Simulácia riadiacich štruktúr pre riadenie do rovnovážneho stavu a pre riadenie na ustálený stav modelov nelineárnych systémov (web portál simulačných/laboratóŕnych modelov),\n• Algoritmické riešenie úloh programového OR nelineárnych systémov s využitím Pontrjaginovho princípu maxima a metódy citlivostných funkcií,\n• Simulačné overenie riešenia dvojbodovej okrajovej úlohy na príklade výpočtu optimálnych trajektórií a optimálneho riadenia pre Van-der-Polov oscilátor a robot manipulátor s dvoma stupňami voľnosti,\n• Návrh pre algoritmické riešenie problému sledovania referenčných trajektórií robotickým ramenom s využitím spätnoväzobného optimálneho riadenia (SOR) a výsledkov POR, výpočet odchýlkového perturbačného modelu,\n• Simulačné overenie riadiacej štruktúry s dopredným riadením (FFC) na riešenie úlohy sledovania optimálnych trajektórií robotickým ramenom.\n• Prezentácia výsledkov modelovacích a simulačných techník s využitím web portálu výukových modelov (modely kyvadiel, robotických ramien, model žeriavu, model helikoptéry, modely guličky na tyči/na ploche, modely hydraulických systémov) skupinyCMMRaPI (kyb.fei.tuke.sk) s cieľom ich využitia pri riešení zadaní k predmetu."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Chen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458\nJadlovská, A, - Jadlovská, S.: Moderné metódy modelovania a riadenia nelineárnych systémov, FEI TU, Košice, 2013,\nJadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1.\nTewari, A.: Modern Control Design with Matlab and Simulink, John Wiley & Sons, 2014, ISBN 978-047-149-6793\nJadlovská, A. – Jadlovská, S,:Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3,\nRoubal, J. - Hušek, P. a kol.: Regulační technika v příkladech, Technická literatura BEN, Praha 2011\nSarnovský, J. – Jadlovská, A. – Kica, P.: Teória optimálnych a adaptívnych systémov, FEI TU, Košice, 2005\nLewis, L. Frank et al: Optimal Control, Wiley, 2012\nPublikácie, Tutoriály a prezentácie na výukovom web portáli pre simulačné a laboratórne modely výskumnej skupiny CMMRaPI (kyb.fei.tuke.sk)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 60\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n17%\n18%\n35%\n13%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Anna Jadlovská, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 60,
+    "percent": {
+      "A": 8,
+      "B": 17,
+      "C": 18,
+      "D": 35,
+      "E": 13,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. Anna Jadlovská, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001293\nNázov predmetu: Matematické metódy v priemyselnej informatike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby:\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú jednu písomku za 20 bodov, v ktorej budú výpočtom a algoritmicky riešiť definované príklady a následne postup riešenia a získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy optimálneho riadenia definované v 2-och zadaniach/projektoch (v súčte za 10b). Z priebežného hodnotenia študent môže získať 30b (min. počet je 16b).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje výpočtové a algoritmické riešenie aplikačných príkladov v jazyku Matlab/Simulink s následným simulačným overením na PC, teoretická časť skúšky spočíva vo vypracovaní teoretických otázok vyplývajúcich z obsahu prednášok predmetu. Zo skúšky môže študent získať 70b (min 36b).\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nHlavným cieľom predmetu je zvládnutie metód optimálneho stavového riadenia nelineárnych dynamických systémov (NDS) na výpočtovej a algoritmickej úrovni a ich verifikácia na simulačných modeloch fyzikálnych systémov (gulička na ploche, robot manipulátor, systém inverzných kyvadiel, žeriav, helikoptéra, hydraulický systém) v riadiacich štruktúrach implementovaných do programového prostredia Matlab/Simulink s využitím špecializovaných toolboxov. Predmet ďalej umožňuje rozvíjanie znalostí z algoritmického riešenia úloh z priemyselnej informatiky ako je modelovanie fyzikálnych systémov v stavovom priestore (bez a s hybridnou dynamikou) a riadenie nelineárnych systémov s následným simulačným overením v prostredí Matlab/Simulink s využitím simulačných a laboratórnych modelov integrovaných do výukového portálu CMMRaPI (kyb.fei.tuke.sk)\n\nStručná osnova predmetu:\n• Prehľad simulačných nástrojov vhodných pre modelovanie fyzikálnych systémov s aplikačným využitím v priemyselnej informatike\n• Zostavenie simulačných modelov fyzikálnych systémov v stavovom priestore (gulička na tyči, gulička na ploche, modely klasických/rotačných inverzných kyvadiel, model helikoptéry, robotické ramená, mobilný robot s diferenciálnym podvozkom), analýza nelineárnych systémov na rôzne vstupné signály,\n• Algoritmické riešenie linearizácie nelineárnych systémov s využitím funkcií Symbolic Math toolboxu, generovanie Jacobianov s využitím nepriamej LM, simulačné porovnanie linearizovaného modelu s nelineárnym modelom fyzikálneho systému v pracovnom bode, vyhodnotenie validity modelov pre použitie v riadení,\n• Metódy riadenia nelineárnych systémov s využitím metódy linearizácie, návrh algoritmov riadenia s obmedzením akčných veličín, simulačné overenie návrhu riadenia na laboratórnych modeloch umiestnených na web portáli skupiny CMMRaPI (kyb.fei.tuke.sk)\n• Dynamická optimalizácia a jej využitie v priemyselnej informatike, princíp optimality a typy funkcionálov, štruktúra pre programové a spätnoväzobné optimálne riadenie,\n• Kanonický tvar Euler-Lagrangeovej rovnice, Pontrjaginov princíp maxima, výpočtové a programové riešenie úloh stavového optimálneho riadenia lineárnych dynamických systémov v prostredí Matlab/Simulink,\n• Návrh otimálneho stavového riadenia s využitím princípu minimalizácie kvadratickeho funkcionálu (LQ), výpočtové a simulačné overenie návrhu optimálneho stavového riadenia v riadiacich štruktúrach na modeloch nelineárnych (mechatronických) systémov v simulačnom jazyku Matlab/Simulink pre rôzne ciele riadenia,\n• Simulácia riadiacich štruktúr pre riadenie do rovnovážneho stavu a pre riadenie na ustálený stav modelov nelineárnych systémov (web portál simulačných/laboratóŕnych modelov),\n• Algoritmické riešenie úloh programového OR nelineárnych systémov s využitím Pontrjaginovho princípu maxima a metódy citlivostných funkcií,\n• Simulačné overenie riešenia dvojbodovej okrajovej úlohy na príklade výpočtu optimálnych trajektórií a optimálneho riadenia pre Van-der-Polov oscilátor a robot manipulátor s dvoma stupňami voľnosti,\n• Návrh pre algoritmické riešenie problému sledovania referenčných trajektórií robotickým ramenom s využitím spätnoväzobného optimálneho riadenia (SOR) a výsledkov POR, výpočet odchýlkového perturbačného modelu,\n• Simulačné overenie riadiacej štruktúry s dopredným riadením (FFC) na riešenie úlohy sledovania optimálnych trajektórií robotickým ramenom.\n• Prezentácia výsledkov modelovacích a simulačných techník s využitím web portálu výukových modelov (modely kyvadiel, robotických ramien, model žeriavu, model helikoptéry, modely guličky na tyči/na ploche, modely hydraulických systémov) skupinyCMMRaPI (kyb.fei.tuke.sk) s cieľom ich využitia pri riešení zadaní k predmetu.\n\n\nOdporúčaná literatúra:\nChen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458\nJadlovská, A, - Jadlovská, S.: Moderné metódy modelovania a riadenia nelineárnych systémov, FEI TU, Košice, 2013,\nJadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1.\nTewari, A.: Modern Control Design with Matlab and Simulink, John Wiley & Sons, 2014, ISBN 978-047-149-6793\nJadlovská, A. – Jadlovská, S,:Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3,\nRoubal, J. - Hušek, P. a kol.: Regulační technika v příkladech, Technická literatura BEN, Praha 2011\nSarnovský, J. – Jadlovská, A. – Kica, P.: Teória optimálnych a adaptívnych systémov, FEI TU, Košice, 2005\nLewis, L. Frank et al: Optimal Control, Wiley, 2012\nPublikácie, Tutoriály a prezentácie na výukovom web portáli pre simulačné a laboratórne modely výskumnej skupiny CMMRaPI (kyb.fei.tuke.sk)\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 60\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n17%\n18%\n35%\n13%\n8%\n\n\nZabezpečuje:\ndoc. Ing. Anna Jadlovská, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,166 @@
+{
+  "predmet_id": "65953058",
+  "code": "26001264",
+  "name": "Odborná prax v podniku",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953058",
+  "fetched_at": "2026-11-17T15:10:14Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001264"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Odborná prax v podniku"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Projektová práca, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "9,21"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 117,273"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "30"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n4.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZa záverečné hodnotenie môže študent získať msx. 100 bodov za plnenie povinností súvisiacich s odbornou praxou v stanovených termínoch, za odovzdanie správy z odbornej praxe a jej obhajobu."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom je overenie teoretických poznatkov získaných počas štúdia daného študijného programu o praktické skúsenosti z riešenia danej problematiky v podmienkach reálnej technickej praxe."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Študenti majú možnosť vykonať odbornú prax vo firmách zameraných na elektrotechniku a informatiku na základe dohody s konkrétnym podnikom. Výber druhu podniku a miesta praxe je v kompetencii študenta. Výstupom bude správa o vykonaní odbornej praxe v rozsahu zadaného formulára, ktorú sú študenti povinní odovzdať odbornému garantovi praxe do stanoveného termínu v zápočtovom týždni."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Podľa odporúčania garanta odbornej praxe."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Odborná prax 275 hodín, projektová práca 115 hodín, práca na napísaní správy z praxe 20 hodín, práca na príprave záverečnej prezentácie 40 hodín, individuálna práca 200 hodín, konzultácie 100 hodín."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Feciľak, PhD.\ndoc. Ing. Emília Pietriková, PhD.\ndoc. Ing. Branislav Madoš, PhD.\ndoc. Ing. William Steingartner, PhD.\nIng. Ján Magyar, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 30,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "4.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Feciľak, PhD.",
+    "doc. Ing. Emília Pietriková, PhD.",
+    "doc. Ing. Branislav Madoš, PhD.",
+    "doc. Ing. William Steingartner, PhD.",
+    "Ing. Ján Magyar, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001264\nNázov predmetu: Odborná prax v podniku\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Projektová práca, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 9,21\nExterná forma štúdia (hodiny za semester): ZS 117,273\nMetóda štúdia: Dištančná\n\nPočet kreditov: 30\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n4.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZa záverečné hodnotenie môže študent získať msx. 100 bodov za plnenie povinností súvisiacich s odbornou praxou v stanovených termínoch, za odovzdanie správy z odbornej praxe a jej obhajobu.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom je overenie teoretických poznatkov získaných počas štúdia daného študijného programu o praktické skúsenosti z riešenia danej problematiky v podmienkach reálnej technickej praxe.\n\nStručná osnova predmetu:\nŠtudenti majú možnosť vykonať odbornú prax vo firmách zameraných na elektrotechniku a informatiku na základe dohody s konkrétnym podnikom. Výber druhu podniku a miesta praxe je v kompetencii študenta. Výstupom bude správa o vykonaní odbornej praxe v rozsahu zadaného formulára, ktorú sú študenti povinní odovzdať odbornému garantovi praxe do stanoveného termínu v zápočtovom týždni.\n\nOdporúčaná literatúra:\nPodľa odporúčania garanta odbornej praxe.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Odborná prax 275 hodín, projektová práca 115 hodín, práca na napísaní správy z praxe 20 hodín, práca na príprave záverečnej prezentácie 40 hodín, individuálna práca 200 hodín, konzultácie 100 hodín.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Feciľak, PhD.\ndoc. Ing. Emília Pietriková, PhD.\ndoc. Ing. Branislav Madoš, PhD.\ndoc. Ing. William Steingartner, PhD.\nIng. Ján Magyar, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

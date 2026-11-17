@@ -1,0 +1,174 @@
+{
+  "predmet_id": "65952086",
+  "code": "26000648",
+  "name": "Cloudové systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952086",
+  "fetched_at": "2026-11-17T15:09:02Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000648"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Cloudové systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "2608941 - Distribuované systémy"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú vedomosti o koncepte Cloud Computing, čo je všeobecný pojem, ktorý zahŕňa moderné počítačové infraštruktúry založené na webových technológiách: prehliadače a webové servery, ako aj spôsoby budovania mobilných klientov, škálovateľné webové služby a veľmi rýchle infraštruktúry na poskytovanie obsahu geograficky distribuovanými systémami, ktoré môžu zahŕňať desiatky dátových centier a milióny počítačov. V predmete sa študenti získajú prenosné poznatky o základoch fungovania týchto systémov. Študenti zároveň získajú praktické zručnosti v oblasti návrhu, implementácie, prevádzky a monitorovania takýchto systémov, ako aj hodnotenia efektívnosti presunu softvérového systému do cloudu. Táto hlbšia perspektíva bude rovnako užitočná pri práci s hlavnými cloudovými platformami."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Témy cloudového počítania\n- Vývoj cloudového počítania s ohľadom na rozvoj biznis aplikácií a podnikových aplikácií\n- Charakteristiky a modely cloudového počítania\nArchitektúry založené na mikroslužbách\n- Monolit vs. mikroslužby,, určovanie domńových hraníc, analýza záťaže, manažment distribuovaných dát\n- API brána, komunikačné vzory medzi mikroslužbami, kompozitné používateľské rozhrania, orchestrácia mikroslužieb\n- Výkon, spoľahlivosť a monitorovanie mikroslužieb\nElasticita a škálovanie\n- Analýza škálovateľnosti klastrov\n- Koncept črepín v key-value úložiskách, elasticita črepín\n- Implementácia DHT a koncept NoSQL databáz, aplikácia LINQ pre NoSQL databázy s ohľadom na konzistenciu replikovaných mikroslužieb\n- Grafy sociálny sietí a grafové databázy\nBezstavové a bezserverové systémy\n- Škálovania bezstavových procesov vs. multivláknové servre\n- Pravidlo CAP, konečná konzistencia v BASE modeli\n- Problém škálovania mikroslužieb a koncept bezserverových služieb\nGeoškálovateľné systémy\n- Zóny dostupnosti, DNS presmerovanioe, NAT boxing, latencie vo WAN sieťach\n- TrueTime a Spanner, gossip protokol v dátových centrách\n- Geoškálovania v 5G a 6G sieťach\nBlockchain a smart contracts\n- Koncept blockchainu v kryptomenách\n- Prípadové štúdie aplikácie blockchainu v biznis aplikáciách a IoT\n- Prípadové štúdie smart contracts pre realizáciu spolupráce\nPrivátnosť v cloude\n- Prípadové štúdie riešenia privátnosti dát\nMapReduce\n- Koncept spracovania veľkých dát pomocou Hadoop a Spark."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. DAVIS, C: Cloud Native Patterns. Manning, 2019.\n2. KLEPPMANN, M.: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, O’Reilly Media, 2017.\n3. FOSTER, I. - GANNON, D. B.: Cloud Computing for Science and Engineering (Scientific and Engineering Computation). MIT Press, 2017.\n4. BIRMAN, K. P.: Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services (Texts in Computer Science), Springer, 2012.\n5. FEHLING, C. - LEYMANN, F. - RETTER, R. - SCHUPECK, W. - ARBITER, P.: Cloud Computing Patterns: Fundamentals to Design, Build, and Manage Cloud Applications. Springer-Verlag Wien, 2014."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 421\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n10%\n12%\n35%\n32%\n5%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Martin Tomášek, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 421,
+    "percent": {
+      "A": 7,
+      "B": 10,
+      "C": 12,
+      "D": 35,
+      "E": 32,
+      "FX": 5
+    }
+  },
+  "teachers": [
+    "doc. Ing. Martin Tomášek, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000648\nNázov predmetu: Cloudové systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety: 2608941 - Distribuované systémy\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú vedomosti o koncepte Cloud Computing, čo je všeobecný pojem, ktorý zahŕňa moderné počítačové infraštruktúry založené na webových technológiách: prehliadače a webové servery, ako aj spôsoby budovania mobilných klientov, škálovateľné webové služby a veľmi rýchle infraštruktúry na poskytovanie obsahu geograficky distribuovanými systémami, ktoré môžu zahŕňať desiatky dátových centier a milióny počítačov. V predmete sa študenti získajú prenosné poznatky o základoch fungovania týchto systémov. Študenti zároveň získajú praktické zručnosti v oblasti návrhu, implementácie, prevádzky a monitorovania takýchto systémov, ako aj hodnotenia efektívnosti presunu softvérového systému do cloudu. Táto hlbšia perspektíva bude rovnako užitočná pri práci s hlavnými cloudovými platformami.\n\nStručná osnova predmetu:\nTémy cloudového počítania\n- Vývoj cloudového počítania s ohľadom na rozvoj biznis aplikácií a podnikových aplikácií\n- Charakteristiky a modely cloudového počítania\nArchitektúry založené na mikroslužbách\n- Monolit vs. mikroslužby,, určovanie domńových hraníc, analýza záťaže, manažment distribuovaných dát\n- API brána, komunikačné vzory medzi mikroslužbami, kompozitné používateľské rozhrania, orchestrácia mikroslužieb\n- Výkon, spoľahlivosť a monitorovanie mikroslužieb\nElasticita a škálovanie\n- Analýza škálovateľnosti klastrov\n- Koncept črepín v key-value úložiskách, elasticita črepín\n- Implementácia DHT a koncept NoSQL databáz, aplikácia LINQ pre NoSQL databázy s ohľadom na konzistenciu replikovaných mikroslužieb\n- Grafy sociálny sietí a grafové databázy\nBezstavové a bezserverové systémy\n- Škálovania bezstavových procesov vs. multivláknové servre\n- Pravidlo CAP, konečná konzistencia v BASE modeli\n- Problém škálovania mikroslužieb a koncept bezserverových služieb\nGeoškálovateľné systémy\n- Zóny dostupnosti, DNS presmerovanioe, NAT boxing, latencie vo WAN sieťach\n- TrueTime a Spanner, gossip protokol v dátových centrách\n- Geoškálovania v 5G a 6G sieťach\nBlockchain a smart contracts\n- Koncept blockchainu v kryptomenách\n- Prípadové štúdie aplikácie blockchainu v biznis aplikáciách a IoT\n- Prípadové štúdie smart contracts pre realizáciu spolupráce\nPrivátnosť v cloude\n- Prípadové štúdie riešenia privátnosti dát\nMapReduce\n- Koncept spracovania veľkých dát pomocou Hadoop a Spark.\n\nOdporúčaná literatúra:\n1. DAVIS, C: Cloud Native Patterns. Manning, 2019.\n2. KLEPPMANN, M.: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, O’Reilly Media, 2017.\n3. FOSTER, I. - GANNON, D. B.: Cloud Computing for Science and Engineering (Scientific and Engineering Computation). MIT Press, 2017.\n4. BIRMAN, K. P.: Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services (Texts in Computer Science), Springer, 2012.\n5. FEHLING, C. - LEYMANN, F. - RETTER, R. - SCHUPECK, W. - ARBITER, P.: Cloud Computing Patterns: Fundamentals to Design, Build, and Manage Cloud Applications. Springer-Verlag Wien, 2014.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 421\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n10%\n12%\n35%\n32%\n5%\n\n\nZabezpečuje:\ndoc. Ing. Martin Tomášek, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

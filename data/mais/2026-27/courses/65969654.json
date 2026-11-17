@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65969654",
+  "code": "26000934",
+  "name": "Senzorové systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969654",
+  "fetched_at": "2026-11-17T15:14:00Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000934"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Senzorové systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nSemestrálny projekt."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet sa zaoberá senzormi najmä v automobiloch so zameraním na získavanie informácií o neelektrických a elektrických veličinách. Predmet dáva študentom ucelený obraz o rozličných spôsoboch snímania týchto veličín uvedením podrobných charakteristík (konštrukcia či funkčná závislosť) a konkrétnych zapojení jednotlivých súčastí meracieho obvodu, kde výstupom použitého zapojenia je vždy zaznamenateľný a ďalej spracovateľný elektrický signál. Dôraz sa pri výklade, ktorý je podložený aplikovateľnými rovnicami, kladie na pochopenie fyzikálnych princípov jednotlivých snímačov.\nPoznatky získané štúdiom daného predmetu sú široko využiteľné v praxi, keďže umožňujú absolventom navrhovať a vytvárať snímacie obvody pre rozličné aplikácie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Vlastnosti senzorov.\n2. Snímače polohy.\n3. Snímače rýchlosti otáčania a zrýchlenia.\n4. Snímače sily a tlaku.\n5. Snímače prietoku tekutín.\n6. Dotykové snímače teploty.\n7. Snímače pre bezdotykové meranie teploty a meranie zloženia plynov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Robert Bosch GmbH: Bosch Automotive Electrics and Automotive Electronics, Springer Vieweg, 2014.\n\n2. Tom Denton: Automobile Electrical and Electronic Systems, Elsevier, 2014.\n\n3. Kolektív autorov: Automatizace a automatizační technika 3, Computer Press, 2014."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 132\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n20%\n23%\n25%\n14%\n13%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Juraj Ďurišin, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 132,
+    "percent": {
+      "A": 5,
+      "B": 20,
+      "C": 23,
+      "D": 25,
+      "E": 14,
+      "FX": 13
+    }
+  },
+  "teachers": [
+    "doc. Ing. Juraj Ďurišin, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26000934\nNázov predmetu: Senzorové systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nSemestrálny projekt.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet sa zaoberá senzormi najmä v automobiloch so zameraním na získavanie informácií o neelektrických a elektrických veličinách. Predmet dáva študentom ucelený obraz o rozličných spôsoboch snímania týchto veličín uvedením podrobných charakteristík (konštrukcia či funkčná závislosť) a konkrétnych zapojení jednotlivých súčastí meracieho obvodu, kde výstupom použitého zapojenia je vždy zaznamenateľný a ďalej spracovateľný elektrický signál. Dôraz sa pri výklade, ktorý je podložený aplikovateľnými rovnicami, kladie na pochopenie fyzikálnych princípov jednotlivých snímačov.\nPoznatky získané štúdiom daného predmetu sú široko využiteľné v praxi, keďže umožňujú absolventom navrhovať a vytvárať snímacie obvody pre rozličné aplikácie.\n\n\nStručná osnova predmetu:\n1. Vlastnosti senzorov.\n2. Snímače polohy.\n3. Snímače rýchlosti otáčania a zrýchlenia.\n4. Snímače sily a tlaku.\n5. Snímače prietoku tekutín.\n6. Dotykové snímače teploty.\n7. Snímače pre bezdotykové meranie teploty a meranie zloženia plynov.\n\n\n\n\n\nOdporúčaná literatúra:\n1. Robert Bosch GmbH: Bosch Automotive Electrics and Automotive Electronics, Springer Vieweg, 2014.\n\n2. Tom Denton: Automobile Electrical and Electronic Systems, Elsevier, 2014.\n\n3. Kolektív autorov: Automatizace a automatizační technika 3, Computer Press, 2014.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 132\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n20%\n23%\n25%\n14%\n13%\n\n\nZabezpečuje:\ndoc. Ing. Juraj Ďurišin, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

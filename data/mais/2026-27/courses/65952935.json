@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65952935",
+  "code": "26000646",
+  "name": "Modelovanie a prototypovanie systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952935",
+  "fetched_at": "2026-11-17T15:10:03Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000646"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Modelovanie a prototypovanie systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, referát, projekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je získať rozširujúce poznatky a praktické zručnosti v oblasti návrhu, prototypovania a implementácie softvérových systémov. Obsah je zameraný na využitie výhod modelov a prototypov vo vývoji sofvéru orientovaného na oblasť medicínskeho zobrazovania a analýzu dát."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do predmetu. Modely a prototypy a ich význam v softvérovom inžinierstve. Vytvorenie tímov a výber témy projektu.\n2. Doménová analýza a jej význam v softvérovom vývoji.\n3. Úvod do zobrazovacieho nástroja TUKE.\n4. Úvod do technológií medicínskeho zobrazovania - dicom, PACS, Orthanc...\n5. Softvérová architektúra\n6. Umelá inteligencia a strojové učenie v zdravotníctve\n7. Úvod do rámca MONAI\n8. Fyzikálne neurónové siete v zdravotníctve\n9. Úvod do technológie ultrazvuku\n10. Úvod do technológií RTG a CT\n11. Úvod do technológie magnetickej rezonancie\n12. Odovzdávanie tímového projektu.\n13. Finálne prezentácie tímových projektov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Arnowitz,J., Arent,M., Berger,N.: Effective Prototyping for Software Makers. 2007, Published by Elsevier, Inc. 2007,ISBN-10: 0120885689.\n2. Sommerville, Ian. Engineering software products. Vol. 355. London: Pearson, 2020.\n3. Bischofberger, Walter R., and Gustav Pomberger. Prototyping-oriented software development: Concepts and tools. Springer Science & Business Media, 2012. ISBN-13:978-3--642-84762-2\n4. Havlice, Z.: Základy softvérového inžinierstva. 1. vyd. - Košice : TU - 2012. - 90 s. - ISBN 978-80-553-1223-1.\n5. Havlice, Z.: Technológia softvérových projektov. Objektová analýza a návrh systémov. Academic Press Elfa, s.r.o, Košice, 2002.\n6. Šimko, J., Šimko, M., Bieliková, M.: Softvérové inžinierstvo v otázkach a odpovediach, STU v Bratislave, Vydavateľstvo SPEKTRUM STU 2017, ISBN 978-80-227-4669-4.\n7. Hjørland, Birger. \"Domain analysis.\" Knowledge organization 44.6 (2017): 436-464.\n8. Suetens, Paul. Fundamentals of medical imaging. Cambridge university press, 2017. ISBN 978-1-107-15978-5.\n9. Jodogne, Sébastien. \"The Orthanc ecosystem for medical imaging.\" Journal of digital imaging 31.3 (2018): 341-352.\n10. Pianykh, Oleg S. Digital imaging and communications in medicine (DICOM): a practical introduction and survival guide. Vol. 10. Heidelberg: Springer, 2012.\n11. SCHULTZ, KENNETH HECKMAN THOMAS J. \"PACS ARCHITECTURE.\" PACS: A Guide to the Digital Revolution (2006): 249.\n12. Malik, Paras, Monika Pathania, and Vyas Kumar Rathaur. \"Overview of artificial intelligence in medicine.\" Journal of family medicine and primary care 8.7 (2019): 2328-2331."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 732\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n34%\n33%\n20%\n5%\n1%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Jaroslav Porubän, PhD.\nIng. Marek Ružička, PhD.\ndoc. Ing. Csaba Szabó, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 732,
+    "percent": {
+      "A": 34,
+      "B": 33,
+      "C": 20,
+      "D": 5,
+      "E": 1,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "prof. Ing. Jaroslav Porubän, PhD.",
+    "Ing. Marek Ružička, PhD.",
+    "doc. Ing. Csaba Szabó, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000646\nNázov predmetu: Modelovanie a prototypovanie systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, referát, projekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je získať rozširujúce poznatky a praktické zručnosti v oblasti návrhu, prototypovania a implementácie softvérových systémov. Obsah je zameraný na využitie výhod modelov a prototypov vo vývoji sofvéru orientovaného na oblasť medicínskeho zobrazovania a analýzu dát.\n\nStručná osnova predmetu:\n1. Úvod do predmetu. Modely a prototypy a ich význam v softvérovom inžinierstve. Vytvorenie tímov a výber témy projektu.\n2. Doménová analýza a jej význam v softvérovom vývoji.\n3. Úvod do zobrazovacieho nástroja TUKE.\n4. Úvod do technológií medicínskeho zobrazovania - dicom, PACS, Orthanc...\n5. Softvérová architektúra\n6. Umelá inteligencia a strojové učenie v zdravotníctve\n7. Úvod do rámca MONAI\n8. Fyzikálne neurónové siete v zdravotníctve\n9. Úvod do technológie ultrazvuku\n10. Úvod do technológií RTG a CT\n11. Úvod do technológie magnetickej rezonancie\n12. Odovzdávanie tímového projektu.\n13. Finálne prezentácie tímových projektov.\n\nOdporúčaná literatúra:\n1. Arnowitz,J., Arent,M., Berger,N.: Effective Prototyping for Software Makers. 2007, Published by Elsevier, Inc. 2007,ISBN-10: 0120885689.\n2. Sommerville, Ian. Engineering software products. Vol. 355. London: Pearson, 2020.\n3. Bischofberger, Walter R., and Gustav Pomberger. Prototyping-oriented software development: Concepts and tools. Springer Science & Business Media, 2012. ISBN-13:978-3--642-84762-2\n4. Havlice, Z.: Základy softvérového inžinierstva. 1. vyd. - Košice : TU - 2012. - 90 s. - ISBN 978-80-553-1223-1.\n5. Havlice, Z.: Technológia softvérových projektov. Objektová analýza a návrh systémov. Academic Press Elfa, s.r.o, Košice, 2002.\n6. Šimko, J., Šimko, M., Bieliková, M.: Softvérové inžinierstvo v otázkach a odpovediach, STU v Bratislave, Vydavateľstvo SPEKTRUM STU 2017, ISBN 978-80-227-4669-4.\n7. Hjørland, Birger. \"Domain analysis.\" Knowledge organization 44.6 (2017): 436-464.\n8. Suetens, Paul. Fundamentals of medical imaging. Cambridge university press, 2017. ISBN 978-1-107-15978-5.\n9. Jodogne, Sébastien. \"The Orthanc ecosystem for medical imaging.\" Journal of digital imaging 31.3 (2018): 341-352.\n10. Pianykh, Oleg S. Digital imaging and communications in medicine (DICOM): a practical introduction and survival guide. Vol. 10. Heidelberg: Springer, 2012.\n11. SCHULTZ, KENNETH HECKMAN THOMAS J. \"PACS ARCHITECTURE.\" PACS: A Guide to the Digital Revolution (2006): 249.\n12. Malik, Paras, Monika Pathania, and Vyas Kumar Rathaur. \"Overview of artificial intelligence in medicine.\" Journal of family medicine and primary care 8.7 (2019): 2328-2331.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 732\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n34%\n33%\n20%\n5%\n1%\n7%\n\n\nZabezpečuje:\nprof. Ing. Jaroslav Porubän, PhD.\nIng. Marek Ružička, PhD.\ndoc. Ing. Csaba Szabó, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

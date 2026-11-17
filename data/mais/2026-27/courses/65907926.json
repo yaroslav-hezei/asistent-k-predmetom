@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65907926",
+  "code": "26000438",
+  "name": "Elektrické pohony",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65907926",
+  "fetched_at": "2026-11-17T15:05:53Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000438"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektrické pohony"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26001034 - Základy elektrických strojov"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZa priebežné hodnotenie môže študent získať 40 bodov. V priebehu semestra budú dve písomné previerky spolu za 20 bodov a dve samostatné práce spolu za 20 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov: ústna skúška. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov, a keď súčet bodov za priebežné a záverečné hodnotenie bude >= 51."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu bude študent oboznámený s konštrukciou, vlastnosťami a určením elektrických pohonov, získa znalosti z mechaniky a dynamiky el. pohonov, modelovania a dimenzovania el. pohonov, osvojí si spôsoby riadenia jednosmerných a striedavých elektrických pohonov. Študent bude schopný navrhnúť matematické modely vybraných typov el. motorov v programe Matlab."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základné pojmy teórie elektrických pohonov, požiadavky a klasifikácia el. pohonov.\n2. Kontaktová a bezkontaktová automatika.\n3. Mechanika el. pohonov, interakcia motora s pracovným mechanizmom.\n4. Prechodné deje v el. pohonoch.\n5. Dimenzovanie el. pohonov.\n6. Jednosmerné pohony, klasifikácia, vlastnosti, spôsoby riadenia, brzdenie.\n7. Modelovanie jednosmerných pohonov.\n8. Striedavé pohony, asynchrónne, synchrónne, klasifikácia, vlastnosti, spôsoby riadenia a brzdenia.\n9. Modelovanie striedavých pohonov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] J. Timko and J. Žilková, Elektrické pohony, Košice, Slovakia: FEI Technická univerzita v Košiciach, 2015, 199 pp. ISBN: 978-80-553-2069-4.\n[2] F. Kümmel, Elektrické pohony – úlohy a riešenia, Bratislava, Slovakia: Alfa, 1989, ISBN: 80-05-00081-2.\n[3] P. Brandštetter, Střídavé regulační pohony – Moderní způsoby řízení, Ostrava, Czech Republic: ES VŠB-TUO, 1999, ISBN: 80-7088-688-X.\n[4] I. Neborák, Modelování a simulace elektrických regulovaných pohonů, Ostrava, Czech Republic: VŠB-TUO, 2002, ISBN: 80-248-0083-7.\n[5] J. Žilková, J. Timko, and S. Köver, \"DTC of an induction motor drive,\" Acta Technica CSAV (Ceskoslovenska Akademie Ved), vol. 56, no. 4, pp. 419-431, 2011. ISSN 0001-7043.\n[6] J. Timko, J. Žilková, and P. Girovský, \"Shaft sensorless vector control of an induction motor,\" Acta Technica CSAV (Ceskoslovenska Akademie Ved), vol. 52, no. 1, pp. 81-91, 2007. ISSN 0001-7043.\n[7] J. Žilková, J. Timko, and J. Berko, \"Speed sensorless control of an induction motor drive using extended Kalman filter,\" Acta Technica CSAV (Ceskoslovenska Akademie Ved), vol. 50, no. 3, pp. 279-289, 2005. ISSN 0001-7043."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Predmet povinný\nPre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 504\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n11%\n18%\n20%\n13%\n27%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Karol Kyslan, PhD.\ndoc. Ing. Jaroslava Žilková, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 504,
+    "percent": {
+      "A": 11,
+      "B": 11,
+      "C": 18,
+      "D": 20,
+      "E": 13,
+      "FX": 27
+    }
+  },
+  "teachers": [
+    "doc. Ing. Karol Kyslan, PhD.",
+    "doc. Ing. Jaroslava Žilková, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26000438\nNázov predmetu: Elektrické pohony\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety: 26001034 - Základy elektrických strojov\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZa priebežné hodnotenie môže študent získať 40 bodov. V priebehu semestra budú dve písomné previerky spolu za 20 bodov a dve samostatné práce spolu za 20 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov: ústna skúška. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov, a keď súčet bodov za priebežné a záverečné hodnotenie bude >= 51.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu bude študent oboznámený s konštrukciou, vlastnosťami a určením elektrických pohonov, získa znalosti z mechaniky a dynamiky el. pohonov, modelovania a dimenzovania el. pohonov, osvojí si spôsoby riadenia jednosmerných a striedavých elektrických pohonov. Študent bude schopný navrhnúť matematické modely vybraných typov el. motorov v programe Matlab.\n\nStručná osnova predmetu:\n1. Základné pojmy teórie elektrických pohonov, požiadavky a klasifikácia el. pohonov.\n2. Kontaktová a bezkontaktová automatika.\n3. Mechanika el. pohonov, interakcia motora s pracovným mechanizmom.\n4. Prechodné deje v el. pohonoch.\n5. Dimenzovanie el. pohonov.\n6. Jednosmerné pohony, klasifikácia, vlastnosti, spôsoby riadenia, brzdenie.\n7. Modelovanie jednosmerných pohonov.\n8. Striedavé pohony, asynchrónne, synchrónne, klasifikácia, vlastnosti, spôsoby riadenia a brzdenia.\n9. Modelovanie striedavých pohonov.\n\nOdporúčaná literatúra:\n[1] J. Timko and J. Žilková, Elektrické pohony, Košice, Slovakia: FEI Technická univerzita v Košiciach, 2015, 199 pp. ISBN: 978-80-553-2069-4.\n[2] F. Kümmel, Elektrické pohony – úlohy a riešenia, Bratislava, Slovakia: Alfa, 1989, ISBN: 80-05-00081-2.\n[3] P. Brandštetter, Střídavé regulační pohony – Moderní způsoby řízení, Ostrava, Czech Republic: ES VŠB-TUO, 1999, ISBN: 80-7088-688-X.\n[4] I. Neborák, Modelování a simulace elektrických regulovaných pohonů, Ostrava, Czech Republic: VŠB-TUO, 2002, ISBN: 80-248-0083-7.\n[5] J. Žilková, J. Timko, and S. Köver, \"DTC of an induction motor drive,\" Acta Technica CSAV (Ceskoslovenska Akademie Ved), vol. 56, no. 4, pp. 419-431, 2011. ISSN 0001-7043.\n[6] J. Timko, J. Žilková, and P. Girovský, \"Shaft sensorless vector control of an induction motor,\" Acta Technica CSAV (Ceskoslovenska Akademie Ved), vol. 52, no. 1, pp. 81-91, 2007. ISSN 0001-7043.\n[7] J. Žilková, J. Timko, and J. Berko, \"Speed sensorless control of an induction motor drive using extended Kalman filter,\" Acta Technica CSAV (Ceskoslovenska Akademie Ved), vol. 50, no. 3, pp. 279-289, 2005. ISSN 0001-7043.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Predmet povinný\nPre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 504\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n11%\n18%\n20%\n13%\n27%\n\n\nZabezpečuje:\ndoc. Ing. Karol Kyslan, PhD.\ndoc. Ing. Jaroslava Žilková, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,177 @@
+{
+  "predmet_id": "65907782",
+  "code": "2607821",
+  "name": "Automobilová elektrotechnika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65907782",
+  "fetched_at": "2026-11-17T15:05:38Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2607821"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Automobilová elektrotechnika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\n1.\nPrezenčná\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: v priebehu semestra budú 4 merania, z ktorých študent spracuje referát hodnotený 5 bodov/referát a zadanie hodnotené za 20 bodov. Minimálny počet bodov na získanie zápočtu je 21."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška formou on-line testu. Maximálny počet bodov za skúšku: 60. Minimálny počet bodov za skúšku: 31"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámiť študentov so základnými prvkami elektrického vybavenia súčasných motorových vozidiel (viď osnovu predmetu) ako aj s novými trendmi v tejto oblasti. Študent sa naučí čítať elektrické schémy automobilu a orientovať sa v nich. Pozná princípy činnosti a možnosti jednotlivých prvkov elektrovýzbroje vozidla. Má základné informácie z oblasti elektromobility a vie navrhnúť a nadimenzovať jednoduchý elektromobil. Predmet tvorí základ pre nadväzujúce predmety z oblasti automobilovej techniky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Normy a predpisy týkajúce sa elektrovýzbroje vozidla, elektrotechnické značky jednotlivých komponentov, spôsob kreslenia elektrických schém vo vozidle a nácvik orientácie v schémach a v reálnom vozidle.\n2. Rozvod elektrickej energie vo vozidle. Istenie spotrebičov. Riešenie kabeláže a konektorov.\n3. Výroba elektrickej energie vo vozidle.\n4. Akumulácia elektrickej energie vo vozidle, akumulátory.\n5. Spúšťače, alternátorspúšťače a štartovacie akumulátory, manažment výroby s spotreby elektrickej energie vo vozidle.\n6. Zapaľovacie sústavy vo vozidlách, typy zapaľovania, zapaľovacie sviečky a vysokonapäťový rozvod.\n7. Osvetľovacie systémy vozidiel, zdroje svetla, typy reflektorov. Výkonové meniče používané vo vozidlách.\n8. Akčné členy používané vo vozidlách: typy elektromotorov vrátane servopohonov, elektromagnety, vstrekovacie trysky, snímače a pod.\n9. Pohony pre hybridné vozidlá a elektromobily a ich komponenty (elektromotory, trakčné akumulátory,výkonové meniče, manažment batérie)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] I. Belošovič, J. Michalík, Otázky a odpovede z automobilovej elektrotechniky. Bratislava: Alfa, 1982.\n[2] J. Klůna, J. Košek, a a kol., Příručka opraváře automobilů. Praha: SNTL, 1990.\n[3] P. Kubín, Elektrická zařízení osobních automobilů. Praha: SNTL, 1985.\n[4] J. Šťastný, B. Remek, Autoelektrika a autoelektronika. Praha: Vydavateľstvo T.Malina, 1997.280 s. ISBN 80-90175-4-X.\n[5] Bosch Automotive Electrics and Automotive Electronics. Systems and Components, Networking and Hybrid Drive, 5th Edition, Robert Bosch GmbH, 2007. ISBN 978-3-658-01784-2. DOI 10.1007/978-3-658-01784-2\n[6] Študijné materiály k predmetu na portáli Moodle.\n[7] Aktuálne vyhlášky o podmienkach premávky vozidiel na pozemných komunikáciách.\n[8] Odborné a populárne časopisy, katalógy firiem, opravárske príručky."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 939\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n19%\n22%\n23%\n20%\n7%\n9%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. František Ďurovský, PhD.\nIng. Erik Podracký\nIng. Tomáš Lenger, PhD.\nIng. Matej Hric"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 939,
+    "percent": {
+      "A": 19,
+      "B": 22,
+      "C": 23,
+      "D": 20,
+      "E": 7,
+      "FX": 9
+    }
+  },
+  "teachers": [
+    "doc. Ing. František Ďurovský, PhD.",
+    "Ing. Erik Podracký",
+    "Ing. Tomáš Lenger, PhD.",
+    "Ing. Matej Hric"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 2607821\nNázov predmetu: Automobilová elektrotechnika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\n1.\nPrezenčná\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: v priebehu semestra budú 4 merania, z ktorých študent spracuje referát hodnotený 5 bodov/referát a zadanie hodnotené za 20 bodov. Minimálny počet bodov na získanie zápočtu je 21.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška formou on-line testu. Maximálny počet bodov za skúšku: 60. Minimálny počet bodov za skúšku: 31\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámiť študentov so základnými prvkami elektrického vybavenia súčasných motorových vozidiel (viď osnovu predmetu) ako aj s novými trendmi v tejto oblasti. Študent sa naučí čítať elektrické schémy automobilu a orientovať sa v nich. Pozná princípy činnosti a možnosti jednotlivých prvkov elektrovýzbroje vozidla. Má základné informácie z oblasti elektromobility a vie navrhnúť a nadimenzovať jednoduchý elektromobil. Predmet tvorí základ pre nadväzujúce predmety z oblasti automobilovej techniky.\n\nStručná osnova predmetu:\n1. Normy a predpisy týkajúce sa elektrovýzbroje vozidla, elektrotechnické značky jednotlivých komponentov, spôsob kreslenia elektrických schém vo vozidle a nácvik orientácie v schémach a v reálnom vozidle.\n2. Rozvod elektrickej energie vo vozidle. Istenie spotrebičov. Riešenie kabeláže a konektorov.\n3. Výroba elektrickej energie vo vozidle.\n4. Akumulácia elektrickej energie vo vozidle, akumulátory.\n5. Spúšťače, alternátorspúšťače a štartovacie akumulátory, manažment výroby s spotreby elektrickej energie vo vozidle.\n6. Zapaľovacie sústavy vo vozidlách, typy zapaľovania, zapaľovacie sviečky a vysokonapäťový rozvod.\n7. Osvetľovacie systémy vozidiel, zdroje svetla, typy reflektorov. Výkonové meniče používané vo vozidlách.\n8. Akčné členy používané vo vozidlách: typy elektromotorov vrátane servopohonov, elektromagnety, vstrekovacie trysky, snímače a pod.\n9. Pohony pre hybridné vozidlá a elektromobily a ich komponenty (elektromotory, trakčné akumulátory,výkonové meniče, manažment batérie).\n\nOdporúčaná literatúra:\n[1] I. Belošovič, J. Michalík, Otázky a odpovede z automobilovej elektrotechniky. Bratislava: Alfa, 1982.\n[2] J. Klůna, J. Košek, a a kol., Příručka opraváře automobilů. Praha: SNTL, 1990.\n[3] P. Kubín, Elektrická zařízení osobních automobilů. Praha: SNTL, 1985.\n[4] J. Šťastný, B. Remek, Autoelektrika a autoelektronika. Praha: Vydavateľstvo T.Malina, 1997.280 s. ISBN 80-90175-4-X.\n[5] Bosch Automotive Electrics and Automotive Electronics. Systems and Components, Networking and Hybrid Drive, 5th Edition, Robert Bosch GmbH, 2007. ISBN 978-3-658-01784-2. DOI 10.1007/978-3-658-01784-2\n[6] Študijné materiály k predmetu na portáli Moodle.\n[7] Aktuálne vyhlášky o podmienkach premávky vozidiel na pozemných komunikáciách.\n[8] Odborné a populárne časopisy, katalógy firiem, opravárske príručky.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 939\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n19%\n22%\n23%\n20%\n7%\n9%\n\n\nZabezpečuje:\ndoc. Ing. František Ďurovský, PhD.\nIng. Erik Podracký\nIng. Tomáš Lenger, PhD.\nIng. Matej Hric\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

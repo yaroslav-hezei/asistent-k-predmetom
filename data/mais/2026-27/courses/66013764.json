@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013764",
+  "code": "26000773",
+  "name": "Jazyky pre inteligentné systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013764",
+  "fetched_at": "2026-11-17T15:15:39Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000773"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Jazyky pre inteligentné systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 2,2"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "V priebehu semestra absolvujú študenti dva priebežné testy za 10 bodov, zamerané na teóriu preberaných jazykov, a vypracujú šesť drobných zadaní z oblasti použitia jazykových konštrukcií za 5 bodov. Ďalších 50 bodov možno získať v rámci klasifikovaného zápočtu za úspešné vypracovanie záverečného testu."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent získa základné vedomosti o vlastnostiach programovacích jazykov Lisp, Prolog a Clips. Nadobudne teoretické vedomosti o možnostiach ich použitia pre implementáciu princípov a metód pre riešenie problémov z oblasti zložitých inteligentných systémov, najmä s dôrazom na metódy opisu a modelovania týchto systémov. Absolvent sa naučí čítať programy v týchto jazykoch a mal by získať zručnosť vytvárať jednoduchšie programy v jednom z nich. Pri samostatnej práci na projektoch obsahujúcich identifikáciu problému, analýzu, návrh a implementáciu systémov sa naučí efektívne rozhodovať pri výbere ponúkaných možností jazyka, ako aj navrhovať a rozvíjať vlastné riešenia problémov. K ovládaniu a využívaniu objektovo orientovaných programovacích jazykov získa prehľad aj o ďalších moderných prístupoch k programovaniu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- História programovacích jazykov Lisp, Prolog a Clips.\n- Použitie jazykov Lisp, Prolog a Clips v oblasti inteligentných systémov.\n- Základné vlastnosti a prvky jazykov Lisp, Prolog a Clips.\n- Ukážky použitia týchto jazykov pre implementáciu vybraných princípov a metód v oblasti inteligentných systémov.\n- Detailný prehľad prostriedkov jedného z moderných lispovských dialektov.\n- Tvorba jednoduchých programov vo vybranom dialekte.\n- Princípy a ukážky vybraných moderných programovacích prístupov vo vybranom dialekte:\n- funkcionálne programovanie,\n- logické programovanie,\n- objektové programovanie,\n- makroprogramovanie,\n- tvorba doménovo špecifických jazykov,\n- pravidlové programovanie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Bieliková, M., Návrat, P.: Funkcionálne a logické programovanie. STU Bratislava, 2000.\n- Seibel: Practical Common Lisp. Apress, 2005."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 103\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n35%\n21%\n13%\n8%\n21%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marián Mach, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 5,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 103,
+    "percent": {
+      "A": 35,
+      "B": 21,
+      "C": 13,
+      "D": 8,
+      "E": 21,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marián Mach, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000773\nNázov predmetu: Jazyky pre inteligentné systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 2,2\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nV priebehu semestra absolvujú študenti dva priebežné testy za 10 bodov, zamerané na teóriu preberaných jazykov, a vypracujú šesť drobných zadaní z oblasti použitia jazykových konštrukcií za 5 bodov. Ďalších 50 bodov možno získať v rámci klasifikovaného zápočtu za úspešné vypracovanie záverečného testu.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent získa základné vedomosti o vlastnostiach programovacích jazykov Lisp, Prolog a Clips. Nadobudne teoretické vedomosti o možnostiach ich použitia pre implementáciu princípov a metód pre riešenie problémov z oblasti zložitých inteligentných systémov, najmä s dôrazom na metódy opisu a modelovania týchto systémov. Absolvent sa naučí čítať programy v týchto jazykoch a mal by získať zručnosť vytvárať jednoduchšie programy v jednom z nich. Pri samostatnej práci na projektoch obsahujúcich identifikáciu problému, analýzu, návrh a implementáciu systémov sa naučí efektívne rozhodovať pri výbere ponúkaných možností jazyka, ako aj navrhovať a rozvíjať vlastné riešenia problémov. K ovládaniu a využívaniu objektovo orientovaných programovacích jazykov získa prehľad aj o ďalších moderných prístupoch k programovaniu.\n\nStručná osnova predmetu:\n- História programovacích jazykov Lisp, Prolog a Clips.\n- Použitie jazykov Lisp, Prolog a Clips v oblasti inteligentných systémov.\n- Základné vlastnosti a prvky jazykov Lisp, Prolog a Clips.\n- Ukážky použitia týchto jazykov pre implementáciu vybraných princípov a metód v oblasti inteligentných systémov.\n- Detailný prehľad prostriedkov jedného z moderných lispovských dialektov.\n- Tvorba jednoduchých programov vo vybranom dialekte.\n- Princípy a ukážky vybraných moderných programovacích prístupov vo vybranom dialekte:\n- funkcionálne programovanie,\n- logické programovanie,\n- objektové programovanie,\n- makroprogramovanie,\n- tvorba doménovo špecifických jazykov,\n- pravidlové programovanie.\n\nOdporúčaná literatúra:\n- Bieliková, M., Návrat, P.: Funkcionálne a logické programovanie. STU Bratislava, 2000.\n- Seibel: Practical Common Lisp. Apress, 2005.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 103\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n35%\n21%\n13%\n8%\n21%\n2%\n\n\nZabezpečuje:\ndoc. Ing. Marián Mach, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,176 @@
+{
+  "predmet_id": "65952372",
+  "code": "26000639",
+  "name": "Dizajn a vývoj počítačových hier",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952372",
+  "fetched_at": "2026-11-17T15:09:27Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000639"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Dizajn a vývoj počítačových hier"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je naučiť študentov návrh a tvorbu počítačových hier. Študenti získajú ako teoretické tak praktické vedomosti v tejto oblasti a budú schopní navrhnúť herný systém aj po technickej stránke. Predmet pokrýva aj základné vedomosti z oblasti počítačovej grafiky a teórie hier, aby študent bol schopný tieto vedomosti využiť pri návrhu a implementácii hry. V závere sa predmet venuje aj tvorbe používateľského rozhrania hry a jej optimalizácii, testovaniu a aj praktickému nasadeniu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Počítačové hry - základné pojmy, súčasné trendy, existujúce platformy, klasifikácia hier, typy hier a hráčov.\n2. Technické prostriedky herných systémov - vstupné a výstupné zariadenia pri hrách, hracie konzoly a platformy, pokročilé prostriedky na báze virtuálno-realitných technológií, projektovanie herných systémov po technickej stránke.\n3. Teória hier - úvod, formalizácia problému, algoritmizácia problému, matematické základy pre teóriu hier.\n4. Fázy vývoja hry a životný cyklus hier - preprodukčná, produkčná a postprodukčná fáza. Rámce MDA, DPE, FDD.\n5. Návrh hry - prieskum trhu, Unique Selling Points (USP), Persona. Business model.\n6. Pravidlá hier - tvorba a iterácia pravidiel hry, balans a učenie pravidiel. Analýza SWOT, incidenčná matica, matica aktivít.\n7. Iteratívny vývoj hier - metóda RITE, rapídne prototypovanie a papierové prototypy.\n8. Storytelling - emócie, prekvapenie, motivácia, writer-driven, writer-led, player-led. Estetika v hrách.\n9. Herné rámce a enginy - Phaser, Unity, Godot.\n10. Optimalizácia, testovanie a prezentovanie hry - optimalizácia a testovanie hier, metódy a postupy. Focus Groups, Quality Assurance (Bugfixing), User Experience, Playtesting.\n11. Spätná väzba v hrách - pozitívna a negatívna spätná väzba, achievementy.\n12. Game Design Document - metódy a postupy, tvorba manuálov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Jesse Schnell: The Art of Game Design: A Book of Lenses, Third Edition. 2019, CRC Press, ISBN 978-1138632059.\n2. Tracy Fullerton: Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Fourth Edition. 2018, CRC Press, ISBN 978-1482217162.\n3. Tracy Fullerton: Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Fourth Edition. 2018, CRC Press, ISBN 978-1482217162.\n4. Michael C. Medlock: The rapid iterative test and evaluation method (RITE). Games User Research, First Edition. 2018, Oxford Press, ISBN 978-0192513922.\n5. Crawford, Ch. : The Art Of Computer Game Design: Reflections Of A Master Game Designer; McGraw-Hill/Osborne Media, 1984{rev.2013, 81p., ISBN 0-88134-117-7.\n6. Jaffal, Y. : A Practical Introduction to 3D Game Development; Bookboon publishing; 2014, 252p., ISBN 978-8740307863.\n7. Wu, P. ; Game Programming; Global Text Project, 2014, 312p."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1297\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n24%\n41%\n27%\n6%\n1%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Branislav Sobota, PhD.\ndoc. Ing. Emília Pietriková, PhD.\nIng. Timotej Sobota"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 1297,
+    "percent": {
+      "A": 24,
+      "B": 41,
+      "C": 27,
+      "D": 6,
+      "E": 1,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "doc. Ing. Branislav Sobota, PhD.",
+    "doc. Ing. Emília Pietriková, PhD.",
+    "Ing. Timotej Sobota"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000639\nNázov predmetu: Dizajn a vývoj počítačových hier\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je naučiť študentov návrh a tvorbu počítačových hier. Študenti získajú ako teoretické tak praktické vedomosti v tejto oblasti a budú schopní navrhnúť herný systém aj po technickej stránke. Predmet pokrýva aj základné vedomosti z oblasti počítačovej grafiky a teórie hier, aby študent bol schopný tieto vedomosti využiť pri návrhu a implementácii hry. V závere sa predmet venuje aj tvorbe používateľského rozhrania hry a jej optimalizácii, testovaniu a aj praktickému nasadeniu.\n\nStručná osnova predmetu:\n1. Počítačové hry - základné pojmy, súčasné trendy, existujúce platformy, klasifikácia hier, typy hier a hráčov.\n2. Technické prostriedky herných systémov - vstupné a výstupné zariadenia pri hrách, hracie konzoly a platformy, pokročilé prostriedky na báze virtuálno-realitných technológií, projektovanie herných systémov po technickej stránke.\n3. Teória hier - úvod, formalizácia problému, algoritmizácia problému, matematické základy pre teóriu hier.\n4. Fázy vývoja hry a životný cyklus hier - preprodukčná, produkčná a postprodukčná fáza. Rámce MDA, DPE, FDD.\n5. Návrh hry - prieskum trhu, Unique Selling Points (USP), Persona. Business model.\n6. Pravidlá hier - tvorba a iterácia pravidiel hry, balans a učenie pravidiel. Analýza SWOT, incidenčná matica, matica aktivít.\n7. Iteratívny vývoj hier - metóda RITE, rapídne prototypovanie a papierové prototypy.\n8. Storytelling - emócie, prekvapenie, motivácia, writer-driven, writer-led, player-led. Estetika v hrách.\n9. Herné rámce a enginy - Phaser, Unity, Godot.\n10. Optimalizácia, testovanie a prezentovanie hry - optimalizácia a testovanie hier, metódy a postupy. Focus Groups, Quality Assurance (Bugfixing), User Experience, Playtesting.\n11. Spätná väzba v hrách - pozitívna a negatívna spätná väzba, achievementy.\n12. Game Design Document - metódy a postupy, tvorba manuálov.\n\nOdporúčaná literatúra:\n1. Jesse Schnell: The Art of Game Design: A Book of Lenses, Third Edition. 2019, CRC Press, ISBN 978-1138632059.\n2. Tracy Fullerton: Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Fourth Edition. 2018, CRC Press, ISBN 978-1482217162.\n3. Tracy Fullerton: Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Fourth Edition. 2018, CRC Press, ISBN 978-1482217162.\n4. Michael C. Medlock: The rapid iterative test and evaluation method (RITE). Games User Research, First Edition. 2018, Oxford Press, ISBN 978-0192513922.\n5. Crawford, Ch. : The Art Of Computer Game Design: Reflections Of A Master Game Designer; McGraw-Hill/Osborne Media, 1984{rev.2013, 81p., ISBN 0-88134-117-7.\n6. Jaffal, Y. : A Practical Introduction to 3D Game Development; Bookboon publishing; 2014, 252p., ISBN 978-8740307863.\n7. Wu, P. ; Game Programming; Global Text Project, 2014, 312p.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1297\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n24%\n41%\n27%\n6%\n1%\n2%\n\n\nZabezpečuje:\ndoc. Ing. Branislav Sobota, PhD.\ndoc. Ing. Emília Pietriková, PhD.\nIng. Timotej Sobota\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

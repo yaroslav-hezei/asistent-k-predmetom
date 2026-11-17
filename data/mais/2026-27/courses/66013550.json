@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013550",
+  "code": "26001182",
+  "name": "Priemyselná informatika v aplikáciách",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013550",
+  "fetched_at": "2026-11-17T15:15:20Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001182"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Priemyselná informatika v aplikáciách"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 2,3"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%. V priebehu semestra študenti absolvujú dve písomky v súčte za 25b, v ktorých budú výpočtovo riešiť definované príklady z analýzy LDS a z návrhu riadenia pre modely dynamických systémov. Súčasťou hodnotenia za semester je napísanie kvízu za 5bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%. Skúška pozostáva z dvoch častí: praktická časť obsahuje riešenie aplikačných úloh z analýzy a syntézy lineárnych dynamických systémov, teoretická časť skúšky spočíva vo vypracovaní otázok vyplývajúcich z obsahu prednášok. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 36 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je získanie základných teoretických poznatkov a praktických zručností z oblasti návrhu, modelovania a simulácie jednoduchých kyber-fyzikálnych systémov (CPS) s využitím moderných simulačných nástrojov a platforiem priemyselnej informatiky. Pri návrhu CPS si študenti osvoja: a) metodiku modelovania jednoduchých fyzikálnych systémov (elektrické, hydraulické, mechanické systémy), b) výpočtové postupy pre analýzu dynamických vlastností typických modelov priemyselných procesov, c) etapy návrhu riadiaceho systému.\nDôraz bude kladený na verifikáciu uvedenej metodiky s využitím simulácie v programovom prostredí Matlab/Simulink a simulačných/laboratórnych modelov (modelové aplikácie - kyb.fei.tuke.sk). Súčasťou predmetu je stručný úvod do počítačového riadenia modelov DS a jeho programová realizácia s využitím nadobudnutých programových zručností v jazyku C a Matlab na báze reálnych počítačových systémov (jednočípový mikropočítač) a riadiacich počítačov so sieťovými rozhraniami s možnosťou prepojenia na vyššie úrovne digitálneho podniku. Obsahovú náplň predmetu tvoria aplikácie pre programové riešenie úloh na najnižšej úrovni digitálneho podniku od základov modelovania / riadenia / simulácie po postupné vytváranie riadiacich systémov na simulačnej úrovni a ilustrácia následnej implementácie do reálneho modelu distribuovaného systému. Predmet svojim obsahom môže slúžit ako metodický základ pri návrhu a realizácii algoritmov pri riešení úloh z oblasti mobilnej a priemyselnej robotiky, ktoré slúžia pre vyššie úrovne digitálneho podniku ako zdroje dát, resp. objekty ovládania/riadenia s komunikáciou podľa štandardov IoT."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Úvod do modelovania a simulácie kyber-fyzikálnych systémov (CPS), pojem systém, model, riadenie, riadiaca štruktúra, prehľad simulačných nástrojov pre vedecko-technické výpočty\n• Príklady modelových aplikácií a ich imlementácia do distribuovaného sytému riadenia (DSR),(modelová aplikácia pre klasiclé/rotačné inverzné kyvadlá, modelové pracovisko pre mobilnú robotiku, laboratórne modely výrobných liniek s robotickým ramenom, model gulička na ploche - výukový web portál)\n• Modelovanie fyzikálnych systémov s využitím metódy analytickej identifikácie (RC člen 1. a 2. rádu, hydraulický systém, tepelný výmeník, pružina-tlmič, DC motor), matematický model dynamického systému v tvare LDR a v tvare prenosu, matematický aparát na riešenie LDR\n• Analýza dynamických vlastností LDS na rôzne typové signály v časovej/frekvenčnej oblasti výpočtom a počítačovou simuláciou v jazyku M/S, demo simulácie pre riešenie aplikačných príkladov\n• Architektúra a analýza riadiacich štruktúr, princíp spätnej väzby, štandardné prenosy riadiacej štruktúry, dynamické vlastnosti rôznych typov regulátorov, výpočet presnosti regulácie bloková algebra, demo simulácia riadiacich štruktúr v prostredí Simulink,\n• Vyšetrovanie stability lineárnych dynamických systémov a riadiacich štruktúr s využitím algebraických/frekvenčných kritérií, verifikácia výsledkov analytického výpočtu simuláciou aplikačných demo príkladov\n• Aplikácia výpočtových postupov základných metód syntézy (výpočet parametrov PID regulátorov s využitím metód Z-N, Naslin, optimálny modul, štandardné tvary, voľba pólov) v návrhu algoritmov riadenia pre jednoduché modely fyzikálnych systémov,\n• Programové demo moduly pre simuláciu riadenia modelov jednoduchých fyzikálnych systémov v jazyku Matlab s využitím funkcií Control toolbox-u s možnosťou prepojenia na simuláciu riadiacej štruktúry v prostredí Simulink\n• Vyhodnotenie kvality riadenia v ustálených stavoch a stability riadiacej štruktúry výpočtom a simuláciou,\n• Úvod do počítačového riadenia modelov fyzikálnych systémov v riadiacej štruktúre, demo aplikácia pre programovú realizáciu algoritmu číslicového riadenia v jazyku Matlab a v jazyku C s využitím jednočípového mikropočítača, ilustrácia číslicového riadenia RC člena v riadiacej štruktúre – reálna aplikácia"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Jadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1.\nBalátě, J.: Automatické řízení, nakladatelství BEN, Technická literatura, Praha 2004, ISBN 80-7300-148-9\nŠvarc, I.,- Šeda, M.-Vítečková, M.: Automatické řízení, VUT Brno 2007, CERM, ISBN 978-80-214-3491-2\nBakošová, M.-Fikar,M.: Riadenie procesov, STU Bratislava 2008, ISBN 978-80-227-2841-6\nDorčák, Ľ., Terpák, J., Dorčáková, F.: Teória automatického riadenia - spojité lineárne systémy, TU Košice, 2006, s. 212, ISBN 80-8073-025-3\nJadlovská, A. – Jadlovská, S,:Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3,\nZaplatílek, K.: Matlab, začínáme se systémy, Tribun 2011, ISBN 978-807-399-2996\nTewari, A.: Modern Control Design with Matlab and Simulink, John Wiley & Sons, 2014, ISBN 978-047-149-6793\nTutoriály modelových aplikácii - web výukový portál CMMRaPI (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 43\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n28%\n5%\n19%\n5%\n5%\n40%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Anna Jadlovská, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 43,
+    "percent": {
+      "A": 28,
+      "B": 5,
+      "C": 19,
+      "D": 5,
+      "E": 5,
+      "FX": 40
+    }
+  },
+  "teachers": [
+    "doc. Ing. Anna Jadlovská, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001182\nNázov predmetu: Priemyselná informatika v aplikáciách\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 2,3\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%. V priebehu semestra študenti absolvujú dve písomky v súčte za 25b, v ktorých budú výpočtovo riešiť definované príklady z analýzy LDS a z návrhu riadenia pre modely dynamických systémov. Súčasťou hodnotenia za semester je napísanie kvízu za 5bodov.\n\n\n\n\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%. Skúška pozostáva z dvoch častí: praktická časť obsahuje riešenie aplikačných úloh z analýzy a syntézy lineárnych dynamických systémov, teoretická časť skúšky spočíva vo vypracovaní otázok vyplývajúcich z obsahu prednášok. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 36 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je získanie základných teoretických poznatkov a praktických zručností z oblasti návrhu, modelovania a simulácie jednoduchých kyber-fyzikálnych systémov (CPS) s využitím moderných simulačných nástrojov a platforiem priemyselnej informatiky. Pri návrhu CPS si študenti osvoja: a) metodiku modelovania jednoduchých fyzikálnych systémov (elektrické, hydraulické, mechanické systémy), b) výpočtové postupy pre analýzu dynamických vlastností typických modelov priemyselných procesov, c) etapy návrhu riadiaceho systému.\nDôraz bude kladený na verifikáciu uvedenej metodiky s využitím simulácie v programovom prostredí Matlab/Simulink a simulačných/laboratórnych modelov (modelové aplikácie - kyb.fei.tuke.sk). Súčasťou predmetu je stručný úvod do počítačového riadenia modelov DS a jeho programová realizácia s využitím nadobudnutých programových zručností v jazyku C a Matlab na báze reálnych počítačových systémov (jednočípový mikropočítač) a riadiacich počítačov so sieťovými rozhraniami s možnosťou prepojenia na vyššie úrovne digitálneho podniku. Obsahovú náplň predmetu tvoria aplikácie pre programové riešenie úloh na najnižšej úrovni digitálneho podniku od základov modelovania / riadenia / simulácie po postupné vytváranie riadiacich systémov na simulačnej úrovni a ilustrácia následnej implementácie do reálneho modelu distribuovaného systému. Predmet svojim obsahom môže slúžit ako metodický základ pri návrhu a realizácii algoritmov pri riešení úloh z oblasti mobilnej a priemyselnej robotiky, ktoré slúžia pre vyššie úrovne digitálneho podniku ako zdroje dát, resp. objekty ovládania/riadenia s komunikáciou podľa štandardov IoT.\n\n\nStručná osnova predmetu:\n• Úvod do modelovania a simulácie kyber-fyzikálnych systémov (CPS), pojem systém, model, riadenie, riadiaca štruktúra, prehľad simulačných nástrojov pre vedecko-technické výpočty\n• Príklady modelových aplikácií a ich imlementácia do distribuovaného sytému riadenia (DSR),(modelová aplikácia pre klasiclé/rotačné inverzné kyvadlá, modelové pracovisko pre mobilnú robotiku, laboratórne modely výrobných liniek s robotickým ramenom, model gulička na ploche - výukový web portál)\n• Modelovanie fyzikálnych systémov s využitím metódy analytickej identifikácie (RC člen 1. a 2. rádu, hydraulický systém, tepelný výmeník, pružina-tlmič, DC motor), matematický model dynamického systému v tvare LDR a v tvare prenosu, matematický aparát na riešenie LDR\n• Analýza dynamických vlastností LDS na rôzne typové signály v časovej/frekvenčnej oblasti výpočtom a počítačovou simuláciou v jazyku M/S, demo simulácie pre riešenie aplikačných príkladov\n• Architektúra a analýza riadiacich štruktúr, princíp spätnej väzby, štandardné prenosy riadiacej štruktúry, dynamické vlastnosti rôznych typov regulátorov, výpočet presnosti regulácie bloková algebra, demo simulácia riadiacich štruktúr v prostredí Simulink,\n• Vyšetrovanie stability lineárnych dynamických systémov a riadiacich štruktúr s využitím algebraických/frekvenčných kritérií, verifikácia výsledkov analytického výpočtu simuláciou aplikačných demo príkladov\n• Aplikácia výpočtových postupov základných metód syntézy (výpočet parametrov PID regulátorov s využitím metód Z-N, Naslin, optimálny modul, štandardné tvary, voľba pólov) v návrhu algoritmov riadenia pre jednoduché modely fyzikálnych systémov,\n• Programové demo moduly pre simuláciu riadenia modelov jednoduchých fyzikálnych systémov v jazyku Matlab s využitím funkcií Control toolbox-u s možnosťou prepojenia na simuláciu riadiacej štruktúry v prostredí Simulink\n• Vyhodnotenie kvality riadenia v ustálených stavoch a stability riadiacej štruktúry výpočtom a simuláciou,\n• Úvod do počítačového riadenia modelov fyzikálnych systémov v riadiacej štruktúre, demo aplikácia pre programovú realizáciu algoritmu číslicového riadenia v jazyku Matlab a v jazyku C s využitím jednočípového mikropočítača, ilustrácia číslicového riadenia RC člena v riadiacej štruktúre – reálna aplikácia\n\n\n\nOdporúčaná literatúra:\nJadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1.\nBalátě, J.: Automatické řízení, nakladatelství BEN, Technická literatura, Praha 2004, ISBN 80-7300-148-9\nŠvarc, I.,- Šeda, M.-Vítečková, M.: Automatické řízení, VUT Brno 2007, CERM, ISBN 978-80-214-3491-2\nBakošová, M.-Fikar,M.: Riadenie procesov, STU Bratislava 2008, ISBN 978-80-227-2841-6\nDorčák, Ľ., Terpák, J., Dorčáková, F.: Teória automatického riadenia - spojité lineárne systémy, TU Košice, 2006, s. 212, ISBN 80-8073-025-3\nJadlovská, A. – Jadlovská, S,:Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3,\nZaplatílek, K.: Matlab, začínáme se systémy, Tribun 2011, ISBN 978-807-399-2996\nTewari, A.: Modern Control Design with Matlab and Simulink, John Wiley & Sons, 2014, ISBN 978-047-149-6793\nTutoriály modelových aplikácii - web výukový portál CMMRaPI (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 43\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n28%\n5%\n19%\n5%\n5%\n40%\n\n\nZabezpečuje:\ndoc. Ing. Anna Jadlovská, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

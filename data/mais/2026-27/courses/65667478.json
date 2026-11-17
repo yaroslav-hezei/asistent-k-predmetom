@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65667478",
+  "code": "2621881",
+  "name": "Inžinierska ekonometria",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667478",
+  "fetched_at": "2026-11-17T15:00:40Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2621881"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Inžinierska ekonometria"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra absolvujú študenti písomné testy a riešia úlohy na PC."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška kombinuje písomnú a ústnu časť."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Zvládnutie teoretických základov opisu náhodných postupností, zvládnutie metód vylúčenia nestacionárnosti a lineárnej regresnej analýzy, metodiky identifikácie parametrov autoregresných modelov a overovanie vlastností predikčných algoritmov v prostredí štandardných návrhových prostriedkov, tvorivé využívanie získaných poznatkov pri implementácii nelineárnych modelov časových radov a kreatívne rozhodovanie sa pri výbere štruktúr analýzy podnikových dát pomocou ekonometrických metód."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Ekonometria\n- Aplikovaná ekonomická štatistika\n- Štatistický odhad, opisná štatistika, spracovanie údajov\n- Ekonometrická analýza, funkcie spotreby a investovania\n- Regresná analýza, testovanie ohraničení, detekcia neočakávaných udalostí\n- Špecifikácia ekonomických modelov a ich simulácia\n- Dynamické modely\n- Analýza náhodných postupností\n- Metódy predikcie"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Baltagi, B.H.: Econometrics. Springer:Verlag, Berlin, 2008.\n- Ulah, A. : Giles, D.E.A.: Handbook of Applied Economic Statistics. Marcel Dekker, Inc., New York, 1998."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia (štúdium literatúry): 12 hodín\n- Príprava na priebežné písomné previerky: 24 hodín\n- Spracovanie semestrálnej práce k zápočtu (úlohy na PC): 24 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 160 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 487\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n33%\n30%\n19%\n9%\n3%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Butka, PhD.\nprof. Ing. Dušan Krokavec, CSc.\nIng. Miroslava Matejová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 487,
+    "percent": {
+      "A": 33,
+      "B": 30,
+      "C": 19,
+      "D": 9,
+      "E": 3,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Butka, PhD.",
+    "prof. Ing. Dušan Krokavec, CSc.",
+    "Ing. Miroslava Matejová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2621881\nNázov predmetu: Inžinierska ekonometria\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra absolvujú študenti písomné testy a riešia úlohy na PC.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška kombinuje písomnú a ústnu časť.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZvládnutie teoretických základov opisu náhodných postupností, zvládnutie metód vylúčenia nestacionárnosti a lineárnej regresnej analýzy, metodiky identifikácie parametrov autoregresných modelov a overovanie vlastností predikčných algoritmov v prostredí štandardných návrhových prostriedkov, tvorivé využívanie získaných poznatkov pri implementácii nelineárnych modelov časových radov a kreatívne rozhodovanie sa pri výbere štruktúr analýzy podnikových dát pomocou ekonometrických metód.\n\nStručná osnova predmetu:\n- Ekonometria\n- Aplikovaná ekonomická štatistika\n- Štatistický odhad, opisná štatistika, spracovanie údajov\n- Ekonometrická analýza, funkcie spotreby a investovania\n- Regresná analýza, testovanie ohraničení, detekcia neočakávaných udalostí\n- Špecifikácia ekonomických modelov a ich simulácia\n- Dynamické modely\n- Analýza náhodných postupností\n- Metódy predikcie\n\nOdporúčaná literatúra:\n- Baltagi, B.H.: Econometrics. Springer:Verlag, Berlin, 2008.\n- Ulah, A. : Giles, D.E.A.: Handbook of Applied Economic Statistics. Marcel Dekker, Inc., New York, 1998.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia (štúdium literatúry): 12 hodín\n- Príprava na priebežné písomné previerky: 24 hodín\n- Spracovanie semestrálnej práce k zápočtu (úlohy na PC): 24 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 160 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 487\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n33%\n30%\n19%\n9%\n3%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Peter Butka, PhD.\nprof. Ing. Dušan Krokavec, CSc.\nIng. Miroslava Matejová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

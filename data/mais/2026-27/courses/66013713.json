@@ -1,0 +1,155 @@
+{
+  "predmet_id": "66013713",
+  "code": "26000769",
+  "name": "Diplomový projekt II",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013713",
+  "fetched_at": "2026-11-17T15:15:35Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000769"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Diplomový projekt II"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 2,6"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": ""
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26000752 - Diplomový projekt I"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent v rámci predmetu pracuje metódou identifikácie problému, analýzy, návrhu a implementácie systémov a používa nové normy a štandardizovanú dokumentáciu ako aj využíva pri práci programovacie jazyky a využíva najnovšie trendy v programovaní. V rámci projektu navrhuje a vyvíja moderné systémy priemyselnej informatiky a rozvíja funkčné a prevádzkové možnosti informačných riadiacich a rozhodovacích systémov, implementuje moderné informačné a riadiace systémy, súčasne je vedený pre individuálnu prácu, vo vybraných prípadoch v tíme ak práca je súčasťou vedeckého projektu pracoviska s jasne definovaným príspevkom študenta. Vo všeobecnosti je študent vedený aby udržiaval kontakt s odborom a je súčasne oboznamovaný s medzinárodnými profesnými organizáciami ako IEEE. Predmet práce sa dotýka špecializácie Inteligentných systémov s prvkami adaptácie, rekonfigurácie, fault-tolerantných prístupov a samo-organizácie systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Identifikácia problému\n• Návrh riešenia\n• Overenie riešenia\n• Písomná prezentácia riešenia projektu\n• Ústna prezentácia výsledkov projektu"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• ISO 690:1987: Documentation-Bibliographic references. Content, form and structure\n• ISO 2145:1978: Documentation-Numbering of divisions and subdivisions in written documents.\n• W. Strunk, E.B. White: The Elements of Style , ISBN 0-02-418190-0\n• podľa odporúčaní vedúceho alebo konzultanta diplomovej práce"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 272\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n62%\n21%\n9%\n3%\n3%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "vedúci záverečnej práce"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [],
+  "grades": {
+    "total_students": 272,
+    "percent": {
+      "A": 62,
+      "B": 21,
+      "C": 9,
+      "D": 3,
+      "E": 3,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "vedúci záverečnej práce"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000769\nNázov predmetu: Diplomový projekt II\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 2,6\nMetóda štúdia:\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety: 26000752 - Diplomový projekt I\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent v rámci predmetu pracuje metódou identifikácie problému, analýzy, návrhu a implementácie systémov a používa nové normy a štandardizovanú dokumentáciu ako aj využíva pri práci programovacie jazyky a využíva najnovšie trendy v programovaní. V rámci projektu navrhuje a vyvíja moderné systémy priemyselnej informatiky a rozvíja funkčné a prevádzkové možnosti informačných riadiacich a rozhodovacích systémov, implementuje moderné informačné a riadiace systémy, súčasne je vedený pre individuálnu prácu, vo vybraných prípadoch v tíme ak práca je súčasťou vedeckého projektu pracoviska s jasne definovaným príspevkom študenta. Vo všeobecnosti je študent vedený aby udržiaval kontakt s odborom a je súčasne oboznamovaný s medzinárodnými profesnými organizáciami ako IEEE. Predmet práce sa dotýka špecializácie Inteligentných systémov s prvkami adaptácie, rekonfigurácie, fault-tolerantných prístupov a samo-organizácie systémov.\n\nStručná osnova predmetu:\n• Identifikácia problému\n• Návrh riešenia\n• Overenie riešenia\n• Písomná prezentácia riešenia projektu\n• Ústna prezentácia výsledkov projektu\n\nOdporúčaná literatúra:\n• ISO 690:1987: Documentation-Bibliographic references. Content, form and structure\n• ISO 2145:1978: Documentation-Numbering of divisions and subdivisions in written documents.\n• W. Strunk, E.B. White: The Elements of Style , ISBN 0-02-418190-0\n• podľa odporúčaní vedúceho alebo konzultanta diplomovej práce\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 272\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n62%\n21%\n9%\n3%\n3%\n2%\n\n\nZabezpečuje:\nvedúci záverečnej práce\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

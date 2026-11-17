@@ -1,0 +1,165 @@
+{
+  "predmet_id": "65888767",
+  "code": "26001090",
+  "name": "Základy sieťových technológií",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888767",
+  "fetched_at": "2026-11-17T15:04:23Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001090"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy sieťových technológií"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": ""
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent porozumie vývoju informačných a komunikačných technológií, ich vplyvu na spoločnosť a významu komunikačných sietí a ich služieb. Ovláda základné princípy prenosu informácie analógovým a digitálnym signálom, funkcie a parametre komunikačných sietí, ako aj hlavné technológie, modely a topológie. Pochopí význam štandardizácie a protokolovej štruktúry a vie vysvetliť úlohu protokolov, funkcií a služieb vo vrstvených sieťových architektúrach. Dokáže analyzovať základné sieťové procesy, interpretovať kľúčové prenosové parametre a pochopiť ich vplyv na kvalitu poskytovaných služieb. Vie samostatne opísať a prezentovať spôsob prenosu informácie a úlohu jednotlivých vrstiev v komunikačnom systéme."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do komunikačných a počítačových sietí – základné pojmy, typy sietí, služby.\n2. Telekomunikačné siete, konvergencia a architektúry – historický vývoj, modely OSI a TCP/IP.\n3. Moderné počítačové siete – IPv4/IPv6, smerovanie, SDN, NFV, cloud & edge networking.\n4. Bezdrôtové a mobilné siete –IoT siete, mobilita a QoS.\n5. Bezpečnosť komunikačných a sieťových systémov – sieťové útoky, kryptografia, ochranné mechanizmy.\n6. Programovanie pre sieťové systémy – skriptovanie, sockety, API, sieťová simulácia a emulácia.\n7. Prenosové médiá – metalické, optické a bezdrôtové kanály, parametre a merania.\n8. Elektronika a digitálna logika sieťových zariadení – obvody, komponenty routerov a switchov.\n9. Multimediálne signály v sieťach – kompresia, streaming, QoS/QoE.\n10. Multimodálna interakcia v komunikačných systémoch – AI, senzory, VR/AR a pokročilé rozhrania."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Zeeshan Qaiser: Computer Networking, 2024, 256 str., ISBN: 978-0136959038;\nB. B. Gupta: SDN and NFV: A New Dimension To Virtualization, 2024, 292 str., ISBN: 978-9811254871;\nEvan Gilman and Doug Barth: Zero Trust Networks: Building Secure Systems in Untrusted Networks, 2017, 213 str., ISBN: 978-1491962190"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 922\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n24%\n20%\n15%\n12%\n11%\n18%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Papaj, PhD.\nprof. Ing. Ľuboš Ovseník, PhD.\ndoc. Ing. Gabriel Bugár, PhD.\nIng. Jakub Oravec, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 922,
+    "percent": {
+      "A": 24,
+      "B": 20,
+      "C": 15,
+      "D": 12,
+      "E": 11,
+      "FX": 18
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Papaj, PhD.",
+    "prof. Ing. Ľuboš Ovseník, PhD.",
+    "doc. Ing. Gabriel Bugár, PhD.",
+    "Ing. Jakub Oravec, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26001090\nNázov predmetu: Základy sieťových technológií\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby:\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): LS\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent porozumie vývoju informačných a komunikačných technológií, ich vplyvu na spoločnosť a významu komunikačných sietí a ich služieb. Ovláda základné princípy prenosu informácie analógovým a digitálnym signálom, funkcie a parametre komunikačných sietí, ako aj hlavné technológie, modely a topológie. Pochopí význam štandardizácie a protokolovej štruktúry a vie vysvetliť úlohu protokolov, funkcií a služieb vo vrstvených sieťových architektúrach. Dokáže analyzovať základné sieťové procesy, interpretovať kľúčové prenosové parametre a pochopiť ich vplyv na kvalitu poskytovaných služieb. Vie samostatne opísať a prezentovať spôsob prenosu informácie a úlohu jednotlivých vrstiev v komunikačnom systéme.\n\nStručná osnova predmetu:\n1. Úvod do komunikačných a počítačových sietí – základné pojmy, typy sietí, služby.\n2. Telekomunikačné siete, konvergencia a architektúry – historický vývoj, modely OSI a TCP/IP.\n3. Moderné počítačové siete – IPv4/IPv6, smerovanie, SDN, NFV, cloud & edge networking.\n4. Bezdrôtové a mobilné siete –IoT siete, mobilita a QoS.\n5. Bezpečnosť komunikačných a sieťových systémov – sieťové útoky, kryptografia, ochranné mechanizmy.\n6. Programovanie pre sieťové systémy – skriptovanie, sockety, API, sieťová simulácia a emulácia.\n7. Prenosové médiá – metalické, optické a bezdrôtové kanály, parametre a merania.\n8. Elektronika a digitálna logika sieťových zariadení – obvody, komponenty routerov a switchov.\n9. Multimediálne signály v sieťach – kompresia, streaming, QoS/QoE.\n10. Multimodálna interakcia v komunikačných systémoch – AI, senzory, VR/AR a pokročilé rozhrania.\n\n\n\nOdporúčaná literatúra:\nZeeshan Qaiser: Computer Networking, 2024, 256 str., ISBN: 978-0136959038;\nB. B. Gupta: SDN and NFV: A New Dimension To Virtualization, 2024, 292 str., ISBN: 978-9811254871;\nEvan Gilman and Doug Barth: Zero Trust Networks: Building Secure Systems in Untrusted Networks, 2017, 213 str., ISBN: 978-1491962190\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 922\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n24%\n20%\n15%\n12%\n11%\n18%\n\n\nZabezpečuje:\ndoc. Ing. Ján Papaj, PhD.\nprof. Ing. Ľuboš Ovseník, PhD.\ndoc. Ing. Gabriel Bugár, PhD.\nIng. Jakub Oravec, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

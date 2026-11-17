@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65950818",
+  "code": "2618991",
+  "name": "Supravodivé materiály",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950818",
+  "fetched_at": "2026-11-17T15:08:05Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2618991"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Supravodivé materiály"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška písomnou a ústnou formou"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť študentom poznatky o fenoméne supravodivosti a jeho využití v materiálových vedách."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Časť 1: Historický prehľad\nSkvapalnenie hélia. Objav supravodivosti. Nulový elektrický odpor. Ideálny diamagnetizmus.\nČasť 2: Základné experimentálne vlastnosti supravodičov I. typu.\nKondenzačná energia. Tienenie magnetického poľa. Demagnetizačný faktor. Intermediálny stav. Merné teplo supravodičov. Optické vlastnosti.\nČasť 3: Teória BCS. Cooperovské páry. Fonónový mechanizus supravodivosti. Prechodová teplota do supravodivého stavu. Teplotná závislosť energetickej medzery. Elektrónové tunelovanie.\nČasť 4: Ginzburgova - Landauova fenomenologická teória supravodivosti.\nČasť 5: Základné experimentálne vlastnosti supravodičov I. typu.\nHĺbka vniku. Koherenčná dĺžka. Supravodivé víry. Horné a dolné kritické magnetické pole. Povrchové kritické magnetické pole.\nČasť 6: Josephsonov efekt.\nČasť 7: Nekonvenčná supravodivosť\nAnizotropná energetická medzera, nefonónové mechanizmy supravodivosti, vysokoteplotné supravodiče, ťažkofermiónové supravodiče, fázové prechody v sústave supravodivých vírov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "VALKO, Pavol. Supravodivosť. Zlín: Kniha Zlín. 2011, 380 s. ISBN 978-80-87497-44-9.\nTAKÁCS, Silvester, CESNAK, Ladislav. Supravodivosť. Bratislava: Alfa. 1979, 320 s.\nKVASNICA, Jozef. Matematický aparát fyziky. Praha: Academia. 1987, 384 s. ISBN 80-200-0088-7.\nPULC, Vojtech, HRNČIAR, Viliam, GONDÁR, Ernest. Náuka o materiáli. Bratislava: STU. 2008, 333 s. ISBN 978-80-227-2847-8\nCELÝ, Jan. Kvázičastice v pevných látkach. Brno: Vysoké učení technické v Brně. 2004, 224 s. ISBN 80-214-2611-X\nHAJKO, Vladimír, POTOCKÝ, Ladislav, ZENTKO, Anton. Magnetizačné procesy. Bratislava: Alfa. 1982, 320 s.\nILKOVIČ, Vladimír. Kvantová teória 3. Košice: Rektorát UPJŠ. 1990, 206 s. ISBN 80-7097-075-8"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 60 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na seminároch: 26 hodín\n• Priame konzultácie: 8 hodín\n\nNekontaktná výučba: spolu 90 hodín, z toho:\n• Príprava na semináre: 18 hodín\n• Príprava na priebežné kontrolné skúšky: 20 hodín\n• Príprava na skúšku: 52 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 20\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n15%\n10%\n15%\n10%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Jozef Kravčák, PhD.\nRNDr. Peter Vrábel, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 20,
+    "percent": {
+      "A": 50,
+      "B": 15,
+      "C": 10,
+      "D": 15,
+      "E": 10,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Jozef Kravčák, PhD.",
+    "RNDr. Peter Vrábel, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 2618991\nNázov predmetu: Supravodivé materiály\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška písomnou a ústnou formou\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť študentom poznatky o fenoméne supravodivosti a jeho využití v materiálových vedách.\n\nStručná osnova predmetu:\nČasť 1: Historický prehľad\nSkvapalnenie hélia. Objav supravodivosti. Nulový elektrický odpor. Ideálny diamagnetizmus.\nČasť 2: Základné experimentálne vlastnosti supravodičov I. typu.\nKondenzačná energia. Tienenie magnetického poľa. Demagnetizačný faktor. Intermediálny stav. Merné teplo supravodičov. Optické vlastnosti.\nČasť 3: Teória BCS. Cooperovské páry. Fonónový mechanizus supravodivosti. Prechodová teplota do supravodivého stavu. Teplotná závislosť energetickej medzery. Elektrónové tunelovanie.\nČasť 4: Ginzburgova - Landauova fenomenologická teória supravodivosti.\nČasť 5: Základné experimentálne vlastnosti supravodičov I. typu.\nHĺbka vniku. Koherenčná dĺžka. Supravodivé víry. Horné a dolné kritické magnetické pole. Povrchové kritické magnetické pole.\nČasť 6: Josephsonov efekt.\nČasť 7: Nekonvenčná supravodivosť\nAnizotropná energetická medzera, nefonónové mechanizmy supravodivosti, vysokoteplotné supravodiče, ťažkofermiónové supravodiče, fázové prechody v sústave supravodivých vírov.\n\nOdporúčaná literatúra:\nVALKO, Pavol. Supravodivosť. Zlín: Kniha Zlín. 2011, 380 s. ISBN 978-80-87497-44-9.\nTAKÁCS, Silvester, CESNAK, Ladislav. Supravodivosť. Bratislava: Alfa. 1979, 320 s.\nKVASNICA, Jozef. Matematický aparát fyziky. Praha: Academia. 1987, 384 s. ISBN 80-200-0088-7.\nPULC, Vojtech, HRNČIAR, Viliam, GONDÁR, Ernest. Náuka o materiáli. Bratislava: STU. 2008, 333 s. ISBN 978-80-227-2847-8\nCELÝ, Jan. Kvázičastice v pevných látkach. Brno: Vysoké učení technické v Brně. 2004, 224 s. ISBN 80-214-2611-X\nHAJKO, Vladimír, POTOCKÝ, Ladislav, ZENTKO, Anton. Magnetizačné procesy. Bratislava: Alfa. 1982, 320 s.\nILKOVIČ, Vladimír. Kvantová teória 3. Košice: Rektorát UPJŠ. 1990, 206 s. ISBN 80-7097-075-8\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 60 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na seminároch: 26 hodín\n• Priame konzultácie: 8 hodín\n\nNekontaktná výučba: spolu 90 hodín, z toho:\n• Príprava na semináre: 18 hodín\n• Príprava na priebežné kontrolné skúšky: 20 hodín\n• Príprava na skúšku: 52 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 20\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n15%\n10%\n15%\n10%\n0%\n\n\nZabezpečuje:\ndoc. RNDr. Jozef Kravčák, PhD.\nRNDr. Peter Vrábel, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,165 @@
+{
+  "predmet_id": "65887833",
+  "code": "26000846",
+  "name": "Počítačové siete",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65887833",
+  "fetched_at": "2026-11-17T15:03:22Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000846"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Počítačové siete"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,0,2,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežne budú vykonávané kontrolné testy za účelom overenia si nadobudnutých vedomostí. V rámci semestra budú študenti pracovať na zadaniach z danej problematiky."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa absolvovanie predmetu bude potrebné získať minimálne 51 % z priebežného hodnotenia a 51% zo záverečného testu. Celková známka sa stanoví na základe celkového počtu získaných bodov z priebežného hodnotenia a výsledku záverečného testu."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu si osvojí základné komponenty, architektúry a činnosť smerovačov a prepínačov v malých sieťach, tiež sa oboznámi s funkcionalitou bezdrôtových lokálnych sietí (WLAN) a s prislúchajúcimi bezpečnostnými konceptmi. Študenti sa naučia ako konfigurovať a riešiť problémy so smerovačmi a prepínačmi pre pokročilé funkcie pomocou osvedčených postupov zabezpečenia a ako vyriešiť bežné problémy s protokolmi v sieťach IPv4 aj IPv6. Absolvent je schopný nakonfigurovať funkcionality ako: VLAN a Inter-VLAN smerovanie pomocou osvedčených postupov v oblasti zabezpečenia, riešiť problémy so smerovaním medzi VLANami na zariadeniach pracujúcich na sieťovej vrstve ISO/OSI modelu (L3), konfigurovať redundanciu v prepinanej sieti pomocou STP a EtherChannel, riešiť problémy s EtherChannel v prepínaných sieťach, konfigurovať dynamické prideľovanie adries v sieťach IPv6, konfigurovať siete WLAN pomocou osvedčených postupov zabezpečenia WLC a L2, nakonfigurovať zabezpečenie prepínača na zmiernenie útokov LAN a tiež nakonfigurovať statické smerovanie IPv4 a IPv6 na smerovačoch."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Oboznámenie sa so základnou konfiguráciou smerovačov a prepínačov, zabezpečenie vzdialeného prístupu a verifikácie priamo pripojených sietí.\n2. Úloha konceptu prepínania v dátových sieťach, preposielania rámcov L2, kolízne a bradcastové domény.\n3. Koncepcia virtuálnej LAN siete (VLAN), funkcionalita trunkovacích a prístupových portov, dynamický trunkovací protokol DTP.\n4. Inter-VLAN smerovanie, Router-on-Stick smerovanie a tiež smerovanie VLAN na báze prepínačov L3.\n5. Účel, operácie a evolúcia protokolu STP pre bezslučkovosť prepínaných sietí.\n6. Operácie, konfigurácia a verifikácia funkcionality technológie EtherChannel.\n7. Práca s dynamickým prideľovaním sieťových nastavení (DHCPv4, DHCPv6 a SLAAC).\n8. Oboznámenie sa s konceptom FHRP, ktorá poskytuje služby predvolenej brány v redundantnej sieti.\n9. Koncepty zabezpečenia LAN, riadenie prístupov pomocou ACL, útoky v LAN sieťach, implementácia zabezpečenia portov.\n10. Úvod do problematiky bezdrôtových sietí WLAN, CAPWAP operácie, bezpečnostné mechanizmy WLAN.\n11. Problematika statického smerovania, konfigurácia fixnej a plávajúcej statickej trasy, brány a smerovania prevádzky užívateľov.\n12. Spracovanie packetov IPv4 a IPv6. Pokročilá diagnostika a riešenie bežných problémov smerovania."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Kurikulum programu Cisco Networking Academy: CCNAv7 Switching, Routing and Wireless Essentials (SRWE) - http://www.netacad.com, 2021\n2. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004\n3. Naren Mehta, Rus Healy, Wendell Odom: Směrování a přepínání sítí, Computer Press, 2009\n4. Chris Sanders: Analýza sítí a řešení problémů v programu Wireshark, Computer Press, 2012\n5. Todd Lammle: CCNA, Computer Press, 2010\n6. Shannon McFarland, Muninder Sambi, Nikhil Sharma, Sanjay Hooda: IPv6, Computer Press, 2011\n7. Pužmanová, R.: Moderní komunikační sítě od A do Z. Computer Press, Praha 2004"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 911\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n10%\n15%\n22%\n22%\n10%\n21%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Gabriel Bugár, PhD.\nIng. Jakub Oravec, PhD.\nIng. Renát Haluška, PhD.\ndoc. Ing. Ján Papaj, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 911,
+    "percent": {
+      "A": 10,
+      "B": 15,
+      "C": 22,
+      "D": 22,
+      "E": 10,
+      "FX": 21
+    }
+  },
+  "teachers": [
+    "doc. Ing. Gabriel Bugár, PhD.",
+    "Ing. Jakub Oravec, PhD.",
+    "Ing. Renát Haluška, PhD.",
+    "doc. Ing. Ján Papaj, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000846\nNázov predmetu: Počítačové siete\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,0,2,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežne budú vykonávané kontrolné testy za účelom overenia si nadobudnutých vedomostí. V rámci semestra budú študenti pracovať na zadaniach z danej problematiky.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa absolvovanie predmetu bude potrebné získať minimálne 51 % z priebežného hodnotenia a 51% zo záverečného testu. Celková známka sa stanoví na základe celkového počtu získaných bodov z priebežného hodnotenia a výsledku záverečného testu.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu si osvojí základné komponenty, architektúry a činnosť smerovačov a prepínačov v malých sieťach, tiež sa oboznámi s funkcionalitou bezdrôtových lokálnych sietí (WLAN) a s prislúchajúcimi bezpečnostnými konceptmi. Študenti sa naučia ako konfigurovať a riešiť problémy so smerovačmi a prepínačmi pre pokročilé funkcie pomocou osvedčených postupov zabezpečenia a ako vyriešiť bežné problémy s protokolmi v sieťach IPv4 aj IPv6. Absolvent je schopný nakonfigurovať funkcionality ako: VLAN a Inter-VLAN smerovanie pomocou osvedčených postupov v oblasti zabezpečenia, riešiť problémy so smerovaním medzi VLANami na zariadeniach pracujúcich na sieťovej vrstve ISO/OSI modelu (L3), konfigurovať redundanciu v prepinanej sieti pomocou STP a EtherChannel, riešiť problémy s EtherChannel v prepínaných sieťach, konfigurovať dynamické prideľovanie adries v sieťach IPv6, konfigurovať siete WLAN pomocou osvedčených postupov zabezpečenia WLC a L2, nakonfigurovať zabezpečenie prepínača na zmiernenie útokov LAN a tiež nakonfigurovať statické smerovanie IPv4 a IPv6 na smerovačoch.\n\nStručná osnova predmetu:\n1. Oboznámenie sa so základnou konfiguráciou smerovačov a prepínačov, zabezpečenie vzdialeného prístupu a verifikácie priamo pripojených sietí.\n2. Úloha konceptu prepínania v dátových sieťach, preposielania rámcov L2, kolízne a bradcastové domény.\n3. Koncepcia virtuálnej LAN siete (VLAN), funkcionalita trunkovacích a prístupových portov, dynamický trunkovací protokol DTP.\n4. Inter-VLAN smerovanie, Router-on-Stick smerovanie a tiež smerovanie VLAN na báze prepínačov L3.\n5. Účel, operácie a evolúcia protokolu STP pre bezslučkovosť prepínaných sietí.\n6. Operácie, konfigurácia a verifikácia funkcionality technológie EtherChannel.\n7. Práca s dynamickým prideľovaním sieťových nastavení (DHCPv4, DHCPv6 a SLAAC).\n8. Oboznámenie sa s konceptom FHRP, ktorá poskytuje služby predvolenej brány v redundantnej sieti.\n9. Koncepty zabezpečenia LAN, riadenie prístupov pomocou ACL, útoky v LAN sieťach, implementácia zabezpečenia portov.\n10. Úvod do problematiky bezdrôtových sietí WLAN, CAPWAP operácie, bezpečnostné mechanizmy WLAN.\n11. Problematika statického smerovania, konfigurácia fixnej a plávajúcej statickej trasy, brány a smerovania prevádzky užívateľov.\n12. Spracovanie packetov IPv4 a IPv6. Pokročilá diagnostika a riešenie bežných problémov smerovania.\n\n\nOdporúčaná literatúra:\n1. Kurikulum programu Cisco Networking Academy: CCNAv7 Switching, Routing and Wireless Essentials (SRWE) - http://www.netacad.com, 2021\n2. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004\n3. Naren Mehta, Rus Healy, Wendell Odom: Směrování a přepínání sítí, Computer Press, 2009\n4. Chris Sanders: Analýza sítí a řešení problémů v programu Wireshark, Computer Press, 2012\n5. Todd Lammle: CCNA, Computer Press, 2010\n6. Shannon McFarland, Muninder Sambi, Nikhil Sharma, Sanjay Hooda: IPv6, Computer Press, 2011\n7. Pužmanová, R.: Moderní komunikační sítě od A do Z. Computer Press, Praha 2004\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 911\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n10%\n15%\n22%\n22%\n10%\n21%\n\n\nZabezpečuje:\ndoc. Ing. Gabriel Bugár, PhD.\nIng. Jakub Oravec, PhD.\nIng. Renát Haluška, PhD.\ndoc. Ing. Ján Papaj, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65887684",
+  "code": "26000836",
+  "name": "Webové technológie a sieťové služby",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65887684",
+  "fetched_at": "2026-11-17T15:03:11Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000836"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Webové technológie a sieťové služby"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,0,2,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežné hodnotenie bude pozostávať dvoch zadaní, ktoré musí študent vypracovať a odovzdať podľa pokynov. Zadanie bude hodnotené 15 bodmi. Počas semestra sa budú vykonávať kontrolne testy, z ktorých môže študent získať 10 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa absolvovanie predmetu bude potrebné získať minimálne 51 % z priebežného hodnotenia a 51% z ústnej časti skúšky. Celková známka sa stanoví na základe celkového počtu získaných bodov z priebežného hodnotenia a výsledku ústnej skúšky."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní predmetu študent získa vedomosti a praktické skúsenosti v oblasti architektúry internetu, webových aplikácií a sieťových protokolov, dokáže navrhovať a implementovať front-end a back-end riešenia s využitím moderných technológií, frameworkov a databáz pre rozličné sieťové služby. Vie využívať mechanizmy real-time a P2P komunikácie, nasadzovať služby v kontajneroch a cloude, analyzovať sieťovú prevádzku, optimalizovať výkon a zabezpečenie aplikácií a efektívne pracovať tímovo na komplexných projektoch."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Internet a sieťové služby – architektúra internetu, IP adresovanie, DNS, URL a URI, základné sieťové protokoly (HTTP, HTTPS, TCP/IP) a REST API.\n2. Front-end technológie a UX/UI – HTML5, CSS3, JavaScript, moderné frameworky (Bootstrap, Angular, React), princípy UX a UI, responzívny dizajn.\n3. Back-end a databázy – PHP a Python (Flask, Django), relačné a NoSQL databázy, tvorba REST API a spracovanie dynamického obsahu, autentifikácia a autorizácia.\n4. Real-time a P2P komunikácia – WebSocket, SSE, WebRTC, aplikácie pre chat, multiplayer a IoT dashboardy.\n5. Nasadzovanie a DevOps – kontajnery (Docker), orchestrácia (Kubernetes), cloudové platformy (AWS, GCP, Azure), CI/CD pipelines a optimalizácia výkonu.\n6. Testovanie, optimalizácia a bezpečnosť – analýza sieťovej prevádzky, testovanie API a výkonu, bezpečnostné mechanizmy (TLS, HTTPS, JWT, OAuth2), ochrana proti útokom (XSS, CSRF, SQL Injection)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. T. Suleymani: Hands-On Microservices with JavaScript: Build scalable web applications with JavaScript, Node.js, and Docker, 2024, 406 str., ISBN: 978-1788625401,\n2. T.Auger, E. Saroyan: Generative AI for Web Development, 2024, 250 str., ISBN:979-8-8688-0884-5,\n3. M.McDonald Grokking: Web Application Security, 2024, 336 str., ISBN:978-1633438262"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 542\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n28%\n25%\n24%\n13%\n4%\n5%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Papaj, PhD.\nIng. Jozef Badár"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 542,
+    "percent": {
+      "A": 28,
+      "B": 25,
+      "C": 24,
+      "D": 13,
+      "E": 4,
+      "FX": 5
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Papaj, PhD.",
+    "Ing. Jozef Badár"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000836\nNázov predmetu: Webové technológie a sieťové služby\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,0,2,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežné hodnotenie bude pozostávať dvoch zadaní, ktoré musí študent vypracovať a odovzdať podľa pokynov. Zadanie bude hodnotené 15 bodmi. Počas semestra sa budú vykonávať kontrolne testy, z ktorých môže študent získať 10 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa absolvovanie predmetu bude potrebné získať minimálne 51 % z priebežného hodnotenia a 51% z ústnej časti skúšky. Celková známka sa stanoví na základe celkového počtu získaných bodov z priebežného hodnotenia a výsledku ústnej skúšky.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní predmetu študent získa vedomosti a praktické skúsenosti v oblasti architektúry internetu, webových aplikácií a sieťových protokolov, dokáže navrhovať a implementovať front-end a back-end riešenia s využitím moderných technológií, frameworkov a databáz pre rozličné sieťové služby. Vie využívať mechanizmy real-time a P2P komunikácie, nasadzovať služby v kontajneroch a cloude, analyzovať sieťovú prevádzku, optimalizovať výkon a zabezpečenie aplikácií a efektívne pracovať tímovo na komplexných projektoch.\n\nStručná osnova predmetu:\n1. Internet a sieťové služby – architektúra internetu, IP adresovanie, DNS, URL a URI, základné sieťové protokoly (HTTP, HTTPS, TCP/IP) a REST API.\n2. Front-end technológie a UX/UI – HTML5, CSS3, JavaScript, moderné frameworky (Bootstrap, Angular, React), princípy UX a UI, responzívny dizajn.\n3. Back-end a databázy – PHP a Python (Flask, Django), relačné a NoSQL databázy, tvorba REST API a spracovanie dynamického obsahu, autentifikácia a autorizácia.\n4. Real-time a P2P komunikácia – WebSocket, SSE, WebRTC, aplikácie pre chat, multiplayer a IoT dashboardy.\n5. Nasadzovanie a DevOps – kontajnery (Docker), orchestrácia (Kubernetes), cloudové platformy (AWS, GCP, Azure), CI/CD pipelines a optimalizácia výkonu.\n6. Testovanie, optimalizácia a bezpečnosť – analýza sieťovej prevádzky, testovanie API a výkonu, bezpečnostné mechanizmy (TLS, HTTPS, JWT, OAuth2), ochrana proti útokom (XSS, CSRF, SQL Injection).\n\n\n\nOdporúčaná literatúra:\n1. T. Suleymani: Hands-On Microservices with JavaScript: Build scalable web applications with JavaScript, Node.js, and Docker, 2024, 406 str., ISBN: 978-1788625401,\n2. T.Auger, E. Saroyan: Generative AI for Web Development, 2024, 250 str., ISBN:979-8-8688-0884-5,\n3. M.McDonald Grokking: Web Application Security, 2024, 336 str., ISBN:978-1633438262\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 542\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n28%\n25%\n24%\n13%\n4%\n5%\n\n\nZabezpečuje:\ndoc. Ing. Ján Papaj, PhD.\nIng. Jozef Badár\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

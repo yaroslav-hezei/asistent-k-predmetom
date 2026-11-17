@@ -1,0 +1,176 @@
+{
+  "predmet_id": "65951709",
+  "code": "2608911",
+  "name": "Architektúry počítačových systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65951709",
+  "fetched_at": "2026-11-17T15:08:33Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2608911"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Architektúry počítačových systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npísomné previerky"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "V rámci predmetu získa študent informácie o technických prostriedkoch počítačov, počnúc od teoretických princípov ich činnosti, cez štruktúrnu organizáciu, až po architektonické koncepcie moderných počítačových systémov. Získané znalosti o komponentoch počítačového systému a algoritmoch používaných systémom pri spracovaní, uchovávaní a prenášaní dát, študent bude schopný uplatniť tak v praktickej sfére, ako aj v teoretickej oblasti informatiky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Východiská architektonických koncepcií číslicových počítačov\n2. Stavebné prvky číslicových počítačov: obvody na realizáciu predikátov; obvody na realizáciu operácií\n3. Stavebné prvky číslicových počítačov: obvody na pamätanie údajov; obvody na riadenie prenosu údajov a vnútorných komunikácií; stavové automaty\n4. Základy jazyka VHDL, jazyky určené na opis hardvéru\n5. Počítačová aritmetika a algoritmy\n6. Inštrukčne orientovaná architektúra: MIPS ISA\n7. Implementačno-orientovaná architektúra: jednocyklový a multicyklový procesor\n8. Teória prúdového spracovania a prúdové prístupy implementácie procesorov\n9. Pamäťový podsystém číslicového počítača\n10. Vonkajšie komunikácie procesora a riadenie vstupno/výstupných operácií\n11. Špecializované počítačové architektúry, technológia FPGA\n12. Úvod do paralelných počítačových systémov"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Ádám, N. Architektúry počítačových systémov (APS) [online]. Košice: KPI FEI TUKE, 2025. Dostupné na: https://moodle.fei.tuke.sk/course/view.php?id=71\n2. Hennessy, J.; Patterson, D.; Kozyrakis, C. Computer Architecture: A Quantitative Approach. 7th ed. Morgan Kaufmann, 2025. ISBN: 9780443154072.\n3. Harris, S.; Harris, D. Digital Design and Computer Architecture, RISC-V Edition. 1st ed. Morgan Kaufmann, 2021. ISBN 978-0-12-820064-3.\n4. LaMeres, B. J. Quick Start Guide to VHDL. 2nd ed. Cham: Springer Nature Switzerland AG, 2024. ISBN 978-3-031-42542-4."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 4321\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n13%\n23%\n24%\n23%\n13%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Norbert Ádám, PhD.\nIng. Lukáš Tomaščík\nIng. Ján Hurtuk, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 4321,
+    "percent": {
+      "A": 4,
+      "B": 13,
+      "C": 23,
+      "D": 24,
+      "E": 23,
+      "FX": 13
+    }
+  },
+  "teachers": [
+    "doc. Ing. Norbert Ádám, PhD.",
+    "Ing. Lukáš Tomaščík",
+    "Ing. Ján Hurtuk, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2608911\nNázov predmetu: Architektúry počítačových systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npísomné previerky\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nV rámci predmetu získa študent informácie o technických prostriedkoch počítačov, počnúc od teoretických princípov ich činnosti, cez štruktúrnu organizáciu, až po architektonické koncepcie moderných počítačových systémov. Získané znalosti o komponentoch počítačového systému a algoritmoch používaných systémom pri spracovaní, uchovávaní a prenášaní dát, študent bude schopný uplatniť tak v praktickej sfére, ako aj v teoretickej oblasti informatiky.\n\nStručná osnova predmetu:\n1. Východiská architektonických koncepcií číslicových počítačov\n2. Stavebné prvky číslicových počítačov: obvody na realizáciu predikátov; obvody na realizáciu operácií\n3. Stavebné prvky číslicových počítačov: obvody na pamätanie údajov; obvody na riadenie prenosu údajov a vnútorných komunikácií; stavové automaty\n4. Základy jazyka VHDL, jazyky určené na opis hardvéru\n5. Počítačová aritmetika a algoritmy\n6. Inštrukčne orientovaná architektúra: MIPS ISA\n7. Implementačno-orientovaná architektúra: jednocyklový a multicyklový procesor\n8. Teória prúdového spracovania a prúdové prístupy implementácie procesorov\n9. Pamäťový podsystém číslicového počítača\n10. Vonkajšie komunikácie procesora a riadenie vstupno/výstupných operácií\n11. Špecializované počítačové architektúry, technológia FPGA\n12. Úvod do paralelných počítačových systémov\n\nOdporúčaná literatúra:\n1. Ádám, N. Architektúry počítačových systémov (APS) [online]. Košice: KPI FEI TUKE, 2025. Dostupné na: https://moodle.fei.tuke.sk/course/view.php?id=71\n2. Hennessy, J.; Patterson, D.; Kozyrakis, C. Computer Architecture: A Quantitative Approach. 7th ed. Morgan Kaufmann, 2025. ISBN: 9780443154072.\n3. Harris, S.; Harris, D. Digital Design and Computer Architecture, RISC-V Edition. 1st ed. Morgan Kaufmann, 2021. ISBN 978-0-12-820064-3.\n4. LaMeres, B. J. Quick Start Guide to VHDL. 2nd ed. Cham: Springer Nature Switzerland AG, 2024. ISBN 978-3-031-42542-4.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 4321\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n13%\n23%\n24%\n23%\n13%\n\n\nZabezpečuje:\ndoc. Ing. Norbert Ádám, PhD.\nIng. Lukáš Tomaščík\nIng. Ján Hurtuk, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

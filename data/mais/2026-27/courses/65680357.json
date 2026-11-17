@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65680357",
+  "code": "26001358",
+  "name": "Bioinformatika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65680357",
+  "fetched_at": "2026-11-17T15:01:18Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001358"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Bioinformatika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzápočet a skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Bioinformatika je veda v prieniku viacerých vedných odborov. Primárne sa jedná o použitie IT v biológií, či už na simulovanie alebo analýzu živých systémov a procesov v nich, v širšom ponímaní zahŕňa aj štúdium a simuláciu procesov v spoločenstvách, aplikácie v robotike a protetike. Zadefinovanujeme pojem života a predstavíme biologické riadiace mechanizmy fungujúce na rôznych hierarchických úrovniach (bunka, tkanivo, orgán, organizmus, populácia, biocenóza) ovládajúce chemické procesy, tvorbu bielkovín a replikáciu nukleových kyselín, pohyb, navigáciu, dedičnosť, evolúciu. Zoznámime sa s ukladaním a spracovaním informácie v živých systémoch od úrovne nukleových kyselín, cez interakcie medzi bunkami, orgánmi, jedincami až po interakcie medzi druhmi. Pozornosť budeme venovať aj špecifickým otázkam hackovania genetického programu vírusmi, vzniku života, starnutia a vzťahu života a chaotických systémov. Budú tiež ukázané možnosti použitia evolučných princípov pre optimalizáciu riadiacich mechanizmov, pohybu, vzhľadu, komunikácie robotov a tvorbu vnútorného modelu sveta a samotného robota."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Definícia života a jeho vznik\nÚloha nukleových kyselín\nGenetický kód\nPrirodzené a umelé modifikácie genetického programu\nDedičnosť a evolúcia\nStarnutie a smrť\nCelulárne automaty\nModelovanie založené na agentoch\nLindenmayerove systémy\nEvolučná robotika\nBiologické senzory, orientácia a navigácia\nKomunikácia\nFraktály\nChaotické systémy"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Csonto, J., & Palko, M. (2002). Artificial Life, Elfa. ISBN 8089066593\n• http://alife.tuke.sk"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Bundzel, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Bundzel, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001358\nNázov predmetu: Bioinformatika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzápočet a skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nBioinformatika je veda v prieniku viacerých vedných odborov. Primárne sa jedná o použitie IT v biológií, či už na simulovanie alebo analýzu živých systémov a procesov v nich, v širšom ponímaní zahŕňa aj štúdium a simuláciu procesov v spoločenstvách, aplikácie v robotike a protetike. Zadefinovanujeme pojem života a predstavíme biologické riadiace mechanizmy fungujúce na rôznych hierarchických úrovniach (bunka, tkanivo, orgán, organizmus, populácia, biocenóza) ovládajúce chemické procesy, tvorbu bielkovín a replikáciu nukleových kyselín, pohyb, navigáciu, dedičnosť, evolúciu. Zoznámime sa s ukladaním a spracovaním informácie v živých systémoch od úrovne nukleových kyselín, cez interakcie medzi bunkami, orgánmi, jedincami až po interakcie medzi druhmi. Pozornosť budeme venovať aj špecifickým otázkam hackovania genetického programu vírusmi, vzniku života, starnutia a vzťahu života a chaotických systémov. Budú tiež ukázané možnosti použitia evolučných princípov pre optimalizáciu riadiacich mechanizmov, pohybu, vzhľadu, komunikácie robotov a tvorbu vnútorného modelu sveta a samotného robota.\n\nStručná osnova predmetu:\nDefinícia života a jeho vznik\nÚloha nukleových kyselín\nGenetický kód\nPrirodzené a umelé modifikácie genetického programu\nDedičnosť a evolúcia\nStarnutie a smrť\nCelulárne automaty\nModelovanie založené na agentoch\nLindenmayerove systémy\nEvolučná robotika\nBiologické senzory, orientácia a navigácia\nKomunikácia\nFraktály\nChaotické systémy\n\nOdporúčaná literatúra:\n• Csonto, J., & Palko, M. (2002). Artificial Life, Elfa. ISBN 8089066593\n• http://alife.tuke.sk\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 26 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Marek Bundzel, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

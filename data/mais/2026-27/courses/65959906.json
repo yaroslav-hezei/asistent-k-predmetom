@@ -1,0 +1,172 @@
+{
+  "predmet_id": "65959906",
+  "code": "2607691",
+  "name": "Technika vysokých napätí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65959906",
+  "fetched_at": "2026-11-17T15:12:53Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2607691"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Technika vysokých napätí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nprotokoly z merania, písomná previerka"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent s porozumením fyzikálnych javov v plynných, kvapalných a pevných izolantoch pod vplyvom elektrického poľa.\nŠtudent s porozumením aplikácie techniky vysokých napätí pri výrobe, prenose, distribúcii a spotrebe elektrickej energie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- elektrické pole, homogénne a nehomogénne elektrické pole\n- ionizácia, elektrický výboj, koróna, strímer, lider, preskok, prieraz\n- plynné dielektriká v elektrickom poli, atmosférické prepätia\n- kvapalné dielektriká v elektrickom poli\n- pevné dielektriká v elektrickom poli\n- čiastočné výboje\n- izolácia elektrotechnických zariadení"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Veverka, A.: Technika vysokých napětí, SNTL Praha 1981\n2. Marton, K.: Technika vysokých napätí, ALFA Bratislava 1984\n3. Kuffel, E., Zaengl, W.S., Kuffel, J.: High Voltage Engineering, Buttermorth – Heinemann, 2000\n4. Kolcunová, I. : Technika vysokých napätí, VŠ učebnica Moodle, 2020\n5. Karol Marton ... [et al.] : Magnetic fluid in ionizing electric field, Journal of Electrostatics. Vol. 71, no. 3 (2013), p. 467-470. - ISSN 0304-3886\n6. Peter Havran ... [et al.]: Dielectric properties of electrical insulating liquids for high voltage electric devices in a time-varying electric field, Energies. Bazilej Roč. 15, č. 1 (2022), s. [1-21]\n7. Roman Cimbala ... [et al.] : Magnetic fluid droplet deformation in electrostatic field, Journal of Electrostatics. Vol. 88 (2017), p. 55-59. - ISSN 0304-3886\n8. Iraida Kolcunová ... [et al.] : Contribution to static electrification of mineral oils and natural esters, Journal of Electrostatics. Vol. 88 (2017), p. 60-64. - ISSN 0304-3886\n9. Karol Marton ... [et al.]: Elimination of dust particle sedimentation in industry environment. In: Journal of Electrostatics. Vol. 71, no. 3 (2013), p. 208-213. - ISSN 0304-3886\n10. Roman Cimbala ... [et al.]: Polarizačné procesy v magnetických kvapalinách. In: Chemické listy. Vol. 109, no. 2 (2015), p. 117-124. - ISSN 0009-2770\n11. Jaroslav Džmura ... [et al]: Modeling and Computer Simulation of Electrical Separation. In: EPE 2016. - S.l. : IEEE, 2016 P. 537 - 542. - ISBN 978-1-5090-0907-7\n12. Jaroslav Džmura ... [et al.]: Separation of solid particles from flowing gases by AC high voltage. In: Journal of Electrostatics. Vol. 88, no. SI (2017), p. 158-164. - ISSN 0304-3886\n13. Kurimsky, J.; Rajnak, M.; Cimbala, R.; Paulovicova, K.; Rozynek, Z.; Kopcansky, P.; Timko, M. Electrical Discharges in Ferrofluids Based on Mineral Oil and Novel Gas-to-Liquid Oil. Journal of Molecular Liquids 2021, 325, 115244."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pracovná záťaž celkom 150 hod. Prednášky: 2 hod. x 13=26 hod. Laboratórne cvičenie: 3 hod. x 13 = 39 hod. Príprava na laboratórne cvičenie: 1hod. x 9=9 hod. Vypracovanie referátu z laboratórneho cvičenia: 2 hod. x 9=18 hod. Príprava na písomnú previerku: 8 hod. x 2=16 hod. Príprava na zápočet: 2 hod. Príprava na ústnu skúšku: 40 hod."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 830\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n15%\n17%\n24%\n19%\n10%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Juraj Kurimský, PhD.\nIng. Ján Zbojovský, PhD.\nIng. Samuel Bucko, PhD.\ndoc. Dr. Ing. Bystrík Dolník\nIng. Kristián Glajc"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 830,
+    "percent": {
+      "A": 15,
+      "B": 15,
+      "C": 17,
+      "D": 24,
+      "E": 19,
+      "FX": 10
+    }
+  },
+  "teachers": [
+    "prof. Ing. Juraj Kurimský, PhD.",
+    "Ing. Ján Zbojovský, PhD.",
+    "Ing. Samuel Bucko, PhD.",
+    "doc. Dr. Ing. Bystrík Dolník",
+    "Ing. Kristián Glajc"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2607691\nNázov predmetu: Technika vysokých napätí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): ZS 26,39\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nprotokoly z merania, písomná previerka\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent s porozumením fyzikálnych javov v plynných, kvapalných a pevných izolantoch pod vplyvom elektrického poľa.\nŠtudent s porozumením aplikácie techniky vysokých napätí pri výrobe, prenose, distribúcii a spotrebe elektrickej energie.\n\nStručná osnova predmetu:\n- elektrické pole, homogénne a nehomogénne elektrické pole\n- ionizácia, elektrický výboj, koróna, strímer, lider, preskok, prieraz\n- plynné dielektriká v elektrickom poli, atmosférické prepätia\n- kvapalné dielektriká v elektrickom poli\n- pevné dielektriká v elektrickom poli\n- čiastočné výboje\n- izolácia elektrotechnických zariadení\n\nOdporúčaná literatúra:\n1. Veverka, A.: Technika vysokých napětí, SNTL Praha 1981\n2. Marton, K.: Technika vysokých napätí, ALFA Bratislava 1984\n3. Kuffel, E., Zaengl, W.S., Kuffel, J.: High Voltage Engineering, Buttermorth – Heinemann, 2000\n4. Kolcunová, I. : Technika vysokých napätí, VŠ učebnica Moodle, 2020\n5. Karol Marton ... [et al.] : Magnetic fluid in ionizing electric field, Journal of Electrostatics. Vol. 71, no. 3 (2013), p. 467-470. - ISSN 0304-3886\n6. Peter Havran ... [et al.]: Dielectric properties of electrical insulating liquids for high voltage electric devices in a time-varying electric field, Energies. Bazilej Roč. 15, č. 1 (2022), s. [1-21]\n7. Roman Cimbala ... [et al.] : Magnetic fluid droplet deformation in electrostatic field, Journal of Electrostatics. Vol. 88 (2017), p. 55-59. - ISSN 0304-3886\n8. Iraida Kolcunová ... [et al.] : Contribution to static electrification of mineral oils and natural esters, Journal of Electrostatics. Vol. 88 (2017), p. 60-64. - ISSN 0304-3886\n9. Karol Marton ... [et al.]: Elimination of dust particle sedimentation in industry environment. In: Journal of Electrostatics. Vol. 71, no. 3 (2013), p. 208-213. - ISSN 0304-3886\n10. Roman Cimbala ... [et al.]: Polarizačné procesy v magnetických kvapalinách. In: Chemické listy. Vol. 109, no. 2 (2015), p. 117-124. - ISSN 0009-2770\n11. Jaroslav Džmura ... [et al]: Modeling and Computer Simulation of Electrical Separation. In: EPE 2016. - S.l. : IEEE, 2016 P. 537 - 542. - ISBN 978-1-5090-0907-7\n12. Jaroslav Džmura ... [et al.]: Separation of solid particles from flowing gases by AC high voltage. In: Journal of Electrostatics. Vol. 88, no. SI (2017), p. 158-164. - ISSN 0304-3886\n13. Kurimsky, J.; Rajnak, M.; Cimbala, R.; Paulovicova, K.; Rozynek, Z.; Kopcansky, P.; Timko, M. Electrical Discharges in Ferrofluids Based on Mineral Oil and Novel Gas-to-Liquid Oil. Journal of Molecular Liquids 2021, 325, 115244.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pracovná záťaž celkom 150 hod. Prednášky: 2 hod. x 13=26 hod. Laboratórne cvičenie: 3 hod. x 13 = 39 hod. Príprava na laboratórne cvičenie: 1hod. x 9=9 hod. Vypracovanie referátu z laboratórneho cvičenia: 2 hod. x 9=18 hod. Príprava na písomnú previerku: 8 hod. x 2=16 hod. Príprava na zápočet: 2 hod. Príprava na ústnu skúšku: 40 hod.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 830\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n15%\n17%\n24%\n19%\n10%\n\n\nZabezpečuje:\nprof. Ing. Juraj Kurimský, PhD.\nIng. Ján Zbojovský, PhD.\nIng. Samuel Bucko, PhD.\ndoc. Dr. Ing. Bystrík Dolník\nIng. Kristián Glajc\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

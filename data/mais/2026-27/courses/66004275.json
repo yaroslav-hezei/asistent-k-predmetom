@@ -1,0 +1,163 @@
+{
+  "predmet_id": "66004275",
+  "code": "26001392",
+  "name": "Architektúry hlbokých sietí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66004275",
+  "fetched_at": "2026-11-17T15:14:57Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001392"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Architektúry hlbokých sietí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nUmelá inteligencia (AI_Ing_join_D_en)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%. Body získa za jednu zápočtovú písomku a dve vypracované zadania."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%. Záverečná skúška má teoretickú a praktickú časť."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet nadväzuje na predchádzajúce znalosti študentov z oblasti výpočtovej inteligencie a strojového učenia a zameriava sa na problematiku hlbokého učenia. Študent získa prehľad o základoch neurónových sietí a porozumenie konceptu hlbokého učenia. Jadrom predmetu je štúdium vybraných architektúr hlbokých neurónových sietí, najmä konvolučných neurónových sietí a rekurentných neurónových sietí, vrátane diskusie o ich vhodnosti pre rôzne typy úloh. Absolvent predmetu nadobudne prehľad o typoch modelov hlbokého učenia a schopnosť rozhodovať o ich použití pri riešení problémov modelovania, riadenia, optimalizácie a rozhodovania. Súčasťou predmetu je aj praktické programovanie vybraných metód s využitím moderných platforiem hlbokého učenia a paralelných výpočtových prostriedkov, ako aj spracovanie a vyhodnocovanie experimentálnych výsledkov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Rozdelenie výpočtových metód učenia neurónových sietí\n2. Štruktúra umelého neurónu\n3. Architekúra plytkých neurónových sietí\n4. Algoritmus spätného šírenia chyby\n5. Základné princípy hlbokého učenia\n6. Trénovanie hlbokých neurónových sietí\n7. Konvolučné neurónové siete\n8. Rekurentné neurónové siete"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "AGGARWAL, C. C.: Neural networks and deep learning. Vol. 10, no. 978. Cham: Springer, 2018\nBENGIO, Y. - GOODFELLOW, I. - COURVILLE, A.: Deep learning. Vol. 1. Cambridge, MA, USA: MIT press, 2017\nRASCHKA, S. - LIU, Y. H. - MIRJALILI, V.: Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python. Packt Publishing Ltd, 2022"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: 51h\n- Účasť na prednáškach: 26 h\n- Účasť na laboratórnych cvičeniach: 13 h\n- Priame konzultácie: 12 h\nNekontaktná výučba: 120\n- Príprava na prednášky a cvičenia (štúdium materiálov): 24h\n- Príprava na skúšku: 48h\n- Vypracovanie semestrálnych zadaní: 48h\nCelkový počet: 171h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Paralič, PhD.\nIng. Ján Magyar, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Umelá inteligencia (AI_Ing_join_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Paralič, PhD.",
+    "Ing. Ján Magyar, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001392\nNázov predmetu: Architektúry hlbokých sietí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nUmelá inteligencia (AI_Ing_join_D_en)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%. Body získa za jednu zápočtovú písomku a dve vypracované zadania.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%. Záverečná skúška má teoretickú a praktickú časť.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet nadväzuje na predchádzajúce znalosti študentov z oblasti výpočtovej inteligencie a strojového učenia a zameriava sa na problematiku hlbokého učenia. Študent získa prehľad o základoch neurónových sietí a porozumenie konceptu hlbokého učenia. Jadrom predmetu je štúdium vybraných architektúr hlbokých neurónových sietí, najmä konvolučných neurónových sietí a rekurentných neurónových sietí, vrátane diskusie o ich vhodnosti pre rôzne typy úloh. Absolvent predmetu nadobudne prehľad o typoch modelov hlbokého učenia a schopnosť rozhodovať o ich použití pri riešení problémov modelovania, riadenia, optimalizácie a rozhodovania. Súčasťou predmetu je aj praktické programovanie vybraných metód s využitím moderných platforiem hlbokého učenia a paralelných výpočtových prostriedkov, ako aj spracovanie a vyhodnocovanie experimentálnych výsledkov.\n\nStručná osnova predmetu:\n1. Rozdelenie výpočtových metód učenia neurónových sietí\n2. Štruktúra umelého neurónu\n3. Architekúra plytkých neurónových sietí\n4. Algoritmus spätného šírenia chyby\n5. Základné princípy hlbokého učenia\n6. Trénovanie hlbokých neurónových sietí\n7. Konvolučné neurónové siete\n8. Rekurentné neurónové siete\n\nOdporúčaná literatúra:\nAGGARWAL, C. C.: Neural networks and deep learning. Vol. 10, no. 978. Cham: Springer, 2018\nBENGIO, Y. - GOODFELLOW, I. - COURVILLE, A.: Deep learning. Vol. 1. Cambridge, MA, USA: MIT press, 2017\nRASCHKA, S. - LIU, Y. H. - MIRJALILI, V.: Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python. Packt Publishing Ltd, 2022\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: anglický\n\nPoznámky: Kontaktná výučba: 51h\n- Účasť na prednáškach: 26 h\n- Účasť na laboratórnych cvičeniach: 13 h\n- Priame konzultácie: 12 h\nNekontaktná výučba: 120\n- Príprava na prednášky a cvičenia (štúdium materiálov): 24h\n- Príprava na skúšku: 48h\n- Vypracovanie semestrálnych zadaní: 48h\nCelkový počet: 171h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Ján Paralič, PhD.\nIng. Ján Magyar, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

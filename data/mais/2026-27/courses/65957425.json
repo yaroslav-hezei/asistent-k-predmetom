@@ -1,0 +1,267 @@
+{
+  "predmet_id": "65957425",
+  "code": "26000618",
+  "name": "Základy inžinierstva materiálov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65957425",
+  "fetched_at": "2026-11-17T15:11:50Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000618"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy inžinierstva materiálov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\npriebežné testy, projekty"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nzáverečný test a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné vedomosti a prejaví základné porozumenie z oblasti elektrofyzikálnych vlastností elektrotechnických materiálov. Študent vie použiť svoje vedomosti pri riešení problémovo zadaných úloh, čo mu umožní správne interpretovať získané poznatky o technológiách používaných pre aplikácii elektrotechnických materiálov v slaboprúdovej a silnoprúdovej elektrotechnike."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Výstavba a vlastnosti hmoty (základy elektrónovej teórie).\n• Elektrické vlastnosti materiálov (elektrická vodivosť kovov, polovodičov, polymérov, keramík a amorfných materiálov).\n• Optické a teplotné vlastnosti materiálov (kvapalné kryštály, optické vlákna), magnetické vlastnosti materiálov.\n• Kovy, supravodiče a hypervodiče v elektrotechnike a v elektronike (JTJ prechod).\n• Dielektriká a izolanty v elektrotechnike a v elektronike (pamäte odolné voči výpadku napájania).\n• Polovodiče, PN priechod základné pojmy a fyzikálne javy v polovodičoch.\n• Objemové a vrstvové monokryštály a technológie ich tvorby, Základy polovodičových technológií\n• Technológie tvorby PN prechodov, aktívne a pasívne elektronické súčiastky, integrované obvody.\n• Trendy v oblasti technológií v elektronike (nanomateriály a nanoštruktúry v elektronike)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Pietriková, A., Banský, J.: Základy inžinierstva materiálov, Vyd. elfa, s.r.o., Košice, 2005, vysokoškolská učebnica, ISBN 80-8086-001-7\n2. Hummel, Rolf. E.: Electronic Properties of Materials, Springer-Verlag, Berlin, Heidelberg, New York, Tokyo, ISBN 3-540-15631-3, ISBN 0-387-15631-3\nHassdenteufel, J. at al: Elektrotechnické materiály, SNTL, Praha, 1978\n3. Pietriková, A., Bednarčík, J., Ďurišin, J.: In situ investigation of the SnAgCu solder alloy microstructure, Journal of Alloys and Compounds. Vol. 509, no. 5 (2011), p. 1550–1553. - ISSN 0925-8388\n4. Rezende, S. M.: Introduction to Electronic Materials and Devices, Springer, 2021, doi: 10.1007/978-3-030-81772-5\n5. Jiles, D.: Electrical properties of materials, publ in Chapman and Hall, UK, 1994, ISBN 0-412-49580-5\n6. Kasap, S. O.: Principles of Electronic Materials & Devices, Mc Graw Hill Education, 2018, ISBN 978-0-07-802818-2"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 12279\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n10%\n15%\n22%\n20%\n27%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Alena Pietriková, CSc.\nIng. Peter Nemergut\nIng. Filip Mahdal\nIng. Slavomír Kardoš, PhD.\nIng. Daniel Dzivý, PhD.\nIng. Tomáš Lenger, PhD.\nIng. Igor Vehec, PhD.\nIng. Tomáš Kanálik\nIng. Jerguš Ševec\nIng. Miroslav Jusko"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 5,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 12279,
+    "percent": {
+      "A": 6,
+      "B": 10,
+      "C": 15,
+      "D": 22,
+      "E": 20,
+      "FX": 27
+    }
+  },
+  "teachers": [
+    "prof. Ing. Alena Pietriková, CSc.",
+    "Ing. Peter Nemergut",
+    "Ing. Filip Mahdal",
+    "Ing. Slavomír Kardoš, PhD.",
+    "Ing. Daniel Dzivý, PhD.",
+    "Ing. Tomáš Lenger, PhD.",
+    "Ing. Igor Vehec, PhD.",
+    "Ing. Tomáš Kanálik",
+    "Ing. Jerguš Ševec",
+    "Ing. Miroslav Jusko"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26000618\nNázov predmetu: Základy inžinierstva materiálov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\npriebežné testy, projekty\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nzáverečný test a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné vedomosti a prejaví základné porozumenie z oblasti elektrofyzikálnych vlastností elektrotechnických materiálov. Študent vie použiť svoje vedomosti pri riešení problémovo zadaných úloh, čo mu umožní správne interpretovať získané poznatky o technológiách používaných pre aplikácii elektrotechnických materiálov v slaboprúdovej a silnoprúdovej elektrotechnike.\n\nStručná osnova predmetu:\n• Výstavba a vlastnosti hmoty (základy elektrónovej teórie).\n• Elektrické vlastnosti materiálov (elektrická vodivosť kovov, polovodičov, polymérov, keramík a amorfných materiálov).\n• Optické a teplotné vlastnosti materiálov (kvapalné kryštály, optické vlákna), magnetické vlastnosti materiálov.\n• Kovy, supravodiče a hypervodiče v elektrotechnike a v elektronike (JTJ prechod).\n• Dielektriká a izolanty v elektrotechnike a v elektronike (pamäte odolné voči výpadku napájania).\n• Polovodiče, PN priechod základné pojmy a fyzikálne javy v polovodičoch.\n• Objemové a vrstvové monokryštály a technológie ich tvorby, Základy polovodičových technológií\n• Technológie tvorby PN prechodov, aktívne a pasívne elektronické súčiastky, integrované obvody.\n• Trendy v oblasti technológií v elektronike (nanomateriály a nanoštruktúry v elektronike).\n\n\nOdporúčaná literatúra:\n1. Pietriková, A., Banský, J.: Základy inžinierstva materiálov, Vyd. elfa, s.r.o., Košice, 2005, vysokoškolská učebnica, ISBN 80-8086-001-7\n2. Hummel, Rolf. E.: Electronic Properties of Materials, Springer-Verlag, Berlin, Heidelberg, New York, Tokyo, ISBN 3-540-15631-3, ISBN 0-387-15631-3\nHassdenteufel, J. at al: Elektrotechnické materiály, SNTL, Praha, 1978\n3. Pietriková, A., Bednarčík, J., Ďurišin, J.: In situ investigation of the SnAgCu solder alloy microstructure, Journal of Alloys and Compounds. Vol. 509, no. 5 (2011), p. 1550–1553. - ISSN 0925-8388\n4. Rezende, S. M.: Introduction to Electronic Materials and Devices, Springer, 2021, doi: 10.1007/978-3-030-81772-5\n5. Jiles, D.: Electrical properties of materials, publ in Chapman and Hall, UK, 1994, ISBN 0-412-49580-5\n6. Kasap, S. O.: Principles of Electronic Materials & Devices, Mc Graw Hill Education, 2018, ISBN 978-0-07-802818-2\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 12279\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n10%\n15%\n22%\n20%\n27%\n\n\nZabezpečuje:\nprof. Ing. Alena Pietriková, CSc.\nIng. Peter Nemergut\nIng. Filip Mahdal\nIng. Slavomír Kardoš, PhD.\nIng. Daniel Dzivý, PhD.\nIng. Tomáš Lenger, PhD.\nIng. Igor Vehec, PhD.\nIng. Tomáš Kanálik\nIng. Jerguš Ševec\nIng. Miroslav Jusko\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

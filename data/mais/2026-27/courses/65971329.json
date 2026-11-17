@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65971329",
+  "code": "26001083",
+  "name": "Fotonické systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65971329",
+  "fetched_at": "2026-11-17T15:14:30Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001083"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Fotonické systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu získa študent rozšírené teoretické a praktické vedomosti z oblasti fotonických prvkov, integrovanej optiky, laserov a laserovej technológie, rýchlych optických komunikačných systémov, optických vláknových senzorov a signálových procesorov, solitónových systémov a priestorových modulátorov svetla."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do fotoniky (základné pojmy a história vývoja fotonických systémov a ich komponentov).\n2. Lasery a laserová technológia.\n3. Integrovaná optika.\n4. Optické vláknové pasívne prvky.\n5. Optické vláknové signálové procesory – smart antény.\n6. Optické vláknové senzory.\n7. Rýchle fotonické siete- FDDI, SDH/SONET a pod.\n8. Solitónové systémy.\n9. Priestorové modulátory optického žiarenia."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Turán,J.: Optoelektronika. Harlequin, Košice, 2002.\n2. Turán, J: Fotonika. Harlequin, Košice, 2003.\n3. Filka,M.: Optoelektronika pre telekomunikácie a informatiku. PROfiber, Praha, 2009.\n4. Štrba,A. a kol.: Svtelo: vlny - lúče – fotóny. Enigma, Nitra, 2011.\n5. Ďurišová,J,.Mizera,T.: Optika pre fotoniku. EDIS, Žilina, 2021.\n6. Kasap,S.O.: Optoelectronics & Photonics: Principles & Practices. 2012, ISBN 978-0132151498.\n7. Bhadra,S.- Ghatak,A.: Guided Wave Optics and Photonic Devices. 2013, ISBN 978-1138077317.\n8. Reider,G.A.: Photonics: An Introduction. 2016, ISBN 978-3319260747.\n9. Culshaw,B.: Introducing Photonics. 2020, ISBN 9781107155732.\n10. Meystre,P.: Quantum Optics: Taming the Quantum. 2021, ISBN 978-3030761820."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 71\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n46%\n39%\n7%\n3%\n1%\n3%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ľuboš Ovseník, PhD.\nIng. Samuel Andrejčík"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 71,
+    "percent": {
+      "A": 46,
+      "B": 39,
+      "C": 7,
+      "D": 3,
+      "E": 1,
+      "FX": 3
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ľuboš Ovseník, PhD.",
+    "Ing. Samuel Andrejčík"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001083\nNázov predmetu: Fotonické systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu získa študent rozšírené teoretické a praktické vedomosti z oblasti fotonických prvkov, integrovanej optiky, laserov a laserovej technológie, rýchlych optických komunikačných systémov, optických vláknových senzorov a signálových procesorov, solitónových systémov a priestorových modulátorov svetla.\n\nStručná osnova predmetu:\n1. Úvod do fotoniky (základné pojmy a história vývoja fotonických systémov a ich komponentov).\n2. Lasery a laserová technológia.\n3. Integrovaná optika.\n4. Optické vláknové pasívne prvky.\n5. Optické vláknové signálové procesory – smart antény.\n6. Optické vláknové senzory.\n7. Rýchle fotonické siete- FDDI, SDH/SONET a pod.\n8. Solitónové systémy.\n9. Priestorové modulátory optického žiarenia.\n\nOdporúčaná literatúra:\n1. Turán,J.: Optoelektronika. Harlequin, Košice, 2002.\n2. Turán, J: Fotonika. Harlequin, Košice, 2003.\n3. Filka,M.: Optoelektronika pre telekomunikácie a informatiku. PROfiber, Praha, 2009.\n4. Štrba,A. a kol.: Svtelo: vlny - lúče – fotóny. Enigma, Nitra, 2011.\n5. Ďurišová,J,.Mizera,T.: Optika pre fotoniku. EDIS, Žilina, 2021.\n6. Kasap,S.O.: Optoelectronics & Photonics: Principles & Practices. 2012, ISBN 978-0132151498.\n7. Bhadra,S.- Ghatak,A.: Guided Wave Optics and Photonic Devices. 2013, ISBN 978-1138077317.\n8. Reider,G.A.: Photonics: An Introduction. 2016, ISBN 978-3319260747.\n9. Culshaw,B.: Introducing Photonics. 2020, ISBN 9781107155732.\n10. Meystre,P.: Quantum Optics: Taming the Quantum. 2021, ISBN 978-3030761820.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 71\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n46%\n39%\n7%\n3%\n1%\n3%\n\n\nZabezpečuje:\nprof. Ing. Ľuboš Ovseník, PhD.\nIng. Samuel Andrejčík\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

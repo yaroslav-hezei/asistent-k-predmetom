@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65666554",
+  "code": "26000685",
+  "name": "Podniková analytika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65666554",
+  "fetched_at": "2026-11-17T14:59:27Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000685"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Podniková analytika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nkontrolné písomky z teórie (2x10bodov), 1 praktická písomka / riešenie úloh (20 bodov)"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška prebieha formou písomného testu, kde je možné získať maximálne 60 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní tohto predmetu získajú študenti základné vedomosti a zručnosti pre využitie prostriedkov podnikovej analytiky resp. podnikovej inteligencie, s dôrazom na informačnú podporu rozhodovacích procesov v hospodárskom riadení podnikov a meranie výkonnosti podnikov. Študenti sú zoznámení so základnými cieľmi, prvkami a metódami takýchto systémov, ako metodológie pre návrh a nasadenie analytík, dátové sklady pre podporu manažmentu rôznych typov dát v podniku, reportovacie nástroje, OLAP, atď. Študenti zároveň získajú teoretické znalosti a praktické zručnosti v používaní metód z oblasti dolovania dát a ich využitia v podnikovej analytike, vrátane prehľadu existujúcich nástrojov a rozširujúcich analytických metód. Študenti vedia tvorivo aplikovať získané poznatky, využívať systémový prístup pri návrhu, implementácii a vyhodnotení efektívnosti zavedenia riešení podnikovej analytiky s využitím vhodne vybraných softvérových nástrojov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do PA, rôzne pohľady na dátovú analytiku, základné typy analytík a úloh, dáta v PA\n- Rozhodovací proces, rozhodovacie modely, systémy pre podporu rozhodovania (DSS), ich vlastnosti a architektúra\n- Deskriptívna analytika, informačné systémy podniku, úvod do dátových skladov (DS)\n- Dátové sklady (DS) - modelovanie dát v DS, multidimenzionálne modelovanie – dátová kocka, OLAP funkcie, rôzne verzie DS/OLAP systémov\n- Deskriptívna analytika - reportovanie, metriky pre meranie výkonnosti, vizuálna analytika, dashboardy\n- Prediktívna analytika - KDD (objavovanie znalostí v databázach), dolovanie v dátach (Data Mining – DM), porovnanie OLAP a DM, procesný pohľad na KDD\n- Základné typy úloh DM, príklady úloh KDD, metodológia CRISP-DM - pochopenie cieľa, pochopenie dát, dáta a ich predspracovanie, dôležitosť predspracovania, rôzne kroky predspracovania\n- Modelovanie I - prediktívne dolovanie v dátach - základný prístup, tvorba a testovanie modelov, prehľad vybraných metód dolovania v dátach – predikcia (regresné modely), klasifikácia (rozhodovacie stromy, Naive Bayes, kNN)\n- Modelovanie II - vyhodnotenie klasifikácie - základné prístupy hodnotenia, vybrané mierky hodnotenia, kontingenčná tabuľka, zlepšenie klasifikácie, metódy pre deskriptívne dolovanie v dátach – zhlukovanie, asociačné pravidlá\n- Využitie CRISP-DM v praktických úlohách\n- Preskriptívna analytika, základné metódy a prístupy, prehľad metód presktipívnej analytiky - modelovo orientované rozhodovanie (optimalizácia, multikriteriálne rozhodovanie), ad-hoc modelovanie a analýza (heuristické prehľadávanie, simulácia), automatické systémy DSS, expertné systémy, systémy manažmentu znalostí\n- Stručný náhľad ďalších oblastí analýzy dát - text-mining, analýza sentimentu, spracovanie veľkých dát"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Sauter, L.V.: Decision support systems for business intelligence. 2nd edition,Wiley, 2011\n- Turban, E., Sharda, R., Delen, D.: Decision Support and Business Intelligence Systems, 9th edition, Prentice Hall, 2011\n- Paralič, J.: Objavovanie znalostí v databázach, Elfa, 2003\n- Hardoon, D.R., Shmueli, G.: Getting Started with Business Analytics: Insightful Decision-Making, CRC Press, 2013\n- Evans, J.R.: Business Analytics, Pearson, 2013"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Projektová práca (riešenie úloh) priamo na cvičeniach: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia (štúdium literatúry): 12 hodín\n- Spracovanie semestrálnej práce (riešenie úloh): 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 160 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 846\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n7%\n17%\n28%\n30%\n14%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Butka, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 846,
+    "percent": {
+      "A": 2,
+      "B": 7,
+      "C": 17,
+      "D": 28,
+      "E": 30,
+      "FX": 14
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Butka, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000685\nNázov predmetu: Podniková analytika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nkontrolné písomky z teórie (2x10bodov), 1 praktická písomka / riešenie úloh (20 bodov)\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška prebieha formou písomného testu, kde je možné získať maximálne 60 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní tohto predmetu získajú študenti základné vedomosti a zručnosti pre využitie prostriedkov podnikovej analytiky resp. podnikovej inteligencie, s dôrazom na informačnú podporu rozhodovacích procesov v hospodárskom riadení podnikov a meranie výkonnosti podnikov. Študenti sú zoznámení so základnými cieľmi, prvkami a metódami takýchto systémov, ako metodológie pre návrh a nasadenie analytík, dátové sklady pre podporu manažmentu rôznych typov dát v podniku, reportovacie nástroje, OLAP, atď. Študenti zároveň získajú teoretické znalosti a praktické zručnosti v používaní metód z oblasti dolovania dát a ich využitia v podnikovej analytike, vrátane prehľadu existujúcich nástrojov a rozširujúcich analytických metód. Študenti vedia tvorivo aplikovať získané poznatky, využívať systémový prístup pri návrhu, implementácii a vyhodnotení efektívnosti zavedenia riešení podnikovej analytiky s využitím vhodne vybraných softvérových nástrojov.\n\nStručná osnova predmetu:\n- Úvod do PA, rôzne pohľady na dátovú analytiku, základné typy analytík a úloh, dáta v PA\n- Rozhodovací proces, rozhodovacie modely, systémy pre podporu rozhodovania (DSS), ich vlastnosti a architektúra\n- Deskriptívna analytika, informačné systémy podniku, úvod do dátových skladov (DS)\n- Dátové sklady (DS) - modelovanie dát v DS, multidimenzionálne modelovanie – dátová kocka, OLAP funkcie, rôzne verzie DS/OLAP systémov\n- Deskriptívna analytika - reportovanie, metriky pre meranie výkonnosti, vizuálna analytika, dashboardy\n- Prediktívna analytika - KDD (objavovanie znalostí v databázach), dolovanie v dátach (Data Mining – DM), porovnanie OLAP a DM, procesný pohľad na KDD\n- Základné typy úloh DM, príklady úloh KDD, metodológia CRISP-DM - pochopenie cieľa, pochopenie dát, dáta a ich predspracovanie, dôležitosť predspracovania, rôzne kroky predspracovania\n- Modelovanie I - prediktívne dolovanie v dátach - základný prístup, tvorba a testovanie modelov, prehľad vybraných metód dolovania v dátach – predikcia (regresné modely), klasifikácia (rozhodovacie stromy, Naive Bayes, kNN)\n- Modelovanie II - vyhodnotenie klasifikácie - základné prístupy hodnotenia, vybrané mierky hodnotenia, kontingenčná tabuľka, zlepšenie klasifikácie, metódy pre deskriptívne dolovanie v dátach – zhlukovanie, asociačné pravidlá\n- Využitie CRISP-DM v praktických úlohách\n- Preskriptívna analytika, základné metódy a prístupy, prehľad metód presktipívnej analytiky - modelovo orientované rozhodovanie (optimalizácia, multikriteriálne rozhodovanie), ad-hoc modelovanie a analýza (heuristické prehľadávanie, simulácia), automatické systémy DSS, expertné systémy, systémy manažmentu znalostí\n- Stručný náhľad ďalších oblastí analýzy dát - text-mining, analýza sentimentu, spracovanie veľkých dát\n\nOdporúčaná literatúra:\n- Sauter, L.V.: Decision support systems for business intelligence. 2nd edition,Wiley, 2011\n- Turban, E., Sharda, R., Delen, D.: Decision Support and Business Intelligence Systems, 9th edition, Prentice Hall, 2011\n- Paralič, J.: Objavovanie znalostí v databázach, Elfa, 2003\n- Hardoon, D.R., Shmueli, G.: Getting Started with Business Analytics: Insightful Decision-Making, CRC Press, 2013\n- Evans, J.R.: Business Analytics, Pearson, 2013\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Projektová práca (riešenie úloh) priamo na cvičeniach: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia (štúdium literatúry): 12 hodín\n- Spracovanie semestrálnej práce (riešenie úloh): 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 160 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 846\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n7%\n17%\n28%\n30%\n14%\n\n\nZabezpečuje:\ndoc. Ing. Peter Butka, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

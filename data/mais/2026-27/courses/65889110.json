@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65889110",
+  "code": "26001209",
+  "name": "Vedecký projekt II",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65889110",
+  "fetched_at": "2026-11-17T15:04:46Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001209"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Vedecký projekt II"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "6"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 78"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "2"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "V rámci predmetu študent začne pracovať na zvolenej téme diplomovej práce už počas prvého semestra inžinierského štúdia. Získa tak možnosť individuálneho vedenia a práce na téme vedecko-výskumného projektu, ktorý zvyčajne nadväzuje na tému riešenú v rámci bakalárskej práce a pokračuje v riešení v rámci diplomovej práce. Získa tiež základné zručnosti pri príprave odborného článku a experimentálnych podkladov pre takýto článok, ktorý je typickým výstupom vedeckej činnosti. Predmet je aj vhodnou prípravou pre budúcich záujemcov o doktorandské štúdium."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Individuálna práca študenta na pod vedením pedagóga"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Oetiker, T. at al., Nie príliš stručný úvod do systému LATEX, Alebo LaTeX za 95 minút (sk. preklad), online: http://www.ptep-online.com/ctan/lshort_slovak.pdf"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 60 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Miloš Drutarovský, CSc.\ndoc. Ing. Stanislav Ondáš, PhD.\ndoc. Ing. Ján Staš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 2,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Miloš Drutarovský, CSc.",
+    "doc. Ing. Stanislav Ondáš, PhD.",
+    "doc. Ing. Ján Staš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26001209\nNázov predmetu: Vedecký projekt II\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 6\nExterná forma štúdia (hodiny za semester): ZS 78\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 2\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nZápočet\nZáverečné hodnotenie (ZH):\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nV rámci predmetu študent začne pracovať na zvolenej téme diplomovej práce už počas prvého semestra inžinierského štúdia. Získa tak možnosť individuálneho vedenia a práce na téme vedecko-výskumného projektu, ktorý zvyčajne nadväzuje na tému riešenú v rámci bakalárskej práce a pokračuje v riešení v rámci diplomovej práce. Získa tiež základné zručnosti pri príprave odborného článku a experimentálnych podkladov pre takýto článok, ktorý je typickým výstupom vedeckej činnosti. Predmet je aj vhodnou prípravou pre budúcich záujemcov o doktorandské štúdium.\n\nStručná osnova predmetu:\nIndividuálna práca študenta na pod vedením pedagóga\n\nOdporúčaná literatúra:\nOetiker, T. at al., Nie príliš stručný úvod do systému LATEX, Alebo LaTeX za 95 minút (sk. preklad), online: http://www.ptep-online.com/ctan/lshort_slovak.pdf\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 60 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Miloš Drutarovský, CSc.\ndoc. Ing. Stanislav Ondáš, PhD.\ndoc. Ing. Ján Staš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

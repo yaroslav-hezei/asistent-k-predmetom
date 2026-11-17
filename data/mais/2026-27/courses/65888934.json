@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65888934",
+  "code": "26001192",
+  "name": "Základy klaudových technológií",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888934",
+  "fetched_at": "2026-11-17T15:04:35Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001192"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy klaudových technológií"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú prehľad o možnostiach klaudových technológií a spôsoboch nasadenia aplikácie do produkčného prostredia. Oboznámia sa s princípmi virtualizácie, kontajnerizácie a orchestrácie, a službami rôznych poskytovateľov klaudových služieb. Naučia sa samostatne kontajnerizovať aplikáciu, nasadiť ju s pomocou technológií Docker, Docker Compose a Kubernetes do prostredia privátneho aj verejného klaudu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1 Virtualizácia , inštalácia virtuálneho stroja a nástrojov.\n2 Aplikačné kontajnery Docker,\n3. Spustenie kontajnera.\n4. Súbory a databázy v klaude,\n5. Virtuálna sieť, virtuálne disky.\n6. Azure klaud, register obrazov, Služba App service,\n7. Vytváranie obrazu kontajnera.\n8. Orchestrácia kontajnerov, Docker Compose, Azure Container, Azure Storage\n9. Azure Kubernetes System, Inštalácia Kubernetes.\n10. Komponenty Kubernetes a ich konfigurácia\n11. Zverejnenie aplikácie, Ingress, LoadBalancer.\n12. Iné kladudové služby, CI CD, strojové učenie v klaude."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Erl, T., & Barceló Monroy, E. (2024). Cloud computing: Concepts, technology, security, and architecture (2nd ed.). Pearson Education Limited. ISBN: 978-0-13-805225-6.\n2. Kingsley, M. S. (2024). Cloud technologies and services: Theoretical concepts and practical applications. Springer International Publishing AG. ISBN: 978-3-031-33671-3;\n3. Wufka, M., & Canonico, M. (2025). Introduction to cloud computing. Springer Cham. ISBN: 978-3-032-07150-7"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 300\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n24%\n13%\n16%\n5%\n12%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Daniel Hládek, PhD.\nIng. Renát Haluška, PhD.\ndoc. Ing. Ján Staš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 300,
+    "percent": {
+      "A": 30,
+      "B": 24,
+      "C": 13,
+      "D": 16,
+      "E": 5,
+      "FX": 12
+    }
+  },
+  "teachers": [
+    "doc. Ing. Daniel Hládek, PhD.",
+    "Ing. Renát Haluška, PhD.",
+    "doc. Ing. Ján Staš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26001192\nNázov predmetu: Základy klaudových technológií\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú prehľad o možnostiach klaudových technológií a spôsoboch nasadenia aplikácie do produkčného prostredia. Oboznámia sa s princípmi virtualizácie, kontajnerizácie a orchestrácie, a službami rôznych poskytovateľov klaudových služieb. Naučia sa samostatne kontajnerizovať aplikáciu, nasadiť ju s pomocou technológií Docker, Docker Compose a Kubernetes do prostredia privátneho aj verejného klaudu.\n\nStručná osnova predmetu:\n1 Virtualizácia , inštalácia virtuálneho stroja a nástrojov.\n2 Aplikačné kontajnery Docker,\n3. Spustenie kontajnera.\n4. Súbory a databázy v klaude,\n5. Virtuálna sieť, virtuálne disky.\n6. Azure klaud, register obrazov, Služba App service,\n7. Vytváranie obrazu kontajnera.\n8. Orchestrácia kontajnerov, Docker Compose, Azure Container, Azure Storage\n9. Azure Kubernetes System, Inštalácia Kubernetes.\n10. Komponenty Kubernetes a ich konfigurácia\n11. Zverejnenie aplikácie, Ingress, LoadBalancer.\n12. Iné kladudové služby, CI CD, strojové učenie v klaude.\n\nOdporúčaná literatúra:\n1. Erl, T., & Barceló Monroy, E. (2024). Cloud computing: Concepts, technology, security, and architecture (2nd ed.). Pearson Education Limited. ISBN: 978-0-13-805225-6.\n2. Kingsley, M. S. (2024). Cloud technologies and services: Theoretical concepts and practical applications. Springer International Publishing AG. ISBN: 978-3-031-33671-3;\n3. Wufka, M., & Canonico, M. (2025). Introduction to cloud computing. Springer Cham. ISBN: 978-3-032-07150-7\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 300\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n24%\n13%\n16%\n5%\n12%\n\n\nZabezpečuje:\ndoc. Ing. Daniel Hládek, PhD.\nIng. Renát Haluška, PhD.\ndoc. Ing. Ján Staš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

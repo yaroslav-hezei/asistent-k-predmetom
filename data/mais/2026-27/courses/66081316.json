@@ -1,0 +1,163 @@
+{
+  "predmet_id": "66081316",
+  "code": "26001258",
+  "name": "Neurónové siete",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66081316",
+  "fetched_at": "2026-11-17T15:16:46Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001258"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Neurónové siete"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet nadväzuje na predchádzajúce znalosti o metódach výpočtovej inteligencie, ktoré už študenti majú. Cieľom je rozšírenie vedomosti o pokročilé metódy, ale aj získanie väčšej istoty pri aplikácií základných metód učenia neurónových sietí. Absolvovanie predmetu dáva predpoklad pre uplatnenie v oblastiach IT kde sa využívajú, nasadzujú, alebo aj vyvíjajú moderné prístupy využívajúce neurónové siete. Naštudované metódy učenia neurónových sietí je možné využiť pri riešení úloh modelovania, riadenia, optimalizácie a rozhodovania. Študenti získajú skúsenosť s praktickým programovaním vybraných metód efektívnym spôsobom s využitím možností paralelizácie, ktoré poskytujú súčasné hardvérové prostriedky. Taktiež získajú skúsenosť so spracovaním experimentalných výpočtových výsledkov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Rozdelenie výpočtových metód učenia neurónových sietí. Repetitórium – spätné šírenie chyby a Kohonenové siete. Prunning, regularizácia, generalizácia. Rekurentné neurónové siete, BPTT. Ďalšie metódy ART – FusionART, MF ARTMAP. Učenie reinforcement – Q-learning, adaptive critic. Deep learning, konvolučné siete – Neocognitron. Neuroevolúcia. Rezervoáre – echo-state siete. Podporné vektory – SVM. Moderné aplikácie neurónových sietí."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Sinčák, P., Andrejková, G. Neuronové siete I.: Inžiniersky prístup. Košice: Elfa, 1996. ISBN 80-88786-21-5.\n2. Haykin, S. Neural Networks: A Comprehensive Foundation. New York: MacMillan, 1994. ISBN 978-0-02-352761-6.\n3. Goodfellow, I., Bengio, Y., Courville, A. Deep Learning. 2. vyd. Cambridge: MIT Press, 2021. 800 s. ISBN 978-0-262-43872-4.\n4. Zhang, A., Lipton, Z. C., Li, M., Smola, A. J. Dive into Deep Learning. Cambridge: Cambridge University Press, 2021. 486 s. ISBN 978-1-108-83637-2.\n5. Aggarwal, C. C. Neural Networks and Deep Learning: A Textbook. 2. vyd. Cham: Springer, 2022. 500 s. ISBN 978-3-031-07132-6."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Papcun, PhD.\nIng. Ján Magyar, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Papcun, PhD.",
+    "Ing. Ján Magyar, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001258\nNázov predmetu: Neurónové siete\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Dištančná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet nadväzuje na predchádzajúce znalosti o metódach výpočtovej inteligencie, ktoré už študenti majú. Cieľom je rozšírenie vedomosti o pokročilé metódy, ale aj získanie väčšej istoty pri aplikácií základných metód učenia neurónových sietí. Absolvovanie predmetu dáva predpoklad pre uplatnenie v oblastiach IT kde sa využívajú, nasadzujú, alebo aj vyvíjajú moderné prístupy využívajúce neurónové siete. Naštudované metódy učenia neurónových sietí je možné využiť pri riešení úloh modelovania, riadenia, optimalizácie a rozhodovania. Študenti získajú skúsenosť s praktickým programovaním vybraných metód efektívnym spôsobom s využitím možností paralelizácie, ktoré poskytujú súčasné hardvérové prostriedky. Taktiež získajú skúsenosť so spracovaním experimentalných výpočtových výsledkov.\n\nStručná osnova predmetu:\nRozdelenie výpočtových metód učenia neurónových sietí. Repetitórium – spätné šírenie chyby a Kohonenové siete. Prunning, regularizácia, generalizácia. Rekurentné neurónové siete, BPTT. Ďalšie metódy ART – FusionART, MF ARTMAP. Učenie reinforcement – Q-learning, adaptive critic. Deep learning, konvolučné siete – Neocognitron. Neuroevolúcia. Rezervoáre – echo-state siete. Podporné vektory – SVM. Moderné aplikácie neurónových sietí.\n\nOdporúčaná literatúra:\n1. Sinčák, P., Andrejková, G. Neuronové siete I.: Inžiniersky prístup. Košice: Elfa, 1996. ISBN 80-88786-21-5.\n2. Haykin, S. Neural Networks: A Comprehensive Foundation. New York: MacMillan, 1994. ISBN 978-0-02-352761-6.\n3. Goodfellow, I., Bengio, Y., Courville, A. Deep Learning. 2. vyd. Cambridge: MIT Press, 2021. 800 s. ISBN 978-0-262-43872-4.\n4. Zhang, A., Lipton, Z. C., Li, M., Smola, A. J. Dive into Deep Learning. Cambridge: Cambridge University Press, 2021. 486 s. ISBN 978-1-108-83637-2.\n5. Aggarwal, C. C. Neural Networks and Deep Learning: A Textbook. 2. vyd. Cham: Springer, 2022. 500 s. ISBN 978-3-031-07132-6.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Papcun, PhD.\nIng. Ján Magyar, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65959881",
+  "code": "2607643",
+  "name": "Základy projektovania v elektroenergetike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65959881",
+  "fetched_at": "2026-11-17T15:12:51Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2607643"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy projektovania v elektroenergetike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 13,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Test a obhajoba záverečného projektu. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% zo 100%."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nObhajoba záverečného projektu."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné vedomosti ku softvérovej podpore v rámci projektovania v elektroenergetike. Naučí sa pracovať s programami ako ProgeCad/AutoCad, Eplan, Cenkros a pod. Získa prehľad k tvorbe výkresovej a technickej dokumentácie, kresleniu elektrotechnických schém a konštrukčných dokumentov, prehľad o legislatíve projektovania ako postavenie predpisov a noriem v procese projektovania elektrických zariadení, normatívne právne akty, technické normy, predpisy a autorizovaný inžinier."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- základné pojmy a definície (elektrizačná sústava, elektrické stanice, elektrické vedenia….\n- Legislatíva projektovania (Postavenie predpisov a noriem v procese projektovania elektrických zariadení, Normatívne právne akty, Technické normy, predpisy, autorizovaný inžinier, kvalifikácia elektrotechnikov podľa vyhlášky, odborné vzdelanie a prax, postavenie projektanta v zmysle vyhl. Č. 508/2009)\n- Tvorba výkresovej a technickej dokumentácie (konštrukčné dokumenty, technické výkresy, formáty výkresov, úprava výkresového listu, delenie výkresov, archivácia výkresov, technické písmo\n- Kreslenie elektrotechnických schém a konštrukčných výkresov (názvoslovie pri kreslení elektrotech. Schém, druhy schém, polohopisné výkresy, čiary na elektrotechnických výkresoch)\n- Použitie projektovej dokumentácie elektrických a energetických zariadení( vymedzenie pojmov, Projektová dokumentácia v procese výstavby, Dokumentácia stavebného zámeru (DSZ), Dokumentácia pre územné rozhodnutie (DÚR), Dokumentácia pre stavebné povolenie (DSP))\n- Konštrukčné materiály používané v elektrotechnike a nadväznosť na projektovanie\n- Softvérová podpora pri projektovaní\n- Základná teória k elektrickým inštaláciám, zásuvkový obvod, svetelný obvod, rozvádzač\n- Kreslenie elektrotechnických schém\n- Tvorba rozpočtov a kalkulácie cien a prác materiálov- základné postupy pri navrhovaní, predstavenie programu Cenkros."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Džmura, J., Pavlík M., Zbojovský J., Hajduk M., : Projektovanie v elektroenergetike, Technická univerzita v Košiciach, 2019, ISBN: 978-80-553-3417-2\n\nManuály k softvérom."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Prednášky: 13 hodín, cvičenia: 26 hodín, domáca príprava na cvičenie: 28 hodín, práca na zadaniach: 63 hodín, príprava na zápočtovú písomku: 20 hodín."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 886\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n28%\n28%\n16%\n10%\n9%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Jaroslav Petráš, PhD.\nIng. Ján Zbojovský, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 886,
+    "percent": {
+      "A": 9,
+      "B": 28,
+      "C": 28,
+      "D": 16,
+      "E": 10,
+      "FX": 9
+    }
+  },
+  "teachers": [
+    "doc. Ing. Jaroslav Petráš, PhD.",
+    "Ing. Ján Zbojovský, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2607643\nNázov predmetu: Základy projektovania v elektroenergetike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,2,1\nExterná forma štúdia (hodiny za semester): ZS 13,26,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nTest a obhajoba záverečného projektu. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% zo 100%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nObhajoba záverečného projektu.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné vedomosti ku softvérovej podpore v rámci projektovania v elektroenergetike. Naučí sa pracovať s programami ako ProgeCad/AutoCad, Eplan, Cenkros a pod. Získa prehľad k tvorbe výkresovej a technickej dokumentácie, kresleniu elektrotechnických schém a konštrukčných dokumentov, prehľad o legislatíve projektovania ako postavenie predpisov a noriem v procese projektovania elektrických zariadení, normatívne právne akty, technické normy, predpisy a autorizovaný inžinier.\n\nStručná osnova predmetu:\n- základné pojmy a definície (elektrizačná sústava, elektrické stanice, elektrické vedenia….\n- Legislatíva projektovania (Postavenie predpisov a noriem v procese projektovania elektrických zariadení, Normatívne právne akty, Technické normy, predpisy, autorizovaný inžinier, kvalifikácia elektrotechnikov podľa vyhlášky, odborné vzdelanie a prax, postavenie projektanta v zmysle vyhl. Č. 508/2009)\n- Tvorba výkresovej a technickej dokumentácie (konštrukčné dokumenty, technické výkresy, formáty výkresov, úprava výkresového listu, delenie výkresov, archivácia výkresov, technické písmo\n- Kreslenie elektrotechnických schém a konštrukčných výkresov (názvoslovie pri kreslení elektrotech. Schém, druhy schém, polohopisné výkresy, čiary na elektrotechnických výkresoch)\n- Použitie projektovej dokumentácie elektrických a energetických zariadení( vymedzenie pojmov, Projektová dokumentácia v procese výstavby, Dokumentácia stavebného zámeru (DSZ), Dokumentácia pre územné rozhodnutie (DÚR), Dokumentácia pre stavebné povolenie (DSP))\n- Konštrukčné materiály používané v elektrotechnike a nadväznosť na projektovanie\n- Softvérová podpora pri projektovaní\n- Základná teória k elektrickým inštaláciám, zásuvkový obvod, svetelný obvod, rozvádzač\n- Kreslenie elektrotechnických schém\n- Tvorba rozpočtov a kalkulácie cien a prác materiálov- základné postupy pri navrhovaní, predstavenie programu Cenkros.\n\n\nOdporúčaná literatúra:\nDžmura, J., Pavlík M., Zbojovský J., Hajduk M., : Projektovanie v elektroenergetike, Technická univerzita v Košiciach, 2019, ISBN: 978-80-553-3417-2\n\nManuály k softvérom.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Prednášky: 13 hodín, cvičenia: 26 hodín, domáca príprava na cvičenie: 28 hodín, práca na zadaniach: 63 hodín, príprava na zápočtovú písomku: 20 hodín.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 886\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n28%\n28%\n16%\n10%\n9%\n\n\nZabezpečuje:\ndoc. Ing. Jaroslav Petráš, PhD.\nIng. Ján Zbojovský, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

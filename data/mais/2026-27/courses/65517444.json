@@ -1,0 +1,203 @@
+{
+  "predmet_id": "65517444",
+  "code": "2619611",
+  "name": "Diskrétna matematika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517444",
+  "fetched_at": "2026-11-17T14:59:01Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2619611"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Diskrétna matematika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 39,26/,39,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26001210 - Matematika I"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť základné teoretické poznatky z boolovskej algebry a ukázať aplikácie boolovských funkcií v elektrotechnike. Prebrať základné algebraické štruktúry a kombinatorické princípy ako aj postupy potrebné pri vyhodnocovaní výhodnosti algoritmov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Množina celých čísel, kongruencie, binárne relácie a zobrazenia.\nČiastočne usporiadané štruktúry.\nBoolovské algebry. a Boolovské funkcie.\nVýroková logika, formuly výrokovej logiky.\nEkvivalencia formúl. Relácia vyplývania. Realizácia formúl. Rezolučná metóda.\nGrafy (definícia, typy grafov, súvislosť, maticové vyjadrenie).\nStromy a kostra grafu. Planárne grafy.\nDigrafy (definícia, typy, silná súvislosť, maticové vyjadrenie).\nAcyklické digrafy. Orientované stromy, kostra digrafu a binárne stromy.\nDiskétrna optimlizáca: niektoré aplikácie grafov. Grafové algoritmy.\nToky v sieťach - Ford-Fulersonov algoritmus."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Bučko, M. - Klešč, M.: Diskrétna matematika. Elfa, Košice, 1995, 1997, 1999.\n2. Kolář, J. - Štepánková, O. - Chytil, M.: Logika, algebry a grafy. SNTL, Praha 1989.\n3.Draženská, E. - Myšková, H.: Matematická logika, Equilibria, 2011."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 4778\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n6%\n11%\n22%\n28%\n29%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Marián Klešč, PhD.\nRNDr. Emília Draženská, PhD.\nRNDr. Štefan Berežný, PhD.\ndoc. RNDr. Helena Myšková, PhD.\nRNDr. Juraj Valiska, PhD.\nRNDr. Miriam Kleinová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 4778,
+    "percent": {
+      "A": 3,
+      "B": 6,
+      "C": 11,
+      "D": 22,
+      "E": 28,
+      "FX": 29
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Marián Klešč, PhD.",
+    "RNDr. Emília Draženská, PhD.",
+    "RNDr. Štefan Berežný, PhD.",
+    "doc. RNDr. Helena Myšková, PhD.",
+    "RNDr. Juraj Valiska, PhD.",
+    "RNDr. Miriam Kleinová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2619611\nNázov predmetu: Diskrétna matematika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,2\nExterná forma štúdia (hodiny za semester): ZS 39,26/,39,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety: 26001210 - Matematika I\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť základné teoretické poznatky z boolovskej algebry a ukázať aplikácie boolovských funkcií v elektrotechnike. Prebrať základné algebraické štruktúry a kombinatorické princípy ako aj postupy potrebné pri vyhodnocovaní výhodnosti algoritmov.\n\nStručná osnova predmetu:\nMnožina celých čísel, kongruencie, binárne relácie a zobrazenia.\nČiastočne usporiadané štruktúry.\nBoolovské algebry. a Boolovské funkcie.\nVýroková logika, formuly výrokovej logiky.\nEkvivalencia formúl. Relácia vyplývania. Realizácia formúl. Rezolučná metóda.\nGrafy (definícia, typy grafov, súvislosť, maticové vyjadrenie).\nStromy a kostra grafu. Planárne grafy.\nDigrafy (definícia, typy, silná súvislosť, maticové vyjadrenie).\nAcyklické digrafy. Orientované stromy, kostra digrafu a binárne stromy.\nDiskétrna optimlizáca: niektoré aplikácie grafov. Grafové algoritmy.\nToky v sieťach - Ford-Fulersonov algoritmus.\n\nOdporúčaná literatúra:\n1. Bučko, M. - Klešč, M.: Diskrétna matematika. Elfa, Košice, 1995, 1997, 1999.\n2. Kolář, J. - Štepánková, O. - Chytil, M.: Logika, algebry a grafy. SNTL, Praha 1989.\n3.Draženská, E. - Myšková, H.: Matematická logika, Equilibria, 2011.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 4778\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n6%\n11%\n22%\n28%\n29%\n\n\nZabezpečuje:\ndoc. RNDr. Marián Klešč, PhD.\nRNDr. Emília Draženská, PhD.\nRNDr. Štefan Berežný, PhD.\ndoc. RNDr. Helena Myšková, PhD.\nRNDr. Juraj Valiska, PhD.\nRNDr. Miriam Kleinová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

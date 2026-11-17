@@ -1,0 +1,176 @@
+{
+  "predmet_id": "65954320",
+  "code": "26000647",
+  "name": "Verifikovaný vývoj systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65954320",
+  "fetched_at": "2026-11-17T15:11:29Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000647"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Verifikovaný vývoj systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je atraktívnou a ľahko pochopiteľnou formou priblížiť problematiku verifikovaného vývoja systémov, primárne softvéru, kde sa na overenie správnosti namiesto testovania používajú formálne techniky ako overovanie modelov a dokazovanie teorém. Absolvent(ka) predmetu bude rozumieť v ktorých prípadoch je vhodné verifikovaný vývoj použiť (pre z hľadiska bezpečnosti kritické systémy) a bude ho vedieť použiť v celom procese vývoja, od abstraktnej formálnej špecifikácie až po vykonateľný kód. Predmet sa zaoberá aj prepojením verifikovaného softvéru s virtuálnym prostredím za účelom jeho validácie a jeho miestom vo svete umelej inteligencie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Formálne metódy: Základné pojmy. Význam, výhody a nevýhody. Taxonómia formálnych metód. Miesto formálnych metód vo vývoji softvéru.\n2. Verifikácia a validácia. Verifikácia pomocou overovania modelov (model checking) a dokazovania viet (theorem proving).\n3. Formálne systémy: prvky formálneho systému (jazyk, axiómy, odvodzovacie pravidlá), dôkaz vo formálnom systéme, verifikácia dokazovaním teorém.\n4. Formálne metódy pre vývoj softvéru: prehľad aktuálnych formálnych metód, ako B-Metóda, Event-B, Z, VDM, jazyk Perfect a ďalšie.\n5. B-Metóda: stručná charakteristika, vývojový proces a typy komponentov. Syntax a sémantika programových konštruktov jazyka B-Metódy.\n6. Abstraktná špecifikácia v B-Metóde: Syntax a sémantika abstraktného stroja a verifikácia jeho vlastností povinnými dôkazmi.\n7. Zjemňovanie v B-Metóde: Proces prechodu od abstraktnej špecifikácie softvéru k jeho implementovateľnej podobe. Zabezpečenie korektnosti tohto prechodu povinnými dôkazmi.\n8. Návrh rozsiahlych systémov a znovu-použiteľnosť v B-Metóde: Mechanizmy vzájomného sprístupnenia softvérových komponentov. Stratégie vývoja rozsiahlejších systémov.\n9. Prepojenie verifikovanej časti softvéru s ostatnými: Princípy prepojenia časti softvéru, vyvinutého a verifikovaného pomocou formálnych metód a štandardne vyvinutých častí.\n10. Bližšie oboznámenie sa s ďalšími formálnymi metódami pre vývoj softvéru.\n11. Koncepty formálnych metód v programátorskej praxi: Prehľad riešení a technológií pre bežné programovacie jazyky, ktoré aplikujú niektoré princípy formálnych metód, napr. Java Modelling Language a Code Contracts.\n12. Prepojenie verifikovaného softvéru s virtuálnym prostredím za účelom jeho validácie.\n13. Využitie formálnych metód v oblasti umelej inteligencie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. J.R. Abrial: The B-Book: Assigning programs to Meaning. Cambridge Univ. Press (1996)\n2. J.R. Abrial: Modeling in Event-B: System and Software Engineering, Cambridge University Press, Cambridge (2010)\n3. J.R. Abrial: On b and event-b: Principles, success and challenges. In: Abstract State Machines, Alloy, B, TLA, VDM, and Z. pp. 31–35. Springer International Publishing, Cham (2018)\n4. R.J. Back: Reﬁnement Calculus: A Systematic Introduction, Springer (1998). Dostupné z (11/2024): http://lara.epfl.ch/w/_media/sav08:backwright98refinementcalculus.pdf\n5. M. Butler, P. Körner, S. Krings, T. Lecomte, M. Leuschel, L.F. Mejia, L. Voisin: The first twenty-five years of industrial use of the b-method. In: International Conference on Formal Methods for Industrial Critical Systems. pp. 189–209. Springer (2020)\n6. C. Casey: A Programming Approach to Formal Methods. McGraw Hill Co. (1994)\n7. Crocker, D.: Safe object-oriented software: The verified design-by-contract paradigm. In: Redmill, F., Anderson, T. (eds.) Practical Elements of Safety. pp. 19–41. Springer London, London (2004)\n8. E. W. Dijkstra: A discipline of programming, Prentice-Hall (1976)\n9. Š. Korečko, Š. Hudák: Formálne metódy pre diskrétne systémy: Petriho siete a B-metóda, Technická univerzita v Košiciach (2015). Dostupné z (11/2024): https://hron.fei.tuke.sk/~korecko/FMmonografia/\n10. Š. Korečko: Utilizing Rail Traffic Control Simulator in Verified Software Development Courses. In: Composability, Comprehensibility and Correctness of Working Software. CEFP 2019. Lecture Notes in Computer Science, vol 11950. Springer, Cham (2023)\n11. K. Lano: The B Language and Method: A Guide to Practical Formal Development. FACIT, Springer Verlag (1996)\n12. Letan, T., Régis-Gianas, Y., Chifflier, P., Hiet, G.: Modular verification of programs with effects and effect handlers in coq. In: Formal Methods: 22nd International Symposium, FM 2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford, UK, July 15-17, 2018, Proceedings 22. pp. 338–354. Springer (2018)\n13. Leuschel, M.: Spot the Difference: A Detailed Comparison Between B and Event-B, pp. 147–172. Springer International Publishing, Cham (2021)\n14. S. Schneider: The B-Method: An Introduction, Palgrave Macmillan Limited (2001)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Slavomír Šimoňák, PhD.\ndoc. Ing. Ján Genči, PhD.\ndoc. Ing. Štefan Korečko, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Slavomír Šimoňák, PhD.",
+    "doc. Ing. Ján Genči, PhD.",
+    "doc. Ing. Štefan Korečko, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000647\nNázov predmetu: Verifikovaný vývoj systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je atraktívnou a ľahko pochopiteľnou formou priblížiť problematiku verifikovaného vývoja systémov, primárne softvéru, kde sa na overenie správnosti namiesto testovania používajú formálne techniky ako overovanie modelov a dokazovanie teorém. Absolvent(ka) predmetu bude rozumieť v ktorých prípadoch je vhodné verifikovaný vývoj použiť (pre z hľadiska bezpečnosti kritické systémy) a bude ho vedieť použiť v celom procese vývoja, od abstraktnej formálnej špecifikácie až po vykonateľný kód. Predmet sa zaoberá aj prepojením verifikovaného softvéru s virtuálnym prostredím za účelom jeho validácie a jeho miestom vo svete umelej inteligencie.\n\nStručná osnova predmetu:\n1. Formálne metódy: Základné pojmy. Význam, výhody a nevýhody. Taxonómia formálnych metód. Miesto formálnych metód vo vývoji softvéru.\n2. Verifikácia a validácia. Verifikácia pomocou overovania modelov (model checking) a dokazovania viet (theorem proving).\n3. Formálne systémy: prvky formálneho systému (jazyk, axiómy, odvodzovacie pravidlá), dôkaz vo formálnom systéme, verifikácia dokazovaním teorém.\n4. Formálne metódy pre vývoj softvéru: prehľad aktuálnych formálnych metód, ako B-Metóda, Event-B, Z, VDM, jazyk Perfect a ďalšie.\n5. B-Metóda: stručná charakteristika, vývojový proces a typy komponentov. Syntax a sémantika programových konštruktov jazyka B-Metódy.\n6. Abstraktná špecifikácia v B-Metóde: Syntax a sémantika abstraktného stroja a verifikácia jeho vlastností povinnými dôkazmi.\n7. Zjemňovanie v B-Metóde: Proces prechodu od abstraktnej špecifikácie softvéru k jeho implementovateľnej podobe. Zabezpečenie korektnosti tohto prechodu povinnými dôkazmi.\n8. Návrh rozsiahlych systémov a znovu-použiteľnosť v B-Metóde: Mechanizmy vzájomného sprístupnenia softvérových komponentov. Stratégie vývoja rozsiahlejších systémov.\n9. Prepojenie verifikovanej časti softvéru s ostatnými: Princípy prepojenia časti softvéru, vyvinutého a verifikovaného pomocou formálnych metód a štandardne vyvinutých častí.\n10. Bližšie oboznámenie sa s ďalšími formálnymi metódami pre vývoj softvéru.\n11. Koncepty formálnych metód v programátorskej praxi: Prehľad riešení a technológií pre bežné programovacie jazyky, ktoré aplikujú niektoré princípy formálnych metód, napr. Java Modelling Language a Code Contracts.\n12. Prepojenie verifikovaného softvéru s virtuálnym prostredím za účelom jeho validácie.\n13. Využitie formálnych metód v oblasti umelej inteligencie.\n\nOdporúčaná literatúra:\n1. J.R. Abrial: The B-Book: Assigning programs to Meaning. Cambridge Univ. Press (1996)\n2. J.R. Abrial: Modeling in Event-B: System and Software Engineering, Cambridge University Press, Cambridge (2010)\n3. J.R. Abrial: On b and event-b: Principles, success and challenges. In: Abstract State Machines, Alloy, B, TLA, VDM, and Z. pp. 31–35. Springer International Publishing, Cham (2018)\n4. R.J. Back: Reﬁnement Calculus: A Systematic Introduction, Springer (1998). Dostupné z (11/2024): http://lara.epfl.ch/w/_media/sav08:backwright98refinementcalculus.pdf\n5. M. Butler, P. Körner, S. Krings, T. Lecomte, M. Leuschel, L.F. Mejia, L. Voisin: The first twenty-five years of industrial use of the b-method. In: International Conference on Formal Methods for Industrial Critical Systems. pp. 189–209. Springer (2020)\n6. C. Casey: A Programming Approach to Formal Methods. McGraw Hill Co. (1994)\n7. Crocker, D.: Safe object-oriented software: The verified design-by-contract paradigm. In: Redmill, F., Anderson, T. (eds.) Practical Elements of Safety. pp. 19–41. Springer London, London (2004)\n8. E. W. Dijkstra: A discipline of programming, Prentice-Hall (1976)\n9. Š. Korečko, Š. Hudák: Formálne metódy pre diskrétne systémy: Petriho siete a B-metóda, Technická univerzita v Košiciach (2015). Dostupné z (11/2024): https://hron.fei.tuke.sk/~korecko/FMmonografia/\n10. Š. Korečko: Utilizing Rail Traffic Control Simulator in Verified Software Development Courses. In: Composability, Comprehensibility and Correctness of Working Software. CEFP 2019. Lecture Notes in Computer Science, vol 11950. Springer, Cham (2023)\n11. K. Lano: The B Language and Method: A Guide to Practical Formal Development. FACIT, Springer Verlag (1996)\n12. Letan, T., Régis-Gianas, Y., Chifflier, P., Hiet, G.: Modular verification of programs with effects and effect handlers in coq. In: Formal Methods: 22nd International Symposium, FM 2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford, UK, July 15-17, 2018, Proceedings 22. pp. 338–354. Springer (2018)\n13. Leuschel, M.: Spot the Difference: A Detailed Comparison Between B and Event-B, pp. 147–172. Springer International Publishing, Cham (2021)\n14. S. Schneider: The B-Method: An Introduction, Palgrave Macmillan Limited (2001)\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Slavomír Šimoňák, PhD.\ndoc. Ing. Ján Genči, PhD.\ndoc. Ing. Štefan Korečko, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65950540",
+  "code": "26001073",
+  "name": "Náhľad do modernej fyziky",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950540",
+  "fetched_at": "2026-11-17T15:07:42Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001073"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Náhľad do modernej fyziky"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "2"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Získanie stručného prehľadu o najnovších poznatkoch o mikrosvete."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Špeciálna teória relativity\nÚvod do kvantovej fyziky\nAtóm\nJadro\nSily v prírode\nŠtandardný model mikrosveta\nUrýchľovače, detektory, CERN\nKozmológia a časticová fyzika"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "HLAVÁČOVÁ, J.; ZIMAN, J.; KOVAĽAKOVÁ, M.; ZAGYI, B. Fyzika II, 1. vyd.. Košice: Elfa, 2007, 142 s. ISBN 978-80-8086-051-6.\nDostupné z: www.particleadventure.org"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 7\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n57%\n0%\n29%\n0%\n0%\n14%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Júlia Hlaváčová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 2,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 7,
+    "percent": {
+      "A": 57,
+      "B": 0,
+      "C": 29,
+      "D": 0,
+      "E": 0,
+      "FX": 14
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Júlia Hlaváčová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 26001073\nNázov predmetu: Náhľad do modernej fyziky\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3\nExterná forma štúdia (hodiny za semester): ZS 39\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 2\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZískanie stručného prehľadu o najnovších poznatkoch o mikrosvete.\n\nStručná osnova predmetu:\nŠpeciálna teória relativity\nÚvod do kvantovej fyziky\nAtóm\nJadro\nSily v prírode\nŠtandardný model mikrosveta\nUrýchľovače, detektory, CERN\nKozmológia a časticová fyzika\n\nOdporúčaná literatúra:\nHLAVÁČOVÁ, J.; ZIMAN, J.; KOVAĽAKOVÁ, M.; ZAGYI, B. Fyzika II, 1. vyd.. Košice: Elfa, 2007, 142 s. ISBN 978-80-8086-051-6.\nDostupné z: www.particleadventure.org\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 7\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n57%\n0%\n29%\n0%\n0%\n14%\n\n\nZabezpečuje:\ndoc. RNDr. Júlia Hlaváčová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

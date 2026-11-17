@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65960467",
+  "code": "2610161",
+  "name": "Modelovanie v elektroenergetike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960467",
+  "fetched_at": "2026-11-17T15:13:35Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2610161"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Modelovanie v elektroenergetike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežný test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca z písomnej a ústnej časti"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné vedomosti z oblasti modelovania prvkov elektrizačnej sústavy, naučí sa pracovať s výpočtovým programom EMTP-ATP (alternative transient program) pre výpočet elektrických prvkov elektrizačnej sústavy, zostavovaním modelov sietí a výpočty časových priebehov rôznych prevádzkových a poruchových stavov elektrizačnej sústavy. Ďalej študent získa rozširujúce vedomosti z oblasti prenosu elektrickej energie, a to z matematických modelov prvkov elektrizačnej sústavy (ES) a z kompenzácie a regulácie napätia v ES."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Výpočty a modelovanie v elektroenergetike\n2. Modely prvkov v elektrizačnej sústave\n3. Analýza prechodných javov\n4. Riadenie a regulácia v elektroenergetike\n5. Praktická aplikácia a simulácie"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Arrillaga, J., Watson, N. R.: Computer modelling of electrical power systems. In.: John Wiley a Sons. ISBN 0-471-87249-0.\n[2] Saadat, H.: Power system analysis. Mc Graw Hill, 2004. ISBN 007-123955-3.\n[3] Kizilcay, M.: Power System Transients and their Computation. University of Applied Sciences of Osnabruck. Germany.\n[4] Eiichi Haginomori, Tadashi Koshiduka, Junichi Arai, Hisatochi Ikeda: Power System Transient Analysis: Theory and Practice using Simulation Programs (ATP-EMTP). February 2016 280 Pages. ISBN: 978-1-118-73745-3.\n[5] Varga, L.: Modely prvkov elektrizačnej sústavy.\n[6] Medveď, D. - Hvizdoš, M.: Modelovanie v prostredí EMTP – ATP. 1. vyd. - Košice : TU - 2011. - 74 s. - ISBN 978-80-553-0776-3.\n[7] Medveď, D.: Modelovanie v elektroenergetike - Zbierka príkladov I. Vydal: Technická univerzita v Košiciach, 2012. 204 s. ISBN 978-80-553-1188-3.\n[8] Medveď, D.: Simulation in Electric Power System – A collection of exercises 1. Košice: TU 2017. 226 p., ISBN 978-80-553-3142-3.\n[9] Manuály k softvérom."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pracovná záťaž:\n26 hodín prednášky; 26 hodín numerické cvičenie; 4 hodiny laboratórne cvičenia v HL a SIL; 4 hodiny vypracovanie protokolu z merania; 30 hodín príprava na 2 kontrolné písomky; 4 hodiny konzultácie s vyučujúcim; 56 hodín samoštúdium a príprava na skúšku"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 485\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n15%\n25%\n28%\n14%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Dušan Medveď, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 485,
+    "percent": {
+      "A": 9,
+      "B": 15,
+      "C": 25,
+      "D": 28,
+      "E": 14,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. Dušan Medveď, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2610161\nNázov predmetu: Modelovanie v elektroenergetike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2,1\nExterná forma štúdia (hodiny za semester): ZS 26,26,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežný test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca z písomnej a ústnej časti\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné vedomosti z oblasti modelovania prvkov elektrizačnej sústavy, naučí sa pracovať s výpočtovým programom EMTP-ATP (alternative transient program) pre výpočet elektrických prvkov elektrizačnej sústavy, zostavovaním modelov sietí a výpočty časových priebehov rôznych prevádzkových a poruchových stavov elektrizačnej sústavy. Ďalej študent získa rozširujúce vedomosti z oblasti prenosu elektrickej energie, a to z matematických modelov prvkov elektrizačnej sústavy (ES) a z kompenzácie a regulácie napätia v ES.\n\nStručná osnova predmetu:\n1. Výpočty a modelovanie v elektroenergetike\n2. Modely prvkov v elektrizačnej sústave\n3. Analýza prechodných javov\n4. Riadenie a regulácia v elektroenergetike\n5. Praktická aplikácia a simulácie\n\n\nOdporúčaná literatúra:\n[1] Arrillaga, J., Watson, N. R.: Computer modelling of electrical power systems. In.: John Wiley a Sons. ISBN 0-471-87249-0.\n[2] Saadat, H.: Power system analysis. Mc Graw Hill, 2004. ISBN 007-123955-3.\n[3] Kizilcay, M.: Power System Transients and their Computation. University of Applied Sciences of Osnabruck. Germany.\n[4] Eiichi Haginomori, Tadashi Koshiduka, Junichi Arai, Hisatochi Ikeda: Power System Transient Analysis: Theory and Practice using Simulation Programs (ATP-EMTP). February 2016 280 Pages. ISBN: 978-1-118-73745-3.\n[5] Varga, L.: Modely prvkov elektrizačnej sústavy.\n[6] Medveď, D. - Hvizdoš, M.: Modelovanie v prostredí EMTP – ATP. 1. vyd. - Košice : TU - 2011. - 74 s. - ISBN 978-80-553-0776-3.\n[7] Medveď, D.: Modelovanie v elektroenergetike - Zbierka príkladov I. Vydal: Technická univerzita v Košiciach, 2012. 204 s. ISBN 978-80-553-1188-3.\n[8] Medveď, D.: Simulation in Electric Power System – A collection of exercises 1. Košice: TU 2017. 226 p., ISBN 978-80-553-3142-3.\n[9] Manuály k softvérom.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pracovná záťaž:\n26 hodín prednášky; 26 hodín numerické cvičenie; 4 hodiny laboratórne cvičenia v HL a SIL; 4 hodiny vypracovanie protokolu z merania; 30 hodín príprava na 2 kontrolné písomky; 4 hodiny konzultácie s vyučujúcim; 56 hodín samoštúdium a príprava na skúšku\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 485\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n15%\n25%\n28%\n14%\n8%\n\n\nZabezpečuje:\ndoc. Ing. Dušan Medveď, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}
