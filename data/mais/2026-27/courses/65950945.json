@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65950945",
+  "code": "26001031",
+  "name": "Úvod do fyziky tuhých látok",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950945",
+  "fetched_at": "2026-11-17T15:08:16Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001031"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Úvod do fyziky tuhých látok"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška písomnou formou (príklady + teória)"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť študentom poznatky o fyzikálnej podstate javov v tuhých látkach na mikroštruktrálnej úrovni, rozbor a riešenie fyzikálnych modelov popisujúcich stavbu TL, tepelné kmitanie častíc TL, elektrické vlastnosti TL s podrobným výkladom energetického spektra kryštálov. Výklad experimentálnych metód štúdia štruktúry kryštálov, defektov v TL, efektívnych hmotností nosičov a tvaru izoenergetických plôch."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Štruktúra TL. Klasifikácia TL, väzby v TL, kryštalická mriežka, recipročná mriežka, Brillouinove zóny.\n- Experimentálne metódy určovania štruktúry kryštálov.\n- Poruchy v tuhých látkach. Bodové, lineárne, plošné a objemové poruchy, termodynamika bodových porúch.\n- Tepelné kmity atómov kryštálu.\n- Elektrické vlastnosti TL. Adiabatické priblíženie a jednoelektrónová aproximácia.\n- Elektrón v periodickom poli. Pohyb elektrónov v kryštáli pod vplyvom vonkajších síl.\n- Pojem dier, pásmové energetické spektrá vodičov, izolátorov a polovodičov"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "HRONSKÝ, Viktor. Fyzika tuhých látok, TUKE, 2015. ISBN 978-80-553-2340-4\nKAVEČANSKÝ, Viktor. Fyzika tuhých látok, UPJŠ, 1983.\nKITTEL, Charles. Úvod do fyziky pevných látek. Academia,1985.\nDEKKER, Adrianus Jacobus. Fyzika pevných látek. Academia, 1966.\nVARIKAŠ, Vikentij Michajlovič; CHAČATRJAN, Jurij Mkrtičevič. Sbírka řešených úloh z fyziky pevných látek, SPN ,1976."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 60 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 26 hodín\n• Priame konzultácie: 8 hodín\n\nNekontaktná výučba: spolu 90 hodín, z toho:\n• Príprava na cvičenia: 18 hodín\n• Príprava na priebežné kontrolné skúšky: 20 hodín\n• Príprava na skúšku: 52 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 16\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n31%\n6%\n6%\n44%\n13%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Jozef Kravčák, PhD.\nRNDr. Anton Baran, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 16,
+    "percent": {
+      "A": 31,
+      "B": 6,
+      "C": 6,
+      "D": 44,
+      "E": 13,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Jozef Kravčák, PhD.",
+    "RNDr. Anton Baran, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 26001031\nNázov predmetu: Úvod do fyziky tuhých látok\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška písomnou formou (príklady + teória)\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť študentom poznatky o fyzikálnej podstate javov v tuhých látkach na mikroštruktrálnej úrovni, rozbor a riešenie fyzikálnych modelov popisujúcich stavbu TL, tepelné kmitanie častíc TL, elektrické vlastnosti TL s podrobným výkladom energetického spektra kryštálov. Výklad experimentálnych metód štúdia štruktúry kryštálov, defektov v TL, efektívnych hmotností nosičov a tvaru izoenergetických plôch.\n\nStručná osnova predmetu:\n- Štruktúra TL. Klasifikácia TL, väzby v TL, kryštalická mriežka, recipročná mriežka, Brillouinove zóny.\n- Experimentálne metódy určovania štruktúry kryštálov.\n- Poruchy v tuhých látkach. Bodové, lineárne, plošné a objemové poruchy, termodynamika bodových porúch.\n- Tepelné kmity atómov kryštálu.\n- Elektrické vlastnosti TL. Adiabatické priblíženie a jednoelektrónová aproximácia.\n- Elektrón v periodickom poli. Pohyb elektrónov v kryštáli pod vplyvom vonkajších síl.\n- Pojem dier, pásmové energetické spektrá vodičov, izolátorov a polovodičov\n\nOdporúčaná literatúra:\nHRONSKÝ, Viktor. Fyzika tuhých látok, TUKE, 2015. ISBN 978-80-553-2340-4\nKAVEČANSKÝ, Viktor. Fyzika tuhých látok, UPJŠ, 1983.\nKITTEL, Charles. Úvod do fyziky pevných látek. Academia,1985.\nDEKKER, Adrianus Jacobus. Fyzika pevných látek. Academia, 1966.\nVARIKAŠ, Vikentij Michajlovič; CHAČATRJAN, Jurij Mkrtičevič. Sbírka řešených úloh z fyziky pevných látek, SPN ,1976.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Kontaktná výučba: spolu 60 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 26 hodín\n• Priame konzultácie: 8 hodín\n\nNekontaktná výučba: spolu 90 hodín, z toho:\n• Príprava na cvičenia: 18 hodín\n• Príprava na priebežné kontrolné skúšky: 20 hodín\n• Príprava na skúšku: 52 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 16\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n31%\n6%\n6%\n44%\n13%\n0%\n\n\nZabezpečuje:\ndoc. RNDr. Jozef Kravčák, PhD.\nRNDr. Anton Baran, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

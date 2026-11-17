@@ -1,0 +1,176 @@
+{
+  "predmet_id": "65908030",
+  "code": "26001268",
+  "name": "Elektromobilita",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908030",
+  "fetched_at": "2026-11-17T15:06:01Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001268"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektromobilita"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Exkurzia"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 2 zadaní (2x14b), 2 testy (2x6b). Na získanie zápočtu je nutné dosiahnuť spolu 21 bodov: vypracovať a obhájiť obe zadania a z každého testu dosiahnuť aspoň 3 body"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 2 zadané otázky (2x30b)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú vedomosti o princípoch činnosti hlavných komponentov trakčného reťazca vozidiel s elektrickým alebo hybridným pohonom, predovšetkým elektrickým motorom a výkonovým meničom a zdrojovým systémom na báze batérií, superkapacitorov a palivových článkov. Zvláštna pozornosť je venovaná batériovým úložiskám energie vo vozidle, ich manažmentu, ako aj nabíjacím systémom elektromobilov a plug-in hybridných vozidiel. Študenti sa naučia počítať jazdné odpory vozidla a spotrebu energie vozidla podľa jazdných cyklov, a tieto vedomosti overovať pomocou simulačných modelov. V rámci cvičení získajú zručnosti pri práci so zbernicami vo vozidle na báze CAN a LIN. Súčasťou cvičení budú merania výkonu vozidiel na skúšobnej stolici MAHA. Súčasťou predmetu je exkurzia v podniku na výrobu vozidiel s elektrickým alebo hybridným pohonom."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Jazdné odpory vozidla, spotreba energie na jazdu, emisie v reťazci získania a využitia energie (Well to miles).\n2. Usporiadanie trakčného reťazca elektrických a hybridných vozidiel (BEV, HEV, P-HEV, Mild a Micro hybrid).\n3. Komponenty trakčného reťazca: elektromotory, trakčné meniče.\n4. Zdroje energie pre elektromobily a hybridné vozidlá: typy batérií, superkapacitory, palivové články, manažment matérie, nabíjačky batérií, možnosti prelievania energie (vehicle to vehicle, vehicle to grid).\n5. Matematické modelovanie rôznych usporiadaní trakčného reťazca vozidla. Modelovanie jazdných cyklov, analýza spotreby energie.\n6. Základné komunikačné štandardy používané v automobiloch, CAN, LIN. Meranie a analýza komunikácie CAN a LIN na vozidle a jeho simulátore.\n7. Real-time simulácia dynamiky vozidla.\n8. Meranie výkonu vozidla na skúšobnej stolici MAHA"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] F. Vlk, Dynamika motorových vozidel. Brno, Czech Republic: Vydavatelství Prof. Ing. František Vlk, DrSc., 2003. ISBN: 80-239-0024-2.\n[2] L. Guzzella and A. Sciarretta, Vehicle Propulsion Systems. Berlin, Heidelberg, New York: Springer, 2007. ISBN: 978-3-540-74691-1.\n[3] S. Onori, L. Serrao, G. Rizzoni, Hybrid Electric Vehicles Energy Management Strategies, Springer London Heidelberg New York Dordrecht: ISBN 978-3-658-01784-2, DOI 10.1007/978-1-4471-6781-5.\n[4] M. Frivaldský a kol., Elektromobilita. Žilinská univerzita 2019. Žilina. ISBN 978-80-554-1598-7\n[5] Študijné materiály na portáli Moodle TUKE."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 13\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n46%\n38%\n15%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. František Ďurovský, PhD.\nIng. Tomáš Lenger, PhD.\nIng. Matej Hric"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 13,
+    "percent": {
+      "A": 46,
+      "B": 38,
+      "C": 15,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. František Ďurovský, PhD.",
+    "Ing. Tomáš Lenger, PhD.",
+    "Ing. Matej Hric"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001268\nNázov predmetu: Elektromobilita\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Exkurzia\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2,1\nExterná forma štúdia (hodiny za semester): LS 26,26,13\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 2 zadaní (2x14b), 2 testy (2x6b). Na získanie zápočtu je nutné dosiahnuť spolu 21 bodov: vypracovať a obhájiť obe zadania a z každého testu dosiahnuť aspoň 3 body\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 2 zadané otázky (2x30b).\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú vedomosti o princípoch činnosti hlavných komponentov trakčného reťazca vozidiel s elektrickým alebo hybridným pohonom, predovšetkým elektrickým motorom a výkonovým meničom a zdrojovým systémom na báze batérií, superkapacitorov a palivových článkov. Zvláštna pozornosť je venovaná batériovým úložiskám energie vo vozidle, ich manažmentu, ako aj nabíjacím systémom elektromobilov a plug-in hybridných vozidiel. Študenti sa naučia počítať jazdné odpory vozidla a spotrebu energie vozidla podľa jazdných cyklov, a tieto vedomosti overovať pomocou simulačných modelov. V rámci cvičení získajú zručnosti pri práci so zbernicami vo vozidle na báze CAN a LIN. Súčasťou cvičení budú merania výkonu vozidiel na skúšobnej stolici MAHA. Súčasťou predmetu je exkurzia v podniku na výrobu vozidiel s elektrickým alebo hybridným pohonom.\n\nStručná osnova predmetu:\n1. Jazdné odpory vozidla, spotreba energie na jazdu, emisie v reťazci získania a využitia energie (Well to miles).\n2. Usporiadanie trakčného reťazca elektrických a hybridných vozidiel (BEV, HEV, P-HEV, Mild a Micro hybrid).\n3. Komponenty trakčného reťazca: elektromotory, trakčné meniče.\n4. Zdroje energie pre elektromobily a hybridné vozidlá: typy batérií, superkapacitory, palivové články, manažment matérie, nabíjačky batérií, možnosti prelievania energie (vehicle to vehicle, vehicle to grid).\n5. Matematické modelovanie rôznych usporiadaní trakčného reťazca vozidla. Modelovanie jazdných cyklov, analýza spotreby energie.\n6. Základné komunikačné štandardy používané v automobiloch, CAN, LIN. Meranie a analýza komunikácie CAN a LIN na vozidle a jeho simulátore.\n7. Real-time simulácia dynamiky vozidla.\n8. Meranie výkonu vozidla na skúšobnej stolici MAHA\n\nOdporúčaná literatúra:\n[1] F. Vlk, Dynamika motorových vozidel. Brno, Czech Republic: Vydavatelství Prof. Ing. František Vlk, DrSc., 2003. ISBN: 80-239-0024-2.\n[2] L. Guzzella and A. Sciarretta, Vehicle Propulsion Systems. Berlin, Heidelberg, New York: Springer, 2007. ISBN: 978-3-540-74691-1.\n[3] S. Onori, L. Serrao, G. Rizzoni, Hybrid Electric Vehicles Energy Management Strategies, Springer London Heidelberg New York Dordrecht: ISBN 978-3-658-01784-2, DOI 10.1007/978-1-4471-6781-5.\n[4] M. Frivaldský a kol., Elektromobilita. Žilinská univerzita 2019. Žilina. ISBN 978-80-554-1598-7\n[5] Študijné materiály na portáli Moodle TUKE.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov.\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 13\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n46%\n38%\n15%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. František Ďurovský, PhD.\nIng. Tomáš Lenger, PhD.\nIng. Matej Hric\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

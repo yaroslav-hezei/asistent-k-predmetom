@@ -1,0 +1,192 @@
+{
+  "predmet_id": "65952352",
+  "code": "2608941",
+  "name": "Distribuované systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952352",
+  "fetched_at": "2026-11-17T15:09:25Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2608941"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Distribuované systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa schopnosti porozumieť princípom distribuovaných systémov a dokáže ich vysvetliť a rozvinúť. Bude schopný poskytnúť prehľad kompromisov, ktoré je potrebné urobiť pri navrhovaní distribuovaného systému a urobiť takéto kompromisy vo svojich vlastných návrhoch. Rozvinie svoje praktické zručnosti pri implementácii distribuovaných algoritmov v softvér na základe porozumenia jeho špecifikácie. Bude schopný vysvetliť modely používané na navrhovanie distribuovaných systémov a dokáže uvažovať o takýchto systémoch. Zvládne navrhnúť efektívne algoritmy pre distribuované výpočtové úlohy."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úlohy pre tvorbe distribuovaných systémov\n- Zdieľanie zdrojov, transparentnosť, otvorenosť, spoľahlivosť, bezpečnosť, škálovateľnosť\n- Distribuovaný vs. decentralizovaný systém\n- Klasifikácia distribuovaných systémov\nArchitektúry\n- Architektonické štýly: vrstvový, servisne orientovaný, publish-subscribe\n- Organizácia midlvéru\n- Systémové architektúry: klient-server, peer-to-peer, hybridné\n- Vnútorná architektúra procesov, multivláknvé programy, procesy servera, procesy klienta, virtualizácia procesov, mobilita procesov\nKomunikácia\n- Vzdialené volanie procedúr\n- Posielanie správ\n- Skupinová komunikácia, komunikácia v peer-to-peer sieťach\nKoordinácia\n- Synchronizácia reálneho času\n- Logické hodiny a úplné usporiadanie operácií\n- Vzájomného vylúčenie a algoritmy výberu koordinátora\nMenná služba\n- Distribúcia jednoduchých mien\n- Štruktúrovaný menný priestor a atribútové mená\nKonzistencia a replikácia\n- Konzistenčné modely zamerané na dáta\n- Konzistenčné modely zamerané na klienta\n- Manažment replikácie: serverovo riadená replikácia (push), klientom riadená replikácia (pull)\n- Replikačné protokoly: s primárnym procesom, replikovaný zápis, kešovacie protokoly\nOdolnosť voči poruchám\n- Modely porúch a chýb\n- Spoľahlivosť procesov: manažment skupín procesov, konsenzus medzi procesmi (Paxos, Raft), byzantské poruchy (PBFT), konsenzus v blockchainových systémoch\n- Spoľahlivosť komunikácie: sémantika RPC porúch, atomická skupinová komunikácia\n- Distribuované trensakcie\n- Zotavenie z porúch\nBezpečnosť\n- Hrozby, pravidlá a mechanizmy bezpečnosti\n- Autentifikačné protokoly\n- Dôveryhodnosť\n- Autorizačné modely\n- Monitorovanie systémov"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. VAN STEEN, M. - TANENBAUM, A. S.: Distributed Systems. 4th Edition, Prentice Hall, 2023.\n2. BUSCHMANN, F. - HENNEY, K. - SCHMIDT, D. C.: Pattern-Oriented Software Architecture, A Pattern Language for Distributed Computing. Volume 4, John Wiley & Sons Inc., 2007."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1432\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n8%\n19%\n30%\n26%\n12%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Martin Tomášek, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1432,
+    "percent": {
+      "A": 4,
+      "B": 8,
+      "C": 19,
+      "D": 30,
+      "E": 26,
+      "FX": 12
+    }
+  },
+  "teachers": [
+    "doc. Ing. Martin Tomášek, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2608941\nNázov predmetu: Distribuované systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa schopnosti porozumieť princípom distribuovaných systémov a dokáže ich vysvetliť a rozvinúť. Bude schopný poskytnúť prehľad kompromisov, ktoré je potrebné urobiť pri navrhovaní distribuovaného systému a urobiť takéto kompromisy vo svojich vlastných návrhoch. Rozvinie svoje praktické zručnosti pri implementácii distribuovaných algoritmov v softvér na základe porozumenia jeho špecifikácie. Bude schopný vysvetliť modely používané na navrhovanie distribuovaných systémov a dokáže uvažovať o takýchto systémoch. Zvládne navrhnúť efektívne algoritmy pre distribuované výpočtové úlohy.\n\nStručná osnova predmetu:\nÚlohy pre tvorbe distribuovaných systémov\n- Zdieľanie zdrojov, transparentnosť, otvorenosť, spoľahlivosť, bezpečnosť, škálovateľnosť\n- Distribuovaný vs. decentralizovaný systém\n- Klasifikácia distribuovaných systémov\nArchitektúry\n- Architektonické štýly: vrstvový, servisne orientovaný, publish-subscribe\n- Organizácia midlvéru\n- Systémové architektúry: klient-server, peer-to-peer, hybridné\n- Vnútorná architektúra procesov, multivláknvé programy, procesy servera, procesy klienta, virtualizácia procesov, mobilita procesov\nKomunikácia\n- Vzdialené volanie procedúr\n- Posielanie správ\n- Skupinová komunikácia, komunikácia v peer-to-peer sieťach\nKoordinácia\n- Synchronizácia reálneho času\n- Logické hodiny a úplné usporiadanie operácií\n- Vzájomného vylúčenie a algoritmy výberu koordinátora\nMenná služba\n- Distribúcia jednoduchých mien\n- Štruktúrovaný menný priestor a atribútové mená\nKonzistencia a replikácia\n- Konzistenčné modely zamerané na dáta\n- Konzistenčné modely zamerané na klienta\n- Manažment replikácie: serverovo riadená replikácia (push), klientom riadená replikácia (pull)\n- Replikačné protokoly: s primárnym procesom, replikovaný zápis, kešovacie protokoly\nOdolnosť voči poruchám\n- Modely porúch a chýb\n- Spoľahlivosť procesov: manažment skupín procesov, konsenzus medzi procesmi (Paxos, Raft), byzantské poruchy (PBFT), konsenzus v blockchainových systémoch\n- Spoľahlivosť komunikácie: sémantika RPC porúch, atomická skupinová komunikácia\n- Distribuované trensakcie\n- Zotavenie z porúch\nBezpečnosť\n- Hrozby, pravidlá a mechanizmy bezpečnosti\n- Autentifikačné protokoly\n- Dôveryhodnosť\n- Autorizačné modely\n- Monitorovanie systémov\n\nOdporúčaná literatúra:\n1. VAN STEEN, M. - TANENBAUM, A. S.: Distributed Systems. 4th Edition, Prentice Hall, 2023.\n2. BUSCHMANN, F. - HENNEY, K. - SCHMIDT, D. C.: Pattern-Oriented Software Architecture, A Pattern Language for Distributed Computing. Volume 4, John Wiley & Sons Inc., 2007.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1432\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n8%\n19%\n30%\n26%\n12%\n\n\nZabezpečuje:\ndoc. Ing. Martin Tomášek, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

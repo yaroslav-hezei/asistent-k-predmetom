@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66014018",
+  "code": "2609871",
+  "name": "Evolučné algoritmy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66014018",
+  "fetched_at": "2026-11-17T15:16:02Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2609871"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Evolučné algoritmy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra vypracujú študenti individuálne zadanie za 20 bodov, zamerané na riešenie úloh. Ďalších 20 bodov možno získať v rámci zápočtu za zadanie, ktoré spočíva v tímovej práci na projektoch aplikujúcich evolučné algoritmy."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť poznatky z oblasti evolučných a genetických algoritmov (EA) ako bázu pre vývoj inteligentných metód pre oblasť modelovania, rozhodovania a riadenia. Absolvent získa teoretické vedomosti o štruktúre, prvkoch, činnosti a nastaveniach EA a jeho použití pre návrh optimálnych, adaptívnych a samoadaptívnych štruktúr systémov v oblasti rozhodovania, pre evolučné vytváranie opisu a modelovania statických a nestacionárnych systémov, ako aj pre optimalizáciu systémov. Absolvent sa naučí efektívne rozhodovať pri výbere a využívaní technológií EA pre účely riešenia praktických úloh a tvorivo aplikovať získané poznatky pre navrhovanie a rozvíjanie vlastných riešení. Samostatná praktická činnosť u absolventov podporí schopnosť udržiavať kontakt s aktuálnym vývojom EA a vyjadrovať svoje myšlienky prostredníctvom programovacích jazykov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- EA ako prehľadávací algoritmus. Všeobecná schéma algoritmu.\n- Základné moduly algoritmu. Selekčné schémy.\n- Reprezentácia úloh. Funkcia vhodnosti.\n- Genetické operátory, kríženie a mutácia.\n- Udržiavanie genetickej rôznorodosti. Konvergencia.\n- Nastavovanie parametrov algoritmu, adaptácia a samoadaptácia.\n- Schema teorém. Hypotéza stavebných blokov. Klamlivé problémy.\n- Hľadanie viacerých riešení. Multikriteriálne úlohy.\n- Nestacionárne problémy. Problémy s ohraničeniami.\n- Numerická a kombinatorická optimalizácia.\n- Tvorba rozhodovacích modelov.\n- Koevolučné schémy. Hybridizácia evolučných algoritmov"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Mach: Evolučné algoritmy: prvky a princípy, 2009, Elfa, Košice\n- Mach: Evolučné algoritmy: riešenie úloh, 2013, Elfa, Košice\n- Kvasnička, Pospíchal, Tiňo: Evolučné algoritmy, 2000, STU, Bratislava"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 345\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n10%\n10%\n19%\n17%\n19%\n26%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marián Mach, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 5,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 345,
+    "percent": {
+      "A": 10,
+      "B": 10,
+      "C": 19,
+      "D": 17,
+      "E": 19,
+      "FX": 26
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marián Mach, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2609871\nNázov predmetu: Evolučné algoritmy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra vypracujú študenti individuálne zadanie za 20 bodov, zamerané na riešenie úloh. Ďalších 20 bodov možno získať v rámci zápočtu za zadanie, ktoré spočíva v tímovej práci na projektoch aplikujúcich evolučné algoritmy.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť poznatky z oblasti evolučných a genetických algoritmov (EA) ako bázu pre vývoj inteligentných metód pre oblasť modelovania, rozhodovania a riadenia. Absolvent získa teoretické vedomosti o štruktúre, prvkoch, činnosti a nastaveniach EA a jeho použití pre návrh optimálnych, adaptívnych a samoadaptívnych štruktúr systémov v oblasti rozhodovania, pre evolučné vytváranie opisu a modelovania statických a nestacionárnych systémov, ako aj pre optimalizáciu systémov. Absolvent sa naučí efektívne rozhodovať pri výbere a využívaní technológií EA pre účely riešenia praktických úloh a tvorivo aplikovať získané poznatky pre navrhovanie a rozvíjanie vlastných riešení. Samostatná praktická činnosť u absolventov podporí schopnosť udržiavať kontakt s aktuálnym vývojom EA a vyjadrovať svoje myšlienky prostredníctvom programovacích jazykov.\n\nStručná osnova predmetu:\n- EA ako prehľadávací algoritmus. Všeobecná schéma algoritmu.\n- Základné moduly algoritmu. Selekčné schémy.\n- Reprezentácia úloh. Funkcia vhodnosti.\n- Genetické operátory, kríženie a mutácia.\n- Udržiavanie genetickej rôznorodosti. Konvergencia.\n- Nastavovanie parametrov algoritmu, adaptácia a samoadaptácia.\n- Schema teorém. Hypotéza stavebných blokov. Klamlivé problémy.\n- Hľadanie viacerých riešení. Multikriteriálne úlohy.\n- Nestacionárne problémy. Problémy s ohraničeniami.\n- Numerická a kombinatorická optimalizácia.\n- Tvorba rozhodovacích modelov.\n- Koevolučné schémy. Hybridizácia evolučných algoritmov\n\nOdporúčaná literatúra:\n- Mach: Evolučné algoritmy: prvky a princípy, 2009, Elfa, Košice\n- Mach: Evolučné algoritmy: riešenie úloh, 2013, Elfa, Košice\n- Kvasnička, Pospíchal, Tiňo: Evolučné algoritmy, 2000, STU, Bratislava\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 345\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n10%\n10%\n19%\n17%\n19%\n26%\n\n\nZabezpečuje:\ndoc. Ing. Marián Mach, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

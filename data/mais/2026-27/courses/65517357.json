@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65517357",
+  "code": "2617751",
+  "name": "Grafové algoritmy a diskrétna optimalizácia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517357",
+  "fetched_at": "2026-11-17T14:58:57Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2617751"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Grafové algoritmy a diskrétna optimalizácia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/,26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\npísomný test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\npísomná a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť hlbšie poznatky z teórie grafov a teórie algoritmov. Oboznámiť sa s praktickým využitím grafových algoritmov pri riešení úloh z rôznych oblasti."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Dirichletov princíp\n2. Základné pojmy z teórie grafov a digrafov.\n3. Algoritmy a zložitosť algoritmov\n4. Reprezentácia grafov v počítači\n5. Najkratšie cesty a cykly zápornej hodnoty\n6. Prehľadávanie do hĺbky a do šírky\n7. Minimálne kostry.\n8. Metódy časového plánovania\n9. Prioritný strom a halda\n10. Úloha obchodného cestujúceho\n11. Toky v sietiach"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Matoušek J.-Nešetřil J.: Kapitoly z diskrétni matematiky. Nakladatelství Karolinum, Praha 2000.\n2. Bučko M.-Klešč M.: Diskrétna matematika. Elfa sro., Košice 2003.\n3. Chartrand G.-Oellermann O. R.: Apllied and Algorithmic Graph Theory. McGrax-Hill, Inc., New York 1993.\n4. Kvasnička, V. - Pospíchal, J.: Algebra a diskrétna matematika. STU, Bratislava 2008.\n5. Palúch S.: Algoritmická teória grafov. Žilinská univerzite, Žilina 2008\n6. Lacko V.: Kombinatorické algoritmy, 2007\n7. Večerka A.: Grafy a grafové algoritmy, Olomouc 2007"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 108\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n10%\n19%\n26%\n19%\n21%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Helena Myšková, PhD.\nRNDr. Mária Timková, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 108,
+    "percent": {
+      "A": 10,
+      "B": 19,
+      "C": 26,
+      "D": 19,
+      "E": 21,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Helena Myšková, PhD.",
+    "RNDr. Mária Timková, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2617751\nNázov predmetu: Grafové algoritmy a diskrétna optimalizácia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/,26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\npísomný test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\npísomná a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť hlbšie poznatky z teórie grafov a teórie algoritmov. Oboznámiť sa s praktickým využitím grafových algoritmov pri riešení úloh z rôznych oblasti.\n\nStručná osnova predmetu:\n1. Dirichletov princíp\n2. Základné pojmy z teórie grafov a digrafov.\n3. Algoritmy a zložitosť algoritmov\n4. Reprezentácia grafov v počítači\n5. Najkratšie cesty a cykly zápornej hodnoty\n6. Prehľadávanie do hĺbky a do šírky\n7. Minimálne kostry.\n8. Metódy časového plánovania\n9. Prioritný strom a halda\n10. Úloha obchodného cestujúceho\n11. Toky v sietiach\n\nOdporúčaná literatúra:\n1. Matoušek J.-Nešetřil J.: Kapitoly z diskrétni matematiky. Nakladatelství Karolinum, Praha 2000.\n2. Bučko M.-Klešč M.: Diskrétna matematika. Elfa sro., Košice 2003.\n3. Chartrand G.-Oellermann O. R.: Apllied and Algorithmic Graph Theory. McGrax-Hill, Inc., New York 1993.\n4. Kvasnička, V. - Pospíchal, J.: Algebra a diskrétna matematika. STU, Bratislava 2008.\n5. Palúch S.: Algoritmická teória grafov. Žilinská univerzite, Žilina 2008\n6. Lacko V.: Kombinatorické algoritmy, 2007\n7. Večerka A.: Grafy a grafové algoritmy, Olomouc 2007\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 108\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n10%\n19%\n26%\n19%\n21%\n6%\n\n\nZabezpečuje:\ndoc. RNDr. Helena Myšková, PhD.\nRNDr. Mária Timková, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

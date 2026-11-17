@@ -1,0 +1,189 @@
+{
+  "predmet_id": "65952889",
+  "code": "26000636",
+  "name": "Manažment softvérových projektov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952889",
+  "fetched_at": "2026-11-17T15:10:01Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000636"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Manažment softvérových projektov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1. PO\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, projekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné poznatky o manažovaní softvérových projektov, ich zdrojov a procesov. Študent sa použitím simulácií, praktických cvičení a výpočtov dostane na vyššiu úroveň chápania procesov a ich riadenia pri tvorbe softvéru. Absolvent kurzu nadobudne znalosti o plánovaní procesov a vyhodnotení kvality výsledného softvérového produktu. Po úspešnom absolvovaní predmetu by mal študent rozumieť základným problémom manažovania softvérových projektov, ich zdrojov a procesov a mal by vedieť uplatňovať a akceptovať základné princípy pre úspešné riešenie SW projektov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do riadenia projektov, metódy a nástroje riadenia projektov.\n2. Klasické a agilné modely životného cyklu softvérových systémov.\n3. Plánovanie SW projektov, nástroje odhadu využitia zdrojov.\n4. Softvérové tímy a práca v tíme.\n5. Manažment zdrojov.\n6. Manažment návrhu SW systémov, procesy a nástroje.\n7. Manažment implementácie SW systémov, plánovanie verzií a konfigurácií.\n8. Manažment testovania SW.\n9. Manažment dokumentácie a dokumentácia manažmentu.\n10. Retrospektíva - analýza a vylepšenie softvérových procesov manažovanie budúcich projektov, SPI.\n11. Klasický a agilný prístup k manažmentu projektov.\n12. Modely vyspelosti adaptácie SW procesov: CMMI, SPICE, ITIL."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. SZABÓ, Csaba (2025). Manažment softvérových projektov - Software project management. Kurz v LMS Moodle. Online. 2025. Dostupné na internete: https://moodle.fei.tuke.sk/course/view.php?id=59 [citované 2025-02-04]\n2. HAVLICE, Zdeněk (1999). Modelovanie a prototypovanie pri projektovaní informačných systémov. Košice: Elfa, 1999. 85 s. ISBN 80-88786-95-9.\n3. SCHACH, R. Stephen (2010). Object-Oriented and Classical Software Engineering. 8. vydanie. New York: McGraw-Hill, 2010. 688 s. ISBN 978-0-07-108171-9.\n4. SOMMERVILLE, Ian (2015). Software Engineering. 10. vyd. Boston: Pearson Education, 2015. 816 s. ISBN 978-0-13-394303-0.\n5. CADLE, James; YEATES, Donald (2007). Project Management for Information Systems. 5. vydanie. London: Pearson Education, 2007. 464 s. ISBN 978-0-13-206858-1.\n6. ABRAHAMSSON, Pekka a kol. (2002). Agile Software Development Methods: Review and Analysis. VTT Technical Research Centre of Finland, 2002. 107 s. DOI: https://doi.org/10.48550/arXiv.1709.08439.\n7. BIELIKOVÁ, Mária (2000). Softvérové inžinierstvo: Princípy a manažment. Bratislava: STU v Bratislave, 2000. 220 s. ISBN 80-227-1322-8.\n8. SAMUELIS, Ladislav a kol. (2012). Software Engineering Fundamentals: Measuring, Comprehending, and Managing Your Software Projects. Košice: TU v Košiciach, 2012. 208 s. ISBN 978-80-553-0848-7."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 2202\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n34%\n25%\n15%\n4%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Csaba Szabó, PhD.\nIng. Sebastián Hreško\ndoc. Ing. Peter Feciľak, PhD.\nIng. Laura Pituková"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 2202,
+    "percent": {
+      "A": 20,
+      "B": 34,
+      "C": 25,
+      "D": 15,
+      "E": 4,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "doc. Ing. Csaba Szabó, PhD.",
+    "Ing. Sebastián Hreško",
+    "doc. Ing. Peter Feciľak, PhD.",
+    "Ing. Laura Pituková"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000636\nNázov predmetu: Manažment softvérových projektov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1. PO\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, projekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné poznatky o manažovaní softvérových projektov, ich zdrojov a procesov. Študent sa použitím simulácií, praktických cvičení a výpočtov dostane na vyššiu úroveň chápania procesov a ich riadenia pri tvorbe softvéru. Absolvent kurzu nadobudne znalosti o plánovaní procesov a vyhodnotení kvality výsledného softvérového produktu. Po úspešnom absolvovaní predmetu by mal študent rozumieť základným problémom manažovania softvérových projektov, ich zdrojov a procesov a mal by vedieť uplatňovať a akceptovať základné princípy pre úspešné riešenie SW projektov.\n\nStručná osnova predmetu:\n1. Úvod do riadenia projektov, metódy a nástroje riadenia projektov.\n2. Klasické a agilné modely životného cyklu softvérových systémov.\n3. Plánovanie SW projektov, nástroje odhadu využitia zdrojov.\n4. Softvérové tímy a práca v tíme.\n5. Manažment zdrojov.\n6. Manažment návrhu SW systémov, procesy a nástroje.\n7. Manažment implementácie SW systémov, plánovanie verzií a konfigurácií.\n8. Manažment testovania SW.\n9. Manažment dokumentácie a dokumentácia manažmentu.\n10. Retrospektíva - analýza a vylepšenie softvérových procesov manažovanie budúcich projektov, SPI.\n11. Klasický a agilný prístup k manažmentu projektov.\n12. Modely vyspelosti adaptácie SW procesov: CMMI, SPICE, ITIL.\n\nOdporúčaná literatúra:\n1. SZABÓ, Csaba (2025). Manažment softvérových projektov - Software project management. Kurz v LMS Moodle. Online. 2025. Dostupné na internete: https://moodle.fei.tuke.sk/course/view.php?id=59 [citované 2025-02-04]\n2. HAVLICE, Zdeněk (1999). Modelovanie a prototypovanie pri projektovaní informačných systémov. Košice: Elfa, 1999. 85 s. ISBN 80-88786-95-9.\n3. SCHACH, R. Stephen (2010). Object-Oriented and Classical Software Engineering. 8. vydanie. New York: McGraw-Hill, 2010. 688 s. ISBN 978-0-07-108171-9.\n4. SOMMERVILLE, Ian (2015). Software Engineering. 10. vyd. Boston: Pearson Education, 2015. 816 s. ISBN 978-0-13-394303-0.\n5. CADLE, James; YEATES, Donald (2007). Project Management for Information Systems. 5. vydanie. London: Pearson Education, 2007. 464 s. ISBN 978-0-13-206858-1.\n6. ABRAHAMSSON, Pekka a kol. (2002). Agile Software Development Methods: Review and Analysis. VTT Technical Research Centre of Finland, 2002. 107 s. DOI: https://doi.org/10.48550/arXiv.1709.08439.\n7. BIELIKOVÁ, Mária (2000). Softvérové inžinierstvo: Princípy a manažment. Bratislava: STU v Bratislave, 2000. 220 s. ISBN 80-227-1322-8.\n8. SAMUELIS, Ladislav a kol. (2012). Software Engineering Fundamentals: Measuring, Comprehending, and Managing Your Software Projects. Košice: TU v Košiciach, 2012. 208 s. ISBN 978-80-553-0848-7.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 2202\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n34%\n25%\n15%\n4%\n2%\n\n\nZabezpečuje:\ndoc. Ing. Csaba Szabó, PhD.\nIng. Sebastián Hreško\ndoc. Ing. Peter Feciľak, PhD.\nIng. Laura Pituková\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

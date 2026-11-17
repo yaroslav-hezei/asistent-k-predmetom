@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65678698",
+  "code": "26001344",
+  "name": "Aplikácie generatívnej umelej inteligencie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65678698",
+  "fetched_at": "2026-11-17T15:00:53Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001344"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Aplikácie generatívnej umelej inteligencie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Zápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nPodmienkou absolvovania predmetu je odovzdanie priebežných praktických úloh, vypracovanie semestrálneho projektu zameraného na praktické využitie generatívnej AI a úspešné absolvovanie záverečného hodnotenia formou prezentácie projektu alebo testu."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je zameraný na praktické využitie generatívnej umelej inteligencie v praktických úlohách. Študenti sa naučia používať moderné AI nástroje na tvorbu a úpravu textov, spracovanie informácií, prípravu prezentácií a podporu programovania. Dôraz je kladený na správne formulovanie zadania (promptovanie), iteratívne zlepšovanie výstupov a kritické hodnotenie výsledkov. Súčasťou predmetu je aj návrh jednoduchých AI agentov, ktoré dokážu riešiť viac-krokové úlohy, používať externé nástroje (napr. vyhľadávanie v dokumentoch alebo výpočty) a udržiavať kontext riešenia. Predmet zahŕňa aj zásady bezpečného používania AI, ochranu údajov a základné pravidlá práce s výstupmi generovanými AI."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Základný prehľad generatívnej umelej inteligencie a dostupných AI nástrojov\n- Praktické používanie generatívnej AI na bežné úlohy (texty, nápady, štruktúrovanie obsahu)\n- Tvorba zadania (promptu) a iteratívne zlepšovanie výstupov\n- Práca s textom pomocou AI: sumarizácia, prepis, úprava štýlu, preklady\n- Práca s informáciami: tvorba poznámok, prehľadov a návrhov riešení\n- Použitie AI pri príprave dokumentov a prezentácií\n- Použitie AI ako pomôcky pri programovaní (vysvetlenie kódu, návrh riešenia, hľadanie chýb)\n- Tvorba jednoduchých AI agentov na viac-krokové úlohy (plánovanie, postup, kontrola)\n- Základy bezpečného používania AI (ochrana údajov, vhodné a nevhodné použitie)"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "E. Mollick, Co-Intelligence: Living and Working with AI. New York, NY, USA: Portfolio/Penguin, 2024, ISBN: 978-0593716713.\n\nAktuálne prompt guides k state-of-the-art veľkým jazykovým modelom"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Priame konzultácie: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 160 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Peter Sinčák, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Peter Sinčák, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001344\nNázov predmetu: Aplikácie generatívnej umelej inteligencie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (UI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nPodmienkou absolvovania predmetu je odovzdanie priebežných praktických úloh, vypracovanie semestrálneho projektu zameraného na praktické využitie generatívnej AI a úspešné absolvovanie záverečného hodnotenia formou prezentácie projektu alebo testu.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je zameraný na praktické využitie generatívnej umelej inteligencie v praktických úlohách. Študenti sa naučia používať moderné AI nástroje na tvorbu a úpravu textov, spracovanie informácií, prípravu prezentácií a podporu programovania. Dôraz je kladený na správne formulovanie zadania (promptovanie), iteratívne zlepšovanie výstupov a kritické hodnotenie výsledkov. Súčasťou predmetu je aj návrh jednoduchých AI agentov, ktoré dokážu riešiť viac-krokové úlohy, používať externé nástroje (napr. vyhľadávanie v dokumentoch alebo výpočty) a udržiavať kontext riešenia. Predmet zahŕňa aj zásady bezpečného používania AI, ochranu údajov a základné pravidlá práce s výstupmi generovanými AI.\n\nStručná osnova predmetu:\n- Základný prehľad generatívnej umelej inteligencie a dostupných AI nástrojov\n- Praktické používanie generatívnej AI na bežné úlohy (texty, nápady, štruktúrovanie obsahu)\n- Tvorba zadania (promptu) a iteratívne zlepšovanie výstupov\n- Práca s textom pomocou AI: sumarizácia, prepis, úprava štýlu, preklady\n- Práca s informáciami: tvorba poznámok, prehľadov a návrhov riešení\n- Použitie AI pri príprave dokumentov a prezentácií\n- Použitie AI ako pomôcky pri programovaní (vysvetlenie kódu, návrh riešenia, hľadanie chýb)\n- Tvorba jednoduchých AI agentov na viac-krokové úlohy (plánovanie, postup, kontrola)\n- Základy bezpečného používania AI (ochrana údajov, vhodné a nevhodné použitie)\n\nOdporúčaná literatúra:\nE. Mollick, Co-Intelligence: Living and Working with AI. New York, NY, USA: Portfolio/Penguin, 2024, ISBN: 978-0593716713.\n\nAktuálne prompt guides k state-of-the-art veľkým jazykovým modelom\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Priame konzultácie: 13 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 160 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Peter Sinčák, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

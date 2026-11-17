@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65517131",
+  "code": "2601981",
+  "name": "Finančná matematika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517131",
+  "fetched_at": "2026-11-17T14:58:40Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2601981"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Finančná matematika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26/,26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\n3.rok LS\nPočítačové modelovanie (PM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Kontrolné písomky."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nSkúška formou testu."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Vyzbrojiť študujúceho znalosťami o finančnom systéme, jeho nástrojoch a inštitúciách. Zvládnuť metódy a princípy úrokovania, klasifikácie pôžičiek, plánovania splácania úverov, rozhodovania o finančných operáciách pri používaní cenných papierov, obligácií, ako aj vhodnosti investícií. Oboznámiť sa s tvorbou kapitálového rozpočtu a základnými modelmi finančných trhov. Naučiť sa využitiu vhodného časového radu zo získaných ekonomických dát z minulosti s ohľadom na predpovede budúcnosti."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Finančný systém a jeho nástroje.\n2. Úrokovanie a diskontovanie.\n3. Renta, umorovanie a cenné papiere.\n4. Časová štruktúra úrokovej sadzby. Inflácia.\n5. Metódy tvorby kapitálového rozpočtu.\n6. Charakteristiky portfólia a matematické modely finančných trhov.\n7. Ekonomické časové rady, ich analýza a použitie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. SKŘIVÁNKOVÁ, V., SKŘIVÁNEK, J. 2006. Kvantitatívne metódy finančných operácií. IURA Edition, 2006.\n2. CIPRA, T. 1986. Analýza časových řad s aplikacemi v ekonomii. SNTL,1986. 246 s.\n3. CIPRA, T.: Finanční matematika v praxi.\n4. VLACHYNSKÝ, K. a kol.: Finančný manažment.\n5. PIRČ, V., GRINČOVÁ, A. 2008. Finančná matematika. TUKE, 2008. 82 s. ISBN 978-80-8073-986-7"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 492\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n19%\n26%\n21%\n18%\n11%\n5%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Helena Myšková, PhD.\nRNDr. Anna Grinčová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 492,
+    "percent": {
+      "A": 19,
+      "B": 26,
+      "C": 21,
+      "D": 18,
+      "E": 11,
+      "FX": 5
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Helena Myšková, PhD.",
+    "RNDr. Anna Grinčová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2601981\nNázov predmetu: Finančná matematika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26/,26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\n3.rok LS\nPočítačové modelovanie (PM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nKontrolné písomky.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nSkúška formou testu.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nVyzbrojiť študujúceho znalosťami o finančnom systéme, jeho nástrojoch a inštitúciách. Zvládnuť metódy a princípy úrokovania, klasifikácie pôžičiek, plánovania splácania úverov, rozhodovania o finančných operáciách pri používaní cenných papierov, obligácií, ako aj vhodnosti investícií. Oboznámiť sa s tvorbou kapitálového rozpočtu a základnými modelmi finančných trhov. Naučiť sa využitiu vhodného časového radu zo získaných ekonomických dát z minulosti s ohľadom na predpovede budúcnosti.\n\nStručná osnova predmetu:\n1. Finančný systém a jeho nástroje.\n2. Úrokovanie a diskontovanie.\n3. Renta, umorovanie a cenné papiere.\n4. Časová štruktúra úrokovej sadzby. Inflácia.\n5. Metódy tvorby kapitálového rozpočtu.\n6. Charakteristiky portfólia a matematické modely finančných trhov.\n7. Ekonomické časové rady, ich analýza a použitie.\n\nOdporúčaná literatúra:\n1. SKŘIVÁNKOVÁ, V., SKŘIVÁNEK, J. 2006. Kvantitatívne metódy finančných operácií. IURA Edition, 2006.\n2. CIPRA, T. 1986. Analýza časových řad s aplikacemi v ekonomii. SNTL,1986. 246 s.\n3. CIPRA, T.: Finanční matematika v praxi.\n4. VLACHYNSKÝ, K. a kol.: Finančný manažment.\n5. PIRČ, V., GRINČOVÁ, A. 2008. Finančná matematika. TUKE, 2008. 82 s. ISBN 978-80-8073-986-7\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 492\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n19%\n26%\n21%\n18%\n11%\n5%\n\n\nZabezpečuje:\ndoc. RNDr. Helena Myšková, PhD.\nRNDr. Anna Grinčová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

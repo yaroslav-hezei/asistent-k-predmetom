@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65667435",
+  "code": "2619311",
+  "name": "Sémantický a sociálny web",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667435",
+  "fetched_at": "2026-11-17T15:00:36Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2619311"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Sémantický a sociálny web"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra budú študenti pracovať na prezentácii štúdií a dvoch zadaniach, ktoré spočívajú v tímovej práci na projektoch obsahujúcich návrh a implementáciu systémov sémantického a sociálneho webu."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa skúške študenti absolvujú test v Moodle z teórie a praktickú časť, v prípade potreby ústnu skúšku."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent získa znalosti v oblasti web technológií v modelovaní sémantického a sociálneho webu. Taktiež získa teoretické vedomosti týkajúce sa metód navrhovania, vizualizácie, opisu, modelovania, a optimalizácie webových systémov. Naučí sa implementovať moderné informačné technológie a rozvíjať a navrhovať vlastné riešenia problémov, tvorivo aplikovať získané poznatky, efektívne sa rozhodovať pri výbere a použití metód a prostriedkov sociálneho webu a sémantických technológií. Absolvent bude ovládať a využívať vizualizačné produkty a produkty pre inteligentné interakcie. Študent získa taktiež poznatky z oblasti projektovania a programovania sémanticky obohatených systémov pre hospodárske subjekty, ich nástrojov a prístupov. Študent nadobudne najnovšie poznatky za účelom dolovania znalostí, názorov, postojov a emócii v sociálnom webe ako aj za účelom detekcie antisociálneho chovania v online konverzačnom obsahu s orientáciou na hlboké porozumenie sémantiky dát rôzneho charakteru."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "o Aspekty sémantického webu a motivácia jeho vzniku\no Technológie sémantického webu – značkovacie jazyky (rdf)\no Metodológie tvorby ontologických modelov (owl) a ich vizualizácia\no Nemonotónne logiky v sémantickom webe\no Vyhľadávanie verzus výpočet (Wolfram Alpha) a iné aplikácie sémantického a sociálneho webu\no Weboveda a definícia problémov a metód sociálneho webu\no Metódy reprezentácie, vizualizácie a analýzy sociálnych sietí (SNA) a mechanizmy sociálnych sietí\no Analýza sentimentu v platformách sociálneho webu\no Metódy analýzy dát orientované na strojové učenie a hlboké učenie ako aj slovníkový prístup\no Riešenie problémov dolovaním konverzačného obsahu, klasifikácia názorov a emócií\no Identifikácia autoritatívnych a nedôveryhodných webových zdrojov a prispievateľov (typu trol a pod.)\no Rozpoznávanie a detekcia rôznych foriem antisociálneho prispievania v online komunitách (trolizmus, falošné správy, nenávistné a ofenzívne posty, dezinformácie, phishing, a pod.)\no Multimodálna detekcia toxicity v online priestore, kombinovaný finálny klasifikátor"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "o Machová, K., et al..: Deep learning in the detection of disinformation about covid-19. Sensors, vol.22, no.23, 2022, pp. 1-19.\no Machová, K.: Od adaptívneho k sémantickému webu. Equilibria s.r.o, Košice, 2013, ps. 132, ISBN 978-80-553-1489-1.\no Antoniou, G., van Harmelen F.: A Semantic Web Primer, MIT press, USA, 2004, ps. 259, ISBN 0-262-01210-3."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 57 hodín\no Účasť na prednáškach: 26 hodín\no Účasť na cvičeniach: 13 hodín\no Projektová práca priamo na cvičení: 13 hodín\no Priame konzultácie: 5 hodín\nNekontaktná výučba: spolu 98 hodín\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Práca na semestrálnych zadaniach: 40 hodín\n• Príprava prezentácií: 10 hodín\n• Príprava na skúšku: 35 hodín\nCelkový počet hodín: 155 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 853\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n28%\n28%\n20%\n6%\n1%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Kristína Machová, PhD.\nIng. Viliam Balara, PhD.\nIng. Peter Demeter"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 853,
+    "percent": {
+      "A": 15,
+      "B": 28,
+      "C": 28,
+      "D": 20,
+      "E": 6,
+      "FX": 1
+    }
+  },
+  "teachers": [
+    "prof. Ing. Kristína Machová, PhD.",
+    "Ing. Viliam Balara, PhD.",
+    "Ing. Peter Demeter"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2619311\nNázov predmetu: Sémantický a sociálny web\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra budú študenti pracovať na prezentácii štúdií a dvoch zadaniach, ktoré spočívajú v tímovej práci na projektoch obsahujúcich návrh a implementáciu systémov sémantického a sociálneho webu.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa skúške študenti absolvujú test v Moodle z teórie a praktickú časť, v prípade potreby ústnu skúšku.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent získa znalosti v oblasti web technológií v modelovaní sémantického a sociálneho webu. Taktiež získa teoretické vedomosti týkajúce sa metód navrhovania, vizualizácie, opisu, modelovania, a optimalizácie webových systémov. Naučí sa implementovať moderné informačné technológie a rozvíjať a navrhovať vlastné riešenia problémov, tvorivo aplikovať získané poznatky, efektívne sa rozhodovať pri výbere a použití metód a prostriedkov sociálneho webu a sémantických technológií. Absolvent bude ovládať a využívať vizualizačné produkty a produkty pre inteligentné interakcie. Študent získa taktiež poznatky z oblasti projektovania a programovania sémanticky obohatených systémov pre hospodárske subjekty, ich nástrojov a prístupov. Študent nadobudne najnovšie poznatky za účelom dolovania znalostí, názorov, postojov a emócii v sociálnom webe ako aj za účelom detekcie antisociálneho chovania v online konverzačnom obsahu s orientáciou na hlboké porozumenie sémantiky dát rôzneho charakteru.\n\nStručná osnova predmetu:\no Aspekty sémantického webu a motivácia jeho vzniku\no Technológie sémantického webu – značkovacie jazyky (rdf)\no Metodológie tvorby ontologických modelov (owl) a ich vizualizácia\no Nemonotónne logiky v sémantickom webe\no Vyhľadávanie verzus výpočet (Wolfram Alpha) a iné aplikácie sémantického a sociálneho webu\no Weboveda a definícia problémov a metód sociálneho webu\no Metódy reprezentácie, vizualizácie a analýzy sociálnych sietí (SNA) a mechanizmy sociálnych sietí\no Analýza sentimentu v platformách sociálneho webu\no Metódy analýzy dát orientované na strojové učenie a hlboké učenie ako aj slovníkový prístup\no Riešenie problémov dolovaním konverzačného obsahu, klasifikácia názorov a emócií\no Identifikácia autoritatívnych a nedôveryhodných webových zdrojov a prispievateľov (typu trol a pod.)\no Rozpoznávanie a detekcia rôznych foriem antisociálneho prispievania v online komunitách (trolizmus, falošné správy, nenávistné a ofenzívne posty, dezinformácie, phishing, a pod.)\no Multimodálna detekcia toxicity v online priestore, kombinovaný finálny klasifikátor\n\nOdporúčaná literatúra:\no Machová, K., et al..: Deep learning in the detection of disinformation about covid-19. Sensors, vol.22, no.23, 2022, pp. 1-19.\no Machová, K.: Od adaptívneho k sémantickému webu. Equilibria s.r.o, Košice, 2013, ps. 132, ISBN 978-80-553-1489-1.\no Antoniou, G., van Harmelen F.: A Semantic Web Primer, MIT press, USA, 2004, ps. 259, ISBN 0-262-01210-3.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 57 hodín\no Účasť na prednáškach: 26 hodín\no Účasť na cvičeniach: 13 hodín\no Projektová práca priamo na cvičení: 13 hodín\no Priame konzultácie: 5 hodín\nNekontaktná výučba: spolu 98 hodín\n• Príprava na prednášky a cvičenia (štúdium literatúry): 13 hodín\n• Práca na semestrálnych zadaniach: 40 hodín\n• Príprava prezentácií: 10 hodín\n• Príprava na skúšku: 35 hodín\nCelkový počet hodín: 155 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 853\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n28%\n28%\n20%\n6%\n1%\n\n\nZabezpečuje:\nprof. Ing. Kristína Machová, PhD.\nIng. Viliam Balara, PhD.\nIng. Peter Demeter\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

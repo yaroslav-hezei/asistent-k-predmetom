@@ -1,0 +1,166 @@
+{
+  "predmet_id": "52655086",
+  "code": "26001027",
+  "name": "Aplikácie zabezpečenia počítačových sietí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=52655086",
+  "fetched_at": "2026-11-17T14:58:17Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001027"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Aplikácie zabezpečenia počítačových sietí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26001026 - Bezpečnosť počítačových sietí"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežne testy on-line; 7 testov on-line, 40% záverečného hodnotenia"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n10% vykonanie testu\n50% ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi s komunikačnými protokolmi, ktoré sú využívané na jednotlivých vrstvách sieťového modelu ISO/OSI (TCP/IP) s dôrazom na sieťovú bezpečnosť. Naučí sa používať a konfigurovať aktívne sieťové zariadenia (smerovače a prepínače) tak na úrovni sieti LAN ako aj WAN. Oboznámi sa taktiež aj so základmi koncepcie bezpečnosti komunikácie v počítačových sieťach, koncepciou virtuálnych LAN sietí, problematikou bezdrôtových komunikácií, základmi technológie WAN. V rámci predmetu zvládne problematiku, ktorá je obsiahnutá v treťom a štvrtom semestroch Sieťového akademického programu Cisco a nadobudne vedomosti, ktoré mu umožnia vykonanie medzinárodnej certifikačnej skúšky CCNA 200-301.\nŠtudent má pri štúdiu k dispozícií vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom LMS systému (https://netacad.com)."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Protokol STP / EtherChannel\n2. Koncepty LAN bezpečnosti\n3. Koncept bezdrôtovej komunikácie WLAN\n4. Koncept protokolu OSPF v rámci jednej oblasti\n5. Koncept sieťovej bezpečnosti / Problematika IPv4 prístupových zoznamov\n6. Preklad sieťových adries NAT/PAT / WAN a virtuálne privátne siete + IPSec\n7. Kvalita služieb (QoS)\n8. Riadenie, návrh a riešenie problémov v sieťach\n9. Virtualizácia / Automatizácia"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Networking Academy Program (NetAcad, Cisco). LAN Switching and Wireless and Accessing the\nWAN, http://cisco.netacad.net\n2. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004, 300 str.\n3. Craig Hunt: Konfigurace a správa síti. TCP/IP. Computer Press, Praha, 2000, 460 str.\n4. Dilip C. Naik : Standardy a protokoly. Computer Press, Brno, 1999.\n5. Diane Teare: Návrh a realizace síti Cisco, Computer Press, 2003 Brno, 760 str."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 101\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n19%\n25%\n18%\n19%\n13%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Martin Chovanec, PhD.\nIng. Erika Abigail Katonová, PhD.\ndoc. Ing. Miroslav Michalko, PhD.\nIng. Ondrej Kainz, PhD.\ndoc. Ing. Peter Feciľak, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "31.08.2024"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2024-08-31",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 101,
+    "percent": {
+      "A": 19,
+      "B": 25,
+      "C": 18,
+      "D": 19,
+      "E": 13,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "doc. Ing. Martin Chovanec, PhD.",
+    "Ing. Erika Abigail Katonová, PhD.",
+    "doc. Ing. Miroslav Michalko, PhD.",
+    "Ing. Ondrej Kainz, PhD.",
+    "doc. Ing. Peter Feciľak, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001027\nNázov predmetu: Aplikácie zabezpečenia počítačových sietí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety: 26001026 - Bezpečnosť počítačových sietí\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežne testy on-line; 7 testov on-line, 40% záverečného hodnotenia\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\n10% vykonanie testu\n50% ústna skúška\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi s komunikačnými protokolmi, ktoré sú využívané na jednotlivých vrstvách sieťového modelu ISO/OSI (TCP/IP) s dôrazom na sieťovú bezpečnosť. Naučí sa používať a konfigurovať aktívne sieťové zariadenia (smerovače a prepínače) tak na úrovni sieti LAN ako aj WAN. Oboznámi sa taktiež aj so základmi koncepcie bezpečnosti komunikácie v počítačových sieťach, koncepciou virtuálnych LAN sietí, problematikou bezdrôtových komunikácií, základmi technológie WAN. V rámci predmetu zvládne problematiku, ktorá je obsiahnutá v treťom a štvrtom semestroch Sieťového akademického programu Cisco a nadobudne vedomosti, ktoré mu umožnia vykonanie medzinárodnej certifikačnej skúšky CCNA 200-301.\nŠtudent má pri štúdiu k dispozícií vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom LMS systému (https://netacad.com).\n\nStručná osnova predmetu:\n1. Protokol STP / EtherChannel\n2. Koncepty LAN bezpečnosti\n3. Koncept bezdrôtovej komunikácie WLAN\n4. Koncept protokolu OSPF v rámci jednej oblasti\n5. Koncept sieťovej bezpečnosti / Problematika IPv4 prístupových zoznamov\n6. Preklad sieťových adries NAT/PAT / WAN a virtuálne privátne siete + IPSec\n7. Kvalita služieb (QoS)\n8. Riadenie, návrh a riešenie problémov v sieťach\n9. Virtualizácia / Automatizácia\n\nOdporúčaná literatúra:\n1. Networking Academy Program (NetAcad, Cisco). LAN Switching and Wireless and Accessing the\nWAN, http://cisco.netacad.net\n2. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004, 300 str.\n3. Craig Hunt: Konfigurace a správa síti. TCP/IP. Computer Press, Praha, 2000, 460 str.\n4. Dilip C. Naik : Standardy a protokoly. Computer Press, Brno, 1999.\n5. Diane Teare: Návrh a realizace síti Cisco, Computer Press, 2003 Brno, 760 str.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 101\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n19%\n25%\n18%\n19%\n13%\n7%\n\n\nZabezpečuje:\ndoc. Ing. Martin Chovanec, PhD.\nIng. Erika Abigail Katonová, PhD.\ndoc. Ing. Miroslav Michalko, PhD.\nIng. Ondrej Kainz, PhD.\ndoc. Ing. Peter Feciľak, PhD.\n\nDátum poslednej zmeny: 31.08.2024\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

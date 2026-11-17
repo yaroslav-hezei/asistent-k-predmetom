@@ -1,0 +1,183 @@
+{
+  "predmet_id": "65908595",
+  "code": "2608241",
+  "name": "Výkonová elektronika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908595",
+  "fetched_at": "2026-11-17T15:06:46Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2608241"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Výkonová elektronika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 39,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\n2.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú vedomosti z oblasti teórie a využitia moderných výkonových polovodičových súčiastok a spôsobov premeny foriem a parametrov elektrickej energie pomocou výkonových polovodičových meničov. Študenti budú rozumieť činnosti základných a najpoužívanejších výkonových polovodičových meničov. Budú poznať ich využitie v technickej praxi, ovládať ich základné vlastnosti a spôsoby ich riadenia. Študenti sa naučia analyzovať priebehy napätí a prúdov vo výkonových polovodičových meničoch a počítať ich stredné a efektívne hodnoty, čo sú zručnosti potrebné pre dimenzovanie výkonových polovodičových súčiastok. Zároveň sa naučia počítať elektrický výkon pre rôzne priebehy elektrických veličín. V rámci laboratórnych cvičení sa naučia pracovať s modernou meracou technikou, naučia sa zapájať elektrické obvody podľa schémy zapojenia a analyzovať ich vlastnosti. Naučia sa vypracovávať protokoly z laboratórnych meraní, analyzovať namerané výsledky a vyvodzovať závery.\nUčivo predmetu je rozdelené do šiestich kapitol. V úvode sa predmet zaoberá modernými polovodičovými súčiastkami a ich vývojom. Následne sú preberané základné meniče: usmerňovače, striedavé meniče, striedače a jednosmerné meniče. Poslednú kapitolu tvorí aplikácia meničov v praxi - meniče pre jednosmerné a striedavé pohony, meniče pre napájacie zdroje, meniče pre obvoniteľné zdroje energie. V rámci predmetu sú zároveň preberané základné spôsoby riadenia výkonových polovodičových meničov. Študenti tak získajú komplexné znalosti o činnosti meničov používaných v priemysle. Zároveň budú získané vedomosti a zručnosti uplatňovať pri štúdiu ostatných odborných predmetov na katedre a pomôžu im lepšie pochopiť medzipredmetové vzťahy."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Výkonové polovodičové súčiastky (MOSFET, IGBT, tyristor, dióda)\n2. Princípy činnosti základných výkonových polovodičových meničov: usmerňovače, striedavé meniče, striedače a jednosmerné meniče.\n3. Princípy činnosti zložených výkonových polovodičových meničov: meniče frekvencie, napájacie zdroje, nepriame jednosmerné meniče.\n4. Spôsoby riadenia výkonových polovodičových meničov, napájacích zdrojov, meničov frekvencie.\n5. Aplikácie meničov v pohonárskej praxi: meniče pre riadenie jednosmerných a striedavých pohonov\n6. Aplikácie meničov v praxi: napájacie zdroje, meniče pre obnoviteľné zdroje energie, kompenzátory jalového výkonu, aktívne filtre a PFC meniče, spätný vplyv meničov na napájaciu sieť.\n7. Meranie vo výkonovej elektronike: použitie osciloskopu, voltmetrov a ampérmetrov, spôsoby merania elektrických veličín."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Dudrik, J. Výkonová elektronika: podklady na prednášky. 1. vyd. Košice: Technická univerzita v Košiciach, 2019. 98 s. [CD-ROM]. ISBN 978-80-553-3225-3.\n[2] Pástor, M., Dudrik, J., Žatkovič, R. Výkonová elektronika 1: zbierka riešených príkladov a návody na cvičenia. 1. vyd. Košice: Technická univerzita v Košiciach, 2016. 115 s. [CD-ROM]. ISBN 978-80-553-2596-5.\n[3] Dudrik, J. Výkonové polovodičové meniče: riešené príklady. Košice: Elfa, 2006.\n[4] Dudrik, J. Výkonové polovodičové súčiastky. Košice: Mercury, 2001. ISBN 80-89061-26-5.\n[5] Timko, J., Dudrik, J. Elektrické pohony a výkonová elektronika. Košice: Edičné stredisko Technickej univerzity v Košiciach, 1991. ISBN 80-7099-143-7.\n[6] Dudrik, J., Bodor, M., Pástor, M. Soft Switching Full–Bridge PWM DC–DC Converter with Controlled Output Rectifier and Secondary Energy Recovery Turn-Off Snubber. IEEE Transactions on Power Electronics, Vol. 29, no. 8 (2014), p. 4116-4125. ISSN 0885-8993.\n[7] Dudrik, J., Pástor, M., Lacko, M., Žatkovič, R. Zero-voltage and zero-current switching PWM DC–DC converter using controlled secondary rectifier with one active switch and nondissipative turn-off snubber, IEEE Transactions on Power Electronics, vol. 33, no. 7, pp. 6012-6023, July 2018."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 78 hodín (6 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (72 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 726\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n10%\n14%\n18%\n15%\n37%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Pástor, PhD.\nIng. Daniel Gordan, PhD.\nIng. Tadeáš Kmecik, PhD.\nIng. Daniel Marcin, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 726,
+    "percent": {
+      "A": 7,
+      "B": 10,
+      "C": 14,
+      "D": 18,
+      "E": 15,
+      "FX": 37
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Pástor, PhD.",
+    "Ing. Daniel Gordan, PhD.",
+    "Ing. Tadeáš Kmecik, PhD.",
+    "Ing. Daniel Marcin, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 2608241\nNázov predmetu: Výkonová elektronika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,3\nExterná forma štúdia (hodiny za semester): LS 39,39\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\n2.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú vedomosti z oblasti teórie a využitia moderných výkonových polovodičových súčiastok a spôsobov premeny foriem a parametrov elektrickej energie pomocou výkonových polovodičových meničov. Študenti budú rozumieť činnosti základných a najpoužívanejších výkonových polovodičových meničov. Budú poznať ich využitie v technickej praxi, ovládať ich základné vlastnosti a spôsoby ich riadenia. Študenti sa naučia analyzovať priebehy napätí a prúdov vo výkonových polovodičových meničoch a počítať ich stredné a efektívne hodnoty, čo sú zručnosti potrebné pre dimenzovanie výkonových polovodičových súčiastok. Zároveň sa naučia počítať elektrický výkon pre rôzne priebehy elektrických veličín. V rámci laboratórnych cvičení sa naučia pracovať s modernou meracou technikou, naučia sa zapájať elektrické obvody podľa schémy zapojenia a analyzovať ich vlastnosti. Naučia sa vypracovávať protokoly z laboratórnych meraní, analyzovať namerané výsledky a vyvodzovať závery.\nUčivo predmetu je rozdelené do šiestich kapitol. V úvode sa predmet zaoberá modernými polovodičovými súčiastkami a ich vývojom. Následne sú preberané základné meniče: usmerňovače, striedavé meniče, striedače a jednosmerné meniče. Poslednú kapitolu tvorí aplikácia meničov v praxi - meniče pre jednosmerné a striedavé pohony, meniče pre napájacie zdroje, meniče pre obvoniteľné zdroje energie. V rámci predmetu sú zároveň preberané základné spôsoby riadenia výkonových polovodičových meničov. Študenti tak získajú komplexné znalosti o činnosti meničov používaných v priemysle. Zároveň budú získané vedomosti a zručnosti uplatňovať pri štúdiu ostatných odborných predmetov na katedre a pomôžu im lepšie pochopiť medzipredmetové vzťahy.\n\nStručná osnova predmetu:\n1. Výkonové polovodičové súčiastky (MOSFET, IGBT, tyristor, dióda)\n2. Princípy činnosti základných výkonových polovodičových meničov: usmerňovače, striedavé meniče, striedače a jednosmerné meniče.\n3. Princípy činnosti zložených výkonových polovodičových meničov: meniče frekvencie, napájacie zdroje, nepriame jednosmerné meniče.\n4. Spôsoby riadenia výkonových polovodičových meničov, napájacích zdrojov, meničov frekvencie.\n5. Aplikácie meničov v pohonárskej praxi: meniče pre riadenie jednosmerných a striedavých pohonov\n6. Aplikácie meničov v praxi: napájacie zdroje, meniče pre obnoviteľné zdroje energie, kompenzátory jalového výkonu, aktívne filtre a PFC meniče, spätný vplyv meničov na napájaciu sieť.\n7. Meranie vo výkonovej elektronike: použitie osciloskopu, voltmetrov a ampérmetrov, spôsoby merania elektrických veličín.\n\nOdporúčaná literatúra:\n[1] Dudrik, J. Výkonová elektronika: podklady na prednášky. 1. vyd. Košice: Technická univerzita v Košiciach, 2019. 98 s. [CD-ROM]. ISBN 978-80-553-3225-3.\n[2] Pástor, M., Dudrik, J., Žatkovič, R. Výkonová elektronika 1: zbierka riešených príkladov a návody na cvičenia. 1. vyd. Košice: Technická univerzita v Košiciach, 2016. 115 s. [CD-ROM]. ISBN 978-80-553-2596-5.\n[3] Dudrik, J. Výkonové polovodičové meniče: riešené príklady. Košice: Elfa, 2006.\n[4] Dudrik, J. Výkonové polovodičové súčiastky. Košice: Mercury, 2001. ISBN 80-89061-26-5.\n[5] Timko, J., Dudrik, J. Elektrické pohony a výkonová elektronika. Košice: Edičné stredisko Technickej univerzity v Košiciach, 1991. ISBN 80-7099-143-7.\n[6] Dudrik, J., Bodor, M., Pástor, M. Soft Switching Full–Bridge PWM DC–DC Converter with Controlled Output Rectifier and Secondary Energy Recovery Turn-Off Snubber. IEEE Transactions on Power Electronics, Vol. 29, no. 8 (2014), p. 4116-4125. ISSN 0885-8993.\n[7] Dudrik, J., Pástor, M., Lacko, M., Žatkovič, R. Zero-voltage and zero-current switching PWM DC–DC converter using controlled secondary rectifier with one active switch and nondissipative turn-off snubber, IEEE Transactions on Power Electronics, vol. 33, no. 7, pp. 6012-6023, July 2018.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 78 hodín (6 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (72 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 726\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n10%\n14%\n18%\n15%\n37%\n\n\nZabezpečuje:\ndoc. Ing. Marek Pástor, PhD.\nIng. Daniel Gordan, PhD.\nIng. Tadeáš Kmecik, PhD.\nIng. Daniel Marcin, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

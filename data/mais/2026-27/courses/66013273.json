@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013273",
+  "code": "26000779",
+  "name": "Aplikácia logiky v inteligentných systémoch",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013273",
+  "fetched_at": "2026-11-17T15:15:01Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000779"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Aplikácia logiky v inteligentných systémoch"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra absolvujú študenti 2 písomky za 10 bodov, zamerané na riešenie úloh. Ďalších 20 bodov možno získať v rámci zápočtu za vypracovanie dvoch individuálnych zadaní riešiacich úlohy z oblasti reprezentácie znalostí."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť poznatky z oblasti metód reprezentácie znalostí a ich využívania ako bázu pre vývoj systémov na podporu rozhodovania a plánovania. Absolvent získa teoretické vedomosti z oblasti teórie inteligentných rozhodovacích systémov a prostriedkov modelovania znalostí na báze formálnej logiky. Oboznámi sa s inferenčnými odvodzovacími metódami viazanými na opis znalostí a ich modelovanie rôznymi typmi logiky. Absolvent sa naučí prakticky ovládať a využívať funkčné možnosti vybraných prostriedkov. Samostatná praktická činnosť pri riešení úloh zabezpečí u absolventov schopnosť ovládať a využívať vybrané programovacie techniky ako aj praktické ovládanie základov pravidlového a logického programovania."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do reprezentácie znalostí, určité a neurčité znalosti, logické prostriedky reprezentácie znalostí\n- Výrokový počet – syntax a sémantika, interpretácia a vlastnosti\n- Automatické dokazovanie teorém, rezolučný princíp\n- Splniteľnosť, analytické tablo, DPLL algoritmus, SAT solvery\n- Logické modelovanie - reprezentácia rôznych typov ohraničení, redukcia symetrie\n- Splniteľné modulové teórie, diferenčná logika, lineárna aritmetika, neinterpretované funkcie, SMT solvery\n- Predikátový počet – syntax a sémantika, iterpretácia, rezolúcia\n- Pravidlové reprezentácie, štruktúra Reteho siete, typy uzlov, dopredná inferencia, logické programovanie, jazyk Clips\n- Spätná inferencia v pravidlových systémoch, logické programovanie, jazyk Prolog\n- Kvantifikované Booleove formuly, modelovanie hier\n- Modálne logiky, časové logiky, lineárna časová logika"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Návrat a kol.: Umelá inteligencia, STU Bratislava, 2002.\n- Kvasnička: Logika a využitie sémantických tabiel pre inteligentné systémy, Uni sv CaM Trnava, 2018.\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 320\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n10%\n16%\n22%\n18%\n26%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marián Mach, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 320,
+    "percent": {
+      "A": 9,
+      "B": 10,
+      "C": 16,
+      "D": 22,
+      "E": 18,
+      "FX": 26
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marián Mach, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000779\nNázov predmetu: Aplikácia logiky v inteligentných systémoch\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra absolvujú študenti 2 písomky za 10 bodov, zamerané na riešenie úloh. Ďalších 20 bodov možno získať v rámci zápočtu za vypracovanie dvoch individuálnych zadaní riešiacich úlohy z oblasti reprezentácie znalostí.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť poznatky z oblasti metód reprezentácie znalostí a ich využívania ako bázu pre vývoj systémov na podporu rozhodovania a plánovania. Absolvent získa teoretické vedomosti z oblasti teórie inteligentných rozhodovacích systémov a prostriedkov modelovania znalostí na báze formálnej logiky. Oboznámi sa s inferenčnými odvodzovacími metódami viazanými na opis znalostí a ich modelovanie rôznymi typmi logiky. Absolvent sa naučí prakticky ovládať a využívať funkčné možnosti vybraných prostriedkov. Samostatná praktická činnosť pri riešení úloh zabezpečí u absolventov schopnosť ovládať a využívať vybrané programovacie techniky ako aj praktické ovládanie základov pravidlového a logického programovania.\n\nStručná osnova predmetu:\n- Úvod do reprezentácie znalostí, určité a neurčité znalosti, logické prostriedky reprezentácie znalostí\n- Výrokový počet – syntax a sémantika, interpretácia a vlastnosti\n- Automatické dokazovanie teorém, rezolučný princíp\n- Splniteľnosť, analytické tablo, DPLL algoritmus, SAT solvery\n- Logické modelovanie - reprezentácia rôznych typov ohraničení, redukcia symetrie\n- Splniteľné modulové teórie, diferenčná logika, lineárna aritmetika, neinterpretované funkcie, SMT solvery\n- Predikátový počet – syntax a sémantika, iterpretácia, rezolúcia\n- Pravidlové reprezentácie, štruktúra Reteho siete, typy uzlov, dopredná inferencia, logické programovanie, jazyk Clips\n- Spätná inferencia v pravidlových systémoch, logické programovanie, jazyk Prolog\n- Kvantifikované Booleove formuly, modelovanie hier\n- Modálne logiky, časové logiky, lineárna časová logika\n\nOdporúčaná literatúra:\n- Návrat a kol.: Umelá inteligencia, STU Bratislava, 2002.\n- Kvasnička: Logika a využitie sémantických tabiel pre inteligentné systémy, Uni sv CaM Trnava, 2018.\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 320\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n10%\n16%\n22%\n18%\n26%\n\n\nZabezpečuje:\ndoc. Ing. Marián Mach, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

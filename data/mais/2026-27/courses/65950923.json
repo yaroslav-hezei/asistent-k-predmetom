@@ -1,0 +1,265 @@
+{
+  "predmet_id": "65950923",
+  "code": "26000889",
+  "name": "Úvod do fyziky",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950923",
+  "fetched_at": "2026-11-17T15:08:14Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000889"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Úvod do fyziky"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "2"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Stručné zopakovanie teoretických poznatkov a riešenie úloh z rôznych oblastí stredoškolskej fyziky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Zopakovanie teoretických poznatkov a riešenie úloh z nasledujúcich oblastí stredoškolskej fyziky:\nKinematika hmotného bodu\nDynamika hmotného bodu\nMechanické kmity a vlny"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "FRIČOVÁ, O., GIBOVÁ, Z., KECER, J., ONUFER, J., Prípravný kurz zo stredoškolskej fyziky, Košice: TU - 2012. - 178 s. [CD ROM]. - ISBN 978-80-553-1109-8."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 26 hodín, z toho:\n• Účasť na cvičeniach: 26 hodín\nNekontaktná výučba: spolu 24 hodín, z toho:\n• Príprava na cvičenia – 24 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Ing. Jozef Onufer, PhD.\nIng. Simona Vráblová, PhD.\nRNDr. Anton Baran, PhD.\nRNDr. Natália Šmídová, PhD.\ndoc. RNDr. Mária Kladivová, PhD.\ndoc. RNDr. Mária Kovaľaková, PhD.\nIng. Martin Eliáš\nIng. Volodymyr Levchuk"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 2,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Ing. Jozef Onufer, PhD.",
+    "Ing. Simona Vráblová, PhD.",
+    "RNDr. Anton Baran, PhD.",
+    "RNDr. Natália Šmídová, PhD.",
+    "doc. RNDr. Mária Kladivová, PhD.",
+    "doc. RNDr. Mária Kovaľaková, PhD.",
+    "Ing. Martin Eliáš",
+    "Ing. Volodymyr Levchuk"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 26000889\nNázov predmetu: Úvod do fyziky\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2\nExterná forma štúdia (hodiny za semester): ZS 26\nMetóda štúdia: Kombinovaná\n\nPočet kreditov: 2\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nZápočet\nZáverečné hodnotenie (ZH):\nzápočet\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nStručné zopakovanie teoretických poznatkov a riešenie úloh z rôznych oblastí stredoškolskej fyziky.\n\nStručná osnova predmetu:\nZopakovanie teoretických poznatkov a riešenie úloh z nasledujúcich oblastí stredoškolskej fyziky:\nKinematika hmotného bodu\nDynamika hmotného bodu\nMechanické kmity a vlny\n\nOdporúčaná literatúra:\nFRIČOVÁ, O., GIBOVÁ, Z., KECER, J., ONUFER, J., Prípravný kurz zo stredoškolskej fyziky, Košice: TU - 2012. - 178 s. [CD ROM]. - ISBN 978-80-553-1109-8.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Kontaktná výučba: spolu 26 hodín, z toho:\n• Účasť na cvičeniach: 26 hodín\nNekontaktná výučba: spolu 24 hodín, z toho:\n• Príprava na cvičenia – 24 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. RNDr. Ing. Jozef Onufer, PhD.\nIng. Simona Vráblová, PhD.\nRNDr. Anton Baran, PhD.\nRNDr. Natália Šmídová, PhD.\ndoc. RNDr. Mária Kladivová, PhD.\ndoc. RNDr. Mária Kovaľaková, PhD.\nIng. Martin Eliáš\nIng. Volodymyr Levchuk\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

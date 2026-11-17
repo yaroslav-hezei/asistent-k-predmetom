@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65889158",
+  "code": "26001256",
+  "name": "Základy počítačových sietí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65889158",
+  "fetched_at": "2026-11-17T15:04:50Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001256"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy počítačových sietí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu si osvojí základný pojmový aparát z oblasti počítačových sietí. Vie vysvetliť princíp prenosu informácie v počítačových sieťach v kontexte sieťových modelov ISO/OSI a TCP/IP a vie aplikovať princíp smerovania a prepínania dát využívaný v počítačových sieťach. Absolvent je schopný realizovať základné konfigurácie aktívnych sieťových komponentov a prakticky riešiť problémy spojené s návrhom, realizáciou a diagnostikou LAN sietí."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do problematiky počítačových sietí. Úloha protokolov v dátových sieťach, identifikácia komunikačných zariadení a sieťových služieb. Koncepcia sieťového (vrstvového) modelu komunikácie. Predstavenie konceptov rôznych služieb počítačových sietí – cloud riešenia a technológie vzdialeného prístupu. Adresné schémy IPv4 a IPv6, návrh a výpočet podsietí. Príklady sieťových technológií LAN a WAN a využitie pasívnych a aktívnych sieťových prvkov. Práca s IOS, základné a pokročilé funkcie sieťových operačných systémov, soketová komunikácia. Koncepcia smerovania v IP sieťach, statické a dynamické smerovanie. Koncepcia prepínania dát, práca s prepínačmi a pochopenie ich fungovania. Virtuálne LAN siete (VLAN), predchádzanie vzniku L2 slučiek (STP). Vytvárania pokročilých sieťových topológií, interVLAN smerovanie, diagnostika a riešenie problémov. Sieťové služby aplikačnej vrstvy, analýza sieťovej komunikácie. Pokročilá diagnostika sieťových problémov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Sanders, C. Analýza sítí a řešení problémů v programu Wireshark. Brno: Computer Press, 2012. ISBN 978-80-251-3550-5.\n2. Lammle, T. CCNA: Cisco Certified Network Associate. Brno: Computer Press, 2010. ISBN 978-80-251-3508-6.\n3. McFarland, S., Sambi, M., Sharma, N., Hooda, S. IPv6: příručka správce sítí. Brno: Computer Press, 2011. ISBN 978-80-251-2507-0.\n4. Lammle, T. CCNA Certification Study Guide, Volume 1. 8. vyd. New York: Sybex, 2021. ISBN 978-1-119-65433-7.\n5. Olifer, N., Olifer, V. Computer Networks: Principles, Technologies and Protocols for Network Design. 3. vyd. London: Wiley, 2022. ISBN 978-1-118-42408-9.\n6. McQuerry, S., Singh, S. Networking Essentials Companion Guide. 1. vyd. Indianapolis: Cisco Press, 2021. ISBN 978-0-13-745510-2."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Matúš Pleva, PhD.\nIng. Jakub Oravec, PhD.\nIng. Renát Haluška, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Matúš Pleva, PhD.",
+    "Ing. Jakub Oravec, PhD.",
+    "Ing. Renát Haluška, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26001256\nNázov predmetu: Základy počítačových sietí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Dištančná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu si osvojí základný pojmový aparát z oblasti počítačových sietí. Vie vysvetliť princíp prenosu informácie v počítačových sieťach v kontexte sieťových modelov ISO/OSI a TCP/IP a vie aplikovať princíp smerovania a prepínania dát využívaný v počítačových sieťach. Absolvent je schopný realizovať základné konfigurácie aktívnych sieťových komponentov a prakticky riešiť problémy spojené s návrhom, realizáciou a diagnostikou LAN sietí.\n\nStručná osnova predmetu:\nÚvod do problematiky počítačových sietí. Úloha protokolov v dátových sieťach, identifikácia komunikačných zariadení a sieťových služieb. Koncepcia sieťového (vrstvového) modelu komunikácie. Predstavenie konceptov rôznych služieb počítačových sietí – cloud riešenia a technológie vzdialeného prístupu. Adresné schémy IPv4 a IPv6, návrh a výpočet podsietí. Príklady sieťových technológií LAN a WAN a využitie pasívnych a aktívnych sieťových prvkov. Práca s IOS, základné a pokročilé funkcie sieťových operačných systémov, soketová komunikácia. Koncepcia smerovania v IP sieťach, statické a dynamické smerovanie. Koncepcia prepínania dát, práca s prepínačmi a pochopenie ich fungovania. Virtuálne LAN siete (VLAN), predchádzanie vzniku L2 slučiek (STP). Vytvárania pokročilých sieťových topológií, interVLAN smerovanie, diagnostika a riešenie problémov. Sieťové služby aplikačnej vrstvy, analýza sieťovej komunikácie. Pokročilá diagnostika sieťových problémov.\n\nOdporúčaná literatúra:\n1. Sanders, C. Analýza sítí a řešení problémů v programu Wireshark. Brno: Computer Press, 2012. ISBN 978-80-251-3550-5.\n2. Lammle, T. CCNA: Cisco Certified Network Associate. Brno: Computer Press, 2010. ISBN 978-80-251-3508-6.\n3. McFarland, S., Sambi, M., Sharma, N., Hooda, S. IPv6: příručka správce sítí. Brno: Computer Press, 2011. ISBN 978-80-251-2507-0.\n4. Lammle, T. CCNA Certification Study Guide, Volume 1. 8. vyd. New York: Sybex, 2021. ISBN 978-1-119-65433-7.\n5. Olifer, N., Olifer, V. Computer Networks: Principles, Technologies and Protocols for Network Design. 3. vyd. London: Wiley, 2022. ISBN 978-1-118-42408-9.\n6. McQuerry, S., Singh, S. Networking Essentials Companion Guide. 1. vyd. Indianapolis: Cisco Press, 2021. ISBN 978-0-13-745510-2.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Matúš Pleva, PhD.\nIng. Jakub Oravec, PhD.\nIng. Renát Haluška, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

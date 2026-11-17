@@ -1,0 +1,177 @@
+{
+  "predmet_id": "65954034",
+  "code": "2617581",
+  "name": "Údajové štruktúry a algoritmy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65954034",
+  "fetched_at": "2026-11-17T15:11:25Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2617581"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Údajové štruktúry a algoritmy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nprogramové zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\npísomná skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa poznatky o údajových štruktúrach, ich vlastnostiach a ich vzťahu k algoritmom. Oboznámi sa s metódami tvorby efektívnych programov. Nadobudne poznatky z oblasti uchovávania a spracovania údajov. Získané poznatky sa naučí prakticky využívať."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Algoritmus, modely výpočtov, zápis a analýza algoritmov.\n2. Elementárne štruktúry údajov, abstraktné údajové typy (ADT).\n3. Grafy a stromy, ich reprezentácia a základné algoritmy.\n4.-5. Metódy návrhu efektívnych algoritmov.\n6.-7. Triedenie, definícia problému, vybrané algoritmy. Výber k-teho najmenšieho prvku postupnosti.\n8. ADT množina. Hašovanie, hašovacie funkcie, stratégie riešenia kolízií. Vyhľadávanie, binárne vyhľadávacie stromy (BVS).\n9. Optimálne BVS, vyvážené stromy.\n10. Údajové štruktúry a algoritmy pre UF problém. Údajové štruktúry na vyvážených stromoch. Haldy.\n11. Údajové štruktúry a algoritmy pre vonkajšie pamäti, model vonkajších výpočtov, vonkajšie triedenie.\n12. Údajové štruktúry pre vonkajšie pamäti - indexovanie, B-stromy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Šimoňák, S.: Aktuálne študijné materiály, https://moodle.fei.tuke.sk/course/view.php?id=54.\n2. Cormen, T.H., Leiserson, C.E, Rivest, R.L., Stein, C., (2001). Introduction to Algorithms. The MIT Press.\n3. Mareš, M., Valla, T., (2022). Průvodce labyrintem algoritmů – Druhé vydání, CZ.NIC.\n4. Aho, A.V.,Hopcroft, J.E., Ullmann, J.D., (1974). The Design and Analysis of Computer Algorithms. Addison Wesley.\n5. Wirth, N., (1987). Algoritmy a štruktúry údajov. Alfa Bratislava.\n6. Goodrich, M.T., Tamassia, R., (2002). Algorithm Design, John Wiley a Sons, Inc..\n7. Hudák, Š., Šimoňák, S., (2010). Programovacie techniky, 1. vyd., FEI TU Košice.\n8. Mehlhorn, K., Sanders, P., (2008). Algorithms and Data Structures, Springer-Verlag.\n9. Knuth, D.E., (1969). The Art of Computer Programming. vol.1-3. Addison Wesley.\n10. Ehrig, H., Mahr, B., (1990). Fundamentals of Algebraic Specifications. EATCS Monographs.\n11. Weiss, M. A., (1997). Data Structures and Algorithm Analysis in C, Addison-Wesley."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 4749\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n11%\n21%\n27%\n18%\n19%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Slavomír Šimoňák, PhD.\nIng. Martin Štancel, PhD.\ndoc. Ing. William Steingartner, PhD.\nIng. Sylvia Maťašová"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 4749,
+    "percent": {
+      "A": 4,
+      "B": 11,
+      "C": 21,
+      "D": 27,
+      "E": 18,
+      "FX": 19
+    }
+  },
+  "teachers": [
+    "doc. Ing. Slavomír Šimoňák, PhD.",
+    "Ing. Martin Štancel, PhD.",
+    "doc. Ing. William Steingartner, PhD.",
+    "Ing. Sylvia Maťašová"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2617581\nNázov predmetu: Údajové štruktúry a algoritmy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nprogramové zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\npísomná skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa poznatky o údajových štruktúrach, ich vlastnostiach a ich vzťahu k algoritmom. Oboznámi sa s metódami tvorby efektívnych programov. Nadobudne poznatky z oblasti uchovávania a spracovania údajov. Získané poznatky sa naučí prakticky využívať.\n\nStručná osnova predmetu:\n1. Algoritmus, modely výpočtov, zápis a analýza algoritmov.\n2. Elementárne štruktúry údajov, abstraktné údajové typy (ADT).\n3. Grafy a stromy, ich reprezentácia a základné algoritmy.\n4.-5. Metódy návrhu efektívnych algoritmov.\n6.-7. Triedenie, definícia problému, vybrané algoritmy. Výber k-teho najmenšieho prvku postupnosti.\n8. ADT množina. Hašovanie, hašovacie funkcie, stratégie riešenia kolízií. Vyhľadávanie, binárne vyhľadávacie stromy (BVS).\n9. Optimálne BVS, vyvážené stromy.\n10. Údajové štruktúry a algoritmy pre UF problém. Údajové štruktúry na vyvážených stromoch. Haldy.\n11. Údajové štruktúry a algoritmy pre vonkajšie pamäti, model vonkajších výpočtov, vonkajšie triedenie.\n12. Údajové štruktúry pre vonkajšie pamäti - indexovanie, B-stromy.\n\nOdporúčaná literatúra:\n1. Šimoňák, S.: Aktuálne študijné materiály, https://moodle.fei.tuke.sk/course/view.php?id=54.\n2. Cormen, T.H., Leiserson, C.E, Rivest, R.L., Stein, C., (2001). Introduction to Algorithms. The MIT Press.\n3. Mareš, M., Valla, T., (2022). Průvodce labyrintem algoritmů – Druhé vydání, CZ.NIC.\n4. Aho, A.V.,Hopcroft, J.E., Ullmann, J.D., (1974). The Design and Analysis of Computer Algorithms. Addison Wesley.\n5. Wirth, N., (1987). Algoritmy a štruktúry údajov. Alfa Bratislava.\n6. Goodrich, M.T., Tamassia, R., (2002). Algorithm Design, John Wiley a Sons, Inc..\n7. Hudák, Š., Šimoňák, S., (2010). Programovacie techniky, 1. vyd., FEI TU Košice.\n8. Mehlhorn, K., Sanders, P., (2008). Algorithms and Data Structures, Springer-Verlag.\n9. Knuth, D.E., (1969). The Art of Computer Programming. vol.1-3. Addison Wesley.\n10. Ehrig, H., Mahr, B., (1990). Fundamentals of Algebraic Specifications. EATCS Monographs.\n11. Weiss, M. A., (1997). Data Structures and Algorithm Analysis in C, Addison-Wesley.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 4749\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n11%\n21%\n27%\n18%\n19%\n\n\nZabezpečuje:\ndoc. Ing. Slavomír Šimoňák, PhD.\nIng. Martin Štancel, PhD.\ndoc. Ing. William Steingartner, PhD.\nIng. Sylvia Maťašová\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

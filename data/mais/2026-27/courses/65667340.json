@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65667340",
+  "code": "2611001",
+  "name": "Manažment znalostí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667340",
+  "fetched_at": "2026-11-17T15:00:27Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2611001"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Manažment znalostí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra sú 2 písomky za 10 bodov, zamerané na riešenie úloh. Ďalších 20 bodov možno získať za skupinové zadanie, ktoré spočíva v tímovej práci na projektoch obsahujúcich identifikáciu problému, analýzu, návrh a implementáciu systémov na riešenie konkrétnych úloh."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška prebieha formou testu."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní tohto predmetu získajú študenti teoretické vedomosti o procesoch a technológiách súvisiacich s podporou manažmentu znalostí v organizáciách. Dôraz je pritom kladený na prostriedky informačných technológií pre podporu manažmentu znalostí, ale predmet poskytuje aj základné poznatky z manažérskeho pohľadu. Študenti zvládnu aj základné princípy a metódy pre vyhľadávanie informácií ako aj vybrané techniky dolovania znalostí z textov. Študenti získajú aj praktické zručnosti pre spoluprácu v tímoch znalostných pracovníkov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Konceptuálny pohľad na manažment znalostí (MZ). Dáta, informácie, znalosti. Rámcová práca Nonaka a Takeuchi: životný cyklus znalostí. Ďalšie uhly pohľadu na MZ.\n- Základná architektúra systému pre podporu manažmentu znalostí (SMZ) v organizácii a príklady konkrétnych systémov. Znalostné sklady.\n- Faktory ovplyvňujúce MZ. Podmienený pohľad na MZ.\n- Vyhľadávanie informácií (IR) z množiny textových dokumentov. Klasické modely pre IR: Boolovský model, Vektorový model, Pravdepodobnostný model. Vyhodnocovanie systémov pre vyhľadávanie informácií.\n- Vyhľadávanie na webe. Algoritmy PageRank a HITS.\n- Spracovanie prirodzeného jazyka, reprezentácie textu, jazykové úrovne a metódy predspracovania textu.\n- Rôzne modely pre klasifikáciu textu, extrakciu informácií, analýzu sentimentu a ďalšie úlohy dolovania z textov.\n- Základy veľkých jazykových modelov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Paralič, J. Furdík, K. Tutoky, G. Bednár, P. Sarnovský, M. Butka, P. Babič, F.: Dolovanie znalostí z textov. Equilibria, s.r.o., Košice, 2010, 184 s., ISBN 978-80-89284-62-7\n- Manning, C.D., Raghavan, P., Schutze, H.: Introduction to Information Retrieval, Cambridge University Press, 2008. 506 s., ISBN 9780521865715\n- Bureš, V.: Znalostní management a proces jeho zavádění. Grada, 2007, 212 s., ISBN 978-80-247-1978-8\n- Becerra-Fernandez, I., Gonzalez, A., Sabherwal, R.: Knowledge Management - Challenges, Solutions, and Technologies. Pearson, Prentice Hall, 2004, 386 s., ISBN 9780131099319\n- Borghoff, U., Pareschi, R.: Information Technology for Knowledge Management. Springer, 1998, 232 s., ISBN 978-3-540-63764-6\n- Baeza-Yates, R., Ribeiro-Neto, B.: Modern Information Retrieval. Addison Wesley, 1999, ISBN 978-0201398298"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: 58h\n• Účasť na prednáškach: 26 h\n• Účasť na laboratórnych cvičeniach: 13 h\n• Projektová práca na cvičení 13 h\n• Priame konzultácie: 6 h\nNekontaktná výučba: 108\n• Príprava na prednášky a cvičenia (štúdium materiálov): 12h\n• Vypracovanie semestrálneho projektu: 48h\n• Príprava na skúšku: 48h\nCelkový počet: 166h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1137\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n18%\n31%\n28%\n11%\n3%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Bednár, PhD.\nprof. Ing. Ján Paralič, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1137,
+    "percent": {
+      "A": 9,
+      "B": 18,
+      "C": 31,
+      "D": 28,
+      "E": 11,
+      "FX": 3
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Bednár, PhD.",
+    "prof. Ing. Ján Paralič, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2611001\nNázov predmetu: Manažment znalostí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra sú 2 písomky za 10 bodov, zamerané na riešenie úloh. Ďalších 20 bodov možno získať za skupinové zadanie, ktoré spočíva v tímovej práci na projektoch obsahujúcich identifikáciu problému, analýzu, návrh a implementáciu systémov na riešenie konkrétnych úloh.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška prebieha formou testu.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní tohto predmetu získajú študenti teoretické vedomosti o procesoch a technológiách súvisiacich s podporou manažmentu znalostí v organizáciách. Dôraz je pritom kladený na prostriedky informačných technológií pre podporu manažmentu znalostí, ale predmet poskytuje aj základné poznatky z manažérskeho pohľadu. Študenti zvládnu aj základné princípy a metódy pre vyhľadávanie informácií ako aj vybrané techniky dolovania znalostí z textov. Študenti získajú aj praktické zručnosti pre spoluprácu v tímoch znalostných pracovníkov.\n\nStručná osnova predmetu:\n- Konceptuálny pohľad na manažment znalostí (MZ). Dáta, informácie, znalosti. Rámcová práca Nonaka a Takeuchi: životný cyklus znalostí. Ďalšie uhly pohľadu na MZ.\n- Základná architektúra systému pre podporu manažmentu znalostí (SMZ) v organizácii a príklady konkrétnych systémov. Znalostné sklady.\n- Faktory ovplyvňujúce MZ. Podmienený pohľad na MZ.\n- Vyhľadávanie informácií (IR) z množiny textových dokumentov. Klasické modely pre IR: Boolovský model, Vektorový model, Pravdepodobnostný model. Vyhodnocovanie systémov pre vyhľadávanie informácií.\n- Vyhľadávanie na webe. Algoritmy PageRank a HITS.\n- Spracovanie prirodzeného jazyka, reprezentácie textu, jazykové úrovne a metódy predspracovania textu.\n- Rôzne modely pre klasifikáciu textu, extrakciu informácií, analýzu sentimentu a ďalšie úlohy dolovania z textov.\n- Základy veľkých jazykových modelov.\n\nOdporúčaná literatúra:\n- Paralič, J. Furdík, K. Tutoky, G. Bednár, P. Sarnovský, M. Butka, P. Babič, F.: Dolovanie znalostí z textov. Equilibria, s.r.o., Košice, 2010, 184 s., ISBN 978-80-89284-62-7\n- Manning, C.D., Raghavan, P., Schutze, H.: Introduction to Information Retrieval, Cambridge University Press, 2008. 506 s., ISBN 9780521865715\n- Bureš, V.: Znalostní management a proces jeho zavádění. Grada, 2007, 212 s., ISBN 978-80-247-1978-8\n- Becerra-Fernandez, I., Gonzalez, A., Sabherwal, R.: Knowledge Management - Challenges, Solutions, and Technologies. Pearson, Prentice Hall, 2004, 386 s., ISBN 9780131099319\n- Borghoff, U., Pareschi, R.: Information Technology for Knowledge Management. Springer, 1998, 232 s., ISBN 978-3-540-63764-6\n- Baeza-Yates, R., Ribeiro-Neto, B.: Modern Information Retrieval. Addison Wesley, 1999, ISBN 978-0201398298\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: 58h\n• Účasť na prednáškach: 26 h\n• Účasť na laboratórnych cvičeniach: 13 h\n• Projektová práca na cvičení 13 h\n• Priame konzultácie: 6 h\nNekontaktná výučba: 108\n• Príprava na prednášky a cvičenia (štúdium materiálov): 12h\n• Vypracovanie semestrálneho projektu: 48h\n• Príprava na skúšku: 48h\nCelkový počet: 166h\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1137\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n18%\n31%\n28%\n11%\n3%\n\n\nZabezpečuje:\ndoc. Ing. Peter Bednár, PhD.\nprof. Ing. Ján Paralič, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

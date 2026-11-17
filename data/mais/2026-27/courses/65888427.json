@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65888427",
+  "code": "26000878",
+  "name": "Bezpečnosť informačných a komunikačných systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888427",
+  "fetched_at": "2026-11-17T15:04:02Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000878"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Bezpečnosť informačných a komunikačných systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvovaním predmetu študent získa rozšírené poznatky o metódach, algoritmoch, protokoloch a prostriedkoch využívaných na zabezpečenie dôvernosti, integrity, autentizácie, dostupnosti a neodmietnutia pôvodu dát v informačných a komunikačných systémoch. Získa tiež prehľad o základných typoch útokov, vybraných protiopatreniach a testovacích nástrojoch využívaných pri návrhu, implementácií a testovaní v takých oblastiach ako sú počítačová bezpečnosť, sieťová bezpečnosť, a tiež bezpečnosť rôznych typov telekomunikačných a senzorových sietí."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Informačná bezpečnosť, základné pojmy, princípy a súvislosti\n2. Symetrické šifrovanie, utajenie správ, autentizované šifrovanie\n3. Asymetrické šifrovanie, integrita a autentizácia správ\n4. Bezpečnosť operačných systémov, MS Windows, Unix\n5. Bezpečnosť softvéru, kryptografické knižnice\n6. Bezpečnosť v architektúre TCP/IP I\n7. Bezpečnosť v architektúre TCP/IP II\n8. Bezpečnosť bezdrôtových sietí a IoT zariadení\n9. Post-kvantová kryptografia\n10. Útoky s využitím postranných kanálov\n11. E-hlasovanie, Block-chain a kryptomeny\n12. Forézna a penetračná analýza, Trendy vývoja v oblasti informačnej bezpečnosti"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Du, W., Computer & Internet Security A Hands-on Approach, 2019\n2. Levický, D., Aplikovaná kryptografia, od utajenia správ ku kybernetickej bezpečnosti. Elfa, Košice, 2018\n3. Drutarovský, M., Kryptografia pre vstavané procesorové systémy. Technická univerzita v Košiciach, 2017\n4. Stallings, W., Cryptography and Network Security, Pearson, 2017\n5. Stallings, W. – Brown, L., Computer Security Principles and Practices, Pearson, 2018"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 257\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n9%\n27%\n30%\n25%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Miloš Drutarovský, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 257,
+    "percent": {
+      "A": 3,
+      "B": 9,
+      "C": 27,
+      "D": 30,
+      "E": 25,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "prof. Ing. Miloš Drutarovský, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000878\nNázov predmetu: Bezpečnosť informačných a komunikačných systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvovaním predmetu študent získa rozšírené poznatky o metódach, algoritmoch, protokoloch a prostriedkoch využívaných na zabezpečenie dôvernosti, integrity, autentizácie, dostupnosti a neodmietnutia pôvodu dát v informačných a komunikačných systémoch. Získa tiež prehľad o základných typoch útokov, vybraných protiopatreniach a testovacích nástrojoch využívaných pri návrhu, implementácií a testovaní v takých oblastiach ako sú počítačová bezpečnosť, sieťová bezpečnosť, a tiež bezpečnosť rôznych typov telekomunikačných a senzorových sietí.\n\nStručná osnova predmetu:\n1. Informačná bezpečnosť, základné pojmy, princípy a súvislosti\n2. Symetrické šifrovanie, utajenie správ, autentizované šifrovanie\n3. Asymetrické šifrovanie, integrita a autentizácia správ\n4. Bezpečnosť operačných systémov, MS Windows, Unix\n5. Bezpečnosť softvéru, kryptografické knižnice\n6. Bezpečnosť v architektúre TCP/IP I\n7. Bezpečnosť v architektúre TCP/IP II\n8. Bezpečnosť bezdrôtových sietí a IoT zariadení\n9. Post-kvantová kryptografia\n10. Útoky s využitím postranných kanálov\n11. E-hlasovanie, Block-chain a kryptomeny\n12. Forézna a penetračná analýza, Trendy vývoja v oblasti informačnej bezpečnosti\n\n\nOdporúčaná literatúra:\n1. Du, W., Computer & Internet Security A Hands-on Approach, 2019\n2. Levický, D., Aplikovaná kryptografia, od utajenia správ ku kybernetickej bezpečnosti. Elfa, Košice, 2018\n3. Drutarovský, M., Kryptografia pre vstavané procesorové systémy. Technická univerzita v Košiciach, 2017\n4. Stallings, W., Cryptography and Network Security, Pearson, 2017\n5. Stallings, W. – Brown, L., Computer Security Principles and Practices, Pearson, 2018\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 257\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n9%\n27%\n30%\n25%\n6%\n\n\nZabezpečuje:\nprof. Ing. Miloš Drutarovský, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

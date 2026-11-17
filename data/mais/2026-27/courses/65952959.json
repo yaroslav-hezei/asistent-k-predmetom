@@ -1,0 +1,199 @@
+{
+  "predmet_id": "65952959",
+  "code": "2611461",
+  "name": "Modelovanie a simulácia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952959",
+  "fetched_at": "2026-11-17T15:10:05Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2611461"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Modelovanie a simulácia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npriebežné testy"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška s písomnou prípravou"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet Modelovanie a simulácia je zameraný na základy počítačového modelovania a simulácie. Cieľom je získať základné poznatky o typoch systémov a ich modelov a princípoch práce simulačných systémov a nadobudnúť príslušné praktické zručnosti. Aj keď predmet zahŕňa všetky typy systémov a modelov, primárne sa zameriava na systémy s diskrétnymi udalosťami a ich modelovanie a simuláciu prostredníctvom farbených Petriho sietí. Praktické zručnosti účastníci získajú pri realizácii simulačnej štúdie počas semestra. V predmete sú obsiahnuté aj úlohy dátovej analýzy, konkrétne určenie teoretického rozdelenia pravdepodobnosti pre nameraný súbor dát."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Systém, model, simulácia: Definícia systému, okolie a konfigurácia systému. Modelovanie a podobnosť systémov. Typy modelov. Simulácia a s ňou spojené úlohy. Postup riešenia simulačnej úlohy. Výhody a nevýhody simulácie. Simulačný systém, simulačný jazyk a simulačný program.\n2. Prístupy k modelovaniu: Vstupno-výstupné a stavovo-priestorové modelovanie.\n3. Taxonómia systémov a modelov: statické a dynamické systémy. Časovo invariantné a variantné systémy. Lineárne a nelineárne systémy. Systémy so spojitým a diskrétnym stavom. Systémy riadené časom a udalosťami. Systémy so spojitým a diskrétnym časom. Deterministické a stochastické systémy.\n4. Systémy s diskrétnymi udalosťami (DES): Definícia a úrovne modelovania. Systémy hromadnej obsluhy.\n5. Modelovanie DES Petriho sieťami I: Definícia, správanie a vlastnosti nízkoúrovňových Petriho sietí.\n6. Modelovanie DES Petriho sieťami II: Definícia, správanie a vlastnosti vysokoúrovňových Petriho sietí.\n7. Modelovanie DES Petriho sieťami III: Koncept času v Petriho sieťach. Modelovanie vybraných aspektov systémov.\n8. Zber údajov o origináli a ich zavedenie do simulačného modelu. Určenie teoretického rozdelenia pravdepodobnosti pre nameraný súbor dát a overenie štatistickými testami.\n9. Simulácia DES Petriho sieťami: Priebeh a vyhodnotenie simulačného experimentu.\n10. Generovanie náhodných čísel I: pravé náhodné a pseudonáhodné čísla a ich význam v simulácií. Generátory náhodných čísel: kongruenčné, zložené, oneskorené Fibbonachiho, Mercenne Twister.\n11. Generovanie náhodných čísel II: Štatistické testy generátorov. Získavanie náhodných čísel podľa rozdelenia pravdepodobnosti. Metódy Monte Carlo.\n12. Modelovanie a simulácia spojitých systémov: Spojité systémy so sústredenými a rozloženými parametrami. Numerické metódy riešenia spojitých systémov.\n13. Modelovanie a simulácia logických systémov: úrovne modelovania. Typy modelovacích jazykov. Modely signálov, modely oneskorení a modely porúch. Kompilačná a udalosťami riadená simulačná metóda."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Učebnica k predmetu:\nKorečko, Š (2015). MODELING AND SIMULATION, Technická univerzita v Košiciach, Dostupné z (11/2024): https://hron.fei.tuke.sk/~korecko/MAS/lectureNotes/SKorecko_ModelingAndSimulation.pdf\n\nOdporúčaná literatúra:\n1. Banks et al. (1998). Handbook of Simulation: Principles, Methodology, Advances, Applications, and Practice, John Wiley & Sons, New York, NY.\n2. Banks, J.; Carson, J.S.; Nelson, B.L. & Nicol, D.M. (2009). Discrete-Event System Simulation, Fifth Edition, Prentice-Hall.\n3. Cassandras, Ch. G. & Lafortune, S. (2008). Introduction to Discrete Event Systems, second edition, Springer.\n4. Cellier, F.E. & Kofman, E. (2006). Continuous System Simulation, Springer-Verlag, New York, NY.\n5. Jensen, K. (1994). An Introduction to the Theoretical Aspects of Coloured Petri Nets. A Decade of Concurrency, Lecture Notes in Computer Science vol.803. Springer-Verlag 1994, ss. 230-272, Dostupné z (11/2024): https://tidsskrift.dk/daimipb/article/download/6949/5911\n6. Jensen, K. (1997a). Coloured Petri Nets. Basic Concepts, Analysis Methods and Practical Use. Volume 1, Basic Concepts., Springer-Verlag, ISBN 3-540-60943-1\n7. Jensen, K. (1997b). Coloured Petri Nets. Basic Concepts, Analysis Methods and Practical Use. Volume 2, Analysis Methods., Springer-Verlag, ISBN 3-540-58276-2\n8. Jensen, K. (1997c). Coloured Petri Nets. Basic Concepts, Analysis Methods and Practical Use. Volume 3, Practical Use., Springer-Verlag, ISBN 3-540-62867-3\n9. Jensen, K. & Kristensen, L.M. (2009). Coloured Petri Nets: Modelling and Validation of Concurrent Systems. Springer-Verlag Berlin Heidelberg, doi:10.1007/b95112.\n10. Křivý, I. & Kindler, E. (2001). Simulation and Modelling, University of Ostrava (in Czech), Dostupné z (11/2024): https://vendulka.zcu.cz/Download/Free/SkriptaKindlerMS.pdf.\n11. Perros, H. (2009). Computer Simulation Techniques - The Definitive Introduction. Dostupné z (11/2024): https://repository.lib.ncsu.edu/handle/1840.2/2542\n12. de Smith, M. J: Statistical Analysis Handbook: A Comprehensive Handbook of Statistical Concepts, Techniques and Software Tools, The Winchelsea Press, Veľká Británia, ISBN 978-1-912556-08-3, 2015-2024. Dostupné z (11/2024): https://www.statsref.com/HTML/index.html"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 802\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n18%\n19%\n22%\n21%\n12%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Branislav Sobota, PhD.\ndoc. Ing. Štefan Korečko, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 802,
+    "percent": {
+      "A": 18,
+      "B": 19,
+      "C": 22,
+      "D": 21,
+      "E": 12,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. Branislav Sobota, PhD.",
+    "doc. Ing. Štefan Korečko, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2611461\nNázov predmetu: Modelovanie a simulácia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npriebežné testy\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška s písomnou prípravou\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet Modelovanie a simulácia je zameraný na základy počítačového modelovania a simulácie. Cieľom je získať základné poznatky o typoch systémov a ich modelov a princípoch práce simulačných systémov a nadobudnúť príslušné praktické zručnosti. Aj keď predmet zahŕňa všetky typy systémov a modelov, primárne sa zameriava na systémy s diskrétnymi udalosťami a ich modelovanie a simuláciu prostredníctvom farbených Petriho sietí. Praktické zručnosti účastníci získajú pri realizácii simulačnej štúdie počas semestra. V predmete sú obsiahnuté aj úlohy dátovej analýzy, konkrétne určenie teoretického rozdelenia pravdepodobnosti pre nameraný súbor dát.\n\nStručná osnova predmetu:\n1. Systém, model, simulácia: Definícia systému, okolie a konfigurácia systému. Modelovanie a podobnosť systémov. Typy modelov. Simulácia a s ňou spojené úlohy. Postup riešenia simulačnej úlohy. Výhody a nevýhody simulácie. Simulačný systém, simulačný jazyk a simulačný program.\n2. Prístupy k modelovaniu: Vstupno-výstupné a stavovo-priestorové modelovanie.\n3. Taxonómia systémov a modelov: statické a dynamické systémy. Časovo invariantné a variantné systémy. Lineárne a nelineárne systémy. Systémy so spojitým a diskrétnym stavom. Systémy riadené časom a udalosťami. Systémy so spojitým a diskrétnym časom. Deterministické a stochastické systémy.\n4. Systémy s diskrétnymi udalosťami (DES): Definícia a úrovne modelovania. Systémy hromadnej obsluhy.\n5. Modelovanie DES Petriho sieťami I: Definícia, správanie a vlastnosti nízkoúrovňových Petriho sietí.\n6. Modelovanie DES Petriho sieťami II: Definícia, správanie a vlastnosti vysokoúrovňových Petriho sietí.\n7. Modelovanie DES Petriho sieťami III: Koncept času v Petriho sieťach. Modelovanie vybraných aspektov systémov.\n8. Zber údajov o origináli a ich zavedenie do simulačného modelu. Určenie teoretického rozdelenia pravdepodobnosti pre nameraný súbor dát a overenie štatistickými testami.\n9. Simulácia DES Petriho sieťami: Priebeh a vyhodnotenie simulačného experimentu.\n10. Generovanie náhodných čísel I: pravé náhodné a pseudonáhodné čísla a ich význam v simulácií. Generátory náhodných čísel: kongruenčné, zložené, oneskorené Fibbonachiho, Mercenne Twister.\n11. Generovanie náhodných čísel II: Štatistické testy generátorov. Získavanie náhodných čísel podľa rozdelenia pravdepodobnosti. Metódy Monte Carlo.\n12. Modelovanie a simulácia spojitých systémov: Spojité systémy so sústredenými a rozloženými parametrami. Numerické metódy riešenia spojitých systémov.\n13. Modelovanie a simulácia logických systémov: úrovne modelovania. Typy modelovacích jazykov. Modely signálov, modely oneskorení a modely porúch. Kompilačná a udalosťami riadená simulačná metóda.\n\nOdporúčaná literatúra:\nUčebnica k predmetu:\nKorečko, Š (2015). MODELING AND SIMULATION, Technická univerzita v Košiciach, Dostupné z (11/2024): https://hron.fei.tuke.sk/~korecko/MAS/lectureNotes/SKorecko_ModelingAndSimulation.pdf\n\nOdporúčaná literatúra:\n1. Banks et al. (1998). Handbook of Simulation: Principles, Methodology, Advances, Applications, and Practice, John Wiley & Sons, New York, NY.\n2. Banks, J.; Carson, J.S.; Nelson, B.L. & Nicol, D.M. (2009). Discrete-Event System Simulation, Fifth Edition, Prentice-Hall.\n3. Cassandras, Ch. G. & Lafortune, S. (2008). Introduction to Discrete Event Systems, second edition, Springer.\n4. Cellier, F.E. & Kofman, E. (2006). Continuous System Simulation, Springer-Verlag, New York, NY.\n5. Jensen, K. (1994). An Introduction to the Theoretical Aspects of Coloured Petri Nets. A Decade of Concurrency, Lecture Notes in Computer Science vol.803. Springer-Verlag 1994, ss. 230-272, Dostupné z (11/2024): https://tidsskrift.dk/daimipb/article/download/6949/5911\n6. Jensen, K. (1997a). Coloured Petri Nets. Basic Concepts, Analysis Methods and Practical Use. Volume 1, Basic Concepts., Springer-Verlag, ISBN 3-540-60943-1\n7. Jensen, K. (1997b). Coloured Petri Nets. Basic Concepts, Analysis Methods and Practical Use. Volume 2, Analysis Methods., Springer-Verlag, ISBN 3-540-58276-2\n8. Jensen, K. (1997c). Coloured Petri Nets. Basic Concepts, Analysis Methods and Practical Use. Volume 3, Practical Use., Springer-Verlag, ISBN 3-540-62867-3\n9. Jensen, K. & Kristensen, L.M. (2009). Coloured Petri Nets: Modelling and Validation of Concurrent Systems. Springer-Verlag Berlin Heidelberg, doi:10.1007/b95112.\n10. Křivý, I. & Kindler, E. (2001). Simulation and Modelling, University of Ostrava (in Czech), Dostupné z (11/2024): https://vendulka.zcu.cz/Download/Free/SkriptaKindlerMS.pdf.\n11. Perros, H. (2009). Computer Simulation Techniques - The Definitive Introduction. Dostupné z (11/2024): https://repository.lib.ncsu.edu/handle/1840.2/2542\n12. de Smith, M. J: Statistical Analysis Handbook: A Comprehensive Handbook of Statistical Concepts, Techniques and Software Tools, The Winchelsea Press, Veľká Británia, ISBN 978-1-912556-08-3, 2015-2024. Dostupné z (11/2024): https://www.statsref.com/HTML/index.html\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 802\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n18%\n19%\n22%\n21%\n12%\n8%\n\n\nZabezpečuje:\ndoc. Ing. Branislav Sobota, PhD.\ndoc. Ing. Štefan Korečko, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

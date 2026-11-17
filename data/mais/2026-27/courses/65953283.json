@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65953283",
+  "code": "26001254",
+  "name": "Počítačové inžinierstvo v elektronike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953283",
+  "fetched_at": "2026-11-17T15:10:32Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001254"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Počítačové inžinierstvo v elektronike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPozostáva z previerky a projektu"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nPozostáva z písomnej previerky"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu získa študent základné znalosti o princípoch činnosti elektronických obvodov číslicových signálov, ich vlastnostiach, parametroch a aplikačných pravidlách pri návrhu týchto systémov. Získa praktické skúsenosti s analýzou a syntézou jednoduchých kombinačných a sekvenčných číslicových systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Číselné sústavy. Kódovanie dát v binárnej číselnej sústave. Základné logické funkcie a hradlá, logické obvody. Booleova algebra. Spôsoby popisu a minimalizácie logických funkcií. Fyzikálny princíp logických obvodov (DL, DTL, RTL, TTL, CMOS, ECL). Kombinačné logické obvody (dekodéry, multiplexory a demultiplexory, komparátory, obvody pre aritmetické operácie). Sekvenčné logické obvody a klopné obvody (RS, RST, D, JK), registre, čítačky impulzov. Pamäte (SAM, RAM, LIFO, FIFO, ROM, PROM, EPROM, EEPROM)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Levický, D. Číslicová a impulzová technika II. Košice: ES VŠT, 1990.\n2. Antošová, M., Davídek, V. Číslicová technika. České Budějovice: Kopp, 2013. ISBN 978-80-7232-451-2.\n3. Kesl, J. Elektronika III: číslicová technika. Praha: BEN - technická literatura, 2005. ISBN 80-7300-171-4.\n4. Miloš, D. Modern Digital Design and Synthesis: Fundamentals and Applications. Cham: Springer, 2021. ISBN 978-3-030-73235-6.\n5. Brown, S., Vranesic, Z. Fundamentals of Digital Logic with VHDL Design. 4. vyd. New York: McGraw-Hill, 2022. ISBN 978-1-260-91900-2."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Branislav Madoš, PhD.\ndoc. Ing. Peter Lukács, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Branislav Madoš, PhD.",
+    "doc. Ing. Peter Lukács, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001254\nNázov predmetu: Počítačové inžinierstvo v elektronike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Dištančná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPozostáva z previerky a projektu\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nPozostáva z písomnej previerky\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu získa študent základné znalosti o princípoch činnosti elektronických obvodov číslicových signálov, ich vlastnostiach, parametroch a aplikačných pravidlách pri návrhu týchto systémov. Získa praktické skúsenosti s analýzou a syntézou jednoduchých kombinačných a sekvenčných číslicových systémov.\n\nStručná osnova predmetu:\nČíselné sústavy. Kódovanie dát v binárnej číselnej sústave. Základné logické funkcie a hradlá, logické obvody. Booleova algebra. Spôsoby popisu a minimalizácie logických funkcií. Fyzikálny princíp logických obvodov (DL, DTL, RTL, TTL, CMOS, ECL). Kombinačné logické obvody (dekodéry, multiplexory a demultiplexory, komparátory, obvody pre aritmetické operácie). Sekvenčné logické obvody a klopné obvody (RS, RST, D, JK), registre, čítačky impulzov. Pamäte (SAM, RAM, LIFO, FIFO, ROM, PROM, EPROM, EEPROM).\n\nOdporúčaná literatúra:\n1. Levický, D. Číslicová a impulzová technika II. Košice: ES VŠT, 1990.\n2. Antošová, M., Davídek, V. Číslicová technika. České Budějovice: Kopp, 2013. ISBN 978-80-7232-451-2.\n3. Kesl, J. Elektronika III: číslicová technika. Praha: BEN - technická literatura, 2005. ISBN 80-7300-171-4.\n4. Miloš, D. Modern Digital Design and Synthesis: Fundamentals and Applications. Cham: Springer, 2021. ISBN 978-3-030-73235-6.\n5. Brown, S., Vranesic, Z. Fundamentals of Digital Logic with VHDL Design. 4. vyd. New York: McGraw-Hill, 2022. ISBN 978-1-260-91900-2.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Branislav Madoš, PhD.\ndoc. Ing. Peter Lukács, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

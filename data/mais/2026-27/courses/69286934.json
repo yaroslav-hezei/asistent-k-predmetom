@@ -1,0 +1,170 @@
+{
+  "predmet_id": "69286934",
+  "code": "26001432",
+  "name": "Aplikácie počítačových sietí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=69286934",
+  "fetched_at": "2026-11-17T15:17:26Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001432"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Aplikácie počítačových sietí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška z predmetu pre 1. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nPriebežné hodnotenie bude pozostávať zo zadaní, ktoré musí študent vypracovať a odovzdať podľa pokynov cvičiacich. Počas semestra sa budú vykonané aj kontrolne testy."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nNa absolvovanie predmetu bude potrebné získať minimálne 51 % z priebežného hodnotenia a 51% zo štátnej skúšky."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu vie opísať a vysvetliť princíp využívania komunikačných protokolov na jednotlivých vrstvách sieťového modelu ISO-OSI (TCP-IP). Vie používať a konfigurovať aktívne sieťové zariadenia (smerovače a prepínače) tak na úrovni sietí LAN ako aj WAN. Študent získa znalosti ako aplikovať základne koncepcie bezpečnosti komunikácie v počítačových sieťach na báze využitia technológie virtuálnych LAN sietí. Vie aplikovať základne koncepcie bezdrôtových komunikácií a technológie WAN."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Konfigurácia služieb DHCP a DNS pre IPv4 a IPv6 siete.\n2. Hlbší pohľad na fungovanie a pokročilá konfigurácia protokolu Spanning-Tree.\n3. Agregácia sieťovej prevádzky a výhody VLAN Trunk protokolu (VTP).\n4. Konfigurácia a riešenie základných služieb v komplexných sieťach pre IPv4 a IPv6.\n5. Pokročilá konfigurácia dynamických smerovacích protokolov (RIP, OSPF, EIGRP) pre IPv4 a IPv6 siete.\n6. Spracovanie licenčných politík pre sieťový operačný systém Cisco IOS.\n7. Zriadenie a konfigurácia virtuálnych privátnych sietí (VPN) a sieťových tunelov, IPsec.\n8. Koncept WAN sietí, vrstvový model siete a jeho vlastnosti.\n9. Konfigurácia vybraných širokopásmových sieťových technológií.\n10. Implementácia monitorovacích nástrojov syslog, SNMP a NetFlow.\n11. Dizajn sieťových architektúr, dátové centrá a kolaborácia."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Kurikulum programu Cisco: Networking Academy: Scaling Networks, http://www.netacad.com, 2013\n2. Kurikulum programu Cisco: Networking Academy: , Connecting Networks - http://www.netacad.com, 2013\n3. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004\n4. Naren Mehta, Rus Healy, Wendell Odom: Směrování a přepínání sítí, Computer Press, 2009\n5. Chris Sanders: Analýza sítí a řešení problémů v programu Wireshark, Computer Press, 2012\n6. Todd Lammle: CCNA, Computer Press, 2010\n7. Shannon McFarland, Muninder Sambi, Nikhil Sharma, Sanjay Hooda: IPv6, Computer Press, 2011\n8. Pužmanová, R.: Moderní komunikační sítě od A do Z. Computer Press, Praha 2004"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať štátnú skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Gabriel Bugár, PhD.\nIng. Jakub Oravec, PhD.\nIng. Maroš Harahus, PhD.\nprof. Ing. Ľuboš Ovseník, PhD.\ndoc. Ing. Matúš Pleva, PhD.\ndoc. Ing. Ján Papaj, PhD.\nprof. Ing. Miloš Drutarovský, CSc.\nIng. Juraj Kováč\nIng. Renát Haluška, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Štátna skúška z predmetu pre 1. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Gabriel Bugár, PhD.",
+    "Ing. Jakub Oravec, PhD.",
+    "Ing. Maroš Harahus, PhD.",
+    "prof. Ing. Ľuboš Ovseník, PhD.",
+    "doc. Ing. Matúš Pleva, PhD.",
+    "doc. Ing. Ján Papaj, PhD.",
+    "prof. Ing. Miloš Drutarovský, CSc.",
+    "Ing. Juraj Kováč",
+    "Ing. Renát Haluška, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26001432\nNázov predmetu: Aplikácie počítačových sietí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška z predmetu pre 1. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nPriebežné hodnotenie bude pozostávať zo zadaní, ktoré musí študent vypracovať a odovzdať podľa pokynov cvičiacich. Počas semestra sa budú vykonané aj kontrolne testy.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nNa absolvovanie predmetu bude potrebné získať minimálne 51 % z priebežného hodnotenia a 51% zo štátnej skúšky.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu vie opísať a vysvetliť princíp využívania komunikačných protokolov na jednotlivých vrstvách sieťového modelu ISO-OSI (TCP-IP). Vie používať a konfigurovať aktívne sieťové zariadenia (smerovače a prepínače) tak na úrovni sietí LAN ako aj WAN. Študent získa znalosti ako aplikovať základne koncepcie bezpečnosti komunikácie v počítačových sieťach na báze využitia technológie virtuálnych LAN sietí. Vie aplikovať základne koncepcie bezdrôtových komunikácií a technológie WAN.\n\nStručná osnova predmetu:\n1. Konfigurácia služieb DHCP a DNS pre IPv4 a IPv6 siete.\n2. Hlbší pohľad na fungovanie a pokročilá konfigurácia protokolu Spanning-Tree.\n3. Agregácia sieťovej prevádzky a výhody VLAN Trunk protokolu (VTP).\n4. Konfigurácia a riešenie základných služieb v komplexných sieťach pre IPv4 a IPv6.\n5. Pokročilá konfigurácia dynamických smerovacích protokolov (RIP, OSPF, EIGRP) pre IPv4 a IPv6 siete.\n6. Spracovanie licenčných politík pre sieťový operačný systém Cisco IOS.\n7. Zriadenie a konfigurácia virtuálnych privátnych sietí (VPN) a sieťových tunelov, IPsec.\n8. Koncept WAN sietí, vrstvový model siete a jeho vlastnosti.\n9. Konfigurácia vybraných širokopásmových sieťových technológií.\n10. Implementácia monitorovacích nástrojov syslog, SNMP a NetFlow.\n11. Dizajn sieťových architektúr, dátové centrá a kolaborácia.\n\n\nOdporúčaná literatúra:\n1. Kurikulum programu Cisco: Networking Academy: Scaling Networks, http://www.netacad.com, 2013\n2. Kurikulum programu Cisco: Networking Academy: , Connecting Networks - http://www.netacad.com, 2013\n3. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004\n4. Naren Mehta, Rus Healy, Wendell Odom: Směrování a přepínání sítí, Computer Press, 2009\n5. Chris Sanders: Analýza sítí a řešení problémů v programu Wireshark, Computer Press, 2012\n6. Todd Lammle: CCNA, Computer Press, 2010\n7. Shannon McFarland, Muninder Sambi, Nikhil Sharma, Sanjay Hooda: IPv6, Computer Press, 2011\n8. Pužmanová, R.: Moderní komunikační sítě od A do Z. Computer Press, Praha 2004\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať štátnú skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Gabriel Bugár, PhD.\nIng. Jakub Oravec, PhD.\nIng. Maroš Harahus, PhD.\nprof. Ing. Ľuboš Ovseník, PhD.\ndoc. Ing. Matúš Pleva, PhD.\ndoc. Ing. Ján Papaj, PhD.\nprof. Ing. Miloš Drutarovský, CSc.\nIng. Juraj Kováč\nIng. Renát Haluška, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

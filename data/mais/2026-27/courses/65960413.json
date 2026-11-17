@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65960413",
+  "code": "26001321",
+  "name": "Big data v elektroenergetike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960413",
+  "fetched_at": "2026-11-17T15:13:31Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001321"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Big data v elektroenergetike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 2,2,1"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nTest a projektová práca."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nÚstna skúška."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Oboznámiť študentov s nástrojmi strojového učenia v elektroenergetike, pokročilými postupmi programovania v jazyku Python pre aplikáciu na úlohy v elektroenergetike, metódami štatistického vyhodnocovania veľkých dát získaných IoT zariadeniami v elektroenergetike."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Základné definície a pojmy z oblasti umelej inteligencie. Neurónové siete, základné rozdelenie architektúr, typické oblasti ich použitia v elektroenergetike, trénovanie modelov strojového učenia pre predikčné úlohy na trhu s elektrickou energiou. Príprava dát, tenzory, feature engineering.\n- Supervised learning, rekurentné NN pre predikcie v oblasti elektroenergetiky, unsupervised learning, klasterizačné algoritmy.\n- Posilňovacie učenie v elektroenergetike a v automatizovaných elektroinštalačných systémoch.\n- Základy programovania v jazyku Python, premenné, dátové typy, cykly, ostatné konštrukty jazyka, funkcie, moduly, balíčky, triedy, objekty, knižnica NumPy pre vedecké výpočty v elektroenergetike.\n- Knižnice Tensorflow, TensorflowJS a Keras pre implementáciu NN sietí pre úlohy z oblasti elektroenergetiky, predikčných úloh na trhu s elektrickou energiou.\n- Štatistické metódy pre veľké dáta v elektroenergetike – štatistické triedenie, vizualizácia štatistických údajov, charakteristiky polohy, charakteristiky variability, pravdepodobnosť, náhodné premenné, inferenčná štatistika, dvojrozmerná štatistika, kontingencia a korelácia, ostatné štatistické metódy, definícia veľkých dát, zber a záznam veľkých dát z IoT zariadení v elektroenergetike."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Francois Chollet: Deep learning v jazyku Python, Grada, 2023, 2. vyd, ISBN: 9788027151332\n2. Phil Winder: Reinforcement learning, O'Reilly Media, Inc, USA, ISBN: 1098114833\n3. Rudolf Pecinovský: Začínáme programovat v jazyku Python, 2. vydanie, Grada, 2022, ISBN: 978-80-271-3609-4\n4. Gant Laborde: Learning Tensorflow.js, O'Reilly Media, Inc., 2021, ISBN: 9781492090793"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pracovná záťaž:\nPriama výučba – prednášky – 26 hod\ncvičenia - 26 hod\nPráca na projektovom zadaní – 33 hod\nPríprava prezentácie k obhajobe zadania – 10 hod\nPríprava na test priebežného hodnotenia – 20 hod\nPríprava na skúšku – 30 hod\nKonzultácie zadania – 5 hod"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 27\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n30%\n30%\n26%\n4%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Jaroslav Petráš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 27,
+    "percent": {
+      "A": 7,
+      "B": 30,
+      "C": 30,
+      "D": 26,
+      "E": 4,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "doc. Ing. Jaroslav Petráš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 26001321\nNázov predmetu: Big data v elektroenergetike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 2,2,1\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nTest a projektová práca.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nÚstna skúška.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOboznámiť študentov s nástrojmi strojového učenia v elektroenergetike, pokročilými postupmi programovania v jazyku Python pre aplikáciu na úlohy v elektroenergetike, metódami štatistického vyhodnocovania veľkých dát získaných IoT zariadeniami v elektroenergetike.\n\nStručná osnova predmetu:\n- Základné definície a pojmy z oblasti umelej inteligencie. Neurónové siete, základné rozdelenie architektúr, typické oblasti ich použitia v elektroenergetike, trénovanie modelov strojového učenia pre predikčné úlohy na trhu s elektrickou energiou. Príprava dát, tenzory, feature engineering.\n- Supervised learning, rekurentné NN pre predikcie v oblasti elektroenergetiky, unsupervised learning, klasterizačné algoritmy.\n- Posilňovacie učenie v elektroenergetike a v automatizovaných elektroinštalačných systémoch.\n- Základy programovania v jazyku Python, premenné, dátové typy, cykly, ostatné konštrukty jazyka, funkcie, moduly, balíčky, triedy, objekty, knižnica NumPy pre vedecké výpočty v elektroenergetike.\n- Knižnice Tensorflow, TensorflowJS a Keras pre implementáciu NN sietí pre úlohy z oblasti elektroenergetiky, predikčných úloh na trhu s elektrickou energiou.\n- Štatistické metódy pre veľké dáta v elektroenergetike – štatistické triedenie, vizualizácia štatistických údajov, charakteristiky polohy, charakteristiky variability, pravdepodobnosť, náhodné premenné, inferenčná štatistika, dvojrozmerná štatistika, kontingencia a korelácia, ostatné štatistické metódy, definícia veľkých dát, zber a záznam veľkých dát z IoT zariadení v elektroenergetike.\n\n\nOdporúčaná literatúra:\n1. Francois Chollet: Deep learning v jazyku Python, Grada, 2023, 2. vyd, ISBN: 9788027151332\n2. Phil Winder: Reinforcement learning, O'Reilly Media, Inc, USA, ISBN: 1098114833\n3. Rudolf Pecinovský: Začínáme programovat v jazyku Python, 2. vydanie, Grada, 2022, ISBN: 978-80-271-3609-4\n4. Gant Laborde: Learning Tensorflow.js, O'Reilly Media, Inc., 2021, ISBN: 9781492090793\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pracovná záťaž:\nPriama výučba – prednášky – 26 hod\ncvičenia - 26 hod\nPráca na projektovom zadaní – 33 hod\nPríprava prezentácie k obhajobe zadania – 10 hod\nPríprava na test priebežného hodnotenia – 20 hod\nPríprava na skúšku – 30 hod\nKonzultácie zadania – 5 hod\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 27\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n30%\n30%\n26%\n4%\n4%\n\n\nZabezpečuje:\ndoc. Ing. Jaroslav Petráš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

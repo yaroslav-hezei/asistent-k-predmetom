@@ -1,0 +1,166 @@
+{
+  "predmet_id": "65888187",
+  "code": "26000866",
+  "name": "Smerovacie algoritmy v počítačových sieťach",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888187",
+  "fetched_at": "2026-11-17T15:03:43Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000866"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Smerovacie algoritmy v počítačových sieťach"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámiť študentov s rozsiahlou problematikou pokročilého smerovania a využívania smerovačov v rozsiahlych sieťových infraštruktúrach tak lokálneho ako aj globálneho charakteru. Dôraz je kladený na komplexnú analýzu smerovacích algoritmov využívaných v súčasných sieťových infraštruktúrach a na ich aplikáciu v praxi. Nosnou časťou náplne predmetu je problematika, ktorá je obsiahnutá v kurze CCNP Route Sieťového Akademického Programu NetAcad a náplň predmetu zodpovedá požiadavkám vedúcim k získaniu medzinárodného certifikátu v oblasti sieťových technológií \"CCNP\". Predmet využíva vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom e-learningového systému (http://www.netacad.com)"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "a)Tematické okruhy prednášok\n- Kľúčové prvky návrhu hierarchického modelu škálovateľných intersietí\n- Špecifické vlastnosti dynamického smerovacieho protokolu EIGRP\n- Implementácia OSPF protokolu v multi-area koncepte\n- Algoritmy a mechanizmy redistribúcie medzi smerovacími protokolmi\n- Hraničné smerovacie protokoly WAN sietí typu BGP a IGP\n- Bezpečnostné aspekty počítačových sietí – virtuálne privátne siete\n- IP protokol verzie 6 a smerovacie protokoly pre IPv6\nb)Tematické okruhy cvičení\n- Konfigurácia škálovateľné riešenia IP adries tzv. „Class Less a Class Full“ sietí\n- Implementácia technológii nevyhnutných k redistribúcií medzi multifunkčnými smerovacími protokolmi podľa zadanej špecifikácie siete\n- Protokol IPv6 a konfigurácia zariadení podporujúcich tento protokol\n- Overenie funkcii a vlastnosti sietí na báze OSPF, EIGRP\n- Optimalizácia smerovania v rozsiahlych sieťových infraštruktúrach\n- Konfigurácia a testovanie konektivity hraničných smerovačov na báze BGP protokolu\n- Koncepcia bezpečnosti na báze virtuálnych privátnych sietí"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Wendell Odom: CCNA Official Exam Certification Library, 2nd edition, Cisco Press, 2007\nWendell Odom: CCNP Route 642-902 Official Certification Guide, Indianopolis, 2010\nJeff Doyle, Jennifer Caroll: Routing TCP/IP, Cisco Press, 2001\nRobert Wright: IP Routing Primer. Cisco Press., Indianopolis, 1998, 290 pp.\nCraig Hunt: Konfigurace a správa síti. TCP/IP. Computer Press, Praha, 1997, 460 str.\nDilip C. Naik : Internet – standardy a protokoly. Computer Press, Brno, 1999"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 386\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n9%\n13%\n23%\n20%\n28%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Gabriel Bugár, PhD.\nIng. Renát Haluška, PhD.\nIng. Matúš Čavojský\ndoc. Ing. Matúš Pleva, PhD.\nIng. Juraj Kováč"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 386,
+    "percent": {
+      "A": 7,
+      "B": 9,
+      "C": 13,
+      "D": 23,
+      "E": 20,
+      "FX": 28
+    }
+  },
+  "teachers": [
+    "doc. Ing. Gabriel Bugár, PhD.",
+    "Ing. Renát Haluška, PhD.",
+    "Ing. Matúš Čavojský",
+    "doc. Ing. Matúš Pleva, PhD.",
+    "Ing. Juraj Kováč"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000866\nNázov predmetu: Smerovacie algoritmy v počítačových sieťach\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámiť študentov s rozsiahlou problematikou pokročilého smerovania a využívania smerovačov v rozsiahlych sieťových infraštruktúrach tak lokálneho ako aj globálneho charakteru. Dôraz je kladený na komplexnú analýzu smerovacích algoritmov využívaných v súčasných sieťových infraštruktúrach a na ich aplikáciu v praxi. Nosnou časťou náplne predmetu je problematika, ktorá je obsiahnutá v kurze CCNP Route Sieťového Akademického Programu NetAcad a náplň predmetu zodpovedá požiadavkám vedúcim k získaniu medzinárodného certifikátu v oblasti sieťových technológií \"CCNP\". Predmet využíva vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom e-learningového systému (http://www.netacad.com)\n\nStručná osnova predmetu:\na)Tematické okruhy prednášok\n- Kľúčové prvky návrhu hierarchického modelu škálovateľných intersietí\n- Špecifické vlastnosti dynamického smerovacieho protokolu EIGRP\n- Implementácia OSPF protokolu v multi-area koncepte\n- Algoritmy a mechanizmy redistribúcie medzi smerovacími protokolmi\n- Hraničné smerovacie protokoly WAN sietí typu BGP a IGP\n- Bezpečnostné aspekty počítačových sietí – virtuálne privátne siete\n- IP protokol verzie 6 a smerovacie protokoly pre IPv6\nb)Tematické okruhy cvičení\n- Konfigurácia škálovateľné riešenia IP adries tzv. „Class Less a Class Full“ sietí\n- Implementácia technológii nevyhnutných k redistribúcií medzi multifunkčnými smerovacími protokolmi podľa zadanej špecifikácie siete\n- Protokol IPv6 a konfigurácia zariadení podporujúcich tento protokol\n- Overenie funkcii a vlastnosti sietí na báze OSPF, EIGRP\n- Optimalizácia smerovania v rozsiahlych sieťových infraštruktúrach\n- Konfigurácia a testovanie konektivity hraničných smerovačov na báze BGP protokolu\n- Koncepcia bezpečnosti na báze virtuálnych privátnych sietí\n\n\nOdporúčaná literatúra:\nWendell Odom: CCNA Official Exam Certification Library, 2nd edition, Cisco Press, 2007\nWendell Odom: CCNP Route 642-902 Official Certification Guide, Indianopolis, 2010\nJeff Doyle, Jennifer Caroll: Routing TCP/IP, Cisco Press, 2001\nRobert Wright: IP Routing Primer. Cisco Press., Indianopolis, 1998, 290 pp.\nCraig Hunt: Konfigurace a správa síti. TCP/IP. Computer Press, Praha, 1997, 460 str.\nDilip C. Naik : Internet – standardy a protokoly. Computer Press, Brno, 1999\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 386\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n9%\n13%\n23%\n20%\n28%\n\n\nZabezpečuje:\ndoc. Ing. Gabriel Bugár, PhD.\nIng. Renát Haluška, PhD.\nIng. Matúš Čavojský\ndoc. Ing. Matúš Pleva, PhD.\nIng. Juraj Kováč\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

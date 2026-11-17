@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65951085",
+  "code": "26000724",
+  "name": "Vybrané kapitoly z fyziky",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65951085",
+  "fetched_at": "2026-11-17T15:08:20Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000724"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Vybrané kapitoly z fyziky"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPísomný test z riešenia príkladov"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je súčasťou základného kurzu všeobecnej fyziky. Cieľom je poskytnúť základy z mechaniky tekutín, geometrickej optiky, špeciálnej teórie relativity a fyziky atómového jadra."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Mechanika tekutín. Ideálna a reálne tekutiny. Viskozita. Plošné a objemové sily. Základné rovnice hydrostatiky. Barometrická formula. Hydrodynamika. Hmotnostný tok a rovnica kontinuity. Eulerova rovnica. Základy hydrodynamiky ideálnej kvapaliny. Bernoulliho rovnica. Rovnice zvukového poľa v tekutinách. Pohyb viskóznej kvapaliny. Laminárne prúdenie kvapaliny úzkou trubicou. Pohyb tuhého telesa vo viskóznej kvapaline.\nGeometrická optika. Základné zákony geometrickej optiky. Základy optického zobrazovania. Jednoduché optické prístroje.\nŠpeciálna teória relativity. Galileove transformácie. Michelsonov - Morleyov experiment. Postuláty špeciálnej teórie relativity a Lorentzove transformácie. Kontrakcia dĺžok. Dilatácia času. Relativistické skladanie rýchlostí. Hybnosť, hmotnosť, energia.\nAtómové jadro a radioaktivita. Väzbová energia jadra. Jadrové sily. Jadrové reakcie. Jadrová energia. Rozpadový zákon. Teória rádioaktívneho rozpadu. Umelá rádioaktivita."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "KREMPASKÝ J. Fyzika, ALFA Bratislava 1982\nHALLIDAY D., RESNICK R., WALKER J. Fyzika. Vysokoškolská učebnice obecné fyziky. Vysoké učení technické v Brně, Nakladatelství VUTIUM a PROMETHEUS Praha, 2000\nHAJKO J. a kol. Fyzika v príkladoch, ALFA Bratislava 1988\nHLAVÁČOVÁ J., KOVAĽAKOVÁ M. Zbierka úloh z fyziky, 2002"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 65 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 39 hodín\nNekontaktná výučba: spolu 85 hodín, z toho:\n• Príprava na prednášky a cvičenia – 49 hodín\n• Príprava na skúšku – 36 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 26\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n38%\n4%\n12%\n19%\n23%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Ing. Jozef Onufer, PhD.\nprof. RNDr. Ján Ziman, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 26,
+    "percent": {
+      "A": 38,
+      "B": 4,
+      "C": 12,
+      "D": 19,
+      "E": 23,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Ing. Jozef Onufer, PhD.",
+    "prof. RNDr. Ján Ziman, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 26000724\nNázov predmetu: Vybrané kapitoly z fyziky\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): LS 26,39\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPísomný test z riešenia príkladov\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je súčasťou základného kurzu všeobecnej fyziky. Cieľom je poskytnúť základy z mechaniky tekutín, geometrickej optiky, špeciálnej teórie relativity a fyziky atómového jadra.\n\nStručná osnova predmetu:\nMechanika tekutín. Ideálna a reálne tekutiny. Viskozita. Plošné a objemové sily. Základné rovnice hydrostatiky. Barometrická formula. Hydrodynamika. Hmotnostný tok a rovnica kontinuity. Eulerova rovnica. Základy hydrodynamiky ideálnej kvapaliny. Bernoulliho rovnica. Rovnice zvukového poľa v tekutinách. Pohyb viskóznej kvapaliny. Laminárne prúdenie kvapaliny úzkou trubicou. Pohyb tuhého telesa vo viskóznej kvapaline.\nGeometrická optika. Základné zákony geometrickej optiky. Základy optického zobrazovania. Jednoduché optické prístroje.\nŠpeciálna teória relativity. Galileove transformácie. Michelsonov - Morleyov experiment. Postuláty špeciálnej teórie relativity a Lorentzove transformácie. Kontrakcia dĺžok. Dilatácia času. Relativistické skladanie rýchlostí. Hybnosť, hmotnosť, energia.\nAtómové jadro a radioaktivita. Väzbová energia jadra. Jadrové sily. Jadrové reakcie. Jadrová energia. Rozpadový zákon. Teória rádioaktívneho rozpadu. Umelá rádioaktivita.\n\n\nOdporúčaná literatúra:\nKREMPASKÝ J. Fyzika, ALFA Bratislava 1982\nHALLIDAY D., RESNICK R., WALKER J. Fyzika. Vysokoškolská učebnice obecné fyziky. Vysoké učení technické v Brně, Nakladatelství VUTIUM a PROMETHEUS Praha, 2000\nHAJKO J. a kol. Fyzika v príkladoch, ALFA Bratislava 1988\nHLAVÁČOVÁ J., KOVAĽAKOVÁ M. Zbierka úloh z fyziky, 2002\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 65 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 39 hodín\nNekontaktná výučba: spolu 85 hodín, z toho:\n• Príprava na prednášky a cvičenia – 49 hodín\n• Príprava na skúšku – 36 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 26\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n38%\n4%\n12%\n19%\n23%\n4%\n\n\nZabezpečuje:\ndoc. RNDr. Ing. Jozef Onufer, PhD.\nprof. RNDr. Ján Ziman, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

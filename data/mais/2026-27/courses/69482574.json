@@ -1,0 +1,172 @@
+{
+  "predmet_id": "69482574",
+  "code": "26001446",
+  "name": "Regulované pohony",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=69482574",
+  "fetched_at": "2026-11-17T15:17:56Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001446"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Regulované pohony"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26000438 - Elektrické pohony"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška z predmetu pre 1. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nZápočet: v priebehu semestra študent vypracuje dve zadania hodnotené max.14 bodov/zadanie a absolvuje dve písomné previerky hodnotené po 6 bodov /previerku."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa naučí zostavovať blokové schémy elektrických pohonov a jednoduchých technologických celkov, navrhovať regulátory pre základné typy pohonov a overiť ich funkčnosť simuláciou. Oboznámi sa s typmi elektrických pohonov najčastejšie využívanými v priemysle a so zásadami ich usporiadania a riadenia. Predmet tvorí základ pre nadväzujúce predmety z oblasti riadenia servopohonov a robotiky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Kaskádna štruktúra regulácie, kompenzácia veľkých časových konštánt, presnosť v ustálenom stave, metódy návrhu regulátorov.\n2. Rýchlostne regulované jednosmerné pohony s kaskádnou regulačnou štruktúrou: štrukturálne a blokové schémy regulácie, syntéza regulátorov vo frekvenčnej oblasti, simulačná analýza regulácie prúdu (momentu) a rýchlosti, experimentálne nastavenie regulácie.\n3. Skalárne a vektorové riadenie asynchrónneho motora: štrukturálne a blokové schémy regulácie, transformácie súradných systémov, syntéza regulátorov a simulačná analýza vlastností regulácie momentu a rýchlosti, experimentálne nastavenie regulácie.\n4. Štruktúry regulácie rýchlosti bez snímača otáčok.\n5. Priame riadenie momentu asynchrónneho motora.\n6. Vektorové riadenie synchrónneho motora.\n7. Riadenie BLDC motora.\n8. Návrh diskrétnych regulátorov pre elektrické pohony."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] L. Zboray, F. Ďurovský, and J. Tomko, Regulované pohony. Košice: Vienala, 2000. ISBN 80-88-922-13-5.\n[2] W. Leonhard, Control of Electrical Drives. Springer Verlag, Berlin, Heidelberg, New York, Tokyo, 1997.\n[3] P. Brandštetter, Střídavé regulační pohony – moderní způsoby řízení. Ostrava : Vysoká škola báňská - Technická univerzita, Fakulta elektrotechniky a informatiky, 1999, 181 s., ISBN 80-7078-668-X\n[4] I. Neborák, Modelování a simulace elektrických regulovaných pohonů. Ostrava : Vysoká škola báňská - Technická univerzita Ostrava, Fakulta elektrotechniky a informatiky, 2002, 172 s., ISBN 80-248-0083-7\n[5] F. Ďurovský, Priemyselné pohony. Košice: Učebné texty vydané v rámci projektu Elina, 2001. ISBN 80-89061-27-3.\n[6] K. Kyslan and F. Ďurovský, Regulované pohony. Návody na cvičenia. Košice: Technická univerzita v Košiciach, 2016. ISBN: 978-80-553-2627-6.\n[7] Študijné materiály na portáli Moodle.\n[8] Katalógy firiem Siemens, ABB."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. František Ďurovský, PhD.\ndoc. Ing. Karol Kyslan, PhD.\nIng. Lukáš Pancurák, PhD.\nIng. Peter Šofranko\nIng. Matej Hric"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Štátna skúška z predmetu pre 1. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. František Ďurovský, PhD.",
+    "doc. Ing. Karol Kyslan, PhD.",
+    "Ing. Lukáš Pancurák, PhD.",
+    "Ing. Peter Šofranko",
+    "Ing. Matej Hric"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001446\nNázov predmetu: Regulované pohony\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety: 26000438 - Elektrické pohony\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška z predmetu pre 1. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nZápočet: v priebehu semestra študent vypracuje dve zadania hodnotené max.14 bodov/zadanie a absolvuje dve písomné previerky hodnotené po 6 bodov /previerku.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa naučí zostavovať blokové schémy elektrických pohonov a jednoduchých technologických celkov, navrhovať regulátory pre základné typy pohonov a overiť ich funkčnosť simuláciou. Oboznámi sa s typmi elektrických pohonov najčastejšie využívanými v priemysle a so zásadami ich usporiadania a riadenia. Predmet tvorí základ pre nadväzujúce predmety z oblasti riadenia servopohonov a robotiky.\n\nStručná osnova predmetu:\n1. Kaskádna štruktúra regulácie, kompenzácia veľkých časových konštánt, presnosť v ustálenom stave, metódy návrhu regulátorov.\n2. Rýchlostne regulované jednosmerné pohony s kaskádnou regulačnou štruktúrou: štrukturálne a blokové schémy regulácie, syntéza regulátorov vo frekvenčnej oblasti, simulačná analýza regulácie prúdu (momentu) a rýchlosti, experimentálne nastavenie regulácie.\n3. Skalárne a vektorové riadenie asynchrónneho motora: štrukturálne a blokové schémy regulácie, transformácie súradných systémov, syntéza regulátorov a simulačná analýza vlastností regulácie momentu a rýchlosti, experimentálne nastavenie regulácie.\n4. Štruktúry regulácie rýchlosti bez snímača otáčok.\n5. Priame riadenie momentu asynchrónneho motora.\n6. Vektorové riadenie synchrónneho motora.\n7. Riadenie BLDC motora.\n8. Návrh diskrétnych regulátorov pre elektrické pohony.\n\nOdporúčaná literatúra:\n[1] L. Zboray, F. Ďurovský, and J. Tomko, Regulované pohony. Košice: Vienala, 2000. ISBN 80-88-922-13-5.\n[2] W. Leonhard, Control of Electrical Drives. Springer Verlag, Berlin, Heidelberg, New York, Tokyo, 1997.\n[3] P. Brandštetter, Střídavé regulační pohony – moderní způsoby řízení. Ostrava : Vysoká škola báňská - Technická univerzita, Fakulta elektrotechniky a informatiky, 1999, 181 s., ISBN 80-7078-668-X\n[4] I. Neborák, Modelování a simulace elektrických regulovaných pohonů. Ostrava : Vysoká škola báňská - Technická univerzita Ostrava, Fakulta elektrotechniky a informatiky, 2002, 172 s., ISBN 80-248-0083-7\n[5] F. Ďurovský, Priemyselné pohony. Košice: Učebné texty vydané v rámci projektu Elina, 2001. ISBN 80-89061-27-3.\n[6] K. Kyslan and F. Ďurovský, Regulované pohony. Návody na cvičenia. Košice: Technická univerzita v Košiciach, 2016. ISBN: 978-80-553-2627-6.\n[7] Študijné materiály na portáli Moodle.\n[8] Katalógy firiem Siemens, ABB.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. František Ďurovský, PhD.\ndoc. Ing. Karol Kyslan, PhD.\nIng. Lukáš Pancurák, PhD.\nIng. Peter Šofranko\nIng. Matej Hric\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,174 @@
+{
+  "predmet_id": "65908208",
+  "code": "2608731",
+  "name": "Počítačové aplikácie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908208",
+  "fetched_at": "2026-11-17T15:06:14Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2608731"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Počítačové aplikácie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\n2.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Zápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtudent na klasifikovaný zápočet absolvuje test v systéme Moodle za 100 bodov, pričom na zápočet musí získať aspoň 51 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je zameraný na výučbu numerických a grafických metód a techník programu MATLAB pre rôzne vedné a aplikačné oblasti. Študenti získajú prehľad základných metód a postupov vhodných pre oblasť matematiky, fyziky, teórie automatického riadenia až po využitie v modelovaní a riadení priemyselných procesov. Formou cvičení si študenti osvoja numerické, grafické a vizualizačné postupy a spôsob tvorby vlastných programových modulov a funkcií."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. MATLAB ako interaktívny systém pre vedecko-technické výpočty, základné komponenty Matlabu, režimy práce\n2. Operácie s maticami, riešenie sústav lineárnych a nelineárnych rovníc\n3. Práca s reťazcami znakov, práca s polynómami a funkciami, import dát z Excelu\n4. Zobrazovanie dát pomocou 2D, 3D a špeciálnych typov grafov, tlač, uloženie a export grafu\n5. Tvorba skriptov a m-funkcií (riadiace príkazy)\n6. Tvorba skriptov a m-funkcií (príkazy pre vstup/výstup)\n7. Prepájanie aplikácií pomocou DDE rozhrania\n8. Simulink - nástroj pre modelovanie dynamických systémov, prepojenie Matlab – Simulink"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] F. Dušek: MATLAB a Simulink - úvod do používání. Pardubice: Univerzita Pardubice, 2013, 146 s. ISBN: 8071942731.\n[2] T. Sigmnont: MATLAB Primer [online]. Florida: University of Florida, 2013, 39 p. Available: .\n[3] MATLAB tutorial [online]. 3rd ed. Brown University, School of Engineering, 2011, 49 p. Available: .\n[4] D. Perduková: Prednášky z predmetu Počítačové aplikácie [online]. Košice, 2024. Available: .\n[5] K. Zaplatílek: MATLAB: Začíname se systémy. Brno: Tribun EU, 2011, 217 s. ISBN: 9788073992996."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 39 hodín (3 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (111 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 858\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n14%\n18%\n16%\n13%\n26%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Daniela Perduková, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 858,
+    "percent": {
+      "A": 13,
+      "B": 14,
+      "C": 18,
+      "D": 16,
+      "E": 13,
+      "FX": 26
+    }
+  },
+  "teachers": [
+    "prof. Ing. Daniela Perduková, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 2608731\nNázov predmetu: Počítačové aplikácie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3\nExterná forma štúdia (hodiny za semester): LS 39\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\n2.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtudent na klasifikovaný zápočet absolvuje test v systéme Moodle za 100 bodov, pričom na zápočet musí získať aspoň 51 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je zameraný na výučbu numerických a grafických metód a techník programu MATLAB pre rôzne vedné a aplikačné oblasti. Študenti získajú prehľad základných metód a postupov vhodných pre oblasť matematiky, fyziky, teórie automatického riadenia až po využitie v modelovaní a riadení priemyselných procesov. Formou cvičení si študenti osvoja numerické, grafické a vizualizačné postupy a spôsob tvorby vlastných programových modulov a funkcií.\n\nStručná osnova predmetu:\n1. MATLAB ako interaktívny systém pre vedecko-technické výpočty, základné komponenty Matlabu, režimy práce\n2. Operácie s maticami, riešenie sústav lineárnych a nelineárnych rovníc\n3. Práca s reťazcami znakov, práca s polynómami a funkciami, import dát z Excelu\n4. Zobrazovanie dát pomocou 2D, 3D a špeciálnych typov grafov, tlač, uloženie a export grafu\n5. Tvorba skriptov a m-funkcií (riadiace príkazy)\n6. Tvorba skriptov a m-funkcií (príkazy pre vstup/výstup)\n7. Prepájanie aplikácií pomocou DDE rozhrania\n8. Simulink - nástroj pre modelovanie dynamických systémov, prepojenie Matlab – Simulink\n\nOdporúčaná literatúra:\n[1] F. Dušek: MATLAB a Simulink - úvod do používání. Pardubice: Univerzita Pardubice, 2013, 146 s. ISBN: 8071942731.\n[2] T. Sigmnont: MATLAB Primer [online]. Florida: University of Florida, 2013, 39 p. Available: .\n[3] MATLAB tutorial [online]. 3rd ed. Brown University, School of Engineering, 2011, 49 p. Available: .\n[4] D. Perduková: Prednášky z predmetu Počítačové aplikácie [online]. Košice, 2024. Available: .\n[5] K. Zaplatílek: MATLAB: Začíname se systémy. Brno: Tribun EU, 2011, 217 s. ISBN: 9788073992996.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 39 hodín (3 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (111 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 858\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n14%\n18%\n16%\n13%\n26%\n\n\nZabezpečuje:\nprof. Ing. Daniela Perduková, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

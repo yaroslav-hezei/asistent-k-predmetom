@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65836276",
+  "code": "2620911",
+  "name": "Elektromagnetická kompatibilita I",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65836276",
+  "fetched_at": "2026-11-17T15:02:52Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2620911"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektromagnetická kompatibilita I"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nsamostatná práca"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "V rámci predmetu získajú študenti základné informácie o legislatíve týkajúcej sa EMC a praktické poznatky týkajúce sa konštrukcie nových elektrotechnických výrobkov alebo merania EMC parametrov už realizovaných elektrotechnických zariadení."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Značenie a triedenie noriem EMC.\nNormy, predpisy a odporúčania v odbore EMC.\nMeranie rušivých emisií a testovanie odolnosti na rušenie\nZemnenie a tienenie.\nOdrušovacie prostriedky.\nOchrana zariadení pred prepätím.\nEMC výkonových systémov.\nEMC slaboprúdových zariadení."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Kováč, D.: Vybrané kapitoly z elektrotechniky, Košice : Technická univerzita v Košiciach, 2021, 82 strán, ISBN 978-80-553-3815-6.\nKováč, D. - Kováčová, I. - Kaňuch, J.: EMC z hlediska teorie a praxe, Praha: BEN-technická literatura, 2006, 208 strán, ISBN 80-7300-202-7.\nKováčová, I. - Kováč, D. - Vince, T.: Elektromagnetická kompatibilita, Košice : TU, 2009, 137 strán, ISBN 978-80-553-0150-1.\nKováč, D. - Kováčová, I. - Molnár, J.: Elektromagnetická kompatibilita - meranie, Košice : TU, 2009, 71 strán, ISBN 978-80-553-0151-8.\nNormy: FCC/OETMP-4 (1987), ANSI C63, GOST 28689-90, CISPR 16\nBronaugh, E. L. - Lambdin, W. S.: Electromagnetic Interference Test Methodology and Procedures, vol. 6, Interference Control Technologies, Inc., Gainsville, Virginia\nChatterton, P. A. - Houlden, M. A.: EMC, Electromagnetic Theory to Practical Design, J. Wiley Sons, Singapore 1992\nProkop, J. - Vokurka, J.: Šíření elektromagnetických vln a antény, SNTL, Praha 1982\nMačát, J. - Vaculíková, P. - Záviška, O.: Zpětný vliv výkonových polovodičových měničů na napájecí síť., SNTL, Praha 1978\nRous, Z.: Ochrana sdělovacích vedení a zařízení proti přepětí, NADAS, 1981\nKohling, A.: CE Conformity Marking, Siemens, 1995\nCartysse, J.: Design principles for effective EMC, AGARD lecture-series 177EMI and EMC, NATO\nGalajda, P. - Lukáč, R.: Elektronické prvky, Marcury-Smékal, 2001\nOetter, J: Výkonová elektronika pre elektrické pohony, Alfa SNTL, Bratislava 1988\nE-learningové texty: Electromagnetic Compatibility"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 60\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n48%\n30%\n12%\n3%\n5%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Dobroslav Kováč, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 60,
+    "percent": {
+      "A": 48,
+      "B": 30,
+      "C": 12,
+      "D": 3,
+      "E": 5,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "prof. Ing. Dobroslav Kováč, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 2620911\nNázov predmetu: Elektromagnetická kompatibilita I\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nsamostatná práca\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nV rámci predmetu získajú študenti základné informácie o legislatíve týkajúcej sa EMC a praktické poznatky týkajúce sa konštrukcie nových elektrotechnických výrobkov alebo merania EMC parametrov už realizovaných elektrotechnických zariadení.\n\nStručná osnova predmetu:\nZnačenie a triedenie noriem EMC.\nNormy, predpisy a odporúčania v odbore EMC.\nMeranie rušivých emisií a testovanie odolnosti na rušenie\nZemnenie a tienenie.\nOdrušovacie prostriedky.\nOchrana zariadení pred prepätím.\nEMC výkonových systémov.\nEMC slaboprúdových zariadení.\n\nOdporúčaná literatúra:\nKováč, D.: Vybrané kapitoly z elektrotechniky, Košice : Technická univerzita v Košiciach, 2021, 82 strán, ISBN 978-80-553-3815-6.\nKováč, D. - Kováčová, I. - Kaňuch, J.: EMC z hlediska teorie a praxe, Praha: BEN-technická literatura, 2006, 208 strán, ISBN 80-7300-202-7.\nKováčová, I. - Kováč, D. - Vince, T.: Elektromagnetická kompatibilita, Košice : TU, 2009, 137 strán, ISBN 978-80-553-0150-1.\nKováč, D. - Kováčová, I. - Molnár, J.: Elektromagnetická kompatibilita - meranie, Košice : TU, 2009, 71 strán, ISBN 978-80-553-0151-8.\nNormy: FCC/OETMP-4 (1987), ANSI C63, GOST 28689-90, CISPR 16\nBronaugh, E. L. - Lambdin, W. S.: Electromagnetic Interference Test Methodology and Procedures, vol. 6, Interference Control Technologies, Inc., Gainsville, Virginia\nChatterton, P. A. - Houlden, M. A.: EMC, Electromagnetic Theory to Practical Design, J. Wiley Sons, Singapore 1992\nProkop, J. - Vokurka, J.: Šíření elektromagnetických vln a antény, SNTL, Praha 1982\nMačát, J. - Vaculíková, P. - Záviška, O.: Zpětný vliv výkonových polovodičových měničů na napájecí síť., SNTL, Praha 1978\nRous, Z.: Ochrana sdělovacích vedení a zařízení proti přepětí, NADAS, 1981\nKohling, A.: CE Conformity Marking, Siemens, 1995\nCartysse, J.: Design principles for effective EMC, AGARD lecture-series 177EMI and EMC, NATO\nGalajda, P. - Lukáč, R.: Elektronické prvky, Marcury-Smékal, 2001\nOetter, J: Výkonová elektronika pre elektrické pohony, Alfa SNTL, Bratislava 1988\nE-learningové texty: Electromagnetic Compatibility\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 60\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n48%\n30%\n12%\n3%\n5%\n2%\n\n\nZabezpečuje:\nprof. Ing. Dobroslav Kováč, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,259 @@
+{
+  "predmet_id": "65976737",
+  "code": "26000824",
+  "name": "Úvod do inžinierstva",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65976737",
+  "fetched_at": "2026-11-17T15:14:32Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000824"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Úvod do inžinierstva"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "3"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú základné informácie o jednotlivých odvetviach v oblasti elektrotechniky a informatiky, čo zlepší pochopenie interdisciplinárnych súvislosti medzi odbormi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Aplikovaná elektrotechnika\nElektroenergetika\nFyzikálne inžinierstvo progresívnych materiálov\nHospodárska informatika\nInteligentné systémy\nPočítačové siete\nPočítačové modelovanie\nPriemyselná elektrotechnika\nAutomobilová elektronika"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Tomčíková, I. Základy elektrotechnického inžinierstva. Košice: Technická univerzita v Košiciach, 2011. ISBN 978-80-8086-179-7.\n2. Čápová, K., Gombárska, D. Teoretická elektrotechnika. Žilina: EDIS, 2013. ISBN 978-80-554-0686-2.\n3. Vaníček, J. Teoretické základy informatiky. Praha: Nakladatelství ČVUT, 2007. ISBN 978-80-903962-4-1.\n4. Sedlák, B., Mach, L., Horák, M. Úvod do elektrotechniky. Brno: Akademické nakladatelství CERM, 2021. ISBN 978-80-7204-964-5.\n5. Arman, H., Kaur, G., Ryan, J. Fundamentals of Electrical Engineering and Technology. 3. vyd. Boca Raton: CRC Press, 2022. ISBN 978-1-032-02639-5.\n6. Sommerville, I. Software Engineering. 10. vyd. Boston: Pearson, 2021. 816 s. ISBN 978-0-13-394303-0."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Semináre predmetu sú realizované dištančnou metódou vzdelávania."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Emília Pietriková, PhD.\nIng. Zuzana Hudáková, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Fakulta elektrotechniky a informatiky",
+    "credits": 3,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Emília Pietriková, PhD.",
+    "Ing. Zuzana Hudáková, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Fakulta elektrotechniky a informatiky\n\n\nKód predmetu: 26000824\nNázov predmetu: Úvod do inžinierstva\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2\nExterná forma štúdia (hodiny za semester): ZS 26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 3\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet\nZáverečné hodnotenie (ZH):\nzápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú základné informácie o jednotlivých odvetviach v oblasti elektrotechniky a informatiky, čo zlepší pochopenie interdisciplinárnych súvislosti medzi odbormi.\n\n\nStručná osnova predmetu:\nAplikovaná elektrotechnika\nElektroenergetika\nFyzikálne inžinierstvo progresívnych materiálov\nHospodárska informatika\nInteligentné systémy\nPočítačové siete\nPočítačové modelovanie\nPriemyselná elektrotechnika\nAutomobilová elektronika\n\nOdporúčaná literatúra:\n1. Tomčíková, I. Základy elektrotechnického inžinierstva. Košice: Technická univerzita v Košiciach, 2011. ISBN 978-80-8086-179-7.\n2. Čápová, K., Gombárska, D. Teoretická elektrotechnika. Žilina: EDIS, 2013. ISBN 978-80-554-0686-2.\n3. Vaníček, J. Teoretické základy informatiky. Praha: Nakladatelství ČVUT, 2007. ISBN 978-80-903962-4-1.\n4. Sedlák, B., Mach, L., Horák, M. Úvod do elektrotechniky. Brno: Akademické nakladatelství CERM, 2021. ISBN 978-80-7204-964-5.\n5. Arman, H., Kaur, G., Ryan, J. Fundamentals of Electrical Engineering and Technology. 3. vyd. Boca Raton: CRC Press, 2022. ISBN 978-1-032-02639-5.\n6. Sommerville, I. Software Engineering. 10. vyd. Boston: Pearson, 2021. 816 s. ISBN 978-0-13-394303-0.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Semináre predmetu sú realizované dištančnou metódou vzdelávania.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Emília Pietriková, PhD.\nIng. Zuzana Hudáková, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

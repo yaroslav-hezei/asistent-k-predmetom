@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65957887",
+  "code": "26001174",
+  "name": "Úvod do Matlabu",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65957887",
+  "fetched_at": "2026-11-17T15:12:26Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001174"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Úvod do Matlabu"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu študent, dokáže samostatne pracovať s programovým balíkom Matlab, dokáže navrhnúť algoritmy riešenia bežných úloh v elektronike a dokáže vyhľadať podporu pri riešení problémov. Študent si taktiež prehĺbi vedomosti z oblasti spracovania signálov a elektroniky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Štruktúra programového balíka Matlab, charakteristiky toolboxov\nSyntax a sémantika v prostredí Matlab.\nDátové typy, vektory, matice, sústavy algebrických rovníc a ich využitie pre riešenie vybraných príkladov z oblasti spracovania signálov, elektroniky a inžinierstva materiálov.\nRiadiace štruktúry, cykly, príkazy pre používateľský vstup a výstup\nTvorba vlastných skriptov a funkcii.\nŠtandardné funkcie a ich využitie pri výpočte frekvenčných spektier, korelácie, konvolúcie, vzorkovania, kvantovania a modulácie signálov.\nVizualizácia dát, grafika, zobrazenie grafov, obrazov, 3R priestorov, popis grafov, ukladanie grafických výstupov.\nPráca so súbormi, čítanie a zápis dátových súborov, import a export dát.\nTvorba grafických používateľských, interaktívnych rozhraní a standalone aplikácii.\nPrepojenie Matlabu s externými zariadeniami ako kamerové systémy, senzory a zvukové vstupy a výstupy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Kováč, O.: Matlab v elektronike, TUKE, 99 s., ISBN 978-80-553-2947-5, 2018\nMathworks. (2015): Dokumentation, [online]. http://www.mathworks.com/help/\nMihalík,J., Zavacký,J., Gladišová,I.: Signály a sústavy (Návody na cvičenia). LČSOV FEI TU Košice, 2004\nMihalík,J., Zavacký,J.: Diskrétne signály. LČSOV FEI TU Košice, 2013\nRichard G. Lyons .: Understanding Digital Signal Processing, Pearson Education, 2010.\nMichaeli, L.: Základy elektroniky, učebné texty FEI TU Košice 2007"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 134\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n11%\n2%\n8%\n12%\n40%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ondrej Kováč, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 134,
+    "percent": {
+      "A": 26,
+      "B": 11,
+      "C": 2,
+      "D": 8,
+      "E": 12,
+      "FX": 40
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ondrej Kováč, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001174\nNázov predmetu: Úvod do Matlabu\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu študent, dokáže samostatne pracovať s programovým balíkom Matlab, dokáže navrhnúť algoritmy riešenia bežných úloh v elektronike a dokáže vyhľadať podporu pri riešení problémov. Študent si taktiež prehĺbi vedomosti z oblasti spracovania signálov a elektroniky.\n\nStručná osnova predmetu:\nŠtruktúra programového balíka Matlab, charakteristiky toolboxov\nSyntax a sémantika v prostredí Matlab.\nDátové typy, vektory, matice, sústavy algebrických rovníc a ich využitie pre riešenie vybraných príkladov z oblasti spracovania signálov, elektroniky a inžinierstva materiálov.\nRiadiace štruktúry, cykly, príkazy pre používateľský vstup a výstup\nTvorba vlastných skriptov a funkcii.\nŠtandardné funkcie a ich využitie pri výpočte frekvenčných spektier, korelácie, konvolúcie, vzorkovania, kvantovania a modulácie signálov.\nVizualizácia dát, grafika, zobrazenie grafov, obrazov, 3R priestorov, popis grafov, ukladanie grafických výstupov.\nPráca so súbormi, čítanie a zápis dátových súborov, import a export dát.\nTvorba grafických používateľských, interaktívnych rozhraní a standalone aplikácii.\nPrepojenie Matlabu s externými zariadeniami ako kamerové systémy, senzory a zvukové vstupy a výstupy.\n\nOdporúčaná literatúra:\nKováč, O.: Matlab v elektronike, TUKE, 99 s., ISBN 978-80-553-2947-5, 2018\nMathworks. (2015): Dokumentation, [online]. http://www.mathworks.com/help/\nMihalík,J., Zavacký,J., Gladišová,I.: Signály a sústavy (Návody na cvičenia). LČSOV FEI TU Košice, 2004\nMihalík,J., Zavacký,J.: Diskrétne signály. LČSOV FEI TU Košice, 2013\nRichard G. Lyons .: Understanding Digital Signal Processing, Pearson Education, 2010.\nMichaeli, L.: Základy elektroniky, učebné texty FEI TU Košice 2007\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 134\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n11%\n2%\n8%\n12%\n40%\n\n\nZabezpečuje:\ndoc. Ing. Ondrej Kováč, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

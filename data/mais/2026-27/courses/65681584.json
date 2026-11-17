@@ -1,0 +1,155 @@
+{
+  "predmet_id": "65681584",
+  "code": "26001370",
+  "name": "Diplomová práca",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65681584",
+  "fetched_at": "2026-11-17T15:01:43Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001370"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Diplomová práca"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "9,9"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 117,117/LS 117,117"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "12"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26001367 - Diplomový projekt 2"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie vedúcim ZP, Hodnotenie oponentom ZP"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nHodnotenie komisie pre ŠS"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Osvojiť si metódy a postupy riešenia relatívne rozsiahlych projektov v oblasti informačných systémov v praxi. Preukázať schopnosť samostatne a tvorivo riešiť zložité úlohy aj výskumného charakteru, v súlade so súčasnými metódami a postupmi využívanými v príslušnej oblasti. Samostatne , tvorivo a kriticky pristupovať k analýze možných riešení a tvorbe modelov. Výsledok musí obsahovať praktický výstup, ktorý bude primerane zdokumentovaný a prezentovaný počas obhajoby diplomovej práce."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- podrobný návrh riešenia\n- revízia rozhodnutí urobených v predchádzajúcich etapách a kritické zhodnotenie\n- overenie konečného riešenia\n- písomná prezentácia výsledkov práce\n- ústna prezentácia výsledkov práce\n- príprava vhodného publikačného výstupu prezentujúceho dosiahnuté výsledky a použité metódy diplomovej práce"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- podľa odporúčaní vedúceho alebo konzultanta diplomovej práce"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Priama výučba (konzultácie): 130 hodín\nNepriama výučba (práca na diplomovom projekte): 170 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Paralič, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 12,
+    "recommended_semester": "ZS, LS",
+    "completion": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Paralič, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001370\nNázov predmetu: Diplomová práca\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 9,9\nExterná forma štúdia (hodiny za semester): ZS 117,117/LS 117,117\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 12\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety: 26001367 - Diplomový projekt 2\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie vedúcim ZP, Hodnotenie oponentom ZP\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nHodnotenie komisie pre ŠS\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOsvojiť si metódy a postupy riešenia relatívne rozsiahlych projektov v oblasti informačných systémov v praxi. Preukázať schopnosť samostatne a tvorivo riešiť zložité úlohy aj výskumného charakteru, v súlade so súčasnými metódami a postupmi využívanými v príslušnej oblasti. Samostatne , tvorivo a kriticky pristupovať k analýze možných riešení a tvorbe modelov. Výsledok musí obsahovať praktický výstup, ktorý bude primerane zdokumentovaný a prezentovaný počas obhajoby diplomovej práce.\n\nStručná osnova predmetu:\n- podrobný návrh riešenia\n- revízia rozhodnutí urobených v predchádzajúcich etapách a kritické zhodnotenie\n- overenie konečného riešenia\n- písomná prezentácia výsledkov práce\n- ústna prezentácia výsledkov práce\n- príprava vhodného publikačného výstupu prezentujúceho dosiahnuté výsledky a použité metódy diplomovej práce\n\nOdporúčaná literatúra:\n- podľa odporúčaní vedúceho alebo konzultanta diplomovej práce\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Priama výučba (konzultácie): 130 hodín\nNepriama výučba (práca na diplomovom projekte): 170 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Ján Paralič, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

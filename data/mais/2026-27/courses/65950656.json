@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65950656",
+  "code": "26001282",
+  "name": "Pokročilé metódy štúdia magnetických materiálov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950656",
+  "fetched_at": "2026-11-17T15:07:53Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001282"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Pokročilé metódy štúdia magnetických materiálov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "4"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Účasť na prednáškach."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZáverečný test.\nŠtudent musí preukázať: dostatočné vedomosti zo základov mikromagnetizmu, energií feromagnetika. Musí ovládať a poznať základné funkcie simulačného prostredia OOMMF a vytvárať jednoduché skripty, ako aj spracovať výstupy týchto simulácií. Ďalej musí študent rozumieť základom magnetooptického Kerrovho javu (MOKE), aplikácií jeho využitia a techník jeho merania v rozsahu prednášok. Musí ovládať matematický aparát Jonesovho formalizmu, pomocou ktorého by mal vedieť kvantifikovať magnetooptické javy prvého rádu v rôznych konfiguráciách MOKE."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvovaním predmetu študent získa počas prednášok teoretické a praktické vedomosti v rozsahu, ktorý je uvedený v stručnej osnove predmetu a odporúčanej literatúre. Výsledky vzdelávania sú:\n1) zvládnutie potrebnej terminológie, prehĺbenie znalostí o fyzikálnych javoch, ktoré sú nutné na vykonávanie mikromagnetických simulácií\n2) znalosti používania MOKE v rôznych experimentálnych obmenách\n3) získanie podrobného prehľadu o možnostiach využitia MOKE senzorov v praxi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do mikromagnetických simulácií, simulačné prostredie OOMMF, OOMMF solver, konverzia výstupu, simulácia pohybu doménovej steny v tenkom drôte, simulácie hysteréznych slučiek nanodrôtov, cirkulárne disky, polarizácia svetla. Odraz a lom svetla na rozhraní medzi dvoch nemagnetických prostredí, moderná magneto-optika: základy teórie magnetooptiky, nediagonálne členy dielektrického tenzora, techniky merania magnetooptického Kerrovho javu a Faradayovho javu."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. FRIEDMAN, A. Micromagnetic simulation, Mathematics in Industrial Problems, Part 6, The IMA Volumes in Mathematics and its Applications, Vol. 57, Springer-Verlag, New York, 1994. 229 s. ISBN 978-1-4613-8383-3.\n2. CHIKAZUMI, S. Physics of Ferromagnetism, 2.ed. Oxford University Press, New York, 1997. 655 s. ISBN 0-19-851776-9.\n3. ZVEZDIN, A.K., KOTOV, V.A. Modern magnetooptics and magnetooptical materials, Taylor & Francis, New York, 1997. 404 s. ISBN 978-0-7503-0362-X.\n4. VISNOVSKY, S. Optics in Magnetic Multilayers and Nanostructures, CRC Press, New York, 2006. 558s. ISBN 978-0-8493-3686-7.\n5. HUBERT, A., SHAFER, R. Magnetic domains: The Analysis of Magnetic Microstructures, Springer-Verlag, Berlin, Heidelberg, New York, 1998. 696 s. ISBN 978-3-540-64108-7."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, seminár), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 6 hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Jozef Kravčák, PhD.\nRNDr. Kornel Richter, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 4,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Jozef Kravčák, PhD.",
+    "RNDr. Kornel Richter, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 26001282\nNázov predmetu: Pokročilé metódy štúdia magnetických materiálov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2\nExterná forma štúdia (hodiny za semester): ZS 26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 4\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nÚčasť na prednáškach.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZáverečný test.\nŠtudent musí preukázať: dostatočné vedomosti zo základov mikromagnetizmu, energií feromagnetika. Musí ovládať a poznať základné funkcie simulačného prostredia OOMMF a vytvárať jednoduché skripty, ako aj spracovať výstupy týchto simulácií. Ďalej musí študent rozumieť základom magnetooptického Kerrovho javu (MOKE), aplikácií jeho využitia a techník jeho merania v rozsahu prednášok. Musí ovládať matematický aparát Jonesovho formalizmu, pomocou ktorého by mal vedieť kvantifikovať magnetooptické javy prvého rádu v rôznych konfiguráciách MOKE.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvovaním predmetu študent získa počas prednášok teoretické a praktické vedomosti v rozsahu, ktorý je uvedený v stručnej osnove predmetu a odporúčanej literatúre. Výsledky vzdelávania sú:\n1) zvládnutie potrebnej terminológie, prehĺbenie znalostí o fyzikálnych javoch, ktoré sú nutné na vykonávanie mikromagnetických simulácií\n2) znalosti používania MOKE v rôznych experimentálnych obmenách\n3) získanie podrobného prehľadu o možnostiach využitia MOKE senzorov v praxi.\n\nStručná osnova predmetu:\nÚvod do mikromagnetických simulácií, simulačné prostredie OOMMF, OOMMF solver, konverzia výstupu, simulácia pohybu doménovej steny v tenkom drôte, simulácie hysteréznych slučiek nanodrôtov, cirkulárne disky, polarizácia svetla. Odraz a lom svetla na rozhraní medzi dvoch nemagnetických prostredí, moderná magneto-optika: základy teórie magnetooptiky, nediagonálne členy dielektrického tenzora, techniky merania magnetooptického Kerrovho javu a Faradayovho javu.\n\nOdporúčaná literatúra:\n1. FRIEDMAN, A. Micromagnetic simulation, Mathematics in Industrial Problems, Part 6, The IMA Volumes in Mathematics and its Applications, Vol. 57, Springer-Verlag, New York, 1994. 229 s. ISBN 978-1-4613-8383-3.\n2. CHIKAZUMI, S. Physics of Ferromagnetism, 2.ed. Oxford University Press, New York, 1997. 655 s. ISBN 0-19-851776-9.\n3. ZVEZDIN, A.K., KOTOV, V.A. Modern magnetooptics and magnetooptical materials, Taylor & Francis, New York, 1997. 404 s. ISBN 978-0-7503-0362-X.\n4. VISNOVSKY, S. Optics in Magnetic Multilayers and Nanostructures, CRC Press, New York, 2006. 558s. ISBN 978-0-8493-3686-7.\n5. HUBERT, A., SHAFER, R. Magnetic domains: The Analysis of Magnetic Microstructures, Springer-Verlag, Berlin, Heidelberg, New York, 1998. 696 s. ISBN 978-3-540-64108-7.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, seminár), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 6 hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. RNDr. Jozef Kravčák, PhD.\nRNDr. Kornel Richter, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

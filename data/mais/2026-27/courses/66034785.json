@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66034785",
+  "code": "26001394",
+  "name": "Vývoj digitálneho produktu „AI first“",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66034785",
+  "fetched_at": "2026-11-17T15:16:09Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001394"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Vývoj digitálneho produktu „AI first“"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 2,1"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú prostredníctvom cyklu desiatich seminárov, ktorých realizácia bude zabezpečená v spolupráci s IT firmou bart.sk, praktické zručnosti a skúsenosti ako dnes vznikajú digitálne produkty v prostredí, kde umelá inteligencia (UI, v angličtine AI) je prirodzenou súčasťou každého kroku. Po úspešnom absolvovaní predmetu študenti budú ovládať základné princípy jednotlivých fáz od získania zákazníka, validácie nápadu a rýchleho prototypovania až po technologické rozhodnutia, dizajn, plánovanie vývoja a zostavenie moderného „AI-augmented“ tímu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Ako získať zákazníka v UI dobe - čo zákazník chce, čo naozaj potrebuje a ako tvoriť prvý rozpočet pomocou dát a UI.\n2. Od nápadu k prototypu za pár dní - validácia, hypotézy a UI prototypovanie v rekordnom čase.\n3. Výber technológií a architektúra - ako sa dnes vyberá technológia a ako UI mení architektúru produktov.\n4. Personalizácia a dizajn - nové princípy dizajnu a spolupráca človeka s UI.\n5. Produktový tím 2.0 - pracovné pozície, spolupráca a riešenie problémov v UI-augmented tíme.\n6. Plánovanie vývoja softvéru - ako plánovať projekty, keď sa všetko mení. Prečo SCRUM nefunguje všade a čo funguje?\n7. Kvalita, testovanie a UI automatizácia - čo sa dá automatizovať, ako testovať s UI a čo zostáva na ľuďoch. Prečo je QA kritické pre každý produkt.\n8. Spustenie produktu - nasadzovanie, incidenty, monitoring a UI asistenti pri riešení problémov.\n9. Produkt, ktorý rastie s dátami - ako produkt pokračuje po spustení, čo sledovať a ako sa rozhoduje o ďalších funkciách.\n10. Budúcnosť vývoja: UI ako člen tímu - ako UI mení vývoj softvéru, aké nové pozície vznikajú a ktoré zručnosti budú dôležité v budúcnosti."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Cagan, M.: Inspired: How to Create Tech Products Customers Love. 2nd ed. Wiley, 2017.\nNewman, S.: Building Microservices: Designing Fine‑Grained Systems. 2nd ed. O’Reilly Media, 2021.\nHuyen, C.: Designing Machine Learning Systems: An Iterative Process for Production‑Ready Applications. O’Reilly Media, 2022."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Poznámky: V prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nKontaktná výučba: spolu 40 hodín\n• Účasť na seminároch: 20 hodín\n• Priame konzultácie: 10 hodín\n• Projektová práca priamo na seminároch: 10 hodín\nNekontaktná výučba: spolu 110 hodín\n• Príprava na semináre (štúdium literatúry): 50 hodín\n• Spracovanie čiastkových zadaní podľa tém seminárov: 60 hodín\n• Celkový počet hodín: 150 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. František Babič, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. František Babič, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001394\nNázov predmetu: Vývoj digitálneho produktu „AI first“\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): LS 2,1\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú prostredníctvom cyklu desiatich seminárov, ktorých realizácia bude zabezpečená v spolupráci s IT firmou bart.sk, praktické zručnosti a skúsenosti ako dnes vznikajú digitálne produkty v prostredí, kde umelá inteligencia (UI, v angličtine AI) je prirodzenou súčasťou každého kroku. Po úspešnom absolvovaní predmetu študenti budú ovládať základné princípy jednotlivých fáz od získania zákazníka, validácie nápadu a rýchleho prototypovania až po technologické rozhodnutia, dizajn, plánovanie vývoja a zostavenie moderného „AI-augmented“ tímu.\n\nStručná osnova predmetu:\n1. Ako získať zákazníka v UI dobe - čo zákazník chce, čo naozaj potrebuje a ako tvoriť prvý rozpočet pomocou dát a UI.\n2. Od nápadu k prototypu za pár dní - validácia, hypotézy a UI prototypovanie v rekordnom čase.\n3. Výber technológií a architektúra - ako sa dnes vyberá technológia a ako UI mení architektúru produktov.\n4. Personalizácia a dizajn - nové princípy dizajnu a spolupráca človeka s UI.\n5. Produktový tím 2.0 - pracovné pozície, spolupráca a riešenie problémov v UI-augmented tíme.\n6. Plánovanie vývoja softvéru - ako plánovať projekty, keď sa všetko mení. Prečo SCRUM nefunguje všade a čo funguje?\n7. Kvalita, testovanie a UI automatizácia - čo sa dá automatizovať, ako testovať s UI a čo zostáva na ľuďoch. Prečo je QA kritické pre každý produkt.\n8. Spustenie produktu - nasadzovanie, incidenty, monitoring a UI asistenti pri riešení problémov.\n9. Produkt, ktorý rastie s dátami - ako produkt pokračuje po spustení, čo sledovať a ako sa rozhoduje o ďalších funkciách.\n10. Budúcnosť vývoja: UI ako člen tímu - ako UI mení vývoj softvéru, aké nové pozície vznikajú a ktoré zručnosti budú dôležité v budúcnosti.\n\n\nOdporúčaná literatúra:\nCagan, M.: Inspired: How to Create Tech Products Customers Love. 2nd ed. Wiley, 2017.\nNewman, S.: Building Microservices: Designing Fine‑Grained Systems. 2nd ed. O’Reilly Media, 2021.\nHuyen, C.: Designing Machine Learning Systems: An Iterative Process for Production‑Ready Applications. O’Reilly Media, 2022.\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Poznámky: V prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nKontaktná výučba: spolu 40 hodín\n• Účasť na seminároch: 20 hodín\n• Priame konzultácie: 10 hodín\n• Projektová práca priamo na seminároch: 10 hodín\nNekontaktná výučba: spolu 110 hodín\n• Príprava na semináre (štúdium literatúry): 50 hodín\n• Spracovanie čiastkových zadaní podľa tém seminárov: 60 hodín\n• Celkový počet hodín: 150 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. František Babič, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

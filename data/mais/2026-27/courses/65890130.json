@@ -1,0 +1,193 @@
+{
+  "predmet_id": "65890130",
+  "code": "2618641",
+  "name": "Elektrotechnika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65890130",
+  "fetched_at": "2026-11-17T15:05:15Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2618641"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektrotechnika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 39,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\n1.\n1.\n1.\n1.\n1.\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\n1 samostatná priebežná písomná práca"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné vedomosti z oblasti teórie obvodov, prehľad o klasifikácii elektrických obvodov, metódach analýzy obvodov a ich použití pri riešení praktických úloh."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Elektrický obvod, obvodové veličiny, obvodové prvky: Charakteristika obvodových veličín (jednosmerné, harmonické, neharmonické, impulz); všeobecná charakteristika lineárnych obvodových prvkov, charakteristika lineárnych obvodových prvkov pre jednotlivé druhy obvodových veličín (fyzikálne parametre, komplexná impedancia, obrazová impedancia). Správanie sa elektrických obvodov - I. Kirchhoffov zákon, II. Kirchhoffov zákon, zovšeobecnený I. Kirchhoffov zákon.\n\n2. Rozdelenie elektrických obvodov, charakteristika jednotlivých typov elektrických obvodov.\n\n3. Obvody so sústredenými parametrami a jednosmernými zdrojmi, jednofázovými harmonickými zdrojmi, trojfázovými harmonickými zdrojmi, s impulzom na vstupe: Obvody s jednosmernými zdrojmi: spôsoby analýzy, výkon. Obvody s jednofázovými harmonickými zdrojmi: spôsoby analýzy, výkon. Obvody s trojfázovými harmonickými zdrojmi: analýza pri zapojení spotrebiča do hviezdy, pri zapojení spotrebiča do trojuholníka, výkon. Obvody s impulzom na vstupe-prechodné deje v obvodoch: charakteristika prechodného deja, analýza prechodných dejov v obvodoch pomocou Laplaceovej transformácie.\n\n4. Obvody s rozloženými parametrami-homogénne dlhé vedenia s harmonickým zdrojom. Analýza jednotlivých typov homogénnych dlhých vedení, analýza špeciálnych prípadov homogénnych dlhých vedení.\n\n5. Štvorpóly s harmonickým zdrojom. Maticové rovnice lineárneho pasívneho štvorpólu, popis lineárneho pasívneho štvorpólu maticovými koeficientmi, určovanie maticových koeficientov a vzťahy medzi jednotlivými typmi maticových koeficientov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Tomčíková I.: Vybrané kapitoly elektrotechniky I., prednášky, ELFA, s.r.o., Košice, 2005\nTomčíková I.: Teoretická elektrotechnika I., prednášky, ELFA, s.r.o., Košice, 2004\nŠimko V., Kováč D.: Teoretická elektrotechnika I., prednášky, ELFA, s.r.o., Košice, 2000\nTomčíková I., Guzan M.: Zbierka úloh z elektrotechniky I., cvičenia, učebný text na: www.tuke.sk/fei-kteem/et1\nŠimko V., Kováč D.: Zbierka príkladov z TE I., cvičenia, ELFA, s.r.o., Košice, 1999\nŠimko V., Kováč D., Kováčová I.: Teoretická elektrotechnika I., skriptá, prednášky, ELFA, s.r.o., Košice, 2002\nŠimko V., Kapás P., Kováč D.: Príklady z teoretickej elektrotechniky I., skriptá, cvičenia, ES TU v Košiciach, 1992\nKováč, D.: Vybrané kapitoly z elektrotechniky. TU v Košiciach, 2021, 82 strán, ISBN 978-80-553-3815-6\nKováč, D.: Základy elektrotechniky 1. - Základné pojmy a jednosmerné obvody, TU v Košiciach, 2017, 71 strán, ISBN 978-80-553-2867-6.\nKováč, D.: Základy elektrotechniky 2. - Striedavé jednofázové obvody, TU v Košiciach, 2017, 68 strán, ISBN 978-80-553-2875-1.\nKováč, D.: Základy elektrotechniky 3. - Dielektrické a magnetické obvody, TU v Košiciach, 2017, 78 strán, ISBN 978-80-553-2681-8.\nKováč, D.: Základy elektrotechniky 4. - Trojfázové obvody, TU v Košiciach, 2018, 70 strán, ISBN 978-80-553-2988-8."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 78 hodín (6 hodín / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 72 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 3117\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n4%\n8%\n15%\n28%\n41%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Milan Guzan, PhD.\nIng. Jozef Dziak, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 3117,
+    "percent": {
+      "A": 3,
+      "B": 4,
+      "C": 8,
+      "D": 15,
+      "E": 28,
+      "FX": 41
+    }
+  },
+  "teachers": [
+    "doc. Ing. Milan Guzan, PhD.",
+    "Ing. Jozef Dziak, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 2618641\nNázov predmetu: Elektrotechnika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,3\nExterná forma štúdia (hodiny za semester): LS 39,39\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\n1.\n1.\n1.\n1.\n1.\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\n1 samostatná priebežná písomná práca\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné vedomosti z oblasti teórie obvodov, prehľad o klasifikácii elektrických obvodov, metódach analýzy obvodov a ich použití pri riešení praktických úloh.\n\nStručná osnova predmetu:\n1. Elektrický obvod, obvodové veličiny, obvodové prvky: Charakteristika obvodových veličín (jednosmerné, harmonické, neharmonické, impulz); všeobecná charakteristika lineárnych obvodových prvkov, charakteristika lineárnych obvodových prvkov pre jednotlivé druhy obvodových veličín (fyzikálne parametre, komplexná impedancia, obrazová impedancia). Správanie sa elektrických obvodov - I. Kirchhoffov zákon, II. Kirchhoffov zákon, zovšeobecnený I. Kirchhoffov zákon.\n\n2. Rozdelenie elektrických obvodov, charakteristika jednotlivých typov elektrických obvodov.\n\n3. Obvody so sústredenými parametrami a jednosmernými zdrojmi, jednofázovými harmonickými zdrojmi, trojfázovými harmonickými zdrojmi, s impulzom na vstupe: Obvody s jednosmernými zdrojmi: spôsoby analýzy, výkon. Obvody s jednofázovými harmonickými zdrojmi: spôsoby analýzy, výkon. Obvody s trojfázovými harmonickými zdrojmi: analýza pri zapojení spotrebiča do hviezdy, pri zapojení spotrebiča do trojuholníka, výkon. Obvody s impulzom na vstupe-prechodné deje v obvodoch: charakteristika prechodného deja, analýza prechodných dejov v obvodoch pomocou Laplaceovej transformácie.\n\n4. Obvody s rozloženými parametrami-homogénne dlhé vedenia s harmonickým zdrojom. Analýza jednotlivých typov homogénnych dlhých vedení, analýza špeciálnych prípadov homogénnych dlhých vedení.\n\n5. Štvorpóly s harmonickým zdrojom. Maticové rovnice lineárneho pasívneho štvorpólu, popis lineárneho pasívneho štvorpólu maticovými koeficientmi, určovanie maticových koeficientov a vzťahy medzi jednotlivými typmi maticových koeficientov.\n\nOdporúčaná literatúra:\nTomčíková I.: Vybrané kapitoly elektrotechniky I., prednášky, ELFA, s.r.o., Košice, 2005\nTomčíková I.: Teoretická elektrotechnika I., prednášky, ELFA, s.r.o., Košice, 2004\nŠimko V., Kováč D.: Teoretická elektrotechnika I., prednášky, ELFA, s.r.o., Košice, 2000\nTomčíková I., Guzan M.: Zbierka úloh z elektrotechniky I., cvičenia, učebný text na: www.tuke.sk/fei-kteem/et1\nŠimko V., Kováč D.: Zbierka príkladov z TE I., cvičenia, ELFA, s.r.o., Košice, 1999\nŠimko V., Kováč D., Kováčová I.: Teoretická elektrotechnika I., skriptá, prednášky, ELFA, s.r.o., Košice, 2002\nŠimko V., Kapás P., Kováč D.: Príklady z teoretickej elektrotechniky I., skriptá, cvičenia, ES TU v Košiciach, 1992\nKováč, D.: Vybrané kapitoly z elektrotechniky. TU v Košiciach, 2021, 82 strán, ISBN 978-80-553-3815-6\nKováč, D.: Základy elektrotechniky 1. - Základné pojmy a jednosmerné obvody, TU v Košiciach, 2017, 71 strán, ISBN 978-80-553-2867-6.\nKováč, D.: Základy elektrotechniky 2. - Striedavé jednofázové obvody, TU v Košiciach, 2017, 68 strán, ISBN 978-80-553-2875-1.\nKováč, D.: Základy elektrotechniky 3. - Dielektrické a magnetické obvody, TU v Košiciach, 2017, 78 strán, ISBN 978-80-553-2681-8.\nKováč, D.: Základy elektrotechniky 4. - Trojfázové obvody, TU v Košiciach, 2018, 70 strán, ISBN 978-80-553-2988-8.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 78 hodín (6 hodín / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 72 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 3117\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n4%\n8%\n15%\n28%\n41%\n\n\nZabezpečuje:\ndoc. Ing. Milan Guzan, PhD.\nIng. Jozef Dziak, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

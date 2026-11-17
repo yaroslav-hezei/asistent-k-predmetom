@@ -1,0 +1,186 @@
+{
+  "predmet_id": "2683224",
+  "code": "2609051",
+  "name": "Počítačové siete",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=2683224",
+  "fetched_at": "2026-11-17T14:56:59Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2609051"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Počítačové siete"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná informatika (AI_Bc_D)\n1.\nPrezenčná\n\n\n2.rok LS\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_E)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_E)\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežné testy"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 1% z 60%.\nzáverečný test CNAP (1. a 2. certifikát fy Cisco Systems, on-line final test a finálna praktická skúška)"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi so základným pojmovým aparátom v oblasti počítačových sietí a princípmi prenosu informácie v počítačových sieťach v kontexte sieťových modelov ISO-OSI a TCP-IP. Naučí sa praktický riešiť problémy spojené s fyzickou vrstvou sieťového modelu pri realizácií počítačových sietí a osvojí si základy problematiky smerovania pri prenose informácií v sieťových infraštruktúrach. V rámci predmetu zvládne problematiku, ktorá je obsiahnutá v prvých dvoch semestroch Sieťového Akademického Programu Cisco a nadobudne vedomosti, ktoré mu umožnia vykonanie medzinárodnej certifikačnej skúšky ICND1 640-822.\nŠtudent má pri štúdiu k dispozícií vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom LMS systému (http://cisco.netacad.net)."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do problematiky počítačových sietí.\n2. Koncepcia sieťového (vrstvového) modelu komunikácie.\n3. Identifikácia komunikačných entít v sieťových infraštruktúrach, adresové schémy.\n4. Fyzická vrstva sieťového modelu a jej implementácia.\n5. Príklady sieťových technológii LAN a WAN a využitie pasívnych a aktívnych sieťových prvkov.\n6. Funkcia protokolov a služieb transportnej a sieťovej vrstvy\n7. Koncepcia smerovania informácie v počítačových sieťach\n8. Dynamické smerovanie a smerovacie protokoly.\n9. Aktívne komponenty sieťovej komunikácie : smerovač a jeho vlastnosti, základy práce so smerovačom.\n10. Adresové systémy na báze beztriednej adresácie.\n11. Hybridné smerovacie protokoly.\n12. Smerovacie protokoly typu &#8222;Link : State&#8220;."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Cisco Networking Academy Program : Semester 1 and 2 (Exploration version) - http://cisco.netacad.net\n2. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004\n3. Pužmanová, R.: Moderní komunikační sítě od A do Z. Computer Press, Praha 2004\n4. Dilip C. Naik : Internet : standardy a protokoly. Computer Press, Brno, 1999\n5. Dostálek L., Kabelová A.: Velký prúvodce protokoly TCP/IP a systemem DNS, Computer Press, Praha, 2000"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 426\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n27%\n16%\n15%\n12%\n17%\n13%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. František Jakab, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "31.08.2010"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2010-08-31",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná informatika (AI_Bc_D)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Bc_E)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové modelovanie (PM_Bc_E)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 426,
+    "percent": {
+      "A": 27,
+      "B": 16,
+      "C": 15,
+      "D": 12,
+      "E": 17,
+      "FX": 13
+    }
+  },
+  "teachers": [
+    "doc. Ing. František Jakab, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2609051\nNázov predmetu: Počítačové siete\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná informatika (AI_Bc_D)\n1.\nPrezenčná\n\n\n2.rok LS\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_E)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_E)\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežné testy\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 1% z 60%.\nzáverečný test CNAP (1. a 2. certifikát fy Cisco Systems, on-line final test a finálna praktická skúška)\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi so základným pojmovým aparátom v oblasti počítačových sietí a princípmi prenosu informácie v počítačových sieťach v kontexte sieťových modelov ISO-OSI a TCP-IP. Naučí sa praktický riešiť problémy spojené s fyzickou vrstvou sieťového modelu pri realizácií počítačových sietí a osvojí si základy problematiky smerovania pri prenose informácií v sieťových infraštruktúrach. V rámci predmetu zvládne problematiku, ktorá je obsiahnutá v prvých dvoch semestroch Sieťového Akademického Programu Cisco a nadobudne vedomosti, ktoré mu umožnia vykonanie medzinárodnej certifikačnej skúšky ICND1 640-822.\nŠtudent má pri štúdiu k dispozícií vzdelávacie materiály a administratívne prostredie pre riadenie výuky dostupné prostredníctvom LMS systému (http://cisco.netacad.net).\n\nStručná osnova predmetu:\n1. Úvod do problematiky počítačových sietí.\n2. Koncepcia sieťového (vrstvového) modelu komunikácie.\n3. Identifikácia komunikačných entít v sieťových infraštruktúrach, adresové schémy.\n4. Fyzická vrstva sieťového modelu a jej implementácia.\n5. Príklady sieťových technológii LAN a WAN a využitie pasívnych a aktívnych sieťových prvkov.\n6. Funkcia protokolov a služieb transportnej a sieťovej vrstvy\n7. Koncepcia smerovania informácie v počítačových sieťach\n8. Dynamické smerovanie a smerovacie protokoly.\n9. Aktívne komponenty sieťovej komunikácie : smerovač a jeho vlastnosti, základy práce so smerovačom.\n10. Adresové systémy na báze beztriednej adresácie.\n11. Hybridné smerovacie protokoly.\n12. Smerovacie protokoly typu &#8222;Link : State&#8220;.\n\nOdporúčaná literatúra:\n1. Cisco Networking Academy Program : Semester 1 and 2 (Exploration version) - http://cisco.netacad.net\n2. Peniak, P., Kallay, F.: Počítačové siete a ich aplikácie, GRADA Publishing, 2004\n3. Pužmanová, R.: Moderní komunikační sítě od A do Z. Computer Press, Praha 2004\n4. Dilip C. Naik : Internet : standardy a protokoly. Computer Press, Brno, 1999\n5. Dostálek L., Kabelová A.: Velký prúvodce protokoly TCP/IP a systemem DNS, Computer Press, Praha, 2000\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 426\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n27%\n16%\n15%\n12%\n17%\n13%\n\n\nZabezpečuje:\ndoc. Ing. František Jakab, PhD.\n\nDátum poslednej zmeny: 31.08.2010\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

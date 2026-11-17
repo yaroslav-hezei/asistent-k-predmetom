@@ -1,0 +1,155 @@
+{
+  "predmet_id": "65952210",
+  "code": "2611333",
+  "name": "Diplomová práca",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952210",
+  "fetched_at": "2026-11-17T15:09:13Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2611333"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Diplomová práca"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "9,9"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 117,117"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": ""
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "12"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "2618023 - Diplomový projekt"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\npripravenosť na konzultácie s ved. projektu, priebežné výsledky"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nobhajoba práce"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Osvojiť si metódy a postupy riešenia relatívne rozsiahlych projektov. Preukázať schopnosť samostatne a tvorivo riešiť zložité úlohy aj výskumného charakteru, v súlade so súčasnými metódami a postupmi využívanými v príslušnej oblasti. Samostatne , tvorivo a kriticky pristupovať k analýze možných riešení a tvorbe modelov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- podrobný návrh riešenia\n- revízia rozhodnutí urobených v predchádzajúcich etapách a kritické zhodnotenie\n- overenie konečného riešenia\n- písomná prezentácia výsledkov riešenia projektu"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Bieliková, M.: Ako úspešne vyriešiť projekt. STU Bratislava, 2000.\nISO 690:1987: Documentation Bibliographic references. Content, form and structure.\nISO 2145:1978: Documentation Numbering of divisions and subdivisions in written documents."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (konzultácie, semináre), ako aj samostatné štúdium a samostatná tvorivá činnosť pri syntéze a vyhodnotení stanovenej problematiky či tvorbe modelov. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 2777\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n34%\n22%\n17%\n8%\n6%\n13%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Jaroslav Porubän, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 12,
+    "recommended_semester": "LS",
+    "completion": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [],
+  "grades": {
+    "total_students": 2777,
+    "percent": {
+      "A": 34,
+      "B": 22,
+      "C": 17,
+      "D": 8,
+      "E": 6,
+      "FX": 13
+    }
+  },
+  "teachers": [
+    "prof. Ing. Jaroslav Porubän, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2611333\nNázov predmetu: Diplomová práca\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 9,9\nExterná forma štúdia (hodiny za semester): LS 117,117\nMetóda štúdia:\n\nPočet kreditov: 12\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety: 2618023 - Diplomový projekt\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\npripravenosť na konzultácie s ved. projektu, priebežné výsledky\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nobhajoba práce\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOsvojiť si metódy a postupy riešenia relatívne rozsiahlych projektov. Preukázať schopnosť samostatne a tvorivo riešiť zložité úlohy aj výskumného charakteru, v súlade so súčasnými metódami a postupmi využívanými v príslušnej oblasti. Samostatne , tvorivo a kriticky pristupovať k analýze možných riešení a tvorbe modelov.\n\nStručná osnova predmetu:\n- podrobný návrh riešenia\n- revízia rozhodnutí urobených v predchádzajúcich etapách a kritické zhodnotenie\n- overenie konečného riešenia\n- písomná prezentácia výsledkov riešenia projektu\n\nOdporúčaná literatúra:\nBieliková, M.: Ako úspešne vyriešiť projekt. STU Bratislava, 2000.\nISO 690:1987: Documentation Bibliographic references. Content, form and structure.\nISO 2145:1978: Documentation Numbering of divisions and subdivisions in written documents.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (konzultácie, semináre), ako aj samostatné štúdium a samostatná tvorivá činnosť pri syntéze a vyhodnotení stanovenej problematiky či tvorbe modelov. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 2777\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n34%\n22%\n17%\n8%\n6%\n13%\n\n\nZabezpečuje:\nprof. Ing. Jaroslav Porubän, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65836329",
+  "code": "2620941",
+  "name": "Numerické metódy v elektrotechnike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65836329",
+  "fetched_at": "2026-11-17T15:02:57Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2620941"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Numerické metódy v elektrotechnike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nsamostatná práca"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent má zvládnuť numerické metódy analýzy nelineárnych úloh z oblasti elektrotechniky a ich aplikáciu na riešenie praktických úloh. Poznatky úzko súvisia s problematikou využitia priemyselných meničov pre jednosmerné a striedavé pohony, ich riadením, reguláciou a diagnostikou."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Metóda konečných prvkov\nHraničné podmienky\nComsol, Matlab\nAplikácia a riadenie základných priemyselných systémov a podsystémov. Návrh a výpočet regulácie uvedených podsystémov, ich simulačná analýza."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Szántó, L.: Maxwellovy rovnice a jejich názorné odvození, BEN - technická literatura, 2012, ISBN: 9788073004507\nNEVESELÝ, M.: Analýza elektromagnetických javov a sústav, VYSOKOŠKOLSKÁ UČEBNICA, FEIT, 239, 2004, ISBN: 80-8070-163-6\nŠpaldonová, D.: Comsol / - 1. vyd - Košice : Technická univerzita - 2018. - 61 s. [CD-ROM]. - ISBN 978-80-553-2724-2\nVybrané kapitoly z elektromagnetizmu / Darina Špaldonová - 1. vyd - Košice : Technická univerzita - 2018. - 184 s.[CD-ROM]. - ISBN 978-80-553-3408-0\nŠpaldonová, D.: Elektromagnetizmus / - 1. vyd - Košice : TU - 2017. - 227 s. [CD-ROM]. - ISBN 978-80-553-2807-2\nŠpaldonová, D.: Numerické metódy v elektrotechnike / 1. vyd - Košice : Technická univerzita - 2015. - 95 s. [CD-ROM]. - ISBN 978-80-553-2219-3\nTirpák, A,: Elektromagnetizmus - 4.doplnené vydanie, Iris, 2012, ISBN: 978-80-89726-21-9\nMayer D., Polák J.: Metody řešení elektrických a magnetických polí, kniha, SNTL : ALFA, 1983\nPríručka k programu Quick Field\nPríručka k programu Matlab\nMaga D., Harťanský T.: Numerické metódy riešenia elektromechanických úloh., TnU 2000"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 145\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n17%\n21%\n21%\n9%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Milan Guzan, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 145,
+    "percent": {
+      "A": 30,
+      "B": 17,
+      "C": 21,
+      "D": 21,
+      "E": 9,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "doc. Ing. Milan Guzan, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 2620941\nNázov predmetu: Numerické metódy v elektrotechnike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nsamostatná práca\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent má zvládnuť numerické metódy analýzy nelineárnych úloh z oblasti elektrotechniky a ich aplikáciu na riešenie praktických úloh. Poznatky úzko súvisia s problematikou využitia priemyselných meničov pre jednosmerné a striedavé pohony, ich riadením, reguláciou a diagnostikou.\n\nStručná osnova predmetu:\nMetóda konečných prvkov\nHraničné podmienky\nComsol, Matlab\nAplikácia a riadenie základných priemyselných systémov a podsystémov. Návrh a výpočet regulácie uvedených podsystémov, ich simulačná analýza.\n\n\n\nOdporúčaná literatúra:\nSzántó, L.: Maxwellovy rovnice a jejich názorné odvození, BEN - technická literatura, 2012, ISBN: 9788073004507\nNEVESELÝ, M.: Analýza elektromagnetických javov a sústav, VYSOKOŠKOLSKÁ UČEBNICA, FEIT, 239, 2004, ISBN: 80-8070-163-6\nŠpaldonová, D.: Comsol / - 1. vyd - Košice : Technická univerzita - 2018. - 61 s. [CD-ROM]. - ISBN 978-80-553-2724-2\nVybrané kapitoly z elektromagnetizmu / Darina Špaldonová - 1. vyd - Košice : Technická univerzita - 2018. - 184 s.[CD-ROM]. - ISBN 978-80-553-3408-0\nŠpaldonová, D.: Elektromagnetizmus / - 1. vyd - Košice : TU - 2017. - 227 s. [CD-ROM]. - ISBN 978-80-553-2807-2\nŠpaldonová, D.: Numerické metódy v elektrotechnike / 1. vyd - Košice : Technická univerzita - 2015. - 95 s. [CD-ROM]. - ISBN 978-80-553-2219-3\nTirpák, A,: Elektromagnetizmus - 4.doplnené vydanie, Iris, 2012, ISBN: 978-80-89726-21-9\nMayer D., Polák J.: Metody řešení elektrických a magnetických polí, kniha, SNTL : ALFA, 1983\nPríručka k programu Quick Field\nPríručka k programu Matlab\nMaga D., Harťanský T.: Numerické metódy riešenia elektromechanických úloh., TnU 2000\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 145\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n17%\n21%\n21%\n9%\n2%\n\n\nZabezpečuje:\ndoc. Ing. Milan Guzan, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65960383",
+  "code": "26001320",
+  "name": "Diagnostika a profylaktika v elektroenergetike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960383",
+  "fetched_at": "2026-11-17T15:13:29Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001320"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Diagnostika a profylaktika v elektroenergetike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%. Protokoly z merania"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%. Ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je zameraný na správne používanie diagnostických meracích metód pri posudzovaní stavu elektroenergetických zariadení, na nové trendy v diagnostike, na meracie metódy odhaľovania zmien prebiehajúcich v izolačnom systéme v dôsledku elektrického, tepelného, mechanického a chemického namáhania počas prevádzky elektroenergetických zariadení."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- ciele a úlohy technickej diagnostiky, stanovenie stavu izolačného systému\n- starnutie izolačných systémov počas prevádzky zariadenia, plánovaná údržba\n- diagnostické metódy: elektrické, akustické, mechanické, chemické, metódy štrukturálnej analýzy, meranie čiastkových výbojov, deštruktívne a nedeštruktívne skúšky\n- diagnostika statorovej izolácie generátorov, výkonových transformátorov\n- sledovanie stavu zvodičov prepätia\n- meracie metódy pre posúdenie stavu vn káblov a káblových súborov\n- sledovanie izolačného stavu vn izolátorov\n- diagnostika vypínačov vysokého a veľmi vysokého napätia\n- meranie izolačného odporu, nabíjacích a vybíjacích prúdov, zotaveného napätia,\n- nové trendy v diagnostike"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Barták, A., Mravináč, L., Neumann, J., Vařák, J.: Diagnostika porúch izolácií el. strojů, Praha 1984\n2. Sequenz, H. a kol.: Technologie vinutí el. strojů točivých, Praha 1980\n3. Kolcunová, I.: Diagnostika EE zariadení, Košice 2003\n4. Kolcunová, I.: Diagnostika elektroenergetických zariadení metódou čiastkových výbojov, vedecká monográfia, Košice, 2008\n5. Kurimský, J. et al.: Multi-scale decomposition for partial discharge analysis , Przeglad Elektrotechniczny. Vol. 84, no. 9 (2008), p. 169-173. - ISSN 0033-2097\n6. Rajňák, M.; Kurimský, J.; Cimbala, R.; Čonka, Z.; Bartko, P.; Šuga, M.; Paulovičová, K.; Tóthová, J.; Karpets, M.; Kopčanský, P.; Timko, M. Statistical Analysis of AC Dielectric Breakdown in Transformer Oil-Based Magnetic Nanofluids. Journal of Molecular Liquids 2020, 309, 113243.\n7. Kurimský, J. et al. Effect of magnetic nanoparticles on partial discharges in transformer oil - 2020. In: Journal of Magnetism and Magnetic Materials. - Amsterdam (Holandsko) : Elsevier Roč. 496 (2020), s. 65923-65923 [print, online]. - ISSN 0304-8853\n8. Rajňák, M. et al. Statistical analysis of AC dielectric breakdown in transformer oil-based magnetic nanofluids - 2020. In: Journal of Molecular Liquids. - Amsterdam (Holandsko) : Elsevier Roč. 309 (2020), s. [1-7] [print, online]. - ISSN 0167-7322\nKurimský, J.; Rajňák, M.; Cimbala, R.; Rajnič, J.; Timko, M.; Kopčanský, P. Effect of Magnetic Nanoparticles on Partial Discharges in Transformer Oil. Journal of Magnetism and Magnetic Materials 2019, 165923.\n9. Materiály zborníkov konferencií, prezentácie firiem\n10. Kolcunová, I.: Profylaktika elektroenergetických zariadení, skripta 2011\n11. Wadhwa, C.L.: High Voltage Engineering, New Age International, 2007, ISBN 978-81-224-2323-5\n12. INMR weekly technical review, www.inmr.com"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pracovná záťaž: 150 hod\nPriama výučba – prednášky – 26 hod\nCvičenia - 26 hod\nPríprava na cvičenia počas semestra: 20 hodín\nPríprava na skúšku z predmetu: 32 hodín\nExkurzia VN hala Lemešany: 8 hodín\nVypracovanie zadaní: 38 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 27\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n7%\n22%\n26%\n11%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Juraj Kurimský, PhD.\nIng. Ján Zbojovský, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 27,
+    "percent": {
+      "A": 26,
+      "B": 7,
+      "C": 22,
+      "D": 26,
+      "E": 11,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "prof. Ing. Juraj Kurimský, PhD.",
+    "Ing. Ján Zbojovský, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 26001320\nNázov predmetu: Diagnostika a profylaktika v elektroenergetike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%. Protokoly z merania\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%. Ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je zameraný na správne používanie diagnostických meracích metód pri posudzovaní stavu elektroenergetických zariadení, na nové trendy v diagnostike, na meracie metódy odhaľovania zmien prebiehajúcich v izolačnom systéme v dôsledku elektrického, tepelného, mechanického a chemického namáhania počas prevádzky elektroenergetických zariadení.\n\nStručná osnova predmetu:\n- ciele a úlohy technickej diagnostiky, stanovenie stavu izolačného systému\n- starnutie izolačných systémov počas prevádzky zariadenia, plánovaná údržba\n- diagnostické metódy: elektrické, akustické, mechanické, chemické, metódy štrukturálnej analýzy, meranie čiastkových výbojov, deštruktívne a nedeštruktívne skúšky\n- diagnostika statorovej izolácie generátorov, výkonových transformátorov\n- sledovanie stavu zvodičov prepätia\n- meracie metódy pre posúdenie stavu vn káblov a káblových súborov\n- sledovanie izolačného stavu vn izolátorov\n- diagnostika vypínačov vysokého a veľmi vysokého napätia\n- meranie izolačného odporu, nabíjacích a vybíjacích prúdov, zotaveného napätia,\n- nové trendy v diagnostike\n\nOdporúčaná literatúra:\n1. Barták, A., Mravináč, L., Neumann, J., Vařák, J.: Diagnostika porúch izolácií el. strojů, Praha 1984\n2. Sequenz, H. a kol.: Technologie vinutí el. strojů točivých, Praha 1980\n3. Kolcunová, I.: Diagnostika EE zariadení, Košice 2003\n4. Kolcunová, I.: Diagnostika elektroenergetických zariadení metódou čiastkových výbojov, vedecká monográfia, Košice, 2008\n5. Kurimský, J. et al.: Multi-scale decomposition for partial discharge analysis , Przeglad Elektrotechniczny. Vol. 84, no. 9 (2008), p. 169-173. - ISSN 0033-2097\n6. Rajňák, M.; Kurimský, J.; Cimbala, R.; Čonka, Z.; Bartko, P.; Šuga, M.; Paulovičová, K.; Tóthová, J.; Karpets, M.; Kopčanský, P.; Timko, M. Statistical Analysis of AC Dielectric Breakdown in Transformer Oil-Based Magnetic Nanofluids. Journal of Molecular Liquids 2020, 309, 113243.\n7. Kurimský, J. et al. Effect of magnetic nanoparticles on partial discharges in transformer oil - 2020. In: Journal of Magnetism and Magnetic Materials. - Amsterdam (Holandsko) : Elsevier Roč. 496 (2020), s. 65923-65923 [print, online]. - ISSN 0304-8853\n8. Rajňák, M. et al. Statistical analysis of AC dielectric breakdown in transformer oil-based magnetic nanofluids - 2020. In: Journal of Molecular Liquids. - Amsterdam (Holandsko) : Elsevier Roč. 309 (2020), s. [1-7] [print, online]. - ISSN 0167-7322\nKurimský, J.; Rajňák, M.; Cimbala, R.; Rajnič, J.; Timko, M.; Kopčanský, P. Effect of Magnetic Nanoparticles on Partial Discharges in Transformer Oil. Journal of Magnetism and Magnetic Materials 2019, 165923.\n9. Materiály zborníkov konferencií, prezentácie firiem\n10. Kolcunová, I.: Profylaktika elektroenergetických zariadení, skripta 2011\n11. Wadhwa, C.L.: High Voltage Engineering, New Age International, 2007, ISBN 978-81-224-2323-5\n12. INMR weekly technical review, www.inmr.com\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pracovná záťaž: 150 hod\nPriama výučba – prednášky – 26 hod\nCvičenia - 26 hod\nPríprava na cvičenia počas semestra: 20 hodín\nPríprava na skúšku z predmetu: 32 hodín\nExkurzia VN hala Lemešany: 8 hodín\nVypracovanie zadaní: 38 hodín\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 27\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n26%\n7%\n22%\n26%\n11%\n7%\n\n\nZabezpečuje:\nprof. Ing. Juraj Kurimský, PhD.\nIng. Ján Zbojovský, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

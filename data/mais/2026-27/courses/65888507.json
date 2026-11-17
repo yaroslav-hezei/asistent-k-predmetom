@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65888507",
+  "code": "26000882",
+  "name": "Senzorové siete",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888507",
+  "fetched_at": "2026-11-17T15:04:08Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000882"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Senzorové siete"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu získa študent rozšírené teoretické a praktické vedomosti a zručnosti z oblasti senzorov, senzorových systémov a sietí. Zameriava sa na prehĺbenie poznatkov v oblasti využitia bezdrôtových senzorových sietí v priemyselnej a environmentálnej praxi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do teórie senzorových (SS/WSN) sietí (základné pojmy a história vývoja SS/WSN).\n2. Komunikačná architektúra SS/WSN sietí.\n3. Topológie, komponenty a použitie SS/WSN sietí.\n4. Štandardy a špecifikácie SS/WSN sietí.\n5. Vrstvový model SS/WSN (fyzická a linková vrstva).\n6. Vrstvový model SS/WSN (sieťová, transportná a aplikačná vrstva).\n7. Vrstvový model SS/WSN (rovina riadenia energie).\n8. Vrstvový model SS/WSN (rovina riadenia úloh, mobility a pripojenia).\n9. Smerovanie v SS/WSN sieťach.\n10. Bezpečnosť v SS/WSN sieťach.\n11. Internet vecí (IoT)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Yang,Y.: Intelligent Internet of Things. Wiley 2020, ISBN 978-1119593546.\n2. Tsiatsis,V.: Internet of Things. Elsevier 2018, ISBN 0128144351.\n3. Hu,F.-Hao,Q.: Intelligent Sensor Networks. 2016, ISBN 978-1138199743.\n4. Allen,M. et al.: Wireless Sensor Networks. Springer 2014, ISBN 978-1489990587.\n5. Obaidat,M.S.-Misra,S.: Principles of Wireless Sensor Networks. Cambridge University Press, 2014.\n6. Ferrari,G.: Sensor Networks. Springer 2012, ISBN 364-2262856.\n7. Akyildiz Ian F.: Wireless Sensor Networks. Wiley 2010, ISBN 978-0470036013.\n8. Almalkawi,I.T.-Guerrero Zapata,M.-Al-Karaki,J.N.-Morillo-Pozo,J.: Wireless Multimedia Sensor Networks: Current Trends and Future Directions. Sensors, 2010.\n9. Mahalik,N.P.: Sensor Networks and Configuration: Fundamentals, Standards, Platforms, and Applications. Berlin, Springer, 2007.\n10. Rappaport,T.S.: Wireless Communications: Principles and Practice. Prentice Hall, New\nYork, 2002."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 211\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n57%\n34%\n7%\n0%\n0%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ľuboš Ovseník, PhD.\nIng. Samuel Andrejčík\nIng. Miroslav Sokol, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 211,
+    "percent": {
+      "A": 57,
+      "B": 34,
+      "C": 7,
+      "D": 0,
+      "E": 0,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ľuboš Ovseník, PhD.",
+    "Ing. Samuel Andrejčík",
+    "Ing. Miroslav Sokol, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000882\nNázov predmetu: Senzorové siete\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu získa študent rozšírené teoretické a praktické vedomosti a zručnosti z oblasti senzorov, senzorových systémov a sietí. Zameriava sa na prehĺbenie poznatkov v oblasti využitia bezdrôtových senzorových sietí v priemyselnej a environmentálnej praxi.\n\nStručná osnova predmetu:\n1. Úvod do teórie senzorových (SS/WSN) sietí (základné pojmy a história vývoja SS/WSN).\n2. Komunikačná architektúra SS/WSN sietí.\n3. Topológie, komponenty a použitie SS/WSN sietí.\n4. Štandardy a špecifikácie SS/WSN sietí.\n5. Vrstvový model SS/WSN (fyzická a linková vrstva).\n6. Vrstvový model SS/WSN (sieťová, transportná a aplikačná vrstva).\n7. Vrstvový model SS/WSN (rovina riadenia energie).\n8. Vrstvový model SS/WSN (rovina riadenia úloh, mobility a pripojenia).\n9. Smerovanie v SS/WSN sieťach.\n10. Bezpečnosť v SS/WSN sieťach.\n11. Internet vecí (IoT).\n\nOdporúčaná literatúra:\n1. Yang,Y.: Intelligent Internet of Things. Wiley 2020, ISBN 978-1119593546.\n2. Tsiatsis,V.: Internet of Things. Elsevier 2018, ISBN 0128144351.\n3. Hu,F.-Hao,Q.: Intelligent Sensor Networks. 2016, ISBN 978-1138199743.\n4. Allen,M. et al.: Wireless Sensor Networks. Springer 2014, ISBN 978-1489990587.\n5. Obaidat,M.S.-Misra,S.: Principles of Wireless Sensor Networks. Cambridge University Press, 2014.\n6. Ferrari,G.: Sensor Networks. Springer 2012, ISBN 364-2262856.\n7. Akyildiz Ian F.: Wireless Sensor Networks. Wiley 2010, ISBN 978-0470036013.\n8. Almalkawi,I.T.-Guerrero Zapata,M.-Al-Karaki,J.N.-Morillo-Pozo,J.: Wireless Multimedia Sensor Networks: Current Trends and Future Directions. Sensors, 2010.\n9. Mahalik,N.P.: Sensor Networks and Configuration: Fundamentals, Standards, Platforms, and Applications. Berlin, Springer, 2007.\n10. Rappaport,T.S.: Wireless Communications: Principles and Practice. Prentice Hall, New\nYork, 2002.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 211\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n57%\n34%\n7%\n0%\n0%\n2%\n\n\nZabezpečuje:\nprof. Ing. Ľuboš Ovseník, PhD.\nIng. Samuel Andrejčík\nIng. Miroslav Sokol, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

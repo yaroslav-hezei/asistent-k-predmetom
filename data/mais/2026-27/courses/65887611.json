@@ -1,0 +1,167 @@
+{
+  "predmet_id": "65887611",
+  "code": "26000834",
+  "name": "Programovanie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65887611",
+  "fetched_at": "2026-11-17T15:03:07Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000834"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Programovanie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,0,2,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "testy, zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent rozumie princípom a analýze zložitosti algoritmov, techník triedenia a vyhľadávania, ako aj pokročilých prístupov návrhu algoritmov. Bude schopný pracovať s dynamickými dátovými štruktúrami a efektne ich implementovať. Ovláda techniky ladenia programov aj jednotkového testovania."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Zložitosť algoritmov\n2. Algoritmy triedenia a vyhľadávania\n3. Údajový typ smerník, smerníková aritmetika\n4. Dynamické polia\n5. Spojkové zoznamy\n6. Stromy\n7. Hešovacia tabuľka\n8. Preprocesor, modulárne programovanie\n9. Techniky ladenia programov\n10. Jednotkové testovanie\n11. Asynchrónne programovanie\n12. Techniky návrhu algoritmov – rozdeľuj a panuj, dynamické programovanie"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein: Introduction to Algorithms Third Edition. MIT Press 2009. 1292 s. ISBN 978-0-262-03384-8\n2. HEROUT, P. Učebnice jazyka C : 1. díl. České Budějovice: Nakladatelství KOPP, 2009. 271 s. ISBN 978-80-7232-363-8\n3. HEROUT, P. Učebnice jazyka C : 2. díl. České Budějovice: Nakladatelství KOPP, 2010. 165 s. ISBN 978-80-7232-367-8\n4. Gustedt, J. Modern C: Covers the C23 standard (3rd ed.). Manning Publications, 2025 ISBN-13: 978-1-63343-777-7."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1284\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n4%\n10%\n20%\n28%\n32%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Daniel Hládek, PhD.\ndoc. Ing. Ján Staš, PhD.\nIng. Renát Haluška, PhD.\nIng. Maroš Harahus, PhD.\nIng. Jozef Badár\nIng. Kristián Sopkovič"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1284,
+    "percent": {
+      "A": 6,
+      "B": 4,
+      "C": 10,
+      "D": 20,
+      "E": 28,
+      "FX": 32
+    }
+  },
+  "teachers": [
+    "doc. Ing. Daniel Hládek, PhD.",
+    "doc. Ing. Ján Staš, PhD.",
+    "Ing. Renát Haluška, PhD.",
+    "Ing. Maroš Harahus, PhD.",
+    "Ing. Jozef Badár",
+    "Ing. Kristián Sopkovič"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000834\nNázov predmetu: Programovanie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,0,2,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\ntesty, zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent rozumie princípom a analýze zložitosti algoritmov, techník triedenia a vyhľadávania, ako aj pokročilých prístupov návrhu algoritmov. Bude schopný pracovať s dynamickými dátovými štruktúrami a efektne ich implementovať. Ovláda techniky ladenia programov aj jednotkového testovania.\n\nStručná osnova predmetu:\n1. Zložitosť algoritmov\n2. Algoritmy triedenia a vyhľadávania\n3. Údajový typ smerník, smerníková aritmetika\n4. Dynamické polia\n5. Spojkové zoznamy\n6. Stromy\n7. Hešovacia tabuľka\n8. Preprocesor, modulárne programovanie\n9. Techniky ladenia programov\n10. Jednotkové testovanie\n11. Asynchrónne programovanie\n12. Techniky návrhu algoritmov – rozdeľuj a panuj, dynamické programovanie\n\n\nOdporúčaná literatúra:\n1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein: Introduction to Algorithms Third Edition. MIT Press 2009. 1292 s. ISBN 978-0-262-03384-8\n2. HEROUT, P. Učebnice jazyka C : 1. díl. České Budějovice: Nakladatelství KOPP, 2009. 271 s. ISBN 978-80-7232-363-8\n3. HEROUT, P. Učebnice jazyka C : 2. díl. České Budějovice: Nakladatelství KOPP, 2010. 165 s. ISBN 978-80-7232-367-8\n4. Gustedt, J. Modern C: Covers the C23 standard (3rd ed.). Manning Publications, 2025 ISBN-13: 978-1-63343-777-7.\n\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1284\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n4%\n10%\n20%\n28%\n32%\n\n\nZabezpečuje:\ndoc. Ing. Daniel Hládek, PhD.\ndoc. Ing. Ján Staš, PhD.\nIng. Renát Haluška, PhD.\nIng. Maroš Harahus, PhD.\nIng. Jozef Badár\nIng. Kristián Sopkovič\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

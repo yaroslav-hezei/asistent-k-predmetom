@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65682336",
+  "code": "26001378",
+  "name": "Architektúry informačných systémov a prediktívna údržba",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65682336",
+  "fetched_at": "2026-11-17T15:01:58Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001378"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Architektúry informačných systémov a prediktívna údržba"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po úspešnom absolvovaní predmetu študent preukáže pokročilé znalosti v oblasti architektúr informačných a riadiacich systémov (IRS), vrátane stredných vrstiev, v kontexte Industry 4.0 a Internetu vecí/Internetu všetkého. Bude schopný navrhovať a realizovať architektúry IRS priemyselných podnikov s využitím moderných informačných a komunikačných technológií, integrujúc distribuované systémy, senzory a priemyselné zariadenia. Študent dokáže aplikovať princípy digitálnej transformácie a inteligentnej údržby, vrátane stratégií prediktívnej údržby, v reálnom priemyselnom prostredí. Získané zručnosti zahŕňajú zber, spracovanie a vizualizáciu údajov vo výrobnom priemysle s využitím vhodných softvérových nástrojov a technológií pre monitorovanie a riadenie procesov. Študent je schopný analyzovať a interpretovať dáta pre prediktívnu údržbu, využívať pokročilé analytické metódy, štatistické prístupy a techniky strojového učenia na optimalizáciu plánovania údržby a zvýšenie spoľahlivosti systémov. Nakoniec dokáže hodnotiť a vyberať vhodné technológie a architektonické riešenia pre priemyselné informačné systémy s ohľadom na výkon, škálovateľnosť a udržateľnosť."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Modely a architektúra informačných a riadiacich systémov (IRS) pre malé, stredné a veľké podniky s dôrazom na úroveň MES (Manufacturing Execution System) na báze Industry 4.0, Internetu vecí (Internetu všetkého),\n- Ďalšie architektúry informačných systémov RAMI 4.0, IIRA, IoT referenčná architektúra\n- Technológie zberu procesných dát prostredníctvom transakčných manažérov a procesných databázových serverov a vizualizácie vo výrobnom priemysle\n- Procesný prístup a procesné riadenie\n- Digitálna transformácie, architektúry a nástroje inteligentnej údržby\n- Korektívna, preventívna, prediktívna údržba a údržba založená na podmienkach\n- Nástroje prediktívnej údržby\n- Analyzovanie a interpretovanie dát pre prediktívnu údržbu s využitím pokročilej analytiky, štatistických metód a techník strojového učenia na optimalizáciu harmonogramov údržby a zlepšenie spoľahlivosti systému.\n- Aplikovanie princípov digitálnej transformácie a inteligentnej údržby vrátane stratégií prediktívnej údržby v reálnych priemyselných kontextoch."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "MEGOW, J.: Reference Architecture Models Industry 4.0, Smart Manufacturing and IoT, Begleitforschung PAiCE, Berlin, 2020\n\nJADLOVSKÝ, J. - ČOPÍK, M. - PAPCUN, P.: Distribuované systémy riadenia, 1. vyd - Košice : Elfa, 2013, ISBN 978-80-8086-227-5\n\nČERVEŇAN A.: Systém údržby, Strojnícka fakulta STU, 2015, ISBN 978-80-971986-0-2"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Účasť na seminároch a konzultáciách: 13 hodin\n\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\n\nCelkový počet hodín: 160 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Papcun, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Papcun, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001378\nNázov predmetu: Architektúry informačných systémov a prediktívna údržba\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo úspešnom absolvovaní predmetu študent preukáže pokročilé znalosti v oblasti architektúr informačných a riadiacich systémov (IRS), vrátane stredných vrstiev, v kontexte Industry 4.0 a Internetu vecí/Internetu všetkého. Bude schopný navrhovať a realizovať architektúry IRS priemyselných podnikov s využitím moderných informačných a komunikačných technológií, integrujúc distribuované systémy, senzory a priemyselné zariadenia. Študent dokáže aplikovať princípy digitálnej transformácie a inteligentnej údržby, vrátane stratégií prediktívnej údržby, v reálnom priemyselnom prostredí. Získané zručnosti zahŕňajú zber, spracovanie a vizualizáciu údajov vo výrobnom priemysle s využitím vhodných softvérových nástrojov a technológií pre monitorovanie a riadenie procesov. Študent je schopný analyzovať a interpretovať dáta pre prediktívnu údržbu, využívať pokročilé analytické metódy, štatistické prístupy a techniky strojového učenia na optimalizáciu plánovania údržby a zvýšenie spoľahlivosti systémov. Nakoniec dokáže hodnotiť a vyberať vhodné technológie a architektonické riešenia pre priemyselné informačné systémy s ohľadom na výkon, škálovateľnosť a udržateľnosť.\n\nStručná osnova predmetu:\n- Modely a architektúra informačných a riadiacich systémov (IRS) pre malé, stredné a veľké podniky s dôrazom na úroveň MES (Manufacturing Execution System) na báze Industry 4.0, Internetu vecí (Internetu všetkého),\n- Ďalšie architektúry informačných systémov RAMI 4.0, IIRA, IoT referenčná architektúra\n- Technológie zberu procesných dát prostredníctvom transakčných manažérov a procesných databázových serverov a vizualizácie vo výrobnom priemysle\n- Procesný prístup a procesné riadenie\n- Digitálna transformácie, architektúry a nástroje inteligentnej údržby\n- Korektívna, preventívna, prediktívna údržba a údržba založená na podmienkach\n- Nástroje prediktívnej údržby\n- Analyzovanie a interpretovanie dát pre prediktívnu údržbu s využitím pokročilej analytiky, štatistických metód a techník strojového učenia na optimalizáciu harmonogramov údržby a zlepšenie spoľahlivosti systému.\n- Aplikovanie princípov digitálnej transformácie a inteligentnej údržby vrátane stratégií prediktívnej údržby v reálnych priemyselných kontextoch.\n\n\nOdporúčaná literatúra:\nMEGOW, J.: Reference Architecture Models Industry 4.0, Smart Manufacturing and IoT, Begleitforschung PAiCE, Berlin, 2020\n\nJADLOVSKÝ, J. - ČOPÍK, M. - PAPCUN, P.: Distribuované systémy riadenia, 1. vyd - Košice : Elfa, 2013, ISBN 978-80-8086-227-5\n\nČERVEŇAN A.: Systém údržby, Strojnícka fakulta STU, 2015, ISBN 978-80-971986-0-2\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na laboratórnych cvičeniach: 13 hodín\n- Účasť na seminároch a konzultáciách: 13 hodin\n\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\n\nCelkový počet hodín: 160 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Papcun, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

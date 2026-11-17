@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65960107",
+  "code": "2620631",
+  "name": "Elektrické ochrany v elektrizačnej sústave",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960107",
+  "fetched_at": "2026-11-17T15:13:06Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2620631"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektrické ochrany v elektrizačnej sústave"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nVstupné testy a protokoly z laboratórnych meraní. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca zo záverečného testu. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné vedomosti z oblasti princípov analógových a digitálnych ochrán, spôsobov chránenia elektrických vedení a elektrických strojov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- elektrické ochrany – požiadavky na ochrany, princípy činnosti,\n- digitálne ochrany – konštrukčné riešenie,\n- prístrojové transformátory prúdu a napätia, senzory prúdu a napätia,\n- typy porúch na elektrických vedeniach, kritériá chránenia elektrických vedení,\n- ochrany elektrických vedení – nadprúdové ochrany, dištančné ochrany, opätovné zapínanie,\n- ochrany synchrónnych generátorov, transformátorov a elektrických motorov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Janíček, F. et al.: Digitálne ochrany v elektrizačnej sústave. In.: STU Bratislava 2004, 360 s., ISBN 80-227-2135-2.\n2. Dohnálek, P.: Ochrany pro průmysl a energetiku. In.: SNTL Praha, 1991. 342 s., ISBN 80-03-00630-9.\n3. Hvizdoš, M.: Elektrické ochrany v elektrizačnej sústave - Návody na cvičenia. TU Košice, 2012, 70 s., ISBN 978-80-553-1193-7."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pracovná záťaž:\nPriama výučba - prednášky 20 hodín, cvičenia 30 hodín, konzultácie 10 hodín, príprava na merania 26 hodín, spracovanie protokolov z meraní 20 hodín, vypracovanie zadaní 20 hodín, príprava na skúšku 24 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 768\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n14%\n22%\n29%\n18%\n11%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Zsolt Čonka, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 768,
+    "percent": {
+      "A": 6,
+      "B": 14,
+      "C": 22,
+      "D": 29,
+      "E": 18,
+      "FX": 11
+    }
+  },
+  "teachers": [
+    "doc. Ing. Zsolt Čonka, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2620631\nNázov predmetu: Elektrické ochrany v elektrizačnej sústave\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): LS 26,39\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nVstupné testy a protokoly z laboratórnych meraní. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostávajúca zo záverečného testu. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné vedomosti z oblasti princípov analógových a digitálnych ochrán, spôsobov chránenia elektrických vedení a elektrických strojov.\n\nStručná osnova predmetu:\n- elektrické ochrany – požiadavky na ochrany, princípy činnosti,\n- digitálne ochrany – konštrukčné riešenie,\n- prístrojové transformátory prúdu a napätia, senzory prúdu a napätia,\n- typy porúch na elektrických vedeniach, kritériá chránenia elektrických vedení,\n- ochrany elektrických vedení – nadprúdové ochrany, dištančné ochrany, opätovné zapínanie,\n- ochrany synchrónnych generátorov, transformátorov a elektrických motorov.\n\nOdporúčaná literatúra:\n1. Janíček, F. et al.: Digitálne ochrany v elektrizačnej sústave. In.: STU Bratislava 2004, 360 s., ISBN 80-227-2135-2.\n2. Dohnálek, P.: Ochrany pro průmysl a energetiku. In.: SNTL Praha, 1991. 342 s., ISBN 80-03-00630-9.\n3. Hvizdoš, M.: Elektrické ochrany v elektrizačnej sústave - Návody na cvičenia. TU Košice, 2012, 70 s., ISBN 978-80-553-1193-7.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pracovná záťaž:\nPriama výučba - prednášky 20 hodín, cvičenia 30 hodín, konzultácie 10 hodín, príprava na merania 26 hodín, spracovanie protokolov z meraní 20 hodín, vypracovanie zadaní 20 hodín, príprava na skúšku 24 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 768\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n14%\n22%\n29%\n18%\n11%\n\n\nZabezpečuje:\ndoc. Ing. Zsolt Čonka, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

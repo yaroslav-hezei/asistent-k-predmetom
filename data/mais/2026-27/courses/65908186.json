@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65908186",
+  "code": "26001036",
+  "name": "Pneumatické a hydraulické systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908186",
+  "fetched_at": "2026-11-17T15:06:12Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001036"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Pneumatické a hydraulické systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú písomnú previerku za 40 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nPraktická časť skúšky sa skladá z návrhu a zapojenie pneumatických obvodov. V teoretickej ústnej časti sa odpovedá na otázky."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu bude študent oboznámený s konštrukciou a vlastnosťami pneumatických a hydraulických systémov, bude vedieť čítať pneumatické a hydraulické schémy, bude vedieť navrhnúť a prakticky zostaviť pneumatický a hydraulický obvod a bude vedieť zapojiť elektrické riadenie a naprogramovať počítačové riadenie. Študent bude schopný vyhľadať chyby v zapojení. Získa praktické zručnosti prácou s pneumatickými a hydraulickými prvkami."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základy teórie pneumatických mechanizmov\n2. Výroba, rozvod a úprava stlačeného vzduchu\n3. Pneumatické pracovné prvky (motory)\n4. Pneumatické riadiace prvky (rozvádzače)\n5. Návrh pneumatických mechanizmov\n6. Kreslenie schém\n7. Počítačová podpora návrhu pneumatických obvodov\n8. Sekvenčné riadenie viacerých motorov\n9. Elektropneumatické systémy\n10. Riadenie pneumatických systémov programovateľnými automatmi\n11. Hydraulické mechanizmy"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] BOBER, Peter: Pneumatické a hydraulické pohony. Košice: Technická univerzita v Košiciach, 2012, 107 s., ISBN 978-80-553-0893-7\n[2] BOBER, Peter: Pneumatické a hydraulické pohony II. Riešené úlohy. [DVD-Rom] Košice: Technická univerzita v Košiciach, 2012, ISBN 978-80-553-1078-7\n[3] Kopáček, J.: Pneumatické mechanismy. Díl I. a II. Ostrava: Technická univerzita, 1996 (skriptum)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 266\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n17%\n27%\n20%\n12%\n8%\n17%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Girovský, PhD.\nIng. Peter Bober, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 266,
+    "percent": {
+      "A": 17,
+      "B": 27,
+      "C": 20,
+      "D": 12,
+      "E": 8,
+      "FX": 17
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Girovský, PhD.",
+    "Ing. Peter Bober, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001036\nNázov predmetu: Pneumatické a hydraulické systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú písomnú previerku za 40 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nPraktická časť skúšky sa skladá z návrhu a zapojenie pneumatických obvodov. V teoretickej ústnej časti sa odpovedá na otázky.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu bude študent oboznámený s konštrukciou a vlastnosťami pneumatických a hydraulických systémov, bude vedieť čítať pneumatické a hydraulické schémy, bude vedieť navrhnúť a prakticky zostaviť pneumatický a hydraulický obvod a bude vedieť zapojiť elektrické riadenie a naprogramovať počítačové riadenie. Študent bude schopný vyhľadať chyby v zapojení. Získa praktické zručnosti prácou s pneumatickými a hydraulickými prvkami.\n\nStručná osnova predmetu:\n1. Základy teórie pneumatických mechanizmov\n2. Výroba, rozvod a úprava stlačeného vzduchu\n3. Pneumatické pracovné prvky (motory)\n4. Pneumatické riadiace prvky (rozvádzače)\n5. Návrh pneumatických mechanizmov\n6. Kreslenie schém\n7. Počítačová podpora návrhu pneumatických obvodov\n8. Sekvenčné riadenie viacerých motorov\n9. Elektropneumatické systémy\n10. Riadenie pneumatických systémov programovateľnými automatmi\n11. Hydraulické mechanizmy\n\nOdporúčaná literatúra:\n[1] BOBER, Peter: Pneumatické a hydraulické pohony. Košice: Technická univerzita v Košiciach, 2012, 107 s., ISBN 978-80-553-0893-7\n[2] BOBER, Peter: Pneumatické a hydraulické pohony II. Riešené úlohy. [DVD-Rom] Košice: Technická univerzita v Košiciach, 2012, ISBN 978-80-553-1078-7\n[3] Kopáček, J.: Pneumatické mechanismy. Díl I. a II. Ostrava: Technická univerzita, 1996 (skriptum)\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 266\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n17%\n27%\n20%\n12%\n8%\n17%\n\n\nZabezpečuje:\ndoc. Ing. Peter Girovský, PhD.\nIng. Peter Bober, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

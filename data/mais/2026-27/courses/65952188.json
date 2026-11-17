@@ -1,0 +1,192 @@
+{
+  "predmet_id": "65952188",
+  "code": "26000643",
+  "name": "Dátové inžinierstvo",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952188",
+  "fetched_at": "2026-11-17T15:09:11Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000643"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Dátové inžinierstvo"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu Dátové inžinierstvo bude vedieť navrhovať a realizovať riešenia na zber, spracovanie a ukladanie dát. Bude schopný vytvárať efektívne dátové pipeline vrátane čistenia a transformácie dát. Zvládne zabezpečiť kvalitu a bezpečnosť dát a navrhovať dátové infraštruktúry s ohľadom na ich škálovateľnosť a dostupnosť. Osvojí si prácu s modernými dátovými technológiami a nástrojmi pre spracovanie dát. Bude pripravený spolupracovať na vývoji dátových riešení v tíme s dátovými vedcami a analytikmi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do dátového inžinierstva – Miesto dátového inžinierstva v dátovej vede; úlohy dátového inžiniera; dátové architektúry a životný cyklus dát; rozdiely medzi dátovým inžinierstvom, dátovou vedou a dátovou analytikou.\n2. Zdroje dát, ich získavanie a formáty ukladania – Štruktúrované, semištruktúrované a neštruktúrované dáta; dátové formáty a spôsoby ukladania dát (CSV, JSON, XML, Parquet, Avro, ORC); API, IoT, logy, streaming dáta; OpenData; princípy zabezpečenia kvality dát pri zbere.\n3. Dátové pipeline a ETL/ELT – Návrh a realizácia ETL/ELT procesov; dátové toky a integrácie; nástroje na orchestráciu pipeline; automatizácia a monitoring dátových tokov.\n4. Relačné databázy, SQL a správa dátových formátov – Relačný model; SQL dopyty; transakcie a ACID; ukladanie a spracovanie komplexných dátových formátov (JSON, XML, polia, objekty) v relačných databázach; práca s veľkými objemami dát; partitioning, sharding a indexovanie.\n5. Optimalizácia a ladenie SQL dotazov – Techniky optimalizácie SQL dopytov; query plány (EXPLAIN, ANALYZE); optimalizácia JOIN-ov.\n6. Pokročilé databázy I – Postrelačné a pokročilé relačné databázy - temporálne, objektovo-relačné, fuzzy, time-series databázy, textové a iné databázy\n7. Dátové sklady, dátové jazerá a cloudové platformy – Architektúra dátových skladov; OLAP a OLTP; dátové jazerá vs. dátové sklady; moderné platformy a cloudové riešenia; porovnanie klasických dátových skladov (Redshift, Snowflake) a analytických databáz (BigQuery, Athena).\n8. NoSQL databázy a BigTable – Klasifikácia a vlastnosti NoSQL databáz; BASE a CAP princípy; dokumentové, grafové, kľúč-hodnota a stĺpcové databázy; architektúra BigTable a jej vplyv na NoSQL systémy (HBase, Cassandra).\n9. NoSQL ekosystém a architektúry – Návrh dátových modelov; agregácie a dopyty; replikácia, škálovanie a distribúcia dát; využitie NoSQL v dátových pipeline a Big Data riešeniach.\n10. Big Data, MapReduce, streaming a distribuované spracovanie dát – Architektúra Big Data systémov; MapReduce ako základný model spracovania; Hadoop, Spark, Flink; streamovanie dát a messaging systémy (Kafka, Pulsar); Lambda a Kappa architektúra.\n11. Zabezpečenie dát a Data Governance – Kvalita, integrita a ochrana dát; šifrovanie, anonymizácia, GDPR; dátové katalógy, metadáta, data lineage; základy DataOps.\n12. Návrh dátovej infraštruktúry, trendy – Návrh infraštruktúr pre spracovanie dát; škálovanie, dostupnosť a bezpečnosť; hybridné riešenia; CI/CD pre dátové pipeline; DataOps, MLOps a AI/ML pipeline v kontexte dátového inžinierstva;"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "REIS, Joe; HOUSLEY, Matt. Fundamentals of Data Engineering: The Essential Guide to Data Pipelines and Data Platforms. O'Reilly Media, 2022. ISBN 978-1098108304.\nBEACH, D. Introduction to Data Engineering. Learn the skills needed to break into Data Engineering. Dostupné online na: http://leanpub.com/dataengineeringwithpython.\nCRICKARD, Paul. Data Engineering with Python. Packt Publishing, 2020.\nVAISMAN, A.; ZIMÁNYI, E. Data warehouse systems. 2nd edn. Springer, 2022. ISBN 978-3662651698. Dostupné online na: https:doi.org/10.1007/978-3-662-65167-4.\nPONNIAH, Paulraj. Data Warehousing Fundamentals for IT Professionals. 2nd ed., Wiley-Blackwell, 2010. ISBN 0470462078. Dostupné online na: https://doi.org/10.1002/9780470604137.\nELMASRI, Ramez; NAVATHE, Shamkant B. Fundamentals of Database Systems. 7th ed., Pearson, 2017.\nWINAND, Markus. SQL Performance Explained. Markus Winand, 2012.\nTIWARI, Shashank. Professional NoSQL. Wrox Press, 2011.\nFOWLER, Adam. NoSQL For Dummies. John Wiley & Sons, 2015.\nZANIOLO, Carlo et al. Advanced Database Systems. Morgan Kaufmann, 1997. The Morgan Kaufmann Series in Data Management Systems. ISBN 978-1558604438.\nGENČI, Ján a kol. Dátové inžinierstvo, elektronické študijné materiály. 2025, v príprave. Dostupné na: https://moodle.fei.tuke.sk."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 372\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n18%\n21%\n23%\n11%\n16%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Genči, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 372,
+    "percent": {
+      "A": 11,
+      "B": 18,
+      "C": 21,
+      "D": 23,
+      "E": 11,
+      "FX": 16
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Genči, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000643\nNázov predmetu: Dátové inžinierstvo\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu Dátové inžinierstvo bude vedieť navrhovať a realizovať riešenia na zber, spracovanie a ukladanie dát. Bude schopný vytvárať efektívne dátové pipeline vrátane čistenia a transformácie dát. Zvládne zabezpečiť kvalitu a bezpečnosť dát a navrhovať dátové infraštruktúry s ohľadom na ich škálovateľnosť a dostupnosť. Osvojí si prácu s modernými dátovými technológiami a nástrojmi pre spracovanie dát. Bude pripravený spolupracovať na vývoji dátových riešení v tíme s dátovými vedcami a analytikmi.\n\nStručná osnova predmetu:\n1. Úvod do dátového inžinierstva – Miesto dátového inžinierstva v dátovej vede; úlohy dátového inžiniera; dátové architektúry a životný cyklus dát; rozdiely medzi dátovým inžinierstvom, dátovou vedou a dátovou analytikou.\n2. Zdroje dát, ich získavanie a formáty ukladania – Štruktúrované, semištruktúrované a neštruktúrované dáta; dátové formáty a spôsoby ukladania dát (CSV, JSON, XML, Parquet, Avro, ORC); API, IoT, logy, streaming dáta; OpenData; princípy zabezpečenia kvality dát pri zbere.\n3. Dátové pipeline a ETL/ELT – Návrh a realizácia ETL/ELT procesov; dátové toky a integrácie; nástroje na orchestráciu pipeline; automatizácia a monitoring dátových tokov.\n4. Relačné databázy, SQL a správa dátových formátov – Relačný model; SQL dopyty; transakcie a ACID; ukladanie a spracovanie komplexných dátových formátov (JSON, XML, polia, objekty) v relačných databázach; práca s veľkými objemami dát; partitioning, sharding a indexovanie.\n5. Optimalizácia a ladenie SQL dotazov – Techniky optimalizácie SQL dopytov; query plány (EXPLAIN, ANALYZE); optimalizácia JOIN-ov.\n6. Pokročilé databázy I – Postrelačné a pokročilé relačné databázy - temporálne, objektovo-relačné, fuzzy, time-series databázy, textové a iné databázy\n7. Dátové sklady, dátové jazerá a cloudové platformy – Architektúra dátových skladov; OLAP a OLTP; dátové jazerá vs. dátové sklady; moderné platformy a cloudové riešenia; porovnanie klasických dátových skladov (Redshift, Snowflake) a analytických databáz (BigQuery, Athena).\n8. NoSQL databázy a BigTable – Klasifikácia a vlastnosti NoSQL databáz; BASE a CAP princípy; dokumentové, grafové, kľúč-hodnota a stĺpcové databázy; architektúra BigTable a jej vplyv na NoSQL systémy (HBase, Cassandra).\n9. NoSQL ekosystém a architektúry – Návrh dátových modelov; agregácie a dopyty; replikácia, škálovanie a distribúcia dát; využitie NoSQL v dátových pipeline a Big Data riešeniach.\n10. Big Data, MapReduce, streaming a distribuované spracovanie dát – Architektúra Big Data systémov; MapReduce ako základný model spracovania; Hadoop, Spark, Flink; streamovanie dát a messaging systémy (Kafka, Pulsar); Lambda a Kappa architektúra.\n11. Zabezpečenie dát a Data Governance – Kvalita, integrita a ochrana dát; šifrovanie, anonymizácia, GDPR; dátové katalógy, metadáta, data lineage; základy DataOps.\n12. Návrh dátovej infraštruktúry, trendy – Návrh infraštruktúr pre spracovanie dát; škálovanie, dostupnosť a bezpečnosť; hybridné riešenia; CI/CD pre dátové pipeline; DataOps, MLOps a AI/ML pipeline v kontexte dátového inžinierstva;\n\nOdporúčaná literatúra:\nREIS, Joe; HOUSLEY, Matt. Fundamentals of Data Engineering: The Essential Guide to Data Pipelines and Data Platforms. O'Reilly Media, 2022. ISBN 978-1098108304.\nBEACH, D. Introduction to Data Engineering. Learn the skills needed to break into Data Engineering. Dostupné online na: http://leanpub.com/dataengineeringwithpython.\nCRICKARD, Paul. Data Engineering with Python. Packt Publishing, 2020.\nVAISMAN, A.; ZIMÁNYI, E. Data warehouse systems. 2nd edn. Springer, 2022. ISBN 978-3662651698. Dostupné online na: https:doi.org/10.1007/978-3-662-65167-4.\nPONNIAH, Paulraj. Data Warehousing Fundamentals for IT Professionals. 2nd ed., Wiley-Blackwell, 2010. ISBN 0470462078. Dostupné online na: https://doi.org/10.1002/9780470604137.\nELMASRI, Ramez; NAVATHE, Shamkant B. Fundamentals of Database Systems. 7th ed., Pearson, 2017.\nWINAND, Markus. SQL Performance Explained. Markus Winand, 2012.\nTIWARI, Shashank. Professional NoSQL. Wrox Press, 2011.\nFOWLER, Adam. NoSQL For Dummies. John Wiley & Sons, 2015.\nZANIOLO, Carlo et al. Advanced Database Systems. Morgan Kaufmann, 1997. The Morgan Kaufmann Series in Data Management Systems. ISBN 978-1558604438.\nGENČI, Ján a kol. Dátové inžinierstvo, elektronické študijné materiály. 2025, v príprave. Dostupné na: https://moodle.fei.tuke.sk.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 372\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n18%\n21%\n23%\n11%\n16%\n\n\nZabezpečuje:\ndoc. Ing. Ján Genči, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

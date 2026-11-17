@@ -1,0 +1,168 @@
+{
+  "predmet_id": "66013320",
+  "code": "26000781",
+  "name": "Fuzzy systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013320",
+  "fetched_at": "2026-11-17T15:15:03Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000781"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Fuzzy systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npriebežné testy, projekty"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nzáverečný test a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu získa poznatky z oblastí využitia prostriedkov založených na teórii fuzzy množín v oblasti tvorby modelov dynamických systémov, riadenia a optimalizácie parametrov fuzzy systémov ako aj ich využitia v systémoch na podporu rozhodovania. Za týmto účelom absolvent získa potrebné teoretické poznatky o fuzzy systémoch a s nimi spojených metódach pre potreby modelovania, simulácie, riadenia a rozhodovania, spolu s poznatkami návrhu a vyhodnocovania typových experimentov tak, že bude vedieť aplikovať získané poznatky na konkrétnych úlohách v rámci projektov pomocou efektívnej práce s informáciami, analýzy danej úlohy a využitia programovacích techník na báze teórie fuzzy množín."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Spôsoby zavedenia a popisu neurčitosti v riadení.\n• Podrobný popis činností jednotlivých typov fuzzy regulátorov (Mamdaniho, TSK, adaptívny, kĺzavá fuzzy regulácia).\n• Spôsoby získavania bázy znalostí.\n• Fuzzy systémy na podporu rozhodovania.\n• Ďalšie typy fuzzy systémov ako rozšírenia konvenčných prostriedkov riadenia a rozhodovania (fuzzy kognitívne mapy, fuzzy zhlukovanie a pod.).\n• Fuzzy systémy typu 2.\n• Softwarová a hardwarová podpora fuzzy systémov.\n• Fuzzy programovanie a jeho typy.\n• Fuzzy dáta, spôsoby ich analýzy, podobnosť dát.\n• Všeobecná teória neurčitosti – prehľad typov neurčitosti a vzťahy medzi nimi."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Jura, P.: Základy fuzzy logiky pro řízení a modelování (učebnica); VUT Brno, 2003.\n• Vaščák, J.: Fuzzy logika v regulácii (učebný text); Technická Univerzita Košice, 2008.\n• Cherkassky, V. – Mulier, F.: Learning from Data – Concepts, Theory and Methods; John Wiley & Sons, 1998."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 45 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na numerických cvičeniach: 13 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 153 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 279\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n23%\n19%\n18%\n14%\n10%\n15%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Dr. Ing. Ján Vaščák"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 279,
+    "percent": {
+      "A": 23,
+      "B": 19,
+      "C": 18,
+      "D": 14,
+      "E": 10,
+      "FX": 15
+    }
+  },
+  "teachers": [
+    "doc. Dr. Ing. Ján Vaščák"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000781\nNázov predmetu: Fuzzy systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npriebežné testy, projekty\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nzáverečný test a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu získa poznatky z oblastí využitia prostriedkov založených na teórii fuzzy množín v oblasti tvorby modelov dynamických systémov, riadenia a optimalizácie parametrov fuzzy systémov ako aj ich využitia v systémoch na podporu rozhodovania. Za týmto účelom absolvent získa potrebné teoretické poznatky o fuzzy systémoch a s nimi spojených metódach pre potreby modelovania, simulácie, riadenia a rozhodovania, spolu s poznatkami návrhu a vyhodnocovania typových experimentov tak, že bude vedieť aplikovať získané poznatky na konkrétnych úlohách v rámci projektov pomocou efektívnej práce s informáciami, analýzy danej úlohy a využitia programovacích techník na báze teórie fuzzy množín.\n\nStručná osnova predmetu:\n• Spôsoby zavedenia a popisu neurčitosti v riadení.\n• Podrobný popis činností jednotlivých typov fuzzy regulátorov (Mamdaniho, TSK, adaptívny, kĺzavá fuzzy regulácia).\n• Spôsoby získavania bázy znalostí.\n• Fuzzy systémy na podporu rozhodovania.\n• Ďalšie typy fuzzy systémov ako rozšírenia konvenčných prostriedkov riadenia a rozhodovania (fuzzy kognitívne mapy, fuzzy zhlukovanie a pod.).\n• Fuzzy systémy typu 2.\n• Softwarová a hardwarová podpora fuzzy systémov.\n• Fuzzy programovanie a jeho typy.\n• Fuzzy dáta, spôsoby ich analýzy, podobnosť dát.\n• Všeobecná teória neurčitosti – prehľad typov neurčitosti a vzťahy medzi nimi.\n\nOdporúčaná literatúra:\n• Jura, P.: Základy fuzzy logiky pro řízení a modelování (učebnica); VUT Brno, 2003.\n• Vaščák, J.: Fuzzy logika v regulácii (učebný text); Technická Univerzita Košice, 2008.\n• Cherkassky, V. – Mulier, F.: Learning from Data – Concepts, Theory and Methods; John Wiley & Sons, 1998.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 45 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na numerických cvičeniach: 13 hodín\n- Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh a zadaní: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 153 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 279\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n23%\n19%\n18%\n14%\n10%\n15%\n\n\nZabezpečuje:\ndoc. Dr. Ing. Ján Vaščák\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

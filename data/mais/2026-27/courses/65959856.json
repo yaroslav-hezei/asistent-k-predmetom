@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65959856",
+  "code": "2607601",
+  "name": "Elektrárne",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65959856",
+  "fetched_at": "2026-11-17T15:12:49Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2607601"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektrárne"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Exkurzia"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPísomná previerka."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nPísomný test."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Oboznámiť študentov so základnými poznatkami výroby elektrickej energie v klasických a obnoviteľných zdrojoch energie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Princípy výroby elektrickej energie\n2. Tepelné elektrárne\n3. Vodné a prečerpávacie elektrárne\n4. Jadrové elektrárne\n5. Obnoviteľné zdroje energie\n6. Elektrická časť elektrární"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Kolcun, M. - Džmura, J. - Mešter, M. - Pavlík, M.: Elektrárne. Košice: TU. 2017. 202 s. ISBN 978-80-553-3119-5."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pracovná záťaž:\n26 hodín prednášky; 3x8 hodín exkurzie; 13 hodín numerické cvičenia; 8 hodín laboratórne cvičenia v HL a SIL; 4 hodiny vypracovanie protokolu z merania; 20 hodín príprava na kontrolnú písomku; 4 hodiny konzultácie s vyučujúcim; 51 hodín samoštúdium a príprava na skúšku"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1057\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n15%\n20%\n18%\n11%\n24%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Dušan Medveď, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1057,
+    "percent": {
+      "A": 13,
+      "B": 15,
+      "C": 20,
+      "D": 18,
+      "E": 11,
+      "FX": 24
+    }
+  },
+  "teachers": [
+    "doc. Ing. Dušan Medveď, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2607601\nNázov predmetu: Elektrárne\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Exkurzia\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPísomná previerka.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nPísomný test.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOboznámiť študentov so základnými poznatkami výroby elektrickej energie v klasických a obnoviteľných zdrojoch energie.\n\nStručná osnova predmetu:\n1. Princípy výroby elektrickej energie\n2. Tepelné elektrárne\n3. Vodné a prečerpávacie elektrárne\n4. Jadrové elektrárne\n5. Obnoviteľné zdroje energie\n6. Elektrická časť elektrární\n\nOdporúčaná literatúra:\n1. Kolcun, M. - Džmura, J. - Mešter, M. - Pavlík, M.: Elektrárne. Košice: TU. 2017. 202 s. ISBN 978-80-553-3119-5.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pracovná záťaž:\n26 hodín prednášky; 3x8 hodín exkurzie; 13 hodín numerické cvičenia; 8 hodín laboratórne cvičenia v HL a SIL; 4 hodiny vypracovanie protokolu z merania; 20 hodín príprava na kontrolnú písomku; 4 hodiny konzultácie s vyučujúcim; 51 hodín samoštúdium a príprava na skúšku\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1057\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n15%\n20%\n18%\n11%\n24%\n\n\nZabezpečuje:\ndoc. Ing. Dušan Medveď, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

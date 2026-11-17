@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65957619",
+  "code": "26001047",
+  "name": "Materiály a princípy výroby súčiastok v elektrotechnike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65957619",
+  "fetched_at": "2026-11-17T15:12:05Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001047"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Materiály a princípy výroby súčiastok v elektrotechnike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežné testy, projekty"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi so základnými technológiami požívanými pri výrobe pasívnych a aktívnych súčiastok. Získa vedomosti o základných parametroch elektrotechnických súčiastok a ich vzťah ku konštrukčnému riešeniu, použitým materiálom a technologickým procesom používaných pri ich výrobe."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "(1) Úvod do problematiky súčiastok pre odbor elektrotechnika.\n(2) Rezistory: odporové materiály, výroba a konštrukčné riešenia drôtových, vrstvových a fóliových rezistorov.\n(3) Kondenzátory: materiály dielektrických vrstiev a ich triedenie podľa EIA, výroba a konštrukčné riešenie keramických kondenzátorov, elektrolytických, MLCC a fóliových kondenzátorov.\n(4) Cievky a transformátory: materiály magnetického jadra, vinutia cievok a transformátorov, cievky a transformátory v SMD verzii.\n(5) Technológia výroby monolitických IO: CVD a epitaxný rast, litografia, leptanie, difúzia a iónová implantácia, klasická a samozákrytová technológia výroby BJT a MOS tranzistorov.\n(6) Pasívne prvky v monolitickej technológií: difúzny, epitaxný a poly-Si rezistor, kondenzátor na báze pn prechodu, SiO2 a poly-poly, cievky na úrovni čipu.\n(7) Diódy: vnútorná štruktúra a konštrukčné riešenia usmerňovacích, signálových, spínacích, Schottkyho, Zenerových, kapacitných a LED diód.\n(8) Tranzistory: parazitné prvky v štruktúre BJT a MOS tranzistora, základne vlastnosti štruktúry oxid/polovodič, výkonové MOS tranzistory, IGBT.\n(9) Výkonové spínacie prvky a polovodičové relé.\n(10) Metódy kontaktovania a prepájania na úrovni čipov.\n(11) Nové trendy vo vývoji pasívnych a polovodičových súčiastok."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Materiály v systéme moodle: https://moodle.tuke.sk/moodle35/course/view.php?id=146\n\nIan Sinclair: Passive Components for Circuit Design, Elsevier 2000, ISBN 978-0-7506-4933-9\nIntegrated Passive Component Technology (ed. Richard K. Ulrich, ed. Leonard W. Schaper), Wiley-IEEE Press 2003, ISBN: 978-0-471-24431-8\nThe Electrical Engineering Handbook (ed. Richard C. Dorf), CRC Press LLC, 2000\nBenda, V.: Výkonové polovodičové součástky a integrované struktury, ČVUT 1993\nFrank, H., Šnejdar, V.: Principy a vlastnosti polovodičových součástek. SNTL 1976"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 169\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n9%\n16%\n31%\n21%\n20%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Alena Pietriková, CSc.\nIng. Igor Vehec, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 169,
+    "percent": {
+      "A": 2,
+      "B": 9,
+      "C": 16,
+      "D": 31,
+      "E": 21,
+      "FX": 20
+    }
+  },
+  "teachers": [
+    "prof. Ing. Alena Pietriková, CSc.",
+    "Ing. Igor Vehec, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001047\nNázov predmetu: Materiály a princípy výroby súčiastok v elektrotechnike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežné testy, projekty\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi so základnými technológiami požívanými pri výrobe pasívnych a aktívnych súčiastok. Získa vedomosti o základných parametroch elektrotechnických súčiastok a ich vzťah ku konštrukčnému riešeniu, použitým materiálom a technologickým procesom používaných pri ich výrobe.\n\nStručná osnova predmetu:\n(1) Úvod do problematiky súčiastok pre odbor elektrotechnika.\n(2) Rezistory: odporové materiály, výroba a konštrukčné riešenia drôtových, vrstvových a fóliových rezistorov.\n(3) Kondenzátory: materiály dielektrických vrstiev a ich triedenie podľa EIA, výroba a konštrukčné riešenie keramických kondenzátorov, elektrolytických, MLCC a fóliových kondenzátorov.\n(4) Cievky a transformátory: materiály magnetického jadra, vinutia cievok a transformátorov, cievky a transformátory v SMD verzii.\n(5) Technológia výroby monolitických IO: CVD a epitaxný rast, litografia, leptanie, difúzia a iónová implantácia, klasická a samozákrytová technológia výroby BJT a MOS tranzistorov.\n(6) Pasívne prvky v monolitickej technológií: difúzny, epitaxný a poly-Si rezistor, kondenzátor na báze pn prechodu, SiO2 a poly-poly, cievky na úrovni čipu.\n(7) Diódy: vnútorná štruktúra a konštrukčné riešenia usmerňovacích, signálových, spínacích, Schottkyho, Zenerových, kapacitných a LED diód.\n(8) Tranzistory: parazitné prvky v štruktúre BJT a MOS tranzistora, základne vlastnosti štruktúry oxid/polovodič, výkonové MOS tranzistory, IGBT.\n(9) Výkonové spínacie prvky a polovodičové relé.\n(10) Metódy kontaktovania a prepájania na úrovni čipov.\n(11) Nové trendy vo vývoji pasívnych a polovodičových súčiastok.\n\nOdporúčaná literatúra:\nMateriály v systéme moodle: https://moodle.tuke.sk/moodle35/course/view.php?id=146\n\nIan Sinclair: Passive Components for Circuit Design, Elsevier 2000, ISBN 978-0-7506-4933-9\nIntegrated Passive Component Technology (ed. Richard K. Ulrich, ed. Leonard W. Schaper), Wiley-IEEE Press 2003, ISBN: 978-0-471-24431-8\nThe Electrical Engineering Handbook (ed. Richard C. Dorf), CRC Press LLC, 2000\nBenda, V.: Výkonové polovodičové součástky a integrované struktury, ČVUT 1993\nFrank, H., Šnejdar, V.: Principy a vlastnosti polovodičových součástek. SNTL 1976\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 169\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n9%\n16%\n31%\n21%\n20%\n\n\nZabezpečuje:\nprof. Ing. Alena Pietriková, CSc.\nIng. Igor Vehec, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,157 @@
+{
+  "predmet_id": "65888571",
+  "code": "26000885",
+  "name": "Diplomová práca",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888571",
+  "fetched_at": "2026-11-17T15:04:12Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000885"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Diplomová práca"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "9,9"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 117,117/LS 117,117"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "12"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26000877 - Diplomový projekt 2"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie vedúcim ZP, Hodnotenie oponentom ZP"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nNa úspešné absolvovanie tohto predmetu je potrebné odovzdať prácu v predpísanej forme, získať minimálne 51 bodov v posudku vedúceho práce a 51 bodov v posudku oponenta práce a uspieť na štátnej skúške obhájením práce pred štátnou komisiou."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa hlboké vedomosti z témy diplomovej práce a tiež skúsenosti z jej komplexného riešenia a spracovania. Osvojí si inžinierske metódy aj postupy a získa pôvodné odborné výsledky. Dokáže tieto výsledky prezentovať a obhájiť. Tento predmet predstavuje poslednú etapu riešenia a vypracovania diplomovej práce."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Komplexné riešenie a spracovanie diplomovej práce.\n- Podľa potreby aplikácia experimentálnych, konštrukčných, teoretických a softvérových prostriedkov.\n- Prezentácia a obhajoba diplomovej práce."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Vedúcim práce doporučené a samostatne vyhľadané monografie, vedecké a odborné články a ďalšie informačné zdroje."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 286\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n38%\n18%\n13%\n6%\n4%\n21%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Jozef Juhár, CSc.\nprof. Ing. Pavol Galajda, CSc.\nDr. h. c. prof. Ing. Anton Čižmár, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 12,
+    "recommended_semester": "ZS, LS",
+    "completion": "Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [],
+  "grades": {
+    "total_students": 286,
+    "percent": {
+      "A": 38,
+      "B": 18,
+      "C": 13,
+      "D": 6,
+      "E": 4,
+      "FX": 21
+    }
+  },
+  "teachers": [
+    "prof. Ing. Jozef Juhár, CSc.",
+    "prof. Ing. Pavol Galajda, CSc.",
+    "Dr. h. c. prof. Ing. Anton Čižmár, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000885\nNázov predmetu: Diplomová práca\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 9,9\nExterná forma štúdia (hodiny za semester): ZS 117,117/LS 117,117\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 12\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety: 26000877 - Diplomový projekt 2\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška - Obhajoba ZP pre 1. a 2. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nHodnotenie vedúcim ZP, Hodnotenie oponentom ZP\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nNa úspešné absolvovanie tohto predmetu je potrebné odovzdať prácu v predpísanej forme, získať minimálne 51 bodov v posudku vedúceho práce a 51 bodov v posudku oponenta práce a uspieť na štátnej skúške obhájením práce pred štátnou komisiou.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa hlboké vedomosti z témy diplomovej práce a tiež skúsenosti z jej komplexného riešenia a spracovania. Osvojí si inžinierske metódy aj postupy a získa pôvodné odborné výsledky. Dokáže tieto výsledky prezentovať a obhájiť. Tento predmet predstavuje poslednú etapu riešenia a vypracovania diplomovej práce.\n\nStručná osnova predmetu:\n- Komplexné riešenie a spracovanie diplomovej práce.\n- Podľa potreby aplikácia experimentálnych, konštrukčných, teoretických a softvérových prostriedkov.\n- Prezentácia a obhajoba diplomovej práce.\n\n\nOdporúčaná literatúra:\nVedúcim práce doporučené a samostatne vyhľadané monografie, vedecké a odborné články a ďalšie informačné zdroje.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 286\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n38%\n18%\n13%\n6%\n4%\n21%\n\n\nZabezpečuje:\nprof. Ing. Jozef Juhár, CSc.\nprof. Ing. Pavol Galajda, CSc.\nDr. h. c. prof. Ing. Anton Čižmár, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

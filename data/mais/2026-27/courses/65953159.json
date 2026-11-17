@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65953159",
+  "code": "26001252",
+  "name": "Operačné systémy pre technické aplikácie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953159",
+  "fetched_at": "2026-11-17T15:10:22Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001252"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Operačné systémy pre technické aplikácie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPozostáva z písomného testu"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nPozostáva z praktickej previerky"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa oboznámi so základnými princípmi operačných systémov so zameraním na ich aplikácie v technických oblastiach. Po úspešnom absolvovaní predmetu bude študent schopný analyzovať a optimalizovať spracovanie úloh a procesov, pracovať s operačným systémom Linux v kontexte technických aplikácií, spracovania dát, inštalácie a konfigurácie. Osvojí si správu a monitoring procesov a systémových zdrojov, používanie nástrojov na správu súborových systémov a sieťových služieb, identifikáciu a riešenia problémov súvisiacich s kompatibilitou hardvéru a softvéru, ktoré ovplyvňujú technické aplikácie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do OS Linux - história, komponenty, jadro, distribúcie, príkazový riadok, úvod do sietí. Práca v OS Linux - súborová štruktúra, partície, zariadenia, užívatelia a skupiny, prístupové práva. Pokročilé nastavenia za pomoci grafického rozhrania a príkazového riadku. Inštalácia OS - bootovacia procedúra, podmienky, rozdelenie partícii, inštalácia, konfigurácia po inštalácii. Sprava balíkov - inštalácia softvéru, balíkov *.rpm a *.deb. Siete - TCP/IP, protokoly: ICMP, UDP, TCP.... Prehľad služieb FTP, HTTP, DNS, POP3, SMTP, SSH. Sieťový súborový systém - SAMBA/CIFS, NFS. Shell skript. Administrácia systému a vzdialená správa systému."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Heimke, M. Ubuntu Linux Unleashed 2021. New York: Pearson Education, 2021. ISBN 978-0-13-677885-1.\n2. Negus, C. Linux Bible. 10. vyd. New York: John Wiley & Sons, 2020. ISBN 978-1-119-57888-4.\n3. Petersen, R. Ubuntu 20.04 LTS Desktop. New York: Surfing Turtle Press, 2020. ISBN 978-1-949857-10-7.\n4. Hertzog, R., Mas, R. Debian Administrator's Handbook: Debian Jessie from Discovery to Mastery. Paris: Freexian, 2015. ISBN 979-10-91414-04-3.\n5. Kashyap, S. Mastering Linux Administration: A Comprehensive Guide. Birmingham: Packt Publishing, 2022. ISBN 978-1-80020-732-4.\n6. Sobell, M. G. A Practical Guide to Linux Commands, Editors, and Shell Programming. 5. vyd. New York: Pearson Education, 2021. ISBN 978-0-13-764530-5.\n7. Oficiálna dokumentácia Ubuntu: https://help.ubuntu.com/stable/ubuntu-help/"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 398\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n45%\n18%\n13%\n3%\n1%\n20%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Feciľak, PhD.\ndoc. Ing. Ján Molnár, PhD.\ndoc. Ing. Patrik Jacko, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 398,
+    "percent": {
+      "A": 45,
+      "B": 18,
+      "C": 13,
+      "D": 3,
+      "E": 1,
+      "FX": 20
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Feciľak, PhD.",
+    "doc. Ing. Ján Molnár, PhD.",
+    "doc. Ing. Patrik Jacko, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001252\nNázov predmetu: Operačné systémy pre technické aplikácie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Dištančná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPozostáva z písomného testu\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nPozostáva z praktickej previerky\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa oboznámi so základnými princípmi operačných systémov so zameraním na ich aplikácie v technických oblastiach. Po úspešnom absolvovaní predmetu bude študent schopný analyzovať a optimalizovať spracovanie úloh a procesov, pracovať s operačným systémom Linux v kontexte technických aplikácií, spracovania dát, inštalácie a konfigurácie. Osvojí si správu a monitoring procesov a systémových zdrojov, používanie nástrojov na správu súborových systémov a sieťových služieb, identifikáciu a riešenia problémov súvisiacich s kompatibilitou hardvéru a softvéru, ktoré ovplyvňujú technické aplikácie.\n\nStručná osnova predmetu:\nÚvod do OS Linux - história, komponenty, jadro, distribúcie, príkazový riadok, úvod do sietí. Práca v OS Linux - súborová štruktúra, partície, zariadenia, užívatelia a skupiny, prístupové práva. Pokročilé nastavenia za pomoci grafického rozhrania a príkazového riadku. Inštalácia OS - bootovacia procedúra, podmienky, rozdelenie partícii, inštalácia, konfigurácia po inštalácii. Sprava balíkov - inštalácia softvéru, balíkov *.rpm a *.deb. Siete - TCP/IP, protokoly: ICMP, UDP, TCP.... Prehľad služieb FTP, HTTP, DNS, POP3, SMTP, SSH. Sieťový súborový systém - SAMBA/CIFS, NFS. Shell skript. Administrácia systému a vzdialená správa systému.\n\nOdporúčaná literatúra:\n1. Heimke, M. Ubuntu Linux Unleashed 2021. New York: Pearson Education, 2021. ISBN 978-0-13-677885-1.\n2. Negus, C. Linux Bible. 10. vyd. New York: John Wiley & Sons, 2020. ISBN 978-1-119-57888-4.\n3. Petersen, R. Ubuntu 20.04 LTS Desktop. New York: Surfing Turtle Press, 2020. ISBN 978-1-949857-10-7.\n4. Hertzog, R., Mas, R. Debian Administrator's Handbook: Debian Jessie from Discovery to Mastery. Paris: Freexian, 2015. ISBN 979-10-91414-04-3.\n5. Kashyap, S. Mastering Linux Administration: A Comprehensive Guide. Birmingham: Packt Publishing, 2022. ISBN 978-1-80020-732-4.\n6. Sobell, M. G. A Practical Guide to Linux Commands, Editors, and Shell Programming. 5. vyd. New York: Pearson Education, 2021. ISBN 978-0-13-764530-5.\n7. Oficiálna dokumentácia Ubuntu: https://help.ubuntu.com/stable/ubuntu-help/\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 398\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n45%\n18%\n13%\n3%\n1%\n20%\n\n\nZabezpečuje:\ndoc. Ing. Peter Feciľak, PhD.\ndoc. Ing. Ján Molnár, PhD.\ndoc. Ing. Patrik Jacko, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

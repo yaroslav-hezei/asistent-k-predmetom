@@ -1,0 +1,171 @@
+{
+  "predmet_id": "65908569",
+  "code": "26001273",
+  "name": "Umelá inteligencia v riadení elektromechanických systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908569",
+  "fetched_at": "2026-11-17T15:06:43Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001273"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Umelá inteligencia v riadení elektromechanických systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú dve zadania, spolu za 40 bodov. Ak študent získa zo zadania menej ako 11 bodov, absolvuje opravné zadanie."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov: písomná a ústna časť skúšky. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov, a keď súčet bodov za priebežné a záverečné hodnotenie bude >= 51"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné vedomosti z oblasti vybraných metód umelej inteligencie, prehľad o moderných technikách a spôsoboch ich aplikácií v oblasti Fuzzy množín, Umelých neurónových sietí a Hybridných systémov. Oboznámi sa so zaujímavými a prakticky využiteľnými aplikáciami umelej inteligencie hlavne v oblasti riadenia, modelovania systémov a predikcie s využitím metód umelej inteligencie. Absolvovaním predmetu študent získa vedomosti a skúseností ako analyzovať dáta pre návrh riadenia elektromechanických systémov, navrhnúť regulátory využívajúce umelú inteligenciu (Fuzzy logiku, Neurónové siete) pre elektromechanické systémy a bude vedieť používať softvér pre simulovanie a návrh riadenia rôznych elektromechanických systémov"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Vybrané metódy umelej inteligencie (UI), charakteristika, princípy a rozdelenie a aplikácie.\n- Teória fuzzy množín, porovnanie klasických a fuzzy množín, operácie na fuzzy množinách.\n- Tagaki-Sugeno fuzzy systémy,dynamické fuzzy systémy, konzistencia údajov.\n- Fuzzy regulátor, metodika návrhu fuzzy regulátorov a ich aplikácie v riadení el. systémov.\n- Softwarové a hardwarové prostriedky pre návrh a využitie fuzzy regulátorov s praktickým využitím Fuzzy Toolboxu s prostredím Matlab a Simulink, návrh fuzzyregulátora.\n- Biologické neurónové siete, Teória umelých neurónových sietí (NS), základné topológie, vlastnosti, princíp učenia.\n- NS s dopredným šírením, kontrolované učenie. Viacvrstvové NS, učenie spätným šírením korekcie chyby. Rekurentné NS.\n- Softwarové a hardwarové prostriedky pre návrh a využitie NS.\n- Metodika návrhu neuroregulátorov a neurónových modelov systémov a procesov.\n- Metodika identifikácie parametrov a tvorba pozorovateľov stavových veličín elektrotechnických systémov.\n- Použitie NS pri riešení úloh v oblasti modelovania, v riadení el. systémov, v predikcii s využitím Neural Networks Toolboxu v prostredí Matlab a Simulink.\n- Návrh neurónovej siete v oblasti modelovania s využitím Neural Network Toolboxu /Deep learning / v prostredí Matlab a Simulink."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] O. Modrlák, Fuzzy řízení a regulace, Liberec, 2002. [Online]. Available: http://www.kirp.chtf.stuba.sk/~bakosova/wwwRTP/tar2fuz.pdf.\n[2] D. Perduková, P. Fedor, J. Bačík, J. Herčko, and J. Rofár, \"Multi-motor drive optimal control using a fuzzy model based approach,\" Journal on Ambient Intelligence and Smart Environments, vol. 9, no. 3, pp. 329-344, 2017. DOI: 10.3233/AIS-17043.\n[3] P. Fedor and D. Perduková, \"Use of fuzzy logic for design and control of nonlinear MIMO systems,\" in Modern Fuzzy Control Systems and Its Applications, Z. Zainuddin, Ed. INTECH, 2017, pp. 377-397. DOI: 10.5772/65834.\n[4] D. Perduková, P. Fedor, and M. Lacko, \"DC Motor Fuzzy Model Based Optimal Controller,\" MM Science Journal, vol. 2021, pp. 4879-4885, 2021. DOI: 10.17973/MMSJ.2021_10_2021033.\n[5] V. Kvasnička, L. Beňušková, J. Pospíchal, I. Farkaš, P. Tiňo, and A. Kráľ, Úvod do teórie neurónových sietí, Bratislava: IRIS, 1997. ISBN: 80-88778-30-1.\n[6] M. Leso, J. Žilková, M. Pastor, and J. Dudrik, \"Fuzzy Logic Control of Soft-Switching DC-DC Converter,\" Elektronika ir Elektrotechnika, vol. 22, no. 5, pp. 72-80, 2016. DOI: 10.1109/EPEPEMC.2018.8521896.\n[7] M. Leso, J. Žilková, and P. Girovský, \"Development of a Simple Fuzzy Logic Controller for DC-DC Converter,\" in Proceedings - 2018 IEEE 18th International Conference on Power Electronics and Motion Control, PEMC 2018, pp. 86-93, Budapest, Hungary, 2018.\n[8] P. Fedor and D. Perduková, \"Fuzzy Model for Middle Section of Continuous Line,\" International Journal of Engineering Research in Africa, vol. 18, pp. 75-84, 2015. DOI: 10.4028/www.scientific.net/JERA.18.75.\n[9] P. Fedor and D. Perduková, \"Model Based Fuzzy Control Applied to a Real Nonlinear Mechanical System,\" Iranian Journal of Science and Technology, Transactions of Mechanical Engineering, vol. 40, no. 2, pp. 113-124, 2016. DOI: 10.1007/S40997-016-0005-9.\n[10] J. Bačík, F. Ďurovský, P. Fedor, and D. Perduková, \"Autonomous flying with quadrocopter using fuzzy control and ArUco markers,\" Intelligent Service Robotics, vol. 10, no. 3, pp. 185-194, 2017. DOI: 10.1007/s11370-017-0219-8.\n[11] P. Fedor, \"Fuzzy logic applications in process control,\" Study material prepared within the Leonardo da Vinci project No SK/98/2/05381/PI/II.1.1c/CONT: Training in Electrical Engineering for Industry Automation, “ELINA”, Mercury-Smékal, Košice, 2001, p. 37. ISBN: 80-89061-14-1.\n[12] J. Timko, J. Žilková, and D. Balara, Aplikácie umelých neurónových sietí v elektrických pohonoch, Košice: Calypso s.r.o., 2002, pp. 1-239. ISBN: 80-85723-27-1.\n[13] J. Žilková, Aplikácie umelých neurónových sietí pri riadení procesov, Košice: Mercury, 2001, pp. 1-56. ISBN: 80-89061-33-8.\n[14] J. Žilková and J. Timko, \"On-line estimation of quantities using artificial neural networks,\" Acta Technica CSAV (Ceskoslovensk Akademie Ved), vol. 47, no. 3, pp. 305-315, 2002.\n[15] J. Žilková, J. Timko, and P. Girovský, \"An inverse neural model for controlling non-linear dynamic systems,\" Acta Technica CSAV (Ceskoslovensk Akademie Ved), vol. 48, no. 4, pp. 365-377, 2003.\n[16] J. Žilková, J. Timko, and P. Girovský, \"Nonlinear system control using neural networks,\" Acta Polytechnica Hungarica, vol. 3, no. 4, pp. 85-94, 2006.\n[17] J. Žilková, J. Timko, and M. Kováč, \"Fuzzy vector control of asynchronous motor,\" Acta Technica CSAV (Ceskoslovensk Akademie Ved), vol. 55, no. 3, pp. 259-274, 2010.\n[18] J. Žilková, J. Timko, and P. Girovský, \"Modelling and control of tinning line entry section using neural networks,\" International Journal of Simulation Modelling, vol. 11, no. 2, pp. 97-109, 2012. DOI: 10.2507/IJSIMM11(2)1.189.\n[19] P. Girovský, J. Timko, and J. Žilková, \"Shaft sensor-less FOC control of an induction motor using neural estimators,\" Acta Polytechnica Hungarica, vol. 9, no. 4, pp. 31-45, 2012.\n[20] D. Balara, J. Timko, and J. Žilková, \"Application of neural network model for parameters identification of non-linear dynamic system,\" Neural Network World, vol. 23, no. 2, pp. 81-91, 2013.\n[21] J. Žilková, P. Girovský, and M. Batmend, \"Modelling the technological part of a line by use of neural networks,\" in Advances in Intelligent Systems and Computing, vol. 239, M. Katalinic, Ed., Heidelberg: Springer, 2014, pp. 349-358.\n[22] D. Balara, J. Timko, J. Žilková, and M. Leso, \"Neural networks application for mechanical parameters identification of asynchronous motor,\" Neural Network World, vol. 27, no. 3, pp. 259-315, 2017."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/ zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester. zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester. Predmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 18\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n39%\n17%\n17%\n11%\n17%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Daniela Perduková, PhD.\ndoc. Ing. Jaroslava Žilková, PhD.\ndoc. Ing. Peter Girovský, PhD.\nprof. Ing. Pavol Fedor, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 18,
+    "percent": {
+      "A": 39,
+      "B": 17,
+      "C": 17,
+      "D": 11,
+      "E": 17,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Daniela Perduková, PhD.",
+    "doc. Ing. Jaroslava Žilková, PhD.",
+    "doc. Ing. Peter Girovský, PhD.",
+    "prof. Ing. Pavol Fedor, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001273\nNázov predmetu: Umelá inteligencia v riadení elektromechanických systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú dve zadania, spolu za 40 bodov. Ak študent získa zo zadania menej ako 11 bodov, absolvuje opravné zadanie.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov: písomná a ústna časť skúšky. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov, a keď súčet bodov za priebežné a záverečné hodnotenie bude >= 51\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné vedomosti z oblasti vybraných metód umelej inteligencie, prehľad o moderných technikách a spôsoboch ich aplikácií v oblasti Fuzzy množín, Umelých neurónových sietí a Hybridných systémov. Oboznámi sa so zaujímavými a prakticky využiteľnými aplikáciami umelej inteligencie hlavne v oblasti riadenia, modelovania systémov a predikcie s využitím metód umelej inteligencie. Absolvovaním predmetu študent získa vedomosti a skúseností ako analyzovať dáta pre návrh riadenia elektromechanických systémov, navrhnúť regulátory využívajúce umelú inteligenciu (Fuzzy logiku, Neurónové siete) pre elektromechanické systémy a bude vedieť používať softvér pre simulovanie a návrh riadenia rôznych elektromechanických systémov\n\nStručná osnova predmetu:\n- Vybrané metódy umelej inteligencie (UI), charakteristika, princípy a rozdelenie a aplikácie.\n- Teória fuzzy množín, porovnanie klasických a fuzzy množín, operácie na fuzzy množinách.\n- Tagaki-Sugeno fuzzy systémy,dynamické fuzzy systémy, konzistencia údajov.\n- Fuzzy regulátor, metodika návrhu fuzzy regulátorov a ich aplikácie v riadení el. systémov.\n- Softwarové a hardwarové prostriedky pre návrh a využitie fuzzy regulátorov s praktickým využitím Fuzzy Toolboxu s prostredím Matlab a Simulink, návrh fuzzyregulátora.\n- Biologické neurónové siete, Teória umelých neurónových sietí (NS), základné topológie, vlastnosti, princíp učenia.\n- NS s dopredným šírením, kontrolované učenie. Viacvrstvové NS, učenie spätným šírením korekcie chyby. Rekurentné NS.\n- Softwarové a hardwarové prostriedky pre návrh a využitie NS.\n- Metodika návrhu neuroregulátorov a neurónových modelov systémov a procesov.\n- Metodika identifikácie parametrov a tvorba pozorovateľov stavových veličín elektrotechnických systémov.\n- Použitie NS pri riešení úloh v oblasti modelovania, v riadení el. systémov, v predikcii s využitím Neural Networks Toolboxu v prostredí Matlab a Simulink.\n- Návrh neurónovej siete v oblasti modelovania s využitím Neural Network Toolboxu /Deep learning / v prostredí Matlab a Simulink.\n\nOdporúčaná literatúra:\n[1] O. Modrlák, Fuzzy řízení a regulace, Liberec, 2002. [Online]. Available: http://www.kirp.chtf.stuba.sk/~bakosova/wwwRTP/tar2fuz.pdf.\n[2] D. Perduková, P. Fedor, J. Bačík, J. Herčko, and J. Rofár, \"Multi-motor drive optimal control using a fuzzy model based approach,\" Journal on Ambient Intelligence and Smart Environments, vol. 9, no. 3, pp. 329-344, 2017. DOI: 10.3233/AIS-17043.\n[3] P. Fedor and D. Perduková, \"Use of fuzzy logic for design and control of nonlinear MIMO systems,\" in Modern Fuzzy Control Systems and Its Applications, Z. Zainuddin, Ed. INTECH, 2017, pp. 377-397. DOI: 10.5772/65834.\n[4] D. Perduková, P. Fedor, and M. Lacko, \"DC Motor Fuzzy Model Based Optimal Controller,\" MM Science Journal, vol. 2021, pp. 4879-4885, 2021. DOI: 10.17973/MMSJ.2021_10_2021033.\n[5] V. Kvasnička, L. Beňušková, J. Pospíchal, I. Farkaš, P. Tiňo, and A. Kráľ, Úvod do teórie neurónových sietí, Bratislava: IRIS, 1997. ISBN: 80-88778-30-1.\n[6] M. Leso, J. Žilková, M. Pastor, and J. Dudrik, \"Fuzzy Logic Control of Soft-Switching DC-DC Converter,\" Elektronika ir Elektrotechnika, vol. 22, no. 5, pp. 72-80, 2016. DOI: 10.1109/EPEPEMC.2018.8521896.\n[7] M. Leso, J. Žilková, and P. Girovský, \"Development of a Simple Fuzzy Logic Controller for DC-DC Converter,\" in Proceedings - 2018 IEEE 18th International Conference on Power Electronics and Motion Control, PEMC 2018, pp. 86-93, Budapest, Hungary, 2018.\n[8] P. Fedor and D. Perduková, \"Fuzzy Model for Middle Section of Continuous Line,\" International Journal of Engineering Research in Africa, vol. 18, pp. 75-84, 2015. DOI: 10.4028/www.scientific.net/JERA.18.75.\n[9] P. Fedor and D. Perduková, \"Model Based Fuzzy Control Applied to a Real Nonlinear Mechanical System,\" Iranian Journal of Science and Technology, Transactions of Mechanical Engineering, vol. 40, no. 2, pp. 113-124, 2016. DOI: 10.1007/S40997-016-0005-9.\n[10] J. Bačík, F. Ďurovský, P. Fedor, and D. Perduková, \"Autonomous flying with quadrocopter using fuzzy control and ArUco markers,\" Intelligent Service Robotics, vol. 10, no. 3, pp. 185-194, 2017. DOI: 10.1007/s11370-017-0219-8.\n[11] P. Fedor, \"Fuzzy logic applications in process control,\" Study material prepared within the Leonardo da Vinci project No SK/98/2/05381/PI/II.1.1c/CONT: Training in Electrical Engineering for Industry Automation, “ELINA”, Mercury-Smékal, Košice, 2001, p. 37. ISBN: 80-89061-14-1.\n[12] J. Timko, J. Žilková, and D. Balara, Aplikácie umelých neurónových sietí v elektrických pohonoch, Košice: Calypso s.r.o., 2002, pp. 1-239. ISBN: 80-85723-27-1.\n[13] J. Žilková, Aplikácie umelých neurónových sietí pri riadení procesov, Košice: Mercury, 2001, pp. 1-56. ISBN: 80-89061-33-8.\n[14] J. Žilková and J. Timko, \"On-line estimation of quantities using artificial neural networks,\" Acta Technica CSAV (Ceskoslovensk Akademie Ved), vol. 47, no. 3, pp. 305-315, 2002.\n[15] J. Žilková, J. Timko, and P. Girovský, \"An inverse neural model for controlling non-linear dynamic systems,\" Acta Technica CSAV (Ceskoslovensk Akademie Ved), vol. 48, no. 4, pp. 365-377, 2003.\n[16] J. Žilková, J. Timko, and P. Girovský, \"Nonlinear system control using neural networks,\" Acta Polytechnica Hungarica, vol. 3, no. 4, pp. 85-94, 2006.\n[17] J. Žilková, J. Timko, and M. Kováč, \"Fuzzy vector control of asynchronous motor,\" Acta Technica CSAV (Ceskoslovensk Akademie Ved), vol. 55, no. 3, pp. 259-274, 2010.\n[18] J. Žilková, J. Timko, and P. Girovský, \"Modelling and control of tinning line entry section using neural networks,\" International Journal of Simulation Modelling, vol. 11, no. 2, pp. 97-109, 2012. DOI: 10.2507/IJSIMM11(2)1.189.\n[19] P. Girovský, J. Timko, and J. Žilková, \"Shaft sensor-less FOC control of an induction motor using neural estimators,\" Acta Polytechnica Hungarica, vol. 9, no. 4, pp. 31-45, 2012.\n[20] D. Balara, J. Timko, and J. Žilková, \"Application of neural network model for parameters identification of non-linear dynamic system,\" Neural Network World, vol. 23, no. 2, pp. 81-91, 2013.\n[21] J. Žilková, P. Girovský, and M. Batmend, \"Modelling the technological part of a line by use of neural networks,\" in Advances in Intelligent Systems and Computing, vol. 239, M. Katalinic, Ed., Heidelberg: Springer, 2014, pp. 349-358.\n[22] D. Balara, J. Timko, J. Žilková, and M. Leso, \"Neural networks application for mechanical parameters identification of asynchronous motor,\" Neural Network World, vol. 27, no. 3, pp. 259-315, 2017.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/ zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester. zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester. Predmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 18\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n39%\n17%\n17%\n11%\n17%\n0%\n\n\nZabezpečuje:\nprof. Ing. Daniela Perduková, PhD.\ndoc. Ing. Jaroslava Žilková, PhD.\ndoc. Ing. Peter Girovský, PhD.\nprof. Ing. Pavol Fedor, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

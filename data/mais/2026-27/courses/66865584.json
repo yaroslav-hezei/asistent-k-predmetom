@@ -1,0 +1,170 @@
+{
+  "predmet_id": "66865584",
+  "code": "26001414",
+  "name": "Meranie a modelovanie v elektrotechnike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66865584",
+  "fetched_at": "2026-11-17T15:17:01Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001414"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Meranie a modelovanie v elektrotechnike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 13,26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu študent rozumie teórii merania, chybám a neistotám, chápe rozdiel medzi časovou a frekvenčnou analýzou, pozná diferenciálne rovnice jednoduchých elektrických a mechanických systémov, vie definovať činný výkon pri harmonickom aj neharmonickom napájaní, chápe model ako nástroj s obmedzenou platnosťou, rozlišuje fyzikálny, matematický a grafický model. Študent získa zručnosti: bezpečne zapojiť elektrický obvod, pracovať digitálnym multimetrom, osciloskopom a generátorom, merať neharmonické priebehy a vypočítať výkon, vie spracovať merané dáta a určiť neistotu, vie vytvoriť jednoduchý model v Simulinku a porovnať meranie, výpočet a simuláciu. Študent vie kriticky zhodnotiť vhodnosť modelu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do merania: Bezpečnosť, fyzikálne veličiny a jednotky, rozsahy napätí a prúdov, skrat, polarita, zemné slučky, chyby a neistoty merania.\n2. Meracie prístroje: Multimeter, osciloskop, generátor sig., meranie vyšších napätí, meranie striedy, fázy a frekvencie.\n3. Spracovanie údajov: Štatistické spracovanie, interval spoľahlivosti, odľahlé hodnoty\n4. Model ako nástroj: Fyzikálny / matematický model, statické / dynamické systémy, lineárne / nelineárne systémy, obmedzenia modelu.\n5. Meranie a modelovanie elektrických obvodov: C, L, RC, RL – časová konštanta, RLC – impulzná odozva.\n6. Časová a frekvenčná analýza, význam Laplaceovej transformácie\n7. Výkon v elektrických obvodoch: okamžitý, činný a jalový výkon, harmonické a neharmonické napájanie.\n8. Základy simulácie: Úvod do Simulink, porovnanie simulácie s meraním\n9. Experimentálna verifikácia modelu: Identifikácia parametrov, porovnanie časových priebehov, diskusia rozdielov.\n10. Sekvenčné modelovanie: Konečné stavové automaty."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] J. Šaliga: Elektronické meracie systémy 1. Základné meracie prístroje a metódy pre meranie elektrických veličín. Košice: TU - 2012. 134 s. - ISBN 978-80-553-1228-6.\n[2] M. Guzan, M. Mojžiš: Metrológia. 1. vyd., Košice : Technická univerzita - 2015. 164 s. ISBN 978-80-553-1997-1.\n[3] V. Fedák: Modelovanie elektromechanických sústav. Košice : FEI, Technická univerzita v Košiciach, 2015, 243 s. ISBN: 978-80-553-2111-0."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 39 hodín (3 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (111 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Pástor, PhD.\nIng. Peter Bober, PhD.\nIng. Matúš Hoffej"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Pástor, PhD.",
+    "Ing. Peter Bober, PhD.",
+    "Ing. Matúš Hoffej"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001414\nNázov predmetu: Meranie a modelovanie v elektrotechnike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,2,1\nExterná forma štúdia (hodiny za semester): ZS 13,26,13\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu študent rozumie teórii merania, chybám a neistotám, chápe rozdiel medzi časovou a frekvenčnou analýzou, pozná diferenciálne rovnice jednoduchých elektrických a mechanických systémov, vie definovať činný výkon pri harmonickom aj neharmonickom napájaní, chápe model ako nástroj s obmedzenou platnosťou, rozlišuje fyzikálny, matematický a grafický model. Študent získa zručnosti: bezpečne zapojiť elektrický obvod, pracovať digitálnym multimetrom, osciloskopom a generátorom, merať neharmonické priebehy a vypočítať výkon, vie spracovať merané dáta a určiť neistotu, vie vytvoriť jednoduchý model v Simulinku a porovnať meranie, výpočet a simuláciu. Študent vie kriticky zhodnotiť vhodnosť modelu.\n\nStručná osnova predmetu:\n1. Úvod do merania: Bezpečnosť, fyzikálne veličiny a jednotky, rozsahy napätí a prúdov, skrat, polarita, zemné slučky, chyby a neistoty merania.\n2. Meracie prístroje: Multimeter, osciloskop, generátor sig., meranie vyšších napätí, meranie striedy, fázy a frekvencie.\n3. Spracovanie údajov: Štatistické spracovanie, interval spoľahlivosti, odľahlé hodnoty\n4. Model ako nástroj: Fyzikálny / matematický model, statické / dynamické systémy, lineárne / nelineárne systémy, obmedzenia modelu.\n5. Meranie a modelovanie elektrických obvodov: C, L, RC, RL – časová konštanta, RLC – impulzná odozva.\n6. Časová a frekvenčná analýza, význam Laplaceovej transformácie\n7. Výkon v elektrických obvodoch: okamžitý, činný a jalový výkon, harmonické a neharmonické napájanie.\n8. Základy simulácie: Úvod do Simulink, porovnanie simulácie s meraním\n9. Experimentálna verifikácia modelu: Identifikácia parametrov, porovnanie časových priebehov, diskusia rozdielov.\n10. Sekvenčné modelovanie: Konečné stavové automaty.\n\nOdporúčaná literatúra:\n[1] J. Šaliga: Elektronické meracie systémy 1. Základné meracie prístroje a metódy pre meranie elektrických veličín. Košice: TU - 2012. 134 s. - ISBN 978-80-553-1228-6.\n[2] M. Guzan, M. Mojžiš: Metrológia. 1. vyd., Košice : Technická univerzita - 2015. 164 s. ISBN 978-80-553-1997-1.\n[3] V. Fedák: Modelovanie elektromechanických sústav. Košice : FEI, Technická univerzita v Košiciach, 2015, 243 s. ISBN: 978-80-553-2111-0.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 39 hodín (3 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (111 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Marek Pástor, PhD.\nIng. Peter Bober, PhD.\nIng. Matúš Hoffej\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

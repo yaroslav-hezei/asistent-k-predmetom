@@ -1,0 +1,205 @@
+{
+  "predmet_id": "65517486",
+  "code": "2619661",
+  "name": "Numerická matematika, pravdepodobnosť a matematická štatistika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517486",
+  "fetched_at": "2026-11-17T14:59:03Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2619661"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Numerická matematika, pravdepodobnosť a matematická štatistika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 78,52/,39,26/LS 78,52/,39,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\n2.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "26001210 - Matematika I"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť základné poznatky z numerickej matematiky a ich využitia pri riešenia praktických úloh. Rozvíjať logické myslenie riešením úloh z pravdepodobnosti. Oboznámiť študentov so základmi matematickej štatistiky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Separácia koreňov nelineárnej rovnice. Numerické riešenie nelineárnych rovníc metódou bisekcie .\n2. Numerické riešenie nelineárnych rovníc Newtonovou metódou a metódou prostej iterácie.\n3. Riešenie sústavy nelineárnych rovníc Newtonovou metódou.\n4. Aproximácia funkcií interpoláciou a metódou najmenších štvorcov.\n5. Numerický výpočet určitého integrálu lichobežníkovou a Simpsonovou metódou.\n6. Náhodné javy a pravdepodobnosť.\n7. Podmienená pravdepodobnosť, nezávislé javy, úplná pravdepodobnosť a Bayesova veta.\n8. Náhodná premenná a jej charakteristiky. Stredná hodnota a disperzia.\n9. Vybrané rozdelenia pravdepodobností diskrétnej náhodnej premennej - binomické, hypergeometrické a Poissonovo rozdelenie.\n10. Vybrané rozdelenia pravdepodobností spojitej náhodnej premennej - exponenciálne a Gaussovo (normálne) rozdelenie.\n11. Matematická štatistika – základné pojmy a charakteristiky náhodného výberu.\n12. Intervaly spoľahlivosti pre charakteristiky náhodného výberu.\n13. Testovanie štatistických hypotéz."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Buša J., Pirč V., Schrötter Š.: Numerické metódy, pravdepodobnosť a matematická štatistika, 2006, ISBN 80-8073-632-4. (http://web.tuke.sk/fei-km/sites/default/files/prilohy/1/statnumo.pdf, http://web.tuke.sk/fei-km/sites/default/files/prilohy/1/statnuma4.pdf )\n2. Daňo I., Ostertagová E.: Vybrané kapitoly z numerických metód, pravdepodobnosti a matematickej štatistiky, Equilibria, s.r.o., Košice, 2012, ISBN 978-80-8143-012-1.\n3. Doplňujúce materiály k cvičeniam vytvorené v rámci projektu IT4KT (http://it4kt.cnl.sk/c/nm/student/01.html)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 4418\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n5%\n11%\n21%\n29%\n30%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Marián Klešč, PhD.\ndoc. RNDr. Helena Myšková, PhD.\nRNDr. Mária Timková, PhD.\nRNDr. Zuzana Gibová, PhD.\nRNDr. Mária Hutníková, PhD.\nRNDr. Juraj Valiska, PhD.\nMgr. Jana Fortes, PhD.\nRNDr. Emília Draženská, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 4418,
+    "percent": {
+      "A": 4,
+      "B": 5,
+      "C": 11,
+      "D": 21,
+      "E": 29,
+      "FX": 30
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Marián Klešč, PhD.",
+    "doc. RNDr. Helena Myšková, PhD.",
+    "RNDr. Mária Timková, PhD.",
+    "RNDr. Zuzana Gibová, PhD.",
+    "RNDr. Mária Hutníková, PhD.",
+    "RNDr. Juraj Valiska, PhD.",
+    "Mgr. Jana Fortes, PhD.",
+    "RNDr. Emília Draženská, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2619661\nNázov predmetu: Numerická matematika, pravdepodobnosť a matematická štatistika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,2\nExterná forma štúdia (hodiny za semester): ZS 78,52/,39,26/LS 78,52/,39,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\n2.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety: 26001210 - Matematika I\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u16% z 30%.\npísomný test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť základné poznatky z numerickej matematiky a ich využitia pri riešenia praktických úloh. Rozvíjať logické myslenie riešením úloh z pravdepodobnosti. Oboznámiť študentov so základmi matematickej štatistiky.\n\nStručná osnova predmetu:\n1. Separácia koreňov nelineárnej rovnice. Numerické riešenie nelineárnych rovníc metódou bisekcie .\n2. Numerické riešenie nelineárnych rovníc Newtonovou metódou a metódou prostej iterácie.\n3. Riešenie sústavy nelineárnych rovníc Newtonovou metódou.\n4. Aproximácia funkcií interpoláciou a metódou najmenších štvorcov.\n5. Numerický výpočet určitého integrálu lichobežníkovou a Simpsonovou metódou.\n6. Náhodné javy a pravdepodobnosť.\n7. Podmienená pravdepodobnosť, nezávislé javy, úplná pravdepodobnosť a Bayesova veta.\n8. Náhodná premenná a jej charakteristiky. Stredná hodnota a disperzia.\n9. Vybrané rozdelenia pravdepodobností diskrétnej náhodnej premennej - binomické, hypergeometrické a Poissonovo rozdelenie.\n10. Vybrané rozdelenia pravdepodobností spojitej náhodnej premennej - exponenciálne a Gaussovo (normálne) rozdelenie.\n11. Matematická štatistika – základné pojmy a charakteristiky náhodného výberu.\n12. Intervaly spoľahlivosti pre charakteristiky náhodného výberu.\n13. Testovanie štatistických hypotéz.\n\n\n\nOdporúčaná literatúra:\n1. Buša J., Pirč V., Schrötter Š.: Numerické metódy, pravdepodobnosť a matematická štatistika, 2006, ISBN 80-8073-632-4. (http://web.tuke.sk/fei-km/sites/default/files/prilohy/1/statnumo.pdf, http://web.tuke.sk/fei-km/sites/default/files/prilohy/1/statnuma4.pdf )\n2. Daňo I., Ostertagová E.: Vybrané kapitoly z numerických metód, pravdepodobnosti a matematickej štatistiky, Equilibria, s.r.o., Košice, 2012, ISBN 978-80-8143-012-1.\n3. Doplňujúce materiály k cvičeniam vytvorené v rámci projektu IT4KT (http://it4kt.cnl.sk/c/nm/student/01.html)\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 4418\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n5%\n11%\n21%\n29%\n30%\n\n\nZabezpečuje:\ndoc. RNDr. Marián Klešč, PhD.\ndoc. RNDr. Helena Myšková, PhD.\nRNDr. Mária Timková, PhD.\nRNDr. Zuzana Gibová, PhD.\nRNDr. Mária Hutníková, PhD.\nRNDr. Juraj Valiska, PhD.\nMgr. Jana Fortes, PhD.\nRNDr. Emília Draženská, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

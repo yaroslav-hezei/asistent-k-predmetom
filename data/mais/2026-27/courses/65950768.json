@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65950768",
+  "code": "26001281",
+  "name": "Senzory a aktuátory na báze progresívnych materiálov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950768",
+  "fetched_at": "2026-11-17T15:08:01Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001281"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Senzory a aktuátory na báze progresívnych materiálov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "4"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Účasť na prednáškach, samoštúdium odporúčanej a doplňujúcej literatúry, praktická prezentácia, overenia teoretických vedomostí a diskusia, bodové hodnotenie (max. 20 bodov)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZáverečný test (max. 80 bodov).\nŠtudent musí preukázať:\n1) dostatočné vedomosti zo základov senzorov a aktuátorov,\n2) dostatočné znalosti základných fyzikálnych javov a veličín,\n3) ovládanie základných pojmov, vlastností a parametrov senzorov a aktuátorov,\n4) prehľad v oblasti progresívnych materiálov používaných v senzoroch a aktuátoroch.\nZo základných fyzikálnych javov využívaných v mikrosenzoroch sú to najmä: piezoelektrický jav, magnetoodporový jav, Hallov jav, Seebeckov jav, Peltierov jav, magnetostrikčný jav a elektrostrikčný jav.\nŠtudent musí vedieť popísať: princípy fungovania senzorov na základe ich rozdelenie podľa meranej veličiny, podľa statických a dynamických parametrov, prevodovú charakteristiku, kalibráciu, presnosť, citlivosť, rozlíšenie, pracovný rozsah, hysteréziu.\nPre úspešné absolvovanie predmetu musí študent ovládať klasifikáciu senzorov a aktuátorov v rámci stručnej osnovy predmetu a odporúčanej literatúry."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvovaním predmetu študent získa počas prednášok teoretické a praktické vedomosti v rozsahu, ktorý je uvedený v stručnej osnove predmetu a odporúčanej literatúre. Výsledky vzdelávania sú:\n1) zvládnutie potrebnej terminológie, prehĺbenie znalostí o fyzikálnych javoch a materiáloch s možnosťou využitia v senzoroch a aktuátoroch.\n2) pochopenie fungovania senzorov a aktuátorov na báze progresívnych materiálov.\n3) získanie podrobného prehľadu o možnostiach využitia senzorov a aktuátorov v praxi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1) Úvod do senzorov a aktuátorov, prehľad základných pojmov a definícií.\n2) Vybrané fyzikálne veličiny a javy charakterizujúce vlastnosti a správanie senzorov a aktuátorov.\n3) Prehľad progresívnych materiálov, ich vlastností a parametrov využívaných v senzoroch a aktuátoroch.\n4) Klasifikácia senzorov a ich rozdelenie podľa meranej veličiny: mechanické, tepelné, magnetické, elektrické, optické, chemické a biologické.\n5) Klasifikácia aktuátorov a ich rozdelenie podľa princípu činnosti: mechanické, tepelné, optické, elektrické, piezoelektrické, magnetické, chemické a biologické."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Husák, Miroslav. Mikrosenzory a mikroaktuátory, Gerstner, Praha: Academia, 2008. ISBN 8020014788.\n2. Kittel, Charles. Úvod do fyziky pevných látek, Praha: Academia, 1985.\n3. Chikazumi, Soshin. Physics of Ferromagnetism, Oxford: Oxford University Press, 2009. ISBN: 9780199564811.\n4. Ivannson, Kaj; Sinapius, Günter and Hoornaert, Winfried. Handbook of sensors and actuators, vol. 7, s. 1-216. Measuring Current, Voltage and Power, Elsevier Science, 1999."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, seminár), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 6 hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Jozef Kravčák, PhD.\nRNDr. Kornel Richter, PhD.\nMgr. Peter Duranka, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 4,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Jozef Kravčák, PhD.",
+    "RNDr. Kornel Richter, PhD.",
+    "Mgr. Peter Duranka, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 26001281\nNázov predmetu: Senzory a aktuátory na báze progresívnych materiálov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2\nExterná forma štúdia (hodiny za semester): LS 26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 4\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nÚčasť na prednáškach, samoštúdium odporúčanej a doplňujúcej literatúry, praktická prezentácia, overenia teoretických vedomostí a diskusia, bodové hodnotenie (max. 20 bodov).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZáverečný test (max. 80 bodov).\nŠtudent musí preukázať:\n1) dostatočné vedomosti zo základov senzorov a aktuátorov,\n2) dostatočné znalosti základných fyzikálnych javov a veličín,\n3) ovládanie základných pojmov, vlastností a parametrov senzorov a aktuátorov,\n4) prehľad v oblasti progresívnych materiálov používaných v senzoroch a aktuátoroch.\nZo základných fyzikálnych javov využívaných v mikrosenzoroch sú to najmä: piezoelektrický jav, magnetoodporový jav, Hallov jav, Seebeckov jav, Peltierov jav, magnetostrikčný jav a elektrostrikčný jav.\nŠtudent musí vedieť popísať: princípy fungovania senzorov na základe ich rozdelenie podľa meranej veličiny, podľa statických a dynamických parametrov, prevodovú charakteristiku, kalibráciu, presnosť, citlivosť, rozlíšenie, pracovný rozsah, hysteréziu.\nPre úspešné absolvovanie predmetu musí študent ovládať klasifikáciu senzorov a aktuátorov v rámci stručnej osnovy predmetu a odporúčanej literatúry.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvovaním predmetu študent získa počas prednášok teoretické a praktické vedomosti v rozsahu, ktorý je uvedený v stručnej osnove predmetu a odporúčanej literatúre. Výsledky vzdelávania sú:\n1) zvládnutie potrebnej terminológie, prehĺbenie znalostí o fyzikálnych javoch a materiáloch s možnosťou využitia v senzoroch a aktuátoroch.\n2) pochopenie fungovania senzorov a aktuátorov na báze progresívnych materiálov.\n3) získanie podrobného prehľadu o možnostiach využitia senzorov a aktuátorov v praxi.\n\nStručná osnova predmetu:\n1) Úvod do senzorov a aktuátorov, prehľad základných pojmov a definícií.\n2) Vybrané fyzikálne veličiny a javy charakterizujúce vlastnosti a správanie senzorov a aktuátorov.\n3) Prehľad progresívnych materiálov, ich vlastností a parametrov využívaných v senzoroch a aktuátoroch.\n4) Klasifikácia senzorov a ich rozdelenie podľa meranej veličiny: mechanické, tepelné, magnetické, elektrické, optické, chemické a biologické.\n5) Klasifikácia aktuátorov a ich rozdelenie podľa princípu činnosti: mechanické, tepelné, optické, elektrické, piezoelektrické, magnetické, chemické a biologické.\n\nOdporúčaná literatúra:\n1. Husák, Miroslav. Mikrosenzory a mikroaktuátory, Gerstner, Praha: Academia, 2008. ISBN 8020014788.\n2. Kittel, Charles. Úvod do fyziky pevných látek, Praha: Academia, 1985.\n3. Chikazumi, Soshin. Physics of Ferromagnetism, Oxford: Oxford University Press, 2009. ISBN: 9780199564811.\n4. Ivannson, Kaj; Sinapius, Günter and Hoornaert, Winfried. Handbook of sensors and actuators, vol. 7, s. 1-216. Measuring Current, Voltage and Power, Elsevier Science, 1999.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, seminár), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 6 hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. RNDr. Jozef Kravčák, PhD.\nRNDr. Kornel Richter, PhD.\nMgr. Peter Duranka, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65969894",
+  "code": "26001216",
+  "name": "Systémy aktívnej a pasívnej bezpečnosti automobilov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969894",
+  "fetched_at": "2026-11-17T15:14:21Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001216"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Systémy aktívnej a pasívnej bezpečnosti automobilov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet poskytuje poslucháčom informácie o moderných elektronických zariadeniach v automobile. Študent získa znalosti o koncepciách a metódach používaných v riadení systémov aktívnej a pasívnej bezpečnosti v automobile. Oboznámi sa s problematikou automatických prevodoviek a fuzzy logikou ako nastroj ich riadenia. Pochopí základné parametre a fyzikálne aspekty pohybu pneumatík po vozovke, princípmi riadenia brzdových systémov, riadenia trakcie a stability vozidla. Osvojí si poznatky o antikolíznych systémoch a asistenčných systémoch vodiča na báze radarových a obrazových senzorov ako aj o riadení airbagov a bezpečnostných pásov a systémoch ochrany proti prevaleniu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "(1) Automatické prevodovky, (2) Fuzzy logika a riadenie systémov, (3) Základné fyzikálne princípy pohybu pneumatík, (4) Riadenie brzdových systémov (ABS, EBD), (5) Riadenie trakcie vozidla (TCS), (6) Systémy riadenia dynamiky vozidla, využívajúce ABS (ASR, MSR, EDS), (7) Riadenie stability vozidla -(ESP), (8) Základné prvky hydraulických schém a elekrohydraulické aktuátory, (9) Adaptívne riadenie pohybu vozidla na báze radarov (ACC), (10) Asistenčné systémy vodiča na báze obrazových senzorov, (11) Systémy pasívnej bezpečnosti pasažierov. (12) Aktívne bezpečnostné pásy, (13) Airbagy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Ronald K. Jurgen: Automotive Electronics Handbook (2nd ed.). McGraw-Hill Professional, 1999.\n[2] Bosch: Automotive Handbook (8th ed.). Bentley Publishers, 2011."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 66\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n21%\n21%\n23%\n27%\n2%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Gamec, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 66,
+    "percent": {
+      "A": 21,
+      "B": 21,
+      "C": 23,
+      "D": 27,
+      "E": 2,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Gamec, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001216\nNázov predmetu: Systémy aktívnej a pasívnej bezpečnosti automobilov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet poskytuje poslucháčom informácie o moderných elektronických zariadeniach v automobile. Študent získa znalosti o koncepciách a metódach používaných v riadení systémov aktívnej a pasívnej bezpečnosti v automobile. Oboznámi sa s problematikou automatických prevodoviek a fuzzy logikou ako nastroj ich riadenia. Pochopí základné parametre a fyzikálne aspekty pohybu pneumatík po vozovke, princípmi riadenia brzdových systémov, riadenia trakcie a stability vozidla. Osvojí si poznatky o antikolíznych systémoch a asistenčných systémoch vodiča na báze radarových a obrazových senzorov ako aj o riadení airbagov a bezpečnostných pásov a systémoch ochrany proti prevaleniu.\n\nStručná osnova predmetu:\n(1) Automatické prevodovky, (2) Fuzzy logika a riadenie systémov, (3) Základné fyzikálne princípy pohybu pneumatík, (4) Riadenie brzdových systémov (ABS, EBD), (5) Riadenie trakcie vozidla (TCS), (6) Systémy riadenia dynamiky vozidla, využívajúce ABS (ASR, MSR, EDS), (7) Riadenie stability vozidla -(ESP), (8) Základné prvky hydraulických schém a elekrohydraulické aktuátory, (9) Adaptívne riadenie pohybu vozidla na báze radarov (ACC), (10) Asistenčné systémy vodiča na báze obrazových senzorov, (11) Systémy pasívnej bezpečnosti pasažierov. (12) Aktívne bezpečnostné pásy, (13) Airbagy.\n\nOdporúčaná literatúra:\n[1] Ronald K. Jurgen: Automotive Electronics Handbook (2nd ed.). McGraw-Hill Professional, 1999.\n[2] Bosch: Automotive Handbook (8th ed.). Bentley Publishers, 2011.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 66\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n21%\n21%\n23%\n27%\n2%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Ján Gamec, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

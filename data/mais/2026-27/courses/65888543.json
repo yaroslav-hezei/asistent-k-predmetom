@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65888543",
+  "code": "26000883",
+  "name": "Kognitívne siete",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888543",
+  "fetched_at": "2026-11-17T15:04:10Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000883"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Kognitívne siete"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nNa získanie zápočtu je potrebných min. 21 bodov z počtu 40 bodov. Toto hodnotenie získa študent na základe hodnotenia priebežných testov orientovaných na riešenie príkladov z oblasti kognitívnych rádiových sietí (KRS)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa získanie skúšky je potrebných minimálne 31 bodov z celkového počtu 60 bodov. Skúška pozostáva z prezentácie a rozpravy k štúdii vypracovanej na zadanú tému v písomnej forme a z ústnej časti skúšky (teoretické poznatky z KRS)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent po absolvovaní predmetu rozumie architektúram kognitívnych sietí a autonómnym sieťam, vie aplikovať AI/ML algoritmy na sieťové dáta, dokáže navrhovať a implementovať closed-loop systémy, ovláda moderné koncepty networking-AI (IBN, SR-TE, RIC, MEC), dokáže integrovať AI modely do sieťového prostredia a prakticky pracuje so sieťovou telemetriou, AI pipeline a simuláciami."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "(1) Úvod do kognitívnych sietí: historický vývoj autonomic networkingu, SON, IBN a self-driving networks; architektúra MAPE-K. Oboznámenie sa s príkladmi moderných systémov ako Cisco DNA Center / SD-WAN AI Analytics, Juniper Mist AI, Extreme CoPilot a Ericsson ENM/SON pre 5G. Cvičenie zahŕňa zber telemetrie (NetFlow/IPFIX, gNMI, SNMP) z reálnych zariadení. (2) Strojové učenie pre siete. Základy: klasifikácia, regresia, clustering (KMeans, DBSCAN), feature engineering z telemetrických dát, PCA/TSNE vizualizácie a detekcia anomálií. Cvičenie zahŕňa analýzu anomálií v sieťových dátach v Python/Jupyter. (3) Deep learning pre sieťové úlohy: CNN pre detekciu anomálií, RNN/LSTM/Transformers pre predikciu trafficu, Graph Neural Networks pre topológie. Cvičenie zahŕňa predikciu zaťaženia linky pomocou LSTM alebo Transformer. (4) Reinforcement Learning pre siete: RL pre routing, traffic engineering a resource allocation, multi-agent RL pre koordinované sieťové rozhodovanie, OpenAI Gym / Cisco MARL framework. Cvičenie zahŕňa oboznámenie sa s RL agentom pre load balancing v simulovanej topológii. (5) Intent-Based Networking: intent modely, policy translation, closed-loop assurance, YANG modely a telemetry pipelines. Cvičenie zahŕňa návrh intentu v simulovanej topológii (EVE-NG/CSR1000v/Extreme). (6) Kognitívny routing a traffic engineering: AI-optimalizovaný routing, Segment Routing & SR-TE, BGP-LS, PCEP, prediktívny routing (Cisco Predictive Path Recommendations). Cvičenie zahŕňa traffic engineering riadený ML predikciou. (7) Kognitívna bezpečnosť sietí: AI pre IDS/IPS, LLM pre threat hunting, anomálie v NetFlow, DNS a TLS fingerprintingu. Cvičenie zahŕňa detekcia DDoS alebo skenovania pomocou ML. (8) Edge, MEC, IoT a autonómne systémy: AI offloading cez MEC/edge computing, siete pre autonómnu mobilitu (V2X, CV2X, 5G slicing), federated learning v sieťach. Cvičenie zahŕňa nasadenie modelu na Jetson Orin a streaming senzorov cez sieť. V tomto bode možno využiť roboty Rosmaster R2/X3 na zber dát zo senzorov a ich analýzu. (9) Self-driving networks: úrovne autonómie podľa ETSI, closed-loop automation, vrstvy senzorov, reasoning a action. Cvičenie zahŕňa návrh self-operating use-case, napr. automatické QoS podľa ML predikcie. (10) 5G/6G kognitívne siete: AI-native RAN (O-RAN, RIC, xApps/rApps), RAN Intelligent Controller, near-real-time AI, dynamické slicing a SON funkcie. Cvičenie zahŕňa realizácie simulácii RIC aplikácie (traffic steering). (11) Digital twins v sieťach: simulácia topológií, trafficu, mobilít, využitie NVIDIA Omniverse, ns-3, GNS3 alebo EVE-NG. Cvičenie zahŕňa implemetáciu digitálneho dvojčaťa siete alebo robota s network-telemetry feedbackom. (12) AI & LLM v sieťovom manažmente: LLM ako rozhranie pre sieťový manažment, automatizácia troubleshooting krokov, generovanie konfigurácií pomocou LLM (napr. Cisco AI Assistant for Networking). Cvičenie zahŕňa ChatOps a Python skripty pre riešenie sieťových problémov. (13) Záverečné prezentácie a hodnotenie: študenti prezentujú projekt z oblastí ako ML model pre predikciu trafficu a optimalizáciu routingu, detekcia anomálií v telemetrii, RL agent pre routovanie, kognitívny systém pre autonómne roboty, simulácia O-RAN RIC aplikácie, intent-based konfigurátor siete či digitálny twin siete alebo autonómneho prostredia."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Sinha, A. – Al-Ars, Z. – Waldvogel, M.: AI for Autonomous Networks: Self-Driving Networks and the Future of Connectivity. Springer, 2023.\n[2] Abu Alsheikh, M. et al.: Machine Learning for Networking: Techniques, Applications and Research Directions. Springer, 2022.\n[3] Wang, K. – Yang, K. – Zhang, N.: Intelligent Wireless Networks: AI-Driven 5G and 6G Systems. Wiley, 2023."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 15\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n13%\n0%\n67%\n20%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Gabriel Bugár, PhD.\nIng. Matúš Čavojský"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 15,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 13,
+      "D": 0,
+      "E": 67,
+      "FX": 20
+    }
+  },
+  "teachers": [
+    "doc. Ing. Gabriel Bugár, PhD.",
+    "Ing. Matúš Čavojský"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000883\nNázov predmetu: Kognitívne siete\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nNa získanie zápočtu je potrebných min. 21 bodov z počtu 40 bodov. Toto hodnotenie získa študent na základe hodnotenia priebežných testov orientovaných na riešenie príkladov z oblasti kognitívnych rádiových sietí (KRS).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nNa získanie skúšky je potrebných minimálne 31 bodov z celkového počtu 60 bodov. Skúška pozostáva z prezentácie a rozpravy k štúdii vypracovanej na zadanú tému v písomnej forme a z ústnej časti skúšky (teoretické poznatky z KRS).\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent po absolvovaní predmetu rozumie architektúram kognitívnych sietí a autonómnym sieťam, vie aplikovať AI/ML algoritmy na sieťové dáta, dokáže navrhovať a implementovať closed-loop systémy, ovláda moderné koncepty networking-AI (IBN, SR-TE, RIC, MEC), dokáže integrovať AI modely do sieťového prostredia a prakticky pracuje so sieťovou telemetriou, AI pipeline a simuláciami.\n\nStručná osnova predmetu:\n(1) Úvod do kognitívnych sietí: historický vývoj autonomic networkingu, SON, IBN a self-driving networks; architektúra MAPE-K. Oboznámenie sa s príkladmi moderných systémov ako Cisco DNA Center / SD-WAN AI Analytics, Juniper Mist AI, Extreme CoPilot a Ericsson ENM/SON pre 5G. Cvičenie zahŕňa zber telemetrie (NetFlow/IPFIX, gNMI, SNMP) z reálnych zariadení. (2) Strojové učenie pre siete. Základy: klasifikácia, regresia, clustering (KMeans, DBSCAN), feature engineering z telemetrických dát, PCA/TSNE vizualizácie a detekcia anomálií. Cvičenie zahŕňa analýzu anomálií v sieťových dátach v Python/Jupyter. (3) Deep learning pre sieťové úlohy: CNN pre detekciu anomálií, RNN/LSTM/Transformers pre predikciu trafficu, Graph Neural Networks pre topológie. Cvičenie zahŕňa predikciu zaťaženia linky pomocou LSTM alebo Transformer. (4) Reinforcement Learning pre siete: RL pre routing, traffic engineering a resource allocation, multi-agent RL pre koordinované sieťové rozhodovanie, OpenAI Gym / Cisco MARL framework. Cvičenie zahŕňa oboznámenie sa s RL agentom pre load balancing v simulovanej topológii. (5) Intent-Based Networking: intent modely, policy translation, closed-loop assurance, YANG modely a telemetry pipelines. Cvičenie zahŕňa návrh intentu v simulovanej topológii (EVE-NG/CSR1000v/Extreme). (6) Kognitívny routing a traffic engineering: AI-optimalizovaný routing, Segment Routing & SR-TE, BGP-LS, PCEP, prediktívny routing (Cisco Predictive Path Recommendations). Cvičenie zahŕňa traffic engineering riadený ML predikciou. (7) Kognitívna bezpečnosť sietí: AI pre IDS/IPS, LLM pre threat hunting, anomálie v NetFlow, DNS a TLS fingerprintingu. Cvičenie zahŕňa detekcia DDoS alebo skenovania pomocou ML. (8) Edge, MEC, IoT a autonómne systémy: AI offloading cez MEC/edge computing, siete pre autonómnu mobilitu (V2X, CV2X, 5G slicing), federated learning v sieťach. Cvičenie zahŕňa nasadenie modelu na Jetson Orin a streaming senzorov cez sieť. V tomto bode možno využiť roboty Rosmaster R2/X3 na zber dát zo senzorov a ich analýzu. (9) Self-driving networks: úrovne autonómie podľa ETSI, closed-loop automation, vrstvy senzorov, reasoning a action. Cvičenie zahŕňa návrh self-operating use-case, napr. automatické QoS podľa ML predikcie. (10) 5G/6G kognitívne siete: AI-native RAN (O-RAN, RIC, xApps/rApps), RAN Intelligent Controller, near-real-time AI, dynamické slicing a SON funkcie. Cvičenie zahŕňa realizácie simulácii RIC aplikácie (traffic steering). (11) Digital twins v sieťach: simulácia topológií, trafficu, mobilít, využitie NVIDIA Omniverse, ns-3, GNS3 alebo EVE-NG. Cvičenie zahŕňa implemetáciu digitálneho dvojčaťa siete alebo robota s network-telemetry feedbackom. (12) AI & LLM v sieťovom manažmente: LLM ako rozhranie pre sieťový manažment, automatizácia troubleshooting krokov, generovanie konfigurácií pomocou LLM (napr. Cisco AI Assistant for Networking). Cvičenie zahŕňa ChatOps a Python skripty pre riešenie sieťových problémov. (13) Záverečné prezentácie a hodnotenie: študenti prezentujú projekt z oblastí ako ML model pre predikciu trafficu a optimalizáciu routingu, detekcia anomálií v telemetrii, RL agent pre routovanie, kognitívny systém pre autonómne roboty, simulácia O-RAN RIC aplikácie, intent-based konfigurátor siete či digitálny twin siete alebo autonómneho prostredia.\n\nOdporúčaná literatúra:\n[1] Sinha, A. – Al-Ars, Z. – Waldvogel, M.: AI for Autonomous Networks: Self-Driving Networks and the Future of Connectivity. Springer, 2023.\n[2] Abu Alsheikh, M. et al.: Machine Learning for Networking: Techniques, Applications and Research Directions. Springer, 2022.\n[3] Wang, K. – Yang, K. – Zhang, N.: Intelligent Wireless Networks: AI-Driven 5G and 6G Systems. Wiley, 2023.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 15\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n13%\n0%\n67%\n20%\n\n\nZabezpečuje:\ndoc. Ing. Gabriel Bugár, PhD.\nIng. Matúš Čavojský\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

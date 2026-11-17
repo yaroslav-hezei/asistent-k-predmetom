@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65969697",
+  "code": "26001059",
+  "name": "Mikroelektromechanické systémy a ich výroba",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969697",
+  "fetched_at": "2026-11-17T15:14:05Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001059"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Mikroelektromechanické systémy a ich výroba"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nSemestrálny projekt."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet sa zaoberá mikroelektromechanickými systémami (MEMS). Predmet dáva študentom ucelený obraz o aplikovaných materiáloch, základných výrobných postupoch a technológiách spracovania MEMS. Podrobne pojednáva o spôsoboch nanášania tenkých vrstiev, o technológiách vytvárania štruktúry na podklade, zaoberá sa metódami leptania a spôsobmi mikroobrábania.\nPoznatky získané štúdiom tohto predmetu sú širokovyužiteľné v praxi, keďže umožňujú absolventom navrhovať a vytvárať MEMS pre rozličné aplikácie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "a) Materiály pre výrobu MEMS: kremík, polyméry, kovy, keramika.\nb) Základné postupy výroby MEMS: nanášanie tenkých vrstiev (fyzikálne a chemické nanášanie), technológie vytvárania štruktúry na podklade (litografia, litografia elektrónovým a iónovým lúčom, röntgenová litografia), metódy leptania (mokré leptanie, suché leptanie), spôsoby mikroobrábania (objemové, povrchové mikroobrábanie)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. N. Maluf, K. Williams, An Introduction to Microelectromechanical Systems Engineering, Second Edition, Artech House, Boston, USA, 2004.\n2. K. B. Lee, Principles of Microelectromechanical Systems, John Wiley & Sons, New Jersey, USA, 2011.\n3. S. P. Beeby, G. Ensel, M. Kraft, N. White, MEMS Mechanical Sensors, Artech House, Boston, USA, 2004."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 34\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n29%\n21%\n18%\n18%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Juraj Ďurišin, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 34,
+    "percent": {
+      "A": 9,
+      "B": 29,
+      "C": 21,
+      "D": 18,
+      "E": 18,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Juraj Ďurišin, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001059\nNázov predmetu: Mikroelektromechanické systémy a ich výroba\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nSemestrálny projekt.\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška.\n\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet sa zaoberá mikroelektromechanickými systémami (MEMS). Predmet dáva študentom ucelený obraz o aplikovaných materiáloch, základných výrobných postupoch a technológiách spracovania MEMS. Podrobne pojednáva o spôsoboch nanášania tenkých vrstiev, o technológiách vytvárania štruktúry na podklade, zaoberá sa metódami leptania a spôsobmi mikroobrábania.\nPoznatky získané štúdiom tohto predmetu sú širokovyužiteľné v praxi, keďže umožňujú absolventom navrhovať a vytvárať MEMS pre rozličné aplikácie.\n\n\nStručná osnova predmetu:\na) Materiály pre výrobu MEMS: kremík, polyméry, kovy, keramika.\nb) Základné postupy výroby MEMS: nanášanie tenkých vrstiev (fyzikálne a chemické nanášanie), technológie vytvárania štruktúry na podklade (litografia, litografia elektrónovým a iónovým lúčom, röntgenová litografia), metódy leptania (mokré leptanie, suché leptanie), spôsoby mikroobrábania (objemové, povrchové mikroobrábanie).\n\n\nOdporúčaná literatúra:\n1. N. Maluf, K. Williams, An Introduction to Microelectromechanical Systems Engineering, Second Edition, Artech House, Boston, USA, 2004.\n2. K. B. Lee, Principles of Microelectromechanical Systems, John Wiley & Sons, New Jersey, USA, 2011.\n3. S. P. Beeby, G. Ensel, M. Kraft, N. White, MEMS Mechanical Sensors, Artech House, Boston, USA, 2004.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 34\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n29%\n21%\n18%\n18%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Juraj Ďurišin, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

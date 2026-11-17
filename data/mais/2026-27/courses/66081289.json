@@ -1,0 +1,163 @@
+{
+  "predmet_id": "66081289",
+  "code": "26001257",
+  "name": "Strojové učenie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66081289",
+  "fetched_at": "2026-11-17T15:16:44Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001257"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Strojové učenie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent zvládne pokročilé metódy a techniky strojového učenia ako aj pokročilé technológie vývoja systémov informačných technológií so zameraním na vyhľadávanie, vytváranie a dolovanie znalostí. Naučí sa rozvíjať a navrhovať vlastné riešenia učiacich sa problémov klasifikácie ako aj predikcie za účelom využitia v získavaní znalostí z dát z rozličných zdrojov s dôrazom na porozumenie používaných metód. Naučí sa tvorivo aplikovať získané poznatky o širokej škále metód strojového učenia a efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov strojového učenia. Naučí sa pracovať na projektoch obsahujúcich identifikáciu stratégií, metód, techník a prostriedkov riešenia problémov hlavne klasifikačného a regresného typu, analýzu, návrh a implementáciu učiacich sa systémov. Študent nadobudne základné znalosti určovania kvality softvérových produktov s dôrazom na optimálnosť pre používateľa."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do strojového učenia, základné pojmy, definícia. Ciele a metódy strojového učenia, klasifikácia a regresia. Abstrakcia v priestore, príznakový priestor, učenie pomocou prehľadávania priestoru pojmov. Klasifikačné úlohy, automatické generovanie produkčných pravidiel. Generovanie rozhodovacích stromov a zoznamov. Reprezentácia a použitie prahových pojmov a etalónov, lenivé učenie. Pravdepodobnostný pojem a Naivný Bayes klasifikátor. Stroje podporných vektorov (SVM - Support Vector Machines). Učenie súborom metód - Náhodné stromy (Random Forests), Bagging, Boosting. Riešenie regresných úloh, regresná analýza (lineárna, nelineárna, polynomiálna a logistická regresia). Učenie odmenou a trestom. Zhlukovacie techniky. Techniky merania efektívnosti klasifikačných, regresných a zhlukovacích metód. Výpočtová teória učenia. Základné princípy prístupov k strojovému učeniu."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Machová, K. Nové trendy v strojovom učení: Štatistický prístup. Edícia vedeckých spisov Fakulty elektrotechniky a informatiky TU Košice. Košice: FEI TU v Košiciach, 2016. 96 s. ISBN 978-80-553-2602-3.\n2. Machová, K. Strojové učenie v systémoch spracovania informácií. Košice: TU v Košiciach, 2009. 85 s. ISBN 978-80-8086-130-8.\n3. Machová, K. Strojové učenie: Princípy a algoritmy. Košice: Elfa, 2002. 117 s. ISBN 80-89066-51-8.\n4. James, G., Witten, D., Hastie, T., Tibshirani, R. An Introduction to Statistical Learning: with Applications in R. 2. vyd. New York: Springer, 2017. 419 s. ISBN 978-1-4614-7137-0.\n5. Hastie, T., Tibshirani, R., Friedman, J. The Elements of Statistical Learning: Data Mining, Inference and Prediction. 2. vyd. New York: Springer, 2017. 737 s. ISBN 978-0-387-84857-0.\n6. Goodfellow, I., Bengio, Y., Courville, A. Deep Learning. 2. vyd. Cambridge: MIT Press, 2021. 800 s. ISBN 978-0-262-43872-4.\n7. Zhang, A., Lipton, Z. C., Li, M., Smola, A. J. Dive into Deep Learning. Cambridge: Cambridge University Press, 2021. 486 s. ISBN 978-1-108-83637-2."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Kristína Machová, PhD.\nIng. Ján Magyar, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Kristína Machová, PhD.",
+    "Ing. Ján Magyar, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001257\nNázov predmetu: Strojové učenie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Dištančná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent zvládne pokročilé metódy a techniky strojového učenia ako aj pokročilé technológie vývoja systémov informačných technológií so zameraním na vyhľadávanie, vytváranie a dolovanie znalostí. Naučí sa rozvíjať a navrhovať vlastné riešenia učiacich sa problémov klasifikácie ako aj predikcie za účelom využitia v získavaní znalostí z dát z rozličných zdrojov s dôrazom na porozumenie používaných metód. Naučí sa tvorivo aplikovať získané poznatky o širokej škále metód strojového učenia a efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov strojového učenia. Naučí sa pracovať na projektoch obsahujúcich identifikáciu stratégií, metód, techník a prostriedkov riešenia problémov hlavne klasifikačného a regresného typu, analýzu, návrh a implementáciu učiacich sa systémov. Študent nadobudne základné znalosti určovania kvality softvérových produktov s dôrazom na optimálnosť pre používateľa.\n\nStručná osnova predmetu:\nÚvod do strojového učenia, základné pojmy, definícia. Ciele a metódy strojového učenia, klasifikácia a regresia. Abstrakcia v priestore, príznakový priestor, učenie pomocou prehľadávania priestoru pojmov. Klasifikačné úlohy, automatické generovanie produkčných pravidiel. Generovanie rozhodovacích stromov a zoznamov. Reprezentácia a použitie prahových pojmov a etalónov, lenivé učenie. Pravdepodobnostný pojem a Naivný Bayes klasifikátor. Stroje podporných vektorov (SVM - Support Vector Machines). Učenie súborom metód - Náhodné stromy (Random Forests), Bagging, Boosting. Riešenie regresných úloh, regresná analýza (lineárna, nelineárna, polynomiálna a logistická regresia). Učenie odmenou a trestom. Zhlukovacie techniky. Techniky merania efektívnosti klasifikačných, regresných a zhlukovacích metód. Výpočtová teória učenia. Základné princípy prístupov k strojovému učeniu.\n\nOdporúčaná literatúra:\n1. Machová, K. Nové trendy v strojovom učení: Štatistický prístup. Edícia vedeckých spisov Fakulty elektrotechniky a informatiky TU Košice. Košice: FEI TU v Košiciach, 2016. 96 s. ISBN 978-80-553-2602-3.\n2. Machová, K. Strojové učenie v systémoch spracovania informácií. Košice: TU v Košiciach, 2009. 85 s. ISBN 978-80-8086-130-8.\n3. Machová, K. Strojové učenie: Princípy a algoritmy. Košice: Elfa, 2002. 117 s. ISBN 80-89066-51-8.\n4. James, G., Witten, D., Hastie, T., Tibshirani, R. An Introduction to Statistical Learning: with Applications in R. 2. vyd. New York: Springer, 2017. 419 s. ISBN 978-1-4614-7137-0.\n5. Hastie, T., Tibshirani, R., Friedman, J. The Elements of Statistical Learning: Data Mining, Inference and Prediction. 2. vyd. New York: Springer, 2017. 737 s. ISBN 978-0-387-84857-0.\n6. Goodfellow, I., Bengio, Y., Courville, A. Deep Learning. 2. vyd. Cambridge: MIT Press, 2021. 800 s. ISBN 978-0-262-43872-4.\n7. Zhang, A., Lipton, Z. C., Li, M., Smola, A. J. Dive into Deep Learning. Cambridge: Cambridge University Press, 2021. 486 s. ISBN 978-1-108-83637-2.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Kristína Machová, PhD.\nIng. Ján Magyar, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

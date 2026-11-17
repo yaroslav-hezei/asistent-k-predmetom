@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013742",
+  "code": "26000770",
+  "name": "Bioinformatika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013742",
+  "fetched_at": "2026-11-17T15:15:37Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000770"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Bioinformatika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nvypracovanie a obhájenie zadania"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nV priebehu semestra študenti vypracujú zadanie za max. 40 bodov. Na skúške môžu získať max. 60 bodov. Na získanie hodnotenia A je potrebné získať najmenej 91 bodov, na získanie hodnotenia B najmenej 81 bodov, na hodnotenie C najmenej 71 bodov, na hodnotenie D najmenej 61 bodov a na hodnotenie E najmenej 51 bodov. Kredity nebudú udelené študentovi, ktorý za zadanie získa menej ako 21 bodov alebo za skúšku menej ako 31 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Kognitívna veda je vedou o myslení. Vo vedeckej oblasti kognitívnej robotiky považuje myslenie živočíchov za počiatočný bod pre vývoj algoritmov spracovania informácií. Cieľové kognitívne schopnosti robotov zahŕňajú okrem iného spracovanie vnemov, upriamenie pozornosti, predvídanie, plánovanie, zložitú motorickú koordináciu a vo všeobecnosti schopnosť autonómne konať v reálnom svete.\nV rámci predmetu bude zadefinovaný pojem života a predstavené biologické riadiace mechanizmy fungujúce na rôznych hierarchických úrovniach (bunka, tkanivo, orgán, organizmus, populácia, biocenóza) ovládajúce chemické procesy, tvorbu bielkovín a replikáciu nukleových kyselín, pohyb, navigáciu, dedičnosť, evolúciu . Budú prednesené možnosti použitia evolučných princípov pre optimalizáciu riadiacich mechanizmov, pohybu, vzhľadu, komunikácie robotov a tvorbu vnútorného modelu sveta a samotného robota, celulárne systémy, vzťah informácie, života a chaosu. Budú predstavené vybrané metódy založené na súčasných teóriách o fungovaní mozgu.\nV rámci praktickej výuky budú študenti a rozvíjať a navrhovať vlastné riešenia problémov kognitívnej robotiky v reálnom a simulovanom prostredí, tvorivo aplikovať získané poznatky. Súčasťou samostatnej práce je aj aktualizácia a zdieľanie informácií o vývoji vo vednom odbore, samostatná aj tímová práca v rámci projektov. Študenti zlepšia a rozvinú svoje ovládanie a využívanie objektovo orientovaných programovacích jazykov, vizualizačných produktov a produktov pre inteligentné interakcie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Úvod do kognitívnej robotiky\n• Regulačné mechanizmy v živých systémoch\n• Vnútrobunkové procesy a ich riadenie, starnutie, smrť.\n• Genetika, dedičnosť, génové inžinierstvo, simulácia evolúcie.\n• Homeostáza, homeostat\n• Vnímanie, biologické senzory, spracovanie signálu v biologických systémoch.\n• Biologické hodiny, pohyb a jeho riadenie, navigácia.\n• Komunikácia v prírode\n• Celulárne systémy, samoreprodukcia, Lindenmayerovej systémy\n• Hra chaosu, systémy iterovaných funkcií, Mandelbrotova a Juliova množina.\n• Evolučná optimalizácia v robotike\n• Evolúcia správania a učiacich pravidiel\n• Vybrané modely biologických systémov vnímania a spracovania časovo-priestorovo štruktúrovanej informácie"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• http://alife.tuke.sk"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 222\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n27%\n26%\n23%\n16%\n6%\n2%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Bundzel, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 5,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 222,
+    "percent": {
+      "A": 27,
+      "B": 26,
+      "C": 23,
+      "D": 16,
+      "E": 6,
+      "FX": 2
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Bundzel, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000770\nNázov predmetu: Bioinformatika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nvypracovanie a obhájenie zadania\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nV priebehu semestra študenti vypracujú zadanie za max. 40 bodov. Na skúške môžu získať max. 60 bodov. Na získanie hodnotenia A je potrebné získať najmenej 91 bodov, na získanie hodnotenia B najmenej 81 bodov, na hodnotenie C najmenej 71 bodov, na hodnotenie D najmenej 61 bodov a na hodnotenie E najmenej 51 bodov. Kredity nebudú udelené študentovi, ktorý za zadanie získa menej ako 21 bodov alebo za skúšku menej ako 31 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nKognitívna veda je vedou o myslení. Vo vedeckej oblasti kognitívnej robotiky považuje myslenie živočíchov za počiatočný bod pre vývoj algoritmov spracovania informácií. Cieľové kognitívne schopnosti robotov zahŕňajú okrem iného spracovanie vnemov, upriamenie pozornosti, predvídanie, plánovanie, zložitú motorickú koordináciu a vo všeobecnosti schopnosť autonómne konať v reálnom svete.\nV rámci predmetu bude zadefinovaný pojem života a predstavené biologické riadiace mechanizmy fungujúce na rôznych hierarchických úrovniach (bunka, tkanivo, orgán, organizmus, populácia, biocenóza) ovládajúce chemické procesy, tvorbu bielkovín a replikáciu nukleových kyselín, pohyb, navigáciu, dedičnosť, evolúciu . Budú prednesené možnosti použitia evolučných princípov pre optimalizáciu riadiacich mechanizmov, pohybu, vzhľadu, komunikácie robotov a tvorbu vnútorného modelu sveta a samotného robota, celulárne systémy, vzťah informácie, života a chaosu. Budú predstavené vybrané metódy založené na súčasných teóriách o fungovaní mozgu.\nV rámci praktickej výuky budú študenti a rozvíjať a navrhovať vlastné riešenia problémov kognitívnej robotiky v reálnom a simulovanom prostredí, tvorivo aplikovať získané poznatky. Súčasťou samostatnej práce je aj aktualizácia a zdieľanie informácií o vývoji vo vednom odbore, samostatná aj tímová práca v rámci projektov. Študenti zlepšia a rozvinú svoje ovládanie a využívanie objektovo orientovaných programovacích jazykov, vizualizačných produktov a produktov pre inteligentné interakcie.\n\n\nStručná osnova predmetu:\n• Úvod do kognitívnej robotiky\n• Regulačné mechanizmy v živých systémoch\n• Vnútrobunkové procesy a ich riadenie, starnutie, smrť.\n• Genetika, dedičnosť, génové inžinierstvo, simulácia evolúcie.\n• Homeostáza, homeostat\n• Vnímanie, biologické senzory, spracovanie signálu v biologických systémoch.\n• Biologické hodiny, pohyb a jeho riadenie, navigácia.\n• Komunikácia v prírode\n• Celulárne systémy, samoreprodukcia, Lindenmayerovej systémy\n• Hra chaosu, systémy iterovaných funkcií, Mandelbrotova a Juliova množina.\n• Evolučná optimalizácia v robotike\n• Evolúcia správania a učiacich pravidiel\n• Vybrané modely biologických systémov vnímania a spracovania časovo-priestorovo štruktúrovanej informácie\n\n\nOdporúčaná literatúra:\n• http://alife.tuke.sk\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 222\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n27%\n26%\n23%\n16%\n6%\n2%\n\n\nZabezpečuje:\ndoc. Ing. Marek Bundzel, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

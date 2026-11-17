@@ -1,0 +1,170 @@
+{
+  "predmet_id": "65908422",
+  "code": "26000148",
+  "name": "Servosystémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908422",
+  "fetched_at": "2026-11-17T15:06:31Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000148"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Servosystémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\n1 kontrolný test, hodnotené max. 14 bodov / test.\n1 zadanie, hodnotené max. 10 bodov / zadanie.\n4 reporty z laboratórnych cvičení, hodnotené max. 4 body / report.\nNa získanie zápočtu je nutné: dosiahnuť spolu 21 bodov, vypracovať a obhájiť zadanie aspoň na 7 bodov, z testu dosiahnuť aspoň 5 bodov a odovzdať reporty z laboratórnych cvičení. Z cvičení sú povolené max. 3 osprv. neúčasti."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečná skúška je iba písomnou formou. Študent musí odpovedať na teoretické otázky a riešiť konkrétne numerické príklady."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent(ka) bude vedieť zostaviť lineárne stavové rovnice pre vybrané elektrické pohony a ich časti, následne bude vedieť definovať želané správanie sa systému opísaného v stavovom priestore a pre takýto systém bude vedieť skontrolovať jeho riaditeľnosť, pozorovateľnosť a tiež navrhnúť stavový regulátor a stavový pozorovateľ. Tiež bude vedieť navrhnúť v stavovom priestore lineárnu regulačnú štruktúru, ktorá kompenzuje nemerateľnú a merateľnú poruchu pôsobiacu na pohon. Pre tieto úlohy sa študent(ka) naučí používať softvér MATLAB/Simulink, v ktorom bude vedieť zostaviť simulačné koncepcie rôznych regulačných štruktúr so servopohonmi a nakoniec analyzovať ich správnu činnosť. Študent bude poznať jednotlivé regulačné štruktúry podľa osnovy predmetu, bude vedieť identifikovať rozdiely medzi nimi a a modelovať ich v softvéri MATLAB/Simulink. Následne bude študent vedieť navrhnúť a analyzovať správnosť navrhnutých regulátorov pomocou analýzy získaných dát. Na laboratórnych cvičeniach študent(tka) tieto vedomosti využije pre riadenie mechatronickej sústavy H-mostík a jednosmerný motor pomocou riadiacich kariet a simulačného balíka Simulink Desktop Real Time, pre ktoré bude realizovať návrh softvéru metódou rapid control prototyping. Z vybraných cvičení študen(tka) vypracuje bežnú technickú správu o meraní, čím sa naučí zbierať a vyhodnocovať technické informácie, riadiť základné testy so servopohonom, zaznamenávať údaje o vykonaných analýzach a testoch a vypracovávať technické správy."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do teórie stavového riadenia, stavový opis a stavové rovnice.\n2. Riaditeľnosť a pozorovateľnosť systému v stavovom opise, želané správanie sa stavového systému\n3. Návrh stavového regulátora metódou umiestnenia pólov, Ackermanov vzťah.\n4. Kompenzácia merateľných a nemerateľných porúch.\n5. Luenbergerov pozorovateľ, pozorovateľ poruchy.\n6. Diskretizácia regulátorov, prepis stavového regulátora do diskrétneho tvaru.\n7. Regulácia prúdu a momentu v elektrických pohonoch, generátor momentu, syntéza regulátora.\n8. Regulácia rýchlosti v elektrických pohonoch, syntéza regulátora.\n9. Regulácia polohy v elektrických pohonoch, syntéza regulátora.\n10. Základný princíp predkorekcie, aplikácie predkorekcie v rýchlostných a polohových slučkách.\n11. Synchronizácia pohonov, riadenie pohonov v režime master-slave.\n12. Snímače polohy a rýchlosti."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Ladislav Zboray, František Ďurovský, Stavové riadenie elektrických pohonov, Košice: Vienala, 1995, 1. vydanie, 190 strán, ISBN 80-967 249-1-6.\n[2] František Ďurovský, Priemyselné pohony, Košice: Marcury-Smékal, 1. vydanie, 2001, 56 strán, ISBN 80-89061-07-9.\n[3] Michal Málek, Pavol Makyš, Riadenie elektrických pohonov, Žilina: EDIS, 1. vydanie, 2019, 222 strán, ISBN 978-8055413341.\n[4] Igor Bélai, Servopohony pre mechatronické aplikácie, Bratislava: STU v Bratislave, Fakulta elektrotechniky a informatiky, 2017, 1. vydanie, 103 strán (online na http://uamt.fei.stuba.sk/kega/data/0_Servopohony-MA_V1.pdf).\n[5] Seung-Ki Sul, Control of Electric Machine Drive Systems, Wiley-IEEE Press, Hoboken, New Jersey, 1. vydanie, 2011, 544 strán, ISBN 978-0470590799.\n[6] Norman S. Nise: Control Systems Engineering, Wiley, Hoboken, New Jersey, 6. vydanie, 2011. 944 strán, ISBN 978-0470917695\n[7] Kyslan, K., Smoleň, P., Šlapák, V., & Ďurovský, F. (2023). A Nonlinear Controller for Point-to-Point Position Control. Energies, 16(17), 6339. https://doi.org/10.3390/en16176339."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samo-statné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 640\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n16%\n20%\n21%\n18%\n11%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Karol Kyslan, PhD.\ndoc. Ing. František Ďurovský, PhD.\nIng. Matej Hric"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 640,
+    "percent": {
+      "A": 13,
+      "B": 16,
+      "C": 20,
+      "D": 21,
+      "E": 18,
+      "FX": 11
+    }
+  },
+  "teachers": [
+    "doc. Ing. Karol Kyslan, PhD.",
+    "doc. Ing. František Ďurovský, PhD.",
+    "Ing. Matej Hric"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26000148\nNázov predmetu: Servosystémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): LS 26,39\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\n1 kontrolný test, hodnotené max. 14 bodov / test.\n1 zadanie, hodnotené max. 10 bodov / zadanie.\n4 reporty z laboratórnych cvičení, hodnotené max. 4 body / report.\nNa získanie zápočtu je nutné: dosiahnuť spolu 21 bodov, vypracovať a obhájiť zadanie aspoň na 7 bodov, z testu dosiahnuť aspoň 5 bodov a odovzdať reporty z laboratórnych cvičení. Z cvičení sú povolené max. 3 osprv. neúčasti.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečná skúška je iba písomnou formou. Študent musí odpovedať na teoretické otázky a riešiť konkrétne numerické príklady.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent(ka) bude vedieť zostaviť lineárne stavové rovnice pre vybrané elektrické pohony a ich časti, následne bude vedieť definovať želané správanie sa systému opísaného v stavovom priestore a pre takýto systém bude vedieť skontrolovať jeho riaditeľnosť, pozorovateľnosť a tiež navrhnúť stavový regulátor a stavový pozorovateľ. Tiež bude vedieť navrhnúť v stavovom priestore lineárnu regulačnú štruktúru, ktorá kompenzuje nemerateľnú a merateľnú poruchu pôsobiacu na pohon. Pre tieto úlohy sa študent(ka) naučí používať softvér MATLAB/Simulink, v ktorom bude vedieť zostaviť simulačné koncepcie rôznych regulačných štruktúr so servopohonmi a nakoniec analyzovať ich správnu činnosť. Študent bude poznať jednotlivé regulačné štruktúry podľa osnovy predmetu, bude vedieť identifikovať rozdiely medzi nimi a a modelovať ich v softvéri MATLAB/Simulink. Následne bude študent vedieť navrhnúť a analyzovať správnosť navrhnutých regulátorov pomocou analýzy získaných dát. Na laboratórnych cvičeniach študent(tka) tieto vedomosti využije pre riadenie mechatronickej sústavy H-mostík a jednosmerný motor pomocou riadiacich kariet a simulačného balíka Simulink Desktop Real Time, pre ktoré bude realizovať návrh softvéru metódou rapid control prototyping. Z vybraných cvičení študen(tka) vypracuje bežnú technickú správu o meraní, čím sa naučí zbierať a vyhodnocovať technické informácie, riadiť základné testy so servopohonom, zaznamenávať údaje o vykonaných analýzach a testoch a vypracovávať technické správy.\n\nStručná osnova predmetu:\n1. Úvod do teórie stavového riadenia, stavový opis a stavové rovnice.\n2. Riaditeľnosť a pozorovateľnosť systému v stavovom opise, želané správanie sa stavového systému\n3. Návrh stavového regulátora metódou umiestnenia pólov, Ackermanov vzťah.\n4. Kompenzácia merateľných a nemerateľných porúch.\n5. Luenbergerov pozorovateľ, pozorovateľ poruchy.\n6. Diskretizácia regulátorov, prepis stavového regulátora do diskrétneho tvaru.\n7. Regulácia prúdu a momentu v elektrických pohonoch, generátor momentu, syntéza regulátora.\n8. Regulácia rýchlosti v elektrických pohonoch, syntéza regulátora.\n9. Regulácia polohy v elektrických pohonoch, syntéza regulátora.\n10. Základný princíp predkorekcie, aplikácie predkorekcie v rýchlostných a polohových slučkách.\n11. Synchronizácia pohonov, riadenie pohonov v režime master-slave.\n12. Snímače polohy a rýchlosti.\n\n\nOdporúčaná literatúra:\n[1] Ladislav Zboray, František Ďurovský, Stavové riadenie elektrických pohonov, Košice: Vienala, 1995, 1. vydanie, 190 strán, ISBN 80-967 249-1-6.\n[2] František Ďurovský, Priemyselné pohony, Košice: Marcury-Smékal, 1. vydanie, 2001, 56 strán, ISBN 80-89061-07-9.\n[3] Michal Málek, Pavol Makyš, Riadenie elektrických pohonov, Žilina: EDIS, 1. vydanie, 2019, 222 strán, ISBN 978-8055413341.\n[4] Igor Bélai, Servopohony pre mechatronické aplikácie, Bratislava: STU v Bratislave, Fakulta elektrotechniky a informatiky, 2017, 1. vydanie, 103 strán (online na http://uamt.fei.stuba.sk/kega/data/0_Servopohony-MA_V1.pdf).\n[5] Seung-Ki Sul, Control of Electric Machine Drive Systems, Wiley-IEEE Press, Hoboken, New Jersey, 1. vydanie, 2011, 544 strán, ISBN 978-0470590799.\n[6] Norman S. Nise: Control Systems Engineering, Wiley, Hoboken, New Jersey, 6. vydanie, 2011. 944 strán, ISBN 978-0470917695\n[7] Kyslan, K., Smoleň, P., Šlapák, V., & Ďurovský, F. (2023). A Nonlinear Controller for Point-to-Point Position Control. Energies, 16(17), 6339. https://doi.org/10.3390/en16176339.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samo-statné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 640\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n16%\n20%\n21%\n18%\n11%\n\n\nZabezpečuje:\ndoc. Ing. Karol Kyslan, PhD.\ndoc. Ing. František Ďurovský, PhD.\nIng. Matej Hric\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

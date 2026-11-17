@@ -1,0 +1,227 @@
+{
+  "predmet_id": "65950188",
+  "code": "2607481",
+  "name": "Fyzika II",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950188",
+  "fetched_at": "2026-11-17T15:07:19Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2607481"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Fyzika II"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 39,13,13/LS 39,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\n1.\n1.\n1.\n1.\n1.\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok LS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\n3.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nreferáty z meraní"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška písomnou formou"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je poskytnúť študentom základné fyzikálne poznatky z oblasti elektriny, magnetizmu a optiky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Elektrostatické pole - intenzita elektrického poľa, potenciál, Gaussova veta, vodič v elektrickom poli, kapacita. Elektrický prúd, prúdová hustota, Ohmov zákon, práca a výkon el. prúdu, elektromotorické napätie. Magnetické pole, Biotov-Savartov zákon, sily pôsobiace na vodič s prúdom v magnetickom poli, magnetický moment. Magnetické pole v látkovom prostredí. Elektromagnetická indukcia. Maxwellove rovnice. Vlnová optika - interferencia, ohyb. Úvod do kvantovej mechaniky. Atóm. Jadro."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "HLAVÁČOVÁ, J.; ZIMAN, J.; KOVAĽAKOVÁ, M.; ZAGYI, B. Fyzika II, 1. vyd.. Košice: Elfa, 2007, 142 s. ISBN 978-80-8086-051-6.\nBEISER, Arthur. Úvod do modernej fyziky, 2. vyd. Z angl. org. Perspectives of Modern Physics prel J. ČADA. Praha: Academia 1977, 632 s.\nHALLIDAY, D.; RESNICK, R.; WALKER, J. Fyzika. Z angl. orig. Fundametals of Physics, prel. J. MUSILOVÁ, Z. BOCHNÍČEK, V. HOLÝ. Havlíčkův Brod: VUTIUM, PROMETEUS, 2000. Brožovaný komplet: ISBN 80-214-1868-0 (VUTIUM), ISBN 81-7196-213-9 (PROMETEUS), pevná väzba ISBN 80-214-1869-9 (VUTIUM), ISBN 81-7196-214-7 (PROMETEUS. (Česky.)\nHORÁK, Zdeněk; KRUPKA, František. Fyzika, zväzok 2. Brno: SNTL, ALFA, Praha, 1976, 1130 s. (Česky.)\nDANIEL-SZABÓ, Juraj; HAJKO, Vladimír. Základy fyziky, 2. vyd.. Bratislava: VEDA, 1983, 584 s.\nKREMPASKÝ Július. Fyzika, 2. vyd.. Bratislava: ALFA, 1988, 503 s.\nHyperPhysics. Dostupné na internete: http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html\nHAJKO, Vladimír a kol.. Fyzika v príkladoch, 6. vyd.. Nitra ALFA, 1988, 592 s.\nFRIČOVÁ, O.; GIBOVÁ, Z; HLAVÁČOVÁ, J.. Merania z fyziky. Košice: Technická univerzita v Košiciach, 2012, 101 s. ISBN 978-80-553-0869-2.\nHLAVÁČOVÁ, J.; KOVAĽAKOVÁ, M.; KLADIVOVÁ, M.; ŠEVČOVIČ, L. Úlohy z fyziky. Košice: Elfa, 2010, 68 s. ISBN 978-80-8086-132-2.(Staršie vydania: HLAVÁČOVÁ, J.; KOVAĽAKOVÁ. Zbierka úloh z fyziky.)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 65 hodín, z toho:\n• Účasť na prednáškach: 39 hodín\n• Účasť na cvičeniach: 26 hodín\n\nNekontaktná výučba: spolu 85 hodín, z toho:\n• Príprava na prednášky a cvičenia – 42 hodín\n• Príprava na skúšku – 43 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 4520\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n5%\n12%\n23%\n26%\n31%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. RNDr. Ján Ziman, CSc.\ndoc. RNDr. Mária Kovaľaková, PhD.\ndoc. RNDr. Júlia Hlaváčová, PhD.\nIng. Simona Vráblová, PhD.\nMgr. Peter Duranka, PhD.\ndoc. RNDr. Ing. Jozef Onufer, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 4520,
+    "percent": {
+      "A": 3,
+      "B": 5,
+      "C": 12,
+      "D": 23,
+      "E": 26,
+      "FX": 31
+    }
+  },
+  "teachers": [
+    "prof. RNDr. Ján Ziman, CSc.",
+    "doc. RNDr. Mária Kovaľaková, PhD.",
+    "doc. RNDr. Júlia Hlaváčová, PhD.",
+    "Ing. Simona Vráblová, PhD.",
+    "Mgr. Peter Duranka, PhD.",
+    "doc. RNDr. Ing. Jozef Onufer, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 2607481\nNázov predmetu: Fyzika II\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,1,1\nExterná forma štúdia (hodiny za semester): ZS 39,13,13/LS 39,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\n1.\n1.\n1.\n1.\n1.\n1.\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok LS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\n3.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nreferáty z meraní\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška písomnou formou\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je poskytnúť študentom základné fyzikálne poznatky z oblasti elektriny, magnetizmu a optiky.\n\nStručná osnova predmetu:\nElektrostatické pole - intenzita elektrického poľa, potenciál, Gaussova veta, vodič v elektrickom poli, kapacita. Elektrický prúd, prúdová hustota, Ohmov zákon, práca a výkon el. prúdu, elektromotorické napätie. Magnetické pole, Biotov-Savartov zákon, sily pôsobiace na vodič s prúdom v magnetickom poli, magnetický moment. Magnetické pole v látkovom prostredí. Elektromagnetická indukcia. Maxwellove rovnice. Vlnová optika - interferencia, ohyb. Úvod do kvantovej mechaniky. Atóm. Jadro.\n\nOdporúčaná literatúra:\nHLAVÁČOVÁ, J.; ZIMAN, J.; KOVAĽAKOVÁ, M.; ZAGYI, B. Fyzika II, 1. vyd.. Košice: Elfa, 2007, 142 s. ISBN 978-80-8086-051-6.\nBEISER, Arthur. Úvod do modernej fyziky, 2. vyd. Z angl. org. Perspectives of Modern Physics prel J. ČADA. Praha: Academia 1977, 632 s.\nHALLIDAY, D.; RESNICK, R.; WALKER, J. Fyzika. Z angl. orig. Fundametals of Physics, prel. J. MUSILOVÁ, Z. BOCHNÍČEK, V. HOLÝ. Havlíčkův Brod: VUTIUM, PROMETEUS, 2000. Brožovaný komplet: ISBN 80-214-1868-0 (VUTIUM), ISBN 81-7196-213-9 (PROMETEUS), pevná väzba ISBN 80-214-1869-9 (VUTIUM), ISBN 81-7196-214-7 (PROMETEUS. (Česky.)\nHORÁK, Zdeněk; KRUPKA, František. Fyzika, zväzok 2. Brno: SNTL, ALFA, Praha, 1976, 1130 s. (Česky.)\nDANIEL-SZABÓ, Juraj; HAJKO, Vladimír. Základy fyziky, 2. vyd.. Bratislava: VEDA, 1983, 584 s.\nKREMPASKÝ Július. Fyzika, 2. vyd.. Bratislava: ALFA, 1988, 503 s.\nHyperPhysics. Dostupné na internete: http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html\nHAJKO, Vladimír a kol.. Fyzika v príkladoch, 6. vyd.. Nitra ALFA, 1988, 592 s.\nFRIČOVÁ, O.; GIBOVÁ, Z; HLAVÁČOVÁ, J.. Merania z fyziky. Košice: Technická univerzita v Košiciach, 2012, 101 s. ISBN 978-80-553-0869-2.\nHLAVÁČOVÁ, J.; KOVAĽAKOVÁ, M.; KLADIVOVÁ, M.; ŠEVČOVIČ, L. Úlohy z fyziky. Košice: Elfa, 2010, 68 s. ISBN 978-80-8086-132-2.(Staršie vydania: HLAVÁČOVÁ, J.; KOVAĽAKOVÁ. Zbierka úloh z fyziky.)\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 65 hodín, z toho:\n• Účasť na prednáškach: 39 hodín\n• Účasť na cvičeniach: 26 hodín\n\nNekontaktná výučba: spolu 85 hodín, z toho:\n• Príprava na prednášky a cvičenia – 42 hodín\n• Príprava na skúšku – 43 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 4520\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n5%\n12%\n23%\n26%\n31%\n\n\nZabezpečuje:\nprof. RNDr. Ján Ziman, CSc.\ndoc. RNDr. Mária Kovaľaková, PhD.\ndoc. RNDr. Júlia Hlaváčová, PhD.\nIng. Simona Vráblová, PhD.\nMgr. Peter Duranka, PhD.\ndoc. RNDr. Ing. Jozef Onufer, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

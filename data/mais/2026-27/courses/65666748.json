@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65666748",
+  "code": "26001075",
+  "name": "Umelá inteligencia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65666748",
+  "fetched_at": "2026-11-17T14:59:39Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001075"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Umelá inteligencia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežné hodnotenie pozostáva z priebežného riešenia krátkych úloh zameraných na pochopenie základných princípov umelej inteligencie, analýzu jednoduchých problémov a interpretáciu výsledkov použitých metód. Súčasťou priebežného hodnotenia je aj vypracovanie projektu na zadanú tematiku."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečné hodnotenie pozostáva z písomnej skúšky, ktorá overuje porozumenie teoretickým princípom umelej inteligencie, jej možnostiam, obmedzeniam a etickým aspektom použitia v praxi. Súčasťou písomnej skúšky je aj riešenie praktických úloh zameraných na aplikáciu základných metód umelej inteligencie a interpretáciu dosiahnutých výsledkov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu získa základné vedomosti o metódach umelej inteligencie a ich využití v technických systémoch. Bude rozumieť princípom reprezentácie problémov, vyhľadávaniu riešení, znalostným systémom a základom strojového učenia. Získa schopnosť analyzovať jednoduché úlohy riešiteľné pomocou AI, interpretovať výsledky použitých metód a identifikovať základné riziká a etické otázky spojené s ich praktickým použitím."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Definícia umelej inteligencie. Historický vývoj AI. Symbolická AI vs. dátovo riadené prístupy. Prehľad oblastí AI.\n- Inteligentní agenti. Prostredie agenta. Racionálne správanie. Klasifikácia prostredí.\n- Formulácia problémov. Stavový priestor. Prehľad neinformovaných vyhľadávacích algoritmov. Výpočtová zložitosť.\n- Heuristiky. Informované vyhľadávanie. Algoritmus A star. Optimalita a úplnosť.\n- Symbolické uvažovanie. Logické reprezentácie. Pravidlové systémy. Inferenčné mechanizmy.\n- Uvažovanie v neistote. Pravdepodobnostné modely. Bayesovské uvažovanie.\n- Základy strojového učenia. Učenie zo vzoriek. Tréning vs. generalizácia.\n- Klasifikačné a regresné úlohy. Hodnotenie modelov. Overfitting a underfitting.\n- Neurónové siete. Architektúra. Základy hlbokého učenia.\n- Spracovanie prirodzeného jazyka. Jazykové modely. Obmedzenia a riziká.\n- Počítačové videnie. Základy rozpoznávania obrazu. Aplikácie v technických systémoch.\n- Etické, právne a spoločenské aspekty AI. Bezpečnosť a zodpovednosť.\n- Súčasné trendy v AI. Limity súčasných systémov. Zhrnutie predmetu."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "S. J. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, 4th ed. Boston, MA, USA: Pearson, 2020, ISBN: 978-1292401133.\n\nD. L. Poole and A. K. Mackworth, Artificial Intelligence: Foundations of Computational Agents, 3rd ed. Cambridge, U.K.: Cambridge University Press, 2023, ISBN: 978-1009258197.\n\nT. Duke, Building Responsible AI Algorithms: A Framework for Transparency, Fairness, Safety, Privacy, and Robustness. Berkeley, CA, USA: Apress, 2023, ISBN: 978-1484293058"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 445\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n15%\n21%\n23%\n10%\n15%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Peter Sinčák, CSc.\nprof. Ing. Kristína Machová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 445,
+    "percent": {
+      "A": 16,
+      "B": 15,
+      "C": 21,
+      "D": 23,
+      "E": 10,
+      "FX": 15
+    }
+  },
+  "teachers": [
+    "prof. Ing. Peter Sinčák, CSc.",
+    "prof. Ing. Kristína Machová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001075\nNázov predmetu: Umelá inteligencia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1\nExterná forma štúdia (hodiny za semester): ZS 26,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežné hodnotenie pozostáva z priebežného riešenia krátkych úloh zameraných na pochopenie základných princípov umelej inteligencie, analýzu jednoduchých problémov a interpretáciu výsledkov použitých metód. Súčasťou priebežného hodnotenia je aj vypracovanie projektu na zadanú tematiku.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečné hodnotenie pozostáva z písomnej skúšky, ktorá overuje porozumenie teoretickým princípom umelej inteligencie, jej možnostiam, obmedzeniam a etickým aspektom použitia v praxi. Súčasťou písomnej skúšky je aj riešenie praktických úloh zameraných na aplikáciu základných metód umelej inteligencie a interpretáciu dosiahnutých výsledkov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu získa základné vedomosti o metódach umelej inteligencie a ich využití v technických systémoch. Bude rozumieť princípom reprezentácie problémov, vyhľadávaniu riešení, znalostným systémom a základom strojového učenia. Získa schopnosť analyzovať jednoduché úlohy riešiteľné pomocou AI, interpretovať výsledky použitých metód a identifikovať základné riziká a etické otázky spojené s ich praktickým použitím.\n\nStručná osnova predmetu:\n- Definícia umelej inteligencie. Historický vývoj AI. Symbolická AI vs. dátovo riadené prístupy. Prehľad oblastí AI.\n- Inteligentní agenti. Prostredie agenta. Racionálne správanie. Klasifikácia prostredí.\n- Formulácia problémov. Stavový priestor. Prehľad neinformovaných vyhľadávacích algoritmov. Výpočtová zložitosť.\n- Heuristiky. Informované vyhľadávanie. Algoritmus A star. Optimalita a úplnosť.\n- Symbolické uvažovanie. Logické reprezentácie. Pravidlové systémy. Inferenčné mechanizmy.\n- Uvažovanie v neistote. Pravdepodobnostné modely. Bayesovské uvažovanie.\n- Základy strojového učenia. Učenie zo vzoriek. Tréning vs. generalizácia.\n- Klasifikačné a regresné úlohy. Hodnotenie modelov. Overfitting a underfitting.\n- Neurónové siete. Architektúra. Základy hlbokého učenia.\n- Spracovanie prirodzeného jazyka. Jazykové modely. Obmedzenia a riziká.\n- Počítačové videnie. Základy rozpoznávania obrazu. Aplikácie v technických systémoch.\n- Etické, právne a spoločenské aspekty AI. Bezpečnosť a zodpovednosť.\n- Súčasné trendy v AI. Limity súčasných systémov. Zhrnutie predmetu.\n\nOdporúčaná literatúra:\nS. J. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, 4th ed. Boston, MA, USA: Pearson, 2020, ISBN: 978-1292401133.\n\nD. L. Poole and A. K. Mackworth, Artificial Intelligence: Foundations of Computational Agents, 3rd ed. Cambridge, U.K.: Cambridge University Press, 2023, ISBN: 978-1009258197.\n\nT. Duke, Building Responsible AI Algorithms: A Framework for Transparency, Fairness, Safety, Privacy, and Robustness. Berkeley, CA, USA: Apress, 2023, ISBN: 978-1484293058\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 445\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n15%\n21%\n23%\n10%\n15%\n\n\nZabezpečuje:\nprof. Ing. Peter Sinčák, CSc.\nprof. Ing. Kristína Machová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

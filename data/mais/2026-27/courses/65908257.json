@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65908257",
+  "code": "2621671",
+  "name": "Projektovanie elektrotechnických zariadení",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908257",
+  "fetched_at": "2026-11-17T15:06:18Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2621671"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Projektovanie elektrotechnických zariadení"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 39,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti vypracujú samostatný projekt za max. 40 bodov. Ak študent získa z projektu menej ako 21 bodov, musí vypracovaný projekt opraviť."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov-praktická skúška (kreslenie časti projektu podľa zadania). Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov, a keď súčet bodov za priebežné a záverečné hodnotenie bude > 51."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti sa naučia používať nástroje programového balíka EPLAN, ktorý patrí medzi najrozšírenejšie softvérové nástroje pre tvorbu technickej dokumentácie v elektrotechnike v technickej praxi."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Vytvorenie štruktúry projektu (nový projekt, šablóna, delenie stránok a podstránok), záloha a obnovenie\n- Oboznámenie sa s kresliacim prostredím, jednoduché kreslenie spojov, svoriek, prerušení...\n- Vkladanie, úprava a značenie symbolov, vytvorenie symbolu, varianty\n- Používanie Dataportalu, priradenie a vytváranie aktiklov\n- Vytváranie a vkladanie makier, stránkové makrá\n- Montážna plocha, 2D umiestnenie prístrojov v rozvádzači\n- 3D návrhový priestor, umiestnenie komponentov do rozvádzača\n- Kontrola chýb projektu, odstraňovanie chýb\n- Vytváranie a úprava vyhodnotení projektu – titulný list, obsah, súpis prístrojov, zoznam svorkovníc, káblov, plán napojenia svorkovníc....\n- Export výrobných dát, generovanie štítkov a značenie spojov\n\nSkreslenie reálneho zadania (kompletný projekt)"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] EPLAN, E-learning tutorials, [online video], Dostupné na: https://etraining.eplan.com/e-learning/tutorials/home, [Prístup 19.9.2024]"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 39 hodín (3 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (111 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 417\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n10%\n18%\n26%\n32%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. František Ďurovský, PhD.\ndoc. Ing. Milan Lacko, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 417,
+    "percent": {
+      "A": 7,
+      "B": 10,
+      "C": 18,
+      "D": 26,
+      "E": 32,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. František Ďurovský, PhD.",
+    "doc. Ing. Milan Lacko, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 2621671\nNázov predmetu: Projektovanie elektrotechnických zariadení\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,1\nExterná forma štúdia (hodiny za semester): LS 39,13\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti vypracujú samostatný projekt za max. 40 bodov. Ak študent získa z projektu menej ako 21 bodov, musí vypracovaný projekt opraviť.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov-praktická skúška (kreslenie časti projektu podľa zadania). Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov, a keď súčet bodov za priebežné a záverečné hodnotenie bude > 51.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti sa naučia používať nástroje programového balíka EPLAN, ktorý patrí medzi najrozšírenejšie softvérové nástroje pre tvorbu technickej dokumentácie v elektrotechnike v technickej praxi.\n\nStručná osnova predmetu:\n- Vytvorenie štruktúry projektu (nový projekt, šablóna, delenie stránok a podstránok), záloha a obnovenie\n- Oboznámenie sa s kresliacim prostredím, jednoduché kreslenie spojov, svoriek, prerušení...\n- Vkladanie, úprava a značenie symbolov, vytvorenie symbolu, varianty\n- Používanie Dataportalu, priradenie a vytváranie aktiklov\n- Vytváranie a vkladanie makier, stránkové makrá\n- Montážna plocha, 2D umiestnenie prístrojov v rozvádzači\n- 3D návrhový priestor, umiestnenie komponentov do rozvádzača\n- Kontrola chýb projektu, odstraňovanie chýb\n- Vytváranie a úprava vyhodnotení projektu – titulný list, obsah, súpis prístrojov, zoznam svorkovníc, káblov, plán napojenia svorkovníc....\n- Export výrobných dát, generovanie štítkov a značenie spojov\n\nSkreslenie reálneho zadania (kompletný projekt)\n\nOdporúčaná literatúra:\n[1] EPLAN, E-learning tutorials, [online video], Dostupné na: https://etraining.eplan.com/e-learning/tutorials/home, [Prístup 19.9.2024]\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 39 hodín (3 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (111 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 417\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n10%\n18%\n26%\n32%\n8%\n\n\nZabezpečuje:\ndoc. Ing. František Ďurovský, PhD.\ndoc. Ing. Milan Lacko, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

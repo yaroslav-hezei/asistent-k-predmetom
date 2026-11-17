@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66013939",
+  "code": "26001190",
+  "name": "Simulačné systémy v mobilnej robotike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013939",
+  "fetched_at": "2026-11-17T15:15:54Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001190"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Simulačné systémy v mobilnej robotike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 2,2"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú test/kvíz za 20 bodov, v ktorom budú algoritmicky riešiť definované úlohy. Získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy z mobilnej robotiky definované v zadaní (za 20b). Z priebežného hodnotenia študent môže získať 40b (min. počet je 21b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje programové riešenie aplikačných príkladov z mobilnej robotiky v jazyku Matlab/Simulink a aplikačných toolboxov s následným simulačným overením na PC, teoretická časť skúšky spočíva vo vypracovaní teoretických otázok vyplývajúcich z obsahu prednášok predmetu. Zo skúšky môže študent získať 60b (min 31b)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámiť študentov so základnými poznatkami z oblasti mobilnej robotiky, a to z teoretického aj praktického hľadiska. Predmet sa zameriava hlavne na odvodenie a programovú implementáciu kinematických a dynamických modelov mobilných robotov s diferenciálnym podvozkom. Študent nadobudne zručnosti v modelovaní a simulácii mobilných robotických systémov, ako aj v návrhu riadiacich algoritmov vzhľadom na definované ciele riadenia (návrh algoritmov riadenia pre riadenie do bodu, do pozície a pre pohyb po predpísanej dráhe a algoritmov pre sledovanie trajektórie mobilným robotom). Okrem klasického modelovania a riadenia sú v predmete analyzované možnosti implementácie neparametrických neurónových modelov a ich použitie v riadiacich štruktúrach je demonštrované na úrovni riadenia rýchlostí mobilných robotov. Simulačné modely a riadiace štruktúry sú implementované v prostredí Matlab/Simulink a aplikačných Toolboxov s možnosťou prepojenia na systém ROS a Gazebo. Predmet využíva pracovisko mobilnej robotiky, zložené z rôznych typov laboratórnych a simulačných modelov mobilných robotov (modelové pracovisko pre robotický futbal, model bludiska, univerzálna robotická plarforma ModBot)"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do mobilnej robotiky, vývoj a súčasné trendy v mobilnej robotike, prehľad simulačných nástrojov pre modelovanie a simuláciu mobilných robotov, štruktúra mobilného robota (MR),\n2. Rozdelenie mobilných robotov podľa pracovného priestoru (klasické mobilné roboty pohybujúce sa v rovine, lietajúce mobilné roboty, špecifické typy mobilných robotov)\n3. Matematické modelovanie mobilného robota s diferenciálnym podvozkom, kinematika pohybu orientovaného bodu v rovine,\n4. Kinematika pohybu kolies a podvozkov v rovine, predpoklady pre modelovanie kolesových mobilných robotov, vybrané typy kolesových podvozkov v mobilnej robotike, kinematické obmedzenia kolies,\n5. Problematika odvodenia kinematických modelov kolesových podvozkov – kinematický model mobilného robota s diferenciálnym podvozkom\n6. Dynamické vlastnosti pohybu kolesových mobilných robotov, dynamický model mobilného robota v stavovom opise, Newton-Eulerov prístup, Lagrangeov prístup pre získanie dynamického modelu MR, trenie a jeho vplyv na pohyb MR\n7. Základné časti mobilného robota a ich vplyv na dynamické vlastnosti pohybu a možnosti riadenia, snímače v mobilnej robotike pre pohyb v rovine, model DC motora s prevodovkou – akčný člen mobilného robota,\n8. Riadenie mobilných robotov pohybujúcich sa v rovine, riadenie vnútornej slučky mobilného robota, riadenie využívajúce inverznú dynamiku mobilného robota, riadenie DC motora (napätie/prúd),\n9. Poloha, pozícia, dráha a trajektória pri navigačnom riadení mobilných robotov,\n10. Prístupy k plánovaniu pohybu mobilného robota, generovanie trasy vo forme S-kriviek, generovanie rýchlostných profilov,\n11. Navigačné riadenie bez a s spätnou väzbou (riadenie robota na pozíciu, vyhýbanie sa prekážkam),\n12. Potenciál využitia metód umelej inteligencie v modelovaní a riadení mobilných robotov, využitie neurónových modelov v riadiacich štruktúrach pre mobilné roboty ,\n13. Obhajoba zadaní s využitím modelového pracoviska, zloženého z rôznych typov laboratónych a simulačných modelov mobilných robotov (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Čerkala, J. - Jadlovská, A.: Matematické modelovanie a riadenie kolesových mobilných robotov 1. vyd. - Košice : Elfa - 2019, s. 266, ISBN 978-80-8086-273-2\nRobin R. Murphy : Introduction to AI Robotics, , MIT Press, 2000\nRoland Siegwart, Illah R. Nourbakhsh, and Davide Scaramuzza: Introduction to Autonomous Mobile Robots, 2nd Edition, MIT Press, 2011\nGregory Dudek and Michael Jenkin: Computational Principles of Mobile Robotics,\nCambridge University Pres, 2010\nSteven M. LaValle: Planning Algorithms, , Cambridge University Press, 2006\nPredmet využíva Tutoriály a prezentácie záverečných prác na výukovom web portáli simulačných a laboratórnych modelov výskumnej skupiny CMMRaPI (kyb.fei.tuke.sk)\nModely na výuku predmetu (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php):\nMobilny robot Khepera II – simulačný prístup (http://kyb.fei.tuke.sk/laboratoria/modely/khe.php), pracovisko robotickeho bludiska (http://kyb.fei.tuke.sk/laboratoria/modely/blud.php), roboticky futbaliska MiroSot (http://kyb.fei.tuke.sk/laboratoria/modely/msp.php), robotický futbalista MIrosot s kamerou v aplikácii bludiska (http://kyb.fei.tuke.sk/laboratoria/modely/mbl.php), univerzálna robotická platforma – ModBot (http://kyb.fei.tuke.sk/laboratoria/modely/modbot.php)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 12\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n58%\n8%\n0%\n0%\n8%\n25%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Anna Jadlovská, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 12,
+    "percent": {
+      "A": 58,
+      "B": 8,
+      "C": 0,
+      "D": 0,
+      "E": 8,
+      "FX": 25
+    }
+  },
+  "teachers": [
+    "doc. Ing. Anna Jadlovská, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001190\nNázov predmetu: Simulačné systémy v mobilnej robotike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 2,2\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú test/kvíz za 20 bodov, v ktorom budú algoritmicky riešiť definované úlohy. Získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy z mobilnej robotiky definované v zadaní (za 20b). Z priebežného hodnotenia študent môže získať 40b (min. počet je 21b).\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje programové riešenie aplikačných príkladov z mobilnej robotiky v jazyku Matlab/Simulink a aplikačných toolboxov s následným simulačným overením na PC, teoretická časť skúšky spočíva vo vypracovaní teoretických otázok vyplývajúcich z obsahu prednášok predmetu. Zo skúšky môže študent získať 60b (min 31b).\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámiť študentov so základnými poznatkami z oblasti mobilnej robotiky, a to z teoretického aj praktického hľadiska. Predmet sa zameriava hlavne na odvodenie a programovú implementáciu kinematických a dynamických modelov mobilných robotov s diferenciálnym podvozkom. Študent nadobudne zručnosti v modelovaní a simulácii mobilných robotických systémov, ako aj v návrhu riadiacich algoritmov vzhľadom na definované ciele riadenia (návrh algoritmov riadenia pre riadenie do bodu, do pozície a pre pohyb po predpísanej dráhe a algoritmov pre sledovanie trajektórie mobilným robotom). Okrem klasického modelovania a riadenia sú v predmete analyzované možnosti implementácie neparametrických neurónových modelov a ich použitie v riadiacich štruktúrach je demonštrované na úrovni riadenia rýchlostí mobilných robotov. Simulačné modely a riadiace štruktúry sú implementované v prostredí Matlab/Simulink a aplikačných Toolboxov s možnosťou prepojenia na systém ROS a Gazebo. Predmet využíva pracovisko mobilnej robotiky, zložené z rôznych typov laboratórnych a simulačných modelov mobilných robotov (modelové pracovisko pre robotický futbal, model bludiska, univerzálna robotická plarforma ModBot)\n\nStručná osnova predmetu:\n1. Úvod do mobilnej robotiky, vývoj a súčasné trendy v mobilnej robotike, prehľad simulačných nástrojov pre modelovanie a simuláciu mobilných robotov, štruktúra mobilného robota (MR),\n2. Rozdelenie mobilných robotov podľa pracovného priestoru (klasické mobilné roboty pohybujúce sa v rovine, lietajúce mobilné roboty, špecifické typy mobilných robotov)\n3. Matematické modelovanie mobilného robota s diferenciálnym podvozkom, kinematika pohybu orientovaného bodu v rovine,\n4. Kinematika pohybu kolies a podvozkov v rovine, predpoklady pre modelovanie kolesových mobilných robotov, vybrané typy kolesových podvozkov v mobilnej robotike, kinematické obmedzenia kolies,\n5. Problematika odvodenia kinematických modelov kolesových podvozkov – kinematický model mobilného robota s diferenciálnym podvozkom\n6. Dynamické vlastnosti pohybu kolesových mobilných robotov, dynamický model mobilného robota v stavovom opise, Newton-Eulerov prístup, Lagrangeov prístup pre získanie dynamického modelu MR, trenie a jeho vplyv na pohyb MR\n7. Základné časti mobilného robota a ich vplyv na dynamické vlastnosti pohybu a možnosti riadenia, snímače v mobilnej robotike pre pohyb v rovine, model DC motora s prevodovkou – akčný člen mobilného robota,\n8. Riadenie mobilných robotov pohybujúcich sa v rovine, riadenie vnútornej slučky mobilného robota, riadenie využívajúce inverznú dynamiku mobilného robota, riadenie DC motora (napätie/prúd),\n9. Poloha, pozícia, dráha a trajektória pri navigačnom riadení mobilných robotov,\n10. Prístupy k plánovaniu pohybu mobilného robota, generovanie trasy vo forme S-kriviek, generovanie rýchlostných profilov,\n11. Navigačné riadenie bez a s spätnou väzbou (riadenie robota na pozíciu, vyhýbanie sa prekážkam),\n12. Potenciál využitia metód umelej inteligencie v modelovaní a riadení mobilných robotov, využitie neurónových modelov v riadiacich štruktúrach pre mobilné roboty ,\n13. Obhajoba zadaní s využitím modelového pracoviska, zloženého z rôznych typov laboratónych a simulačných modelov mobilných robotov (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)\n\n\nOdporúčaná literatúra:\nČerkala, J. - Jadlovská, A.: Matematické modelovanie a riadenie kolesových mobilných robotov 1. vyd. - Košice : Elfa - 2019, s. 266, ISBN 978-80-8086-273-2\nRobin R. Murphy : Introduction to AI Robotics, , MIT Press, 2000\nRoland Siegwart, Illah R. Nourbakhsh, and Davide Scaramuzza: Introduction to Autonomous Mobile Robots, 2nd Edition, MIT Press, 2011\nGregory Dudek and Michael Jenkin: Computational Principles of Mobile Robotics,\nCambridge University Pres, 2010\nSteven M. LaValle: Planning Algorithms, , Cambridge University Press, 2006\nPredmet využíva Tutoriály a prezentácie záverečných prác na výukovom web portáli simulačných a laboratórnych modelov výskumnej skupiny CMMRaPI (kyb.fei.tuke.sk)\nModely na výuku predmetu (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php):\nMobilny robot Khepera II – simulačný prístup (http://kyb.fei.tuke.sk/laboratoria/modely/khe.php), pracovisko robotickeho bludiska (http://kyb.fei.tuke.sk/laboratoria/modely/blud.php), roboticky futbaliska MiroSot (http://kyb.fei.tuke.sk/laboratoria/modely/msp.php), robotický futbalista MIrosot s kamerou v aplikácii bludiska (http://kyb.fei.tuke.sk/laboratoria/modely/mbl.php), univerzálna robotická platforma – ModBot (http://kyb.fei.tuke.sk/laboratoria/modely/modbot.php)\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 12\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n58%\n8%\n0%\n0%\n8%\n25%\n\n\nZabezpečuje:\ndoc. Ing. Anna Jadlovská, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,163 @@
+{
+  "predmet_id": "66013890",
+  "code": "26001180",
+  "name": "Matematika pre inteligentné systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013890",
+  "fetched_at": "2026-11-17T15:15:50Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001180"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Matematika pre inteligentné systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 2,2"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Zopakovanie vybraných častí matematiky potrebných pre zvládnutie predmetov so zameraním na umelú inteligenciu. Prehĺbenie porozumenia študentov problematike a rozšírenie základných poznatkov v zmysle požiadaviek predmetov študijného programu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do matematiky pre umelú inteligenciu\n- Lineárna algebra\n- Základné pojmy – skalár, vektor, matica, tensor, tvary matíc\n- Algebraické operácie s maticami\n- Regulárna a singulárna matica, inverzná matica, determinant\n- Vlastné hodnoty matíc a vlastné vektory\n- Sústava lineárnych rovníc a jej riešenie\n- Diferenciálny a integrálny počet\n- Funkcia jednej a viacerých premenných\n- Limita a spojitosť, derivácia funkcie, parciálna derivácia\n- Priebeh funkcie, monotónnosť, konvexnosť a konkávnosť, extrémy\n- Gradient a hľadanie extrémov\n- Neurčitý a určitý integrál vybraných funkcií\n- Teória pravdepodobnosti\n- Pravdepodobnosť združená, marginálna a podmienená, nezávislosť\n- Úplná pravdepodobnosť a Bayesova veta\n- Náhodná premenná a vybrané rozdelenia pravdepodobnosti\n- Bodové odhady parametrov. korelačná a kovariančná analýza"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Baculíková, B. - Grinčová, A.: Matematika 1 -Vzorové a neriešené úlohy . TU Košice, 2013.\n- Buša, J. - Pirč, V. - Schrotter, Š.: Numerické metódy, pravdepodobnosť a matematická štatistika, ELFA, Košice, 2006.\n- Deisenroth, Marc Peter, Faisal, A. Aldo and Ong, Cheng Soon. Mathematics for Machine Learning. : Cambridge University Press, 2020."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 184\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n12%\n9%\n24%\n25%\n22%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Peter Sinčák, CSc.\nIng. Martina Szabóová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 184,
+    "percent": {
+      "A": 8,
+      "B": 12,
+      "C": 9,
+      "D": 24,
+      "E": 25,
+      "FX": 22
+    }
+  },
+  "teachers": [
+    "prof. Ing. Peter Sinčák, CSc.",
+    "Ing. Martina Szabóová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001180\nNázov predmetu: Matematika pre inteligentné systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 2,2\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZopakovanie vybraných častí matematiky potrebných pre zvládnutie predmetov so zameraním na umelú inteligenciu. Prehĺbenie porozumenia študentov problematike a rozšírenie základných poznatkov v zmysle požiadaviek predmetov študijného programu.\n\nStručná osnova predmetu:\n- Úvod do matematiky pre umelú inteligenciu\n- Lineárna algebra\n- Základné pojmy – skalár, vektor, matica, tensor, tvary matíc\n- Algebraické operácie s maticami\n- Regulárna a singulárna matica, inverzná matica, determinant\n- Vlastné hodnoty matíc a vlastné vektory\n- Sústava lineárnych rovníc a jej riešenie\n- Diferenciálny a integrálny počet\n- Funkcia jednej a viacerých premenných\n- Limita a spojitosť, derivácia funkcie, parciálna derivácia\n- Priebeh funkcie, monotónnosť, konvexnosť a konkávnosť, extrémy\n- Gradient a hľadanie extrémov\n- Neurčitý a určitý integrál vybraných funkcií\n- Teória pravdepodobnosti\n- Pravdepodobnosť združená, marginálna a podmienená, nezávislosť\n- Úplná pravdepodobnosť a Bayesova veta\n- Náhodná premenná a vybrané rozdelenia pravdepodobnosti\n- Bodové odhady parametrov. korelačná a kovariančná analýza\n\n\nOdporúčaná literatúra:\n- Baculíková, B. - Grinčová, A.: Matematika 1 -Vzorové a neriešené úlohy . TU Košice, 2013.\n- Buša, J. - Pirč, V. - Schrotter, Š.: Numerické metódy, pravdepodobnosť a matematická štatistika, ELFA, Košice, 2006.\n- Deisenroth, Marc Peter, Faisal, A. Aldo and Ong, Cheng Soon. Mathematics for Machine Learning. : Cambridge University Press, 2020.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 184\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n12%\n9%\n24%\n25%\n22%\n\n\nZabezpečuje:\nprof. Ing. Peter Sinčák, CSc.\nIng. Martina Szabóová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

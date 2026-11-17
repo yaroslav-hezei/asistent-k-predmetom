@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65952656",
+  "code": "26000004",
+  "name": "Hlavné poznatky študijného odboru informatika a ich využitie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952656",
+  "fetched_at": "2026-11-17T15:09:44Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000004"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Hlavné poznatky študijného odboru informatika a ich využitie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "4"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 52"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška pre 1. a 2. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvovaním preukáže študent schopnosť analyticky a tvorivo myslieť, rozvíjať a riešiť problémy a úlohy v danej odbornej oblasti, najmä s pomocou nadobudnutých poznatkov z absolvovaných predmetov a s použitím odbornej literatúry."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Globálny súbor poznatkov z danej odbornej oblasti, viazaný najmä na povinné a povinne-voliteľné predmety študijného programu absolvovaného študentom, ktoré obsahujúce témy z jadra študijného odboru informatika."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Podľa jednotlivých absolvovaných predmetov z danej odbornej oblasti."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní nadobudnutých poznatkov a odbornej literatúry. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 2781\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n33%\n22%\n18%\n9%\n6%\n13%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Jaroslav Porubän, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Štátna skúška pre 1. a 2. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 2781,
+    "percent": {
+      "A": 33,
+      "B": 22,
+      "C": 18,
+      "D": 9,
+      "E": 6,
+      "FX": 13
+    }
+  },
+  "teachers": [
+    "prof. Ing. Jaroslav Porubän, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000004\nNázov predmetu: Hlavné poznatky študijného odboru informatika a ich využitie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 4\nExterná forma štúdia (hodiny za semester): LS 52\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška pre 1. a 2. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvovaním preukáže študent schopnosť analyticky a tvorivo myslieť, rozvíjať a riešiť problémy a úlohy v danej odbornej oblasti, najmä s pomocou nadobudnutých poznatkov z absolvovaných predmetov a s použitím odbornej literatúry.\n\nStručná osnova predmetu:\nGlobálny súbor poznatkov z danej odbornej oblasti, viazaný najmä na povinné a povinne-voliteľné predmety študijného programu absolvovaného študentom, ktoré obsahujúce témy z jadra študijného odboru informatika.\n\nOdporúčaná literatúra:\nPodľa jednotlivých absolvovaných predmetov z danej odbornej oblasti.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní nadobudnutých poznatkov a odbornej literatúry. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 2781\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n33%\n22%\n18%\n9%\n6%\n13%\n\n\nZabezpečuje:\nprof. Ing. Jaroslav Porubän, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

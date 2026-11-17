@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65950901",
+  "code": "26000441",
+  "name": "Termodynamika a štatistická fyzika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950901",
+  "fetched_at": "2026-11-17T15:08:12Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000441"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Termodynamika a štatistická fyzika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nspracovanie zadania"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška písomnou formou"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Osvojiť si základy štatistickej fyziky a termodynamiky potrebné pre ďalšie štúdium inžinierstva materiálov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Termodynamické systémy. Izolovaná sústava. Relaxačné procesy. Fázový priestor. Liouvillova veta.\n2. Kvantový prístup. Operátor hustoty.\n3. Pojem mikrostavu. Štatistický súbor. Mikrokanonické rozdelenie.\n4. Kanonické rozdelenie. Sústavy v tepelnom a difúznom kontakte. Entropia.\n5. Stredné súborové hodnoty. Stavové sumy. Boltzmannov a Gibsov faktor\n6. Klasický ideálny plyn. Tlak.\n7. Sústavy neinteragujúcich častíc.Fermi-Diracova a Bose-Einsteinovo rozdelenie. Fermiho plyn.\n8. Fermiho plyn v kovoch.\n9. Fluktuácie. Nerovnovážne procesy. Transportné procesy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "KULHÁNEK, Petr. Vybrané kapitoly z teoretické fyziky: 3. Statistická fyzika. Praha: AGA, 2017, 416 s. ISBN 978-80-904582-4. (Česky.)\n\nKVASNICA, Jozef. Statistická fyzika, 1. vyd.. Praha: Academia, 1983, 320 s.\n\nKITTEL, Charles; KROEMER, Herbert. Thermal Physics, 2. vyd.. USA: W. H. Freeman and Company, 1980, 496 s. (Anglicky.) ISBN 0-7167-1088-9.\n(preklad 1. vydania: KITTEL, Charles. Statističeskaja termodinamika. Moskva: Nauka, 1977, 316 s. Rusky.)\n\nČULÍK, František, NOGA Milan. Úvod do štatistickej fyziky a termodynamiky. Bratislava: ALFA, 1982, 304 s.\n\nUHRIN, Ján. Základy štatistickej termodynamiky. Košice: elfa, 1995.\n\nKREMPASKÝ, Július a kol.: Synergetika. Bratislava: VEDA, 1988, 264 s."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 70 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 39 hodín\n• Priame konzultácie: 5 hodín\n\nNekontaktná výučba: spolu 80 hodín, z toho:\n• Príprava na cvičenia: 12 hodín\n• Príprava na priebežné kontrolné skúšky: 16 hodín\n• Príprava na skúšku: 52 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 23\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n13%\n22%\n17%\n17%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Mária Kladivová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 23,
+    "percent": {
+      "A": 30,
+      "B": 13,
+      "C": 22,
+      "D": 17,
+      "E": 17,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Mária Kladivová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 26000441\nNázov predmetu: Termodynamika a štatistická fyzika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nspracovanie zadania\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška písomnou formou\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOsvojiť si základy štatistickej fyziky a termodynamiky potrebné pre ďalšie štúdium inžinierstva materiálov.\n\nStručná osnova predmetu:\n1. Termodynamické systémy. Izolovaná sústava. Relaxačné procesy. Fázový priestor. Liouvillova veta.\n2. Kvantový prístup. Operátor hustoty.\n3. Pojem mikrostavu. Štatistický súbor. Mikrokanonické rozdelenie.\n4. Kanonické rozdelenie. Sústavy v tepelnom a difúznom kontakte. Entropia.\n5. Stredné súborové hodnoty. Stavové sumy. Boltzmannov a Gibsov faktor\n6. Klasický ideálny plyn. Tlak.\n7. Sústavy neinteragujúcich častíc.Fermi-Diracova a Bose-Einsteinovo rozdelenie. Fermiho plyn.\n8. Fermiho plyn v kovoch.\n9. Fluktuácie. Nerovnovážne procesy. Transportné procesy.\n\nOdporúčaná literatúra:\nKULHÁNEK, Petr. Vybrané kapitoly z teoretické fyziky: 3. Statistická fyzika. Praha: AGA, 2017, 416 s. ISBN 978-80-904582-4. (Česky.)\n\nKVASNICA, Jozef. Statistická fyzika, 1. vyd.. Praha: Academia, 1983, 320 s.\n\nKITTEL, Charles; KROEMER, Herbert. Thermal Physics, 2. vyd.. USA: W. H. Freeman and Company, 1980, 496 s. (Anglicky.) ISBN 0-7167-1088-9.\n(preklad 1. vydania: KITTEL, Charles. Statističeskaja termodinamika. Moskva: Nauka, 1977, 316 s. Rusky.)\n\nČULÍK, František, NOGA Milan. Úvod do štatistickej fyziky a termodynamiky. Bratislava: ALFA, 1982, 304 s.\n\nUHRIN, Ján. Základy štatistickej termodynamiky. Košice: elfa, 1995.\n\nKREMPASKÝ, Július a kol.: Synergetika. Bratislava: VEDA, 1988, 264 s.\n\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 70 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 39 hodín\n• Priame konzultácie: 5 hodín\n\nNekontaktná výučba: spolu 80 hodín, z toho:\n• Príprava na cvičenia: 12 hodín\n• Príprava na priebežné kontrolné skúšky: 16 hodín\n• Príprava na skúšku: 52 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 23\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n13%\n22%\n17%\n17%\n0%\n\n\nZabezpečuje:\ndoc. RNDr. Mária Kladivová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

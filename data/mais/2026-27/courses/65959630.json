@@ -1,0 +1,258 @@
+{
+  "predmet_id": "65959630",
+  "code": "2607333",
+  "name": "Základy elektrotechnického inžinierstva",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65959630",
+  "fetched_at": "2026-11-17T15:12:41Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2607333"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy elektrotechnického inžinierstva"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Elektrotechnika - písomka, BOZP - test , zadania: Rešerš, Výkres mechanická súčiastka, Výkres elektrotechnická schéma, Elektroinštalácia."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Ovláda základné metódy riešenia jednosmerných obvodov. Študent získa rozšírené vedomosti z oblasti bezpečnostných predpisov týkajúcich sa elektrických inštalácii v občianskej výstavbe. Ovláda zásady ochrany pred úrazom elektrickým prúdom, požiadavkami na elektrickú inštaláciu z hľadiska ochrany pred požiarom, predpisy pre bezpečnú prácu na elektrických zariadeniach a zásady poskytovania prvej pomoci pri úraze elektrickým prúdom.\nŠtudent so základnými pravidlami tvorby technickej dokumentácie (TD) v elektrotechnike, normami pre tvorbu TD a získanie praktických zručností pri kreslení elektrotechnických výkresov pomocou CAD."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- základné elektrické veličiny a jednotky\n- topológia elektrických obvodov\n- elektrické prvky\n- riešenie lineárnych elektrických obvodov v ustálenom stacionárnom stave\n- účinky elektrického prúdu na ľudský organizmus\n- prvá pomoc pri úrazoch\n- ochrana pred zásahom elektrickým prúdom\n- technická dokumentácia"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Cimbala, R. : Základy elektrotechnického inžinierstva, prednášky, 2024 https://moodle.tuke.sk/moodle/course/view.php?id=301\n\nMeravý, J.: Elektrotechnická spôsobilosť pre elektrikárov, vyd. - Ing. Ján Meravý – Lightning, 2023, 400 s., ISBN 978-80-895-7611-1\n\nPavlík, M.: Zbierka úloh k predmetu Základy elektrotechnického inžinierstva, 2. rozš. vyd. - Košice : Technická univerzita v Košiciach, 2020., 90 s. [CD-ROM]., ISBN 978-80-553-3603-9.\n\nIlenin, S., Pavlík, M.: Bezpečnosť práce na elektrických zariadeniach, 1. vyd. - Košice : Technická univerzita v Košiciach - 2018. - 91 s.. - ISBN 978-80-553-2716-7.\n\nStandard Handbook for Electrical Engineers, Seventeenth Edition, Surya Santoso, H. Wayne Beaty, McGraw-Hill, 2018\n\nPractical Guide to International Standardization in Electrical Engineering, Koch Hermann J., John Wiley and Sons Ltd, 2016\n\nElectrical Engineering Textbook, Horst Bumiller, Monika Burgmaier, Walter Eichler, Bernd Feustel, Thomas Käppel, Werner Klee, Europa Lehrmittel, 2016"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Prednášky predmetu sú realizované online metódou vzdelávania. Cvičenia sú realizované prezenčnou metódou vzdelávania.\nZáťaž študenta: 150 hodín\nPrednášky: 26 hodín, cvičenia 26 hodín, príprava na zápočtovú písomku zo základov elektrotechniky: 17 hodín, príprava na test z bezpečnosti a ochrany zdravia: 13 hodín, vypracovanie zadania Elektroinštalácia: 16 hodín, vypracovanie zadania Elektrotechnická schéma: 2 hodiny, vypracovanie zadania Mechanická súčiastka: 8 hodín, vypracovanie zadania Rešerš: 22 hodín, samoštúdium: 20 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 18240\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n11%\n18%\n21%\n21%\n26%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Roman Cimbala, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 5,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 18240,
+    "percent": {
+      "A": 3,
+      "B": 11,
+      "C": 18,
+      "D": 21,
+      "E": 21,
+      "FX": 26
+    }
+  },
+  "teachers": [
+    "prof. Ing. Roman Cimbala, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2607333\nNázov predmetu: Základy elektrotechnického inžinierstva\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Kombinovaná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nAplikovaná informatika (ApI_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1. PO\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nElektrotechnika - písomka, BOZP - test , zadania: Rešerš, Výkres mechanická súčiastka, Výkres elektrotechnická schéma, Elektroinštalácia.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOvláda základné metódy riešenia jednosmerných obvodov. Študent získa rozšírené vedomosti z oblasti bezpečnostných predpisov týkajúcich sa elektrických inštalácii v občianskej výstavbe. Ovláda zásady ochrany pred úrazom elektrickým prúdom, požiadavkami na elektrickú inštaláciu z hľadiska ochrany pred požiarom, predpisy pre bezpečnú prácu na elektrických zariadeniach a zásady poskytovania prvej pomoci pri úraze elektrickým prúdom.\nŠtudent so základnými pravidlami tvorby technickej dokumentácie (TD) v elektrotechnike, normami pre tvorbu TD a získanie praktických zručností pri kreslení elektrotechnických výkresov pomocou CAD.\n\nStručná osnova predmetu:\n- základné elektrické veličiny a jednotky\n- topológia elektrických obvodov\n- elektrické prvky\n- riešenie lineárnych elektrických obvodov v ustálenom stacionárnom stave\n- účinky elektrického prúdu na ľudský organizmus\n- prvá pomoc pri úrazoch\n- ochrana pred zásahom elektrickým prúdom\n- technická dokumentácia\n\nOdporúčaná literatúra:\nCimbala, R. : Základy elektrotechnického inžinierstva, prednášky, 2024 https://moodle.tuke.sk/moodle/course/view.php?id=301\n\nMeravý, J.: Elektrotechnická spôsobilosť pre elektrikárov, vyd. - Ing. Ján Meravý – Lightning, 2023, 400 s., ISBN 978-80-895-7611-1\n\nPavlík, M.: Zbierka úloh k predmetu Základy elektrotechnického inžinierstva, 2. rozš. vyd. - Košice : Technická univerzita v Košiciach, 2020., 90 s. [CD-ROM]., ISBN 978-80-553-3603-9.\n\nIlenin, S., Pavlík, M.: Bezpečnosť práce na elektrických zariadeniach, 1. vyd. - Košice : Technická univerzita v Košiciach - 2018. - 91 s.. - ISBN 978-80-553-2716-7.\n\nStandard Handbook for Electrical Engineers, Seventeenth Edition, Surya Santoso, H. Wayne Beaty, McGraw-Hill, 2018\n\nPractical Guide to International Standardization in Electrical Engineering, Koch Hermann J., John Wiley and Sons Ltd, 2016\n\nElectrical Engineering Textbook, Horst Bumiller, Monika Burgmaier, Walter Eichler, Bernd Feustel, Thomas Käppel, Werner Klee, Europa Lehrmittel, 2016\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Prednášky predmetu sú realizované online metódou vzdelávania. Cvičenia sú realizované prezenčnou metódou vzdelávania.\nZáťaž študenta: 150 hodín\nPrednášky: 26 hodín, cvičenia 26 hodín, príprava na zápočtovú písomku zo základov elektrotechniky: 17 hodín, príprava na test z bezpečnosti a ochrany zdravia: 13 hodín, vypracovanie zadania Elektroinštalácia: 16 hodín, vypracovanie zadania Elektrotechnická schéma: 2 hodiny, vypracovanie zadania Mechanická súčiastka: 8 hodín, vypracovanie zadania Rešerš: 22 hodín, samoštúdium: 20 hodín\n\n\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 18240\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n3%\n11%\n18%\n21%\n21%\n26%\n\n\nZabezpečuje:\nprof. Ing. Roman Cimbala, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

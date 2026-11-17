@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65969917",
+  "code": "26001217",
+  "name": "Radary v automobiloch",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969917",
+  "fetched_at": "2026-11-17T15:14:24Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001217"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Radary v automobiloch"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa v predmete oboznámi s hlavnými trendami v uplatňovaní automobilových radarov. Predmet sa venuje tiež vývoju metód spracovania signálov použitých na odhad významných parametrov cieľov, ako je vzdialenosť, rýchlosť a smer. Náplňou predmetu sú tiež typy radarov a pokročilé techniky estimácie, ktoré zlepšujú funkcionalitu automobilových radarov. Jedna časť je venovaná aj štandardizačným procesom v oblasti automobilových radarov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "[1] Základné pojmy radarovej techniky. [2] Medzinárodné regulačné a normalizačné opatrenia. [3] Kategorizácia radarov v automobiloch. [4] Kategorizácia automatizácie riadenia vozidiel a aplikácie využívajúce radary. [5] Triedy radarov a radarových signálov používaných v automobiloch. [6] Základné problémy estimácie automobilovým radarom. [7] Pokročilé metódy estimácie. [8] MIMO radar. [9] Robustné metódy estimácie. [10] Problematika sledovania cieľov. [11] Elektromagnetické simulácie FMCW radaru. [12] Fúzia dát."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] D. KOCUR, J. GAMEC, M. GAMCOVÁ, J. FORTES, D. URDZÍK, UWB senzorové systémy, Košice: TU, 2015.\n[2] W. David, „FMCW MMW Radar for Automotive Longitudinal Control,“ Institute of Transportation Studies, UC Berkeley, 1997.\n[3] M. Richards, M. A. Richards, J. A. Scheer, W. A. Holm, Principles of Modern Radar: Basic Principles, Institution of Engineering and Technology, 2010.\n[4] B. R. Mahafza, Radar Systems Analysis and Design Using MATLAB, Chapman and Hall/CRC; 3rd edition (May 20, 2013), ISBN-13:978-1439884959."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 53\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n34%\n36%\n8%\n2%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Mária Gamcová, PhD.\ndoc. Ing. Ján Gamec, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 53,
+    "percent": {
+      "A": 15,
+      "B": 34,
+      "C": 36,
+      "D": 8,
+      "E": 2,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Mária Gamcová, PhD.",
+    "doc. Ing. Ján Gamec, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001217\nNázov predmetu: Radary v automobiloch\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa v predmete oboznámi s hlavnými trendami v uplatňovaní automobilových radarov. Predmet sa venuje tiež vývoju metód spracovania signálov použitých na odhad významných parametrov cieľov, ako je vzdialenosť, rýchlosť a smer. Náplňou predmetu sú tiež typy radarov a pokročilé techniky estimácie, ktoré zlepšujú funkcionalitu automobilových radarov. Jedna časť je venovaná aj štandardizačným procesom v oblasti automobilových radarov.\n\nStručná osnova predmetu:\n[1] Základné pojmy radarovej techniky. [2] Medzinárodné regulačné a normalizačné opatrenia. [3] Kategorizácia radarov v automobiloch. [4] Kategorizácia automatizácie riadenia vozidiel a aplikácie využívajúce radary. [5] Triedy radarov a radarových signálov používaných v automobiloch. [6] Základné problémy estimácie automobilovým radarom. [7] Pokročilé metódy estimácie. [8] MIMO radar. [9] Robustné metódy estimácie. [10] Problematika sledovania cieľov. [11] Elektromagnetické simulácie FMCW radaru. [12] Fúzia dát.\n\nOdporúčaná literatúra:\n[1] D. KOCUR, J. GAMEC, M. GAMCOVÁ, J. FORTES, D. URDZÍK, UWB senzorové systémy, Košice: TU, 2015.\n[2] W. David, „FMCW MMW Radar for Automotive Longitudinal Control,“ Institute of Transportation Studies, UC Berkeley, 1997.\n[3] M. Richards, M. A. Richards, J. A. Scheer, W. A. Holm, Principles of Modern Radar: Basic Principles, Institution of Engineering and Technology, 2010.\n[4] B. R. Mahafza, Radar Systems Analysis and Design Using MATLAB, Chapman and Hall/CRC; 3rd edition (May 20, 2013), ISBN-13:978-1439884959.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 53\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n34%\n36%\n8%\n2%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Mária Gamcová, PhD.\ndoc. Ing. Ján Gamec, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

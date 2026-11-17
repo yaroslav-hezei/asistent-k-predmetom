@@ -1,0 +1,183 @@
+{
+  "predmet_id": "65908230",
+  "code": "2621551",
+  "name": "Priemyselná elektronika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908230",
+  "fetched_at": "2026-11-17T15:06:16Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2621551"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Priemyselná elektronika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\n1.\n1.\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 8 laboratórnych protokolov (16b.), kontrolný test 4x6b (24b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú vedomosti z oblasti teórie a využitia moderných polovodičových súčiastok používaných v oblasti silnoprúdovej elektrotechniky. Budú rozumieť činnosti najpoužívanejších obvodov a zapojení ako sú obvody s diskrétnymi bipolárnymi a unipolárnymi tranzistormi, výkonové zosilňovače, logické obvody, operačné zosilňovače, stabilizátory napätia. Študenti sa v rámci laboratórnych meraní naučia merať základné obvody a zapojenia a analyzovať získané priebehy a vyvodzovať závery. Študenti tak získajú komplexné znalosti, ktoré budú uplatňovať pri štúdiu nadväzujúcich odborných predmetov z oblasti silnoprúdovej elektrotechniky a pomôžu im lepšie pochopiť medzipredmetové vzťahy."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základy používania meracej techniky – osciloskop a multimeter, praktická aplikácia Ohmovho a Kirchhoffových zákonov, kreslenie elektrotechnických schém.\n2. Činný výkon v priemyselnej elektronike, práca so striedavými obvodmi a impedanciou, základy elektromagnetizmu.\n3. Integrál a derivácia v elektrotechnike, základy modelovania elektrotechnických obvodov.\n4. Rekapitulácia fyzikálnych poznatkov o polovodičoch. Polovodičové súčiastky, základné vlastnosti, charakteristiky, typy a použitie diód.\n5. Aplikácie bipolárnych tranzistorov – stabilizácia pracovného bodu, zosilňovače, spínače, klopné obvody, tvarovače signálu.\n6. Aplikácie unipolárnych tranzistorov – princíp činnosti a prehľad typov unipolárnych tranzistorov, základné statické vlastnosti a aplikácie\n7. Integrované obvody – operačné zosilňovače, stabilizátory napätia, optočleny, analógové filtre, logické obvody.\n8. Viacvrstvové polovodičové súčiastky, základy výkonových polovodičových meničov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] KAŇUCH, J. Prednášky z predmetu Priemyselná elektronika [online]. Košice, 2023. [cit. 2025-01-09]. Dostupné na internete: http://kem.fei.tuke.sk/sk/predmety/priemyselna-elektronika/.\n[2] MICHAELI, L. Základy elektroniky. 1. vyd. Košice: ELFA Technická univerzita, 2007. 166 s. ISBN 978-80-8086-053-0.\n[3] ČUNTALA, J. Elektronika 1. 1. vyd. Žilina: Žilinská Univerzita, Elektrotechnická fakulta, Katedra elektroniky a elektrotechnológie, 2004.\n[4] SCHERZ, P. Practical electronics for invertors. 1st ed. New York: McGraw-Hill, 2000. 604 p. ISBN 0070580782."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 769\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n12%\n20%\n25%\n21%\n14%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Pástor, PhD.\nIng. Roland Molnár\nIng. Daniel Gordan, PhD.\nIng. Matúš Hoffej"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 769,
+    "percent": {
+      "A": 8,
+      "B": 12,
+      "C": 20,
+      "D": 25,
+      "E": 21,
+      "FX": 14
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Pástor, PhD.",
+    "Ing. Roland Molnár",
+    "Ing. Daniel Gordan, PhD.",
+    "Ing. Matúš Hoffej"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 2621551\nNázov predmetu: Priemyselná elektronika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\n1.\n1.\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 8 laboratórnych protokolov (16b.), kontrolný test 4x6b (24b).\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú vedomosti z oblasti teórie a využitia moderných polovodičových súčiastok používaných v oblasti silnoprúdovej elektrotechniky. Budú rozumieť činnosti najpoužívanejších obvodov a zapojení ako sú obvody s diskrétnymi bipolárnymi a unipolárnymi tranzistormi, výkonové zosilňovače, logické obvody, operačné zosilňovače, stabilizátory napätia. Študenti sa v rámci laboratórnych meraní naučia merať základné obvody a zapojenia a analyzovať získané priebehy a vyvodzovať závery. Študenti tak získajú komplexné znalosti, ktoré budú uplatňovať pri štúdiu nadväzujúcich odborných predmetov z oblasti silnoprúdovej elektrotechniky a pomôžu im lepšie pochopiť medzipredmetové vzťahy.\n\nStručná osnova predmetu:\n1. Základy používania meracej techniky – osciloskop a multimeter, praktická aplikácia Ohmovho a Kirchhoffových zákonov, kreslenie elektrotechnických schém.\n2. Činný výkon v priemyselnej elektronike, práca so striedavými obvodmi a impedanciou, základy elektromagnetizmu.\n3. Integrál a derivácia v elektrotechnike, základy modelovania elektrotechnických obvodov.\n4. Rekapitulácia fyzikálnych poznatkov o polovodičoch. Polovodičové súčiastky, základné vlastnosti, charakteristiky, typy a použitie diód.\n5. Aplikácie bipolárnych tranzistorov – stabilizácia pracovného bodu, zosilňovače, spínače, klopné obvody, tvarovače signálu.\n6. Aplikácie unipolárnych tranzistorov – princíp činnosti a prehľad typov unipolárnych tranzistorov, základné statické vlastnosti a aplikácie\n7. Integrované obvody – operačné zosilňovače, stabilizátory napätia, optočleny, analógové filtre, logické obvody.\n8. Viacvrstvové polovodičové súčiastky, základy výkonových polovodičových meničov.\n\nOdporúčaná literatúra:\n[1] KAŇUCH, J. Prednášky z predmetu Priemyselná elektronika [online]. Košice, 2023. [cit. 2025-01-09]. Dostupné na internete: http://kem.fei.tuke.sk/sk/predmety/priemyselna-elektronika/.\n[2] MICHAELI, L. Základy elektroniky. 1. vyd. Košice: ELFA Technická univerzita, 2007. 166 s. ISBN 978-80-8086-053-0.\n[3] ČUNTALA, J. Elektronika 1. 1. vyd. Žilina: Žilinská Univerzita, Elektrotechnická fakulta, Katedra elektroniky a elektrotechnológie, 2004.\n[4] SCHERZ, P. Practical electronics for invertors. 1st ed. New York: McGraw-Hill, 2000. 604 p. ISBN 0070580782.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov.\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 769\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n12%\n20%\n25%\n21%\n14%\n\n\nZabezpečuje:\ndoc. Ing. Marek Pástor, PhD.\nIng. Roland Molnár\nIng. Daniel Gordan, PhD.\nIng. Matúš Hoffej\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

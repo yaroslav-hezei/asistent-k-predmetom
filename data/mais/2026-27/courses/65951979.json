@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65951979",
+  "code": "26001003",
+  "name": "Bezpečnostný manažment",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65951979",
+  "fetched_at": "2026-11-17T15:08:54Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001003"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Bezpečnostný manažment"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nVypracovanie zadania"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu študent získa základné poznatky z oblasti managementu informačnej bezpečnosti."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do informačnej bezpečnosti.\nModel informačnej bezpečnosti.\nRiadenie informačnej bezpečnosti.\nRiadenie rizík.\nKontinuita činností, riešenie incidentov, plán obnovy.\nFyzická bezpečnosť.\nRiadenie prístupu.\nBezpečnostný audit\nĽudské zdroje"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Kainz, O., Zoller, M., Šimko, E., Michalko, M.: Aplikovaná kybernetická bezpečnosť, Technická univerzita v Košiciach, 2025.\n2. Makatúra, I.: Základy bezpečnostných opatrení - Príručka manažéra kybernetickej bezpečnosti, Eurokódex, 2024.\n3. OLEJÁR,D. a kol.: Informačná bezpečnosť - študijné materiály pre kurzy informačnej bezpečnosti pre laikov. Bratislava, 2013.\n4. Levický, D.: Základy kybernetickej bezpečnosti. Elfa, 2020."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 256\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n33%\n27%\n11%\n18%\n2%\n9%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Anton Baláž, PhD.\ndoc. Ing. Miroslav Michalko, PhD.\nIng. Samuel Šulek"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 256,
+    "percent": {
+      "A": 33,
+      "B": 27,
+      "C": 11,
+      "D": 18,
+      "E": 2,
+      "FX": 9
+    }
+  },
+  "teachers": [
+    "doc. Ing. Anton Baláž, PhD.",
+    "doc. Ing. Miroslav Michalko, PhD.",
+    "Ing. Samuel Šulek"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001003\nNázov predmetu: Bezpečnostný manažment\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nVypracovanie zadania\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu študent získa základné poznatky z oblasti managementu informačnej bezpečnosti.\n\nStručná osnova predmetu:\nÚvod do informačnej bezpečnosti.\nModel informačnej bezpečnosti.\nRiadenie informačnej bezpečnosti.\nRiadenie rizík.\nKontinuita činností, riešenie incidentov, plán obnovy.\nFyzická bezpečnosť.\nRiadenie prístupu.\nBezpečnostný audit\nĽudské zdroje\n\nOdporúčaná literatúra:\n1. Kainz, O., Zoller, M., Šimko, E., Michalko, M.: Aplikovaná kybernetická bezpečnosť, Technická univerzita v Košiciach, 2025.\n2. Makatúra, I.: Základy bezpečnostných opatrení - Príručka manažéra kybernetickej bezpečnosti, Eurokódex, 2024.\n3. OLEJÁR,D. a kol.: Informačná bezpečnosť - študijné materiály pre kurzy informačnej bezpečnosti pre laikov. Bratislava, 2013.\n4. Levický, D.: Základy kybernetickej bezpečnosti. Elfa, 2020.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 256\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n33%\n27%\n11%\n18%\n2%\n9%\n\n\nZabezpečuje:\ndoc. Ing. Anton Baláž, PhD.\ndoc. Ing. Miroslav Michalko, PhD.\nIng. Samuel Šulek\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

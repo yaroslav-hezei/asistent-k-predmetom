@@ -1,0 +1,166 @@
+{
+  "predmet_id": "65887797",
+  "code": "26000845",
+  "name": "Databázové systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65887797",
+  "fetched_at": "2026-11-17T15:03:20Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000845"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Databázové systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,0,0,2,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 39,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa vedomosti o základoch informačných systémov, databázových technológií, databázových systémov a systémov riadenia bázy dát. Podrobnejšie sa oboznámi s konceptom relačných databáz a dotazovacieho jazyka SQL (Structured Query Language). Získa vedomosti z oblasti navrhovania dátových modelov, databázových riešení, manažovania databázových používateľov a v neposlednom rade sa naučí používať jazyk SQL. Získané zručnosti využije pri návrhu a realizácii relačnej databázovej schémy, pri práci s databázovými objektmi, vytvárania databázových aplikácií a manažovania databáz."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do databázových systémov\n2. Dátové modelovanie\n3. Relačný dátový model\n4. Relačná algebra\n5. Funkčné závislosti, normalizácia\n6. Databázové jazyky, SQL, spracovanie dotazov\n7. Primárne organizácie súborov\n8. Indexová organizácia súborov\n9. Transakcie a ich spracovanie. Paralelizmus a techniky konkurentnosti. Zotavenie po chybách.\n10. Bezpečnosť databázových systémov\n11. NoSQL databázy\n12. Objektovo-orientované databázy, XML databázy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Elmasri,R., Navathe, S.B. : Fundamentals of Database Systems, The Benjamin/Cummings Publishing Company, Inc., 1., 2. , 3.vydanie\n2. Sumathi, S., Esakkirajan, S.: Fundamentals of Relational Database Management Systems, Springer, 2007\n3. Date C. J.: An Introduction to Database Systems, Addison-Wesley, 8th Edition, 2003\n4. Date, C.J.: A guide to the SQL standard : a user's guide to the standard database language SQL, 4th ed. Reading : Addison-Wesley, c2000\n5. Piatini, M., Diaz, O.: Advanced Database Technology and Design, 2000 ARTECH HOUSE, INC.\n6. Matiaško, K.: Databázové systémy, EDIS - vydavateľstvo Žilinskej univerzity, 2002\n7. Pokorný,J. , Halaška,I. 2003. Databázové systémy. 2. vyd. Praha: Vydavatelství ČVUT, 200\n8. Telepovská Henrieta: Databázové systémy, učebné texty – skriptá, Elfa Košice, 2003\n9. Telepovská Henrieta: Databázové systémy - Jazyk SQL, Technická univerzita v Košiciach, 2012"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 853\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n18%\n26%\n24%\n15%\n6%\n12%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Stanislav Ondáš, PhD.\nIng. Matúš Čavojský\ndoc. Ing. Ján Staš, PhD.\nIng. Marianna Koctúrová, PhD.\nIng. Zuzana Sokolová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 853,
+    "percent": {
+      "A": 18,
+      "B": 26,
+      "C": 24,
+      "D": 15,
+      "E": 6,
+      "FX": 12
+    }
+  },
+  "teachers": [
+    "doc. Ing. Stanislav Ondáš, PhD.",
+    "Ing. Matúš Čavojský",
+    "doc. Ing. Ján Staš, PhD.",
+    "Ing. Marianna Koctúrová, PhD.",
+    "Ing. Zuzana Sokolová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000845\nNázov predmetu: Databázové systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,0,0,2,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): LS 39,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa vedomosti o základoch informačných systémov, databázových technológií, databázových systémov a systémov riadenia bázy dát. Podrobnejšie sa oboznámi s konceptom relačných databáz a dotazovacieho jazyka SQL (Structured Query Language). Získa vedomosti z oblasti navrhovania dátových modelov, databázových riešení, manažovania databázových používateľov a v neposlednom rade sa naučí používať jazyk SQL. Získané zručnosti využije pri návrhu a realizácii relačnej databázovej schémy, pri práci s databázovými objektmi, vytvárania databázových aplikácií a manažovania databáz.\n\nStručná osnova predmetu:\n1. Úvod do databázových systémov\n2. Dátové modelovanie\n3. Relačný dátový model\n4. Relačná algebra\n5. Funkčné závislosti, normalizácia\n6. Databázové jazyky, SQL, spracovanie dotazov\n7. Primárne organizácie súborov\n8. Indexová organizácia súborov\n9. Transakcie a ich spracovanie. Paralelizmus a techniky konkurentnosti. Zotavenie po chybách.\n10. Bezpečnosť databázových systémov\n11. NoSQL databázy\n12. Objektovo-orientované databázy, XML databázy.\n\n\nOdporúčaná literatúra:\n1. Elmasri,R., Navathe, S.B. : Fundamentals of Database Systems, The Benjamin/Cummings Publishing Company, Inc., 1., 2. , 3.vydanie\n2. Sumathi, S., Esakkirajan, S.: Fundamentals of Relational Database Management Systems, Springer, 2007\n3. Date C. J.: An Introduction to Database Systems, Addison-Wesley, 8th Edition, 2003\n4. Date, C.J.: A guide to the SQL standard : a user's guide to the standard database language SQL, 4th ed. Reading : Addison-Wesley, c2000\n5. Piatini, M., Diaz, O.: Advanced Database Technology and Design, 2000 ARTECH HOUSE, INC.\n6. Matiaško, K.: Databázové systémy, EDIS - vydavateľstvo Žilinskej univerzity, 2002\n7. Pokorný,J. , Halaška,I. 2003. Databázové systémy. 2. vyd. Praha: Vydavatelství ČVUT, 200\n8. Telepovská Henrieta: Databázové systémy, učebné texty – skriptá, Elfa Košice, 2003\n9. Telepovská Henrieta: Databázové systémy - Jazyk SQL, Technická univerzita v Košiciach, 2012\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 853\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n18%\n26%\n24%\n15%\n6%\n12%\n\n\nZabezpečuje:\ndoc. Ing. Stanislav Ondáš, PhD.\nIng. Matúš Čavojský\ndoc. Ing. Ján Staš, PhD.\nIng. Marianna Koctúrová, PhD.\nIng. Zuzana Sokolová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

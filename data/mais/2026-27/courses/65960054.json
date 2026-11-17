@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65960054",
+  "code": "2607801",
+  "name": "Meranie v elektroenergetike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960054",
+  "fetched_at": "2026-11-17T15:13:02Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2607801"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Meranie v elektroenergetike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežná kontrola a referáty z laboratórnych meraní. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečný test. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Získané vedomosti z teórie merania a metrológie. Zručnosť v určovaní neistôt merania. Praktické zručnosti pri vybraných meraniach v elektroenergetike a vypracovaní dokumentácie o meraní."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Stručná osnova predmetu:\n- zapájanie meracích obvodov pre potreby laboratórnych meraní,\n- úvod do teórie merania, metrológia, chyby merania neistoty merania,\n- merania elektrických veličín – napätie, prúd, výkon,\n- meranie parametrov sietí, meranie uzemnenia, meranie izolačného stavu, krokové a dotykové napätia,\n- meranie impedancie poruchovej slučky\n- meranie spojitosti ochranného vodiča\n- meranie prechodových odporov\n- meranie na prúdových chráničoch"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Meravý, J.: Elektrotechnická spôsobilosť pre elektrikárov, vyd. - Ing. Ján Meravý – Lightning, 2023, 400 s., ISBN 978-80-895-7611-1\n\n2. Ilenin, S., Pavlík, M.: Bezpečnosť práce na elektrických zariadeniach, 1. vyd. - Košice : Technická univerzita v Košiciach - 2018. - 91 s.. - ISBN 978-80-553-2716-7.\n\n3. Varga, L., Hlubeň, D.: Meracie metódy v elektroenergetike. 1. vyd., Banská Bystrica: PRO, 2010, 175 s., ISBN 978-80-89057-26-9\n\n3. Varga, L., Leščinský, P.: Meranie v elektroenergetike. Mercury-Smékal, 2003, ISBN 80-89061-69-9.\n\n4. Novotný, V.: Uzemnění a jeho měření. SNTL Praha, 1973."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 609\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n19%\n21%\n22%\n14%\n14%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Pavlík, PhD., MBA"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 609,
+    "percent": {
+      "A": 9,
+      "B": 19,
+      "C": 21,
+      "D": 22,
+      "E": 14,
+      "FX": 14
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Pavlík, PhD., MBA"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2607801\nNázov predmetu: Meranie v elektroenergetike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežná kontrola a referáty z laboratórnych meraní. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZáverečný test. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZískané vedomosti z teórie merania a metrológie. Zručnosť v určovaní neistôt merania. Praktické zručnosti pri vybraných meraniach v elektroenergetike a vypracovaní dokumentácie o meraní.\n\nStručná osnova predmetu:\nStručná osnova predmetu:\n- zapájanie meracích obvodov pre potreby laboratórnych meraní,\n- úvod do teórie merania, metrológia, chyby merania neistoty merania,\n- merania elektrických veličín – napätie, prúd, výkon,\n- meranie parametrov sietí, meranie uzemnenia, meranie izolačného stavu, krokové a dotykové napätia,\n- meranie impedancie poruchovej slučky\n- meranie spojitosti ochranného vodiča\n- meranie prechodových odporov\n- meranie na prúdových chráničoch\n\nOdporúčaná literatúra:\n1. Meravý, J.: Elektrotechnická spôsobilosť pre elektrikárov, vyd. - Ing. Ján Meravý – Lightning, 2023, 400 s., ISBN 978-80-895-7611-1\n\n2. Ilenin, S., Pavlík, M.: Bezpečnosť práce na elektrických zariadeniach, 1. vyd. - Košice : Technická univerzita v Košiciach - 2018. - 91 s.. - ISBN 978-80-553-2716-7.\n\n3. Varga, L., Hlubeň, D.: Meracie metódy v elektroenergetike. 1. vyd., Banská Bystrica: PRO, 2010, 175 s., ISBN 978-80-89057-26-9\n\n3. Varga, L., Leščinský, P.: Meranie v elektroenergetike. Mercury-Smékal, 2003, ISBN 80-89061-69-9.\n\n4. Novotný, V.: Uzemnění a jeho měření. SNTL Praha, 1973.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 609\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n19%\n21%\n22%\n14%\n14%\n\n\nZabezpečuje:\ndoc. Ing. Marek Pavlík, PhD., MBA\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

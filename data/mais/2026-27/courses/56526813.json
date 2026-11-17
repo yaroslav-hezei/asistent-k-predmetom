@@ -1,0 +1,163 @@
+{
+  "predmet_id": "56526813",
+  "code": "26001212",
+  "name": "Matematika I-HI",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=56526813",
+  "fetched_at": "2026-11-17T14:57:22Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001212"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Matematika I-HI"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/,26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť základné poznatky z diferenciálneho počtu funkcie jednej reálnej premennej vrátane aplikácií pre funkcie ekonomickej analýzy, z maticového počtu, z riešenia systémov lineárnych algebrických rovníc a ich aplikácií."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základy lineárnej algebry, racionálne korene algebrickej rovnice, matice, determinanty, systémy lineárnych algebrických rovníc. Aplikačné úlohy.\n2. Funkcia jednej reálnej premennej, jej vlastnosti, elementárne funkcie a základné funkcie ekonomickej analýzy, bod zlomu a rovnovážny stav.\n3. Limita funkcie, technika výpočtu limít, spojitosť funkcie, asymptoty grafu funkcie. Postupnosť a jej limita, Eulerove číslo.\n4. Diferenciálny počet, aproximácia diferenciálom a marginálna analýza. Elasticita funkcie, elasticita funkcie dopytu a elasticita funkcie ponuky. LHospitalovo pravidlo.\n5. Monotónnosť funkcie, konvexnosť a konkávnosť funkcie. Lokálne extrémy. Priebeh funkcie.\n6. Absolútne extrémy, optimalizačné úlohy pre funkcie ekonomickej analýzy (maximalizácia, resp. minimalizácia funkcií totálnych a priemerných veličín). Exponenciálne modely, exponenciálny rast a klesanie, krivka učenia sa, logistická krivka."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Molnárová M. 2021. Matematika I pre Hospodársku informatiku. TU v Košiciach, 2021. 174 s. ISBN 978-80-553-3954-2. Dostupné online: https://kmti.fei.tuke.sk/predmet/matematika-i-hi (január 2025).\n2. Grinčová A., Molnárová M. 2012. Matematika I a jej využitie v ekonómii. Zbierka riešených a neriešených úloh. TU v Košiciach, 2012. 176 s. ISBN 978-80-553-1158-6. Dostupné online: https://kmti.fei.tuke.sk/predmet/matematika-i-hi (január 2025).\n3. Hoffman L.D., Bradley G.L. 1989. Calculus for business, economics and the social and life sciences. Mc.Graw-Hill, 1989. 784 s. ISBN 978-0-07-353231-8."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 375\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n5%\n9%\n11%\n26%\n43%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. RNDr. Ján Plavka, CSc.\nRNDr. Monika Molnárová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "31.08.2025"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2025-08-31",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 375,
+    "percent": {
+      "A": 6,
+      "B": 5,
+      "C": 9,
+      "D": 11,
+      "E": 26,
+      "FX": 43
+    }
+  },
+  "teachers": [
+    "prof. RNDr. Ján Plavka, CSc.",
+    "RNDr. Monika Molnárová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 26001212\nNázov predmetu: Matematika I-HI\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/,26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť základné poznatky z diferenciálneho počtu funkcie jednej reálnej premennej vrátane aplikácií pre funkcie ekonomickej analýzy, z maticového počtu, z riešenia systémov lineárnych algebrických rovníc a ich aplikácií.\n\nStručná osnova predmetu:\n1. Základy lineárnej algebry, racionálne korene algebrickej rovnice, matice, determinanty, systémy lineárnych algebrických rovníc. Aplikačné úlohy.\n2. Funkcia jednej reálnej premennej, jej vlastnosti, elementárne funkcie a základné funkcie ekonomickej analýzy, bod zlomu a rovnovážny stav.\n3. Limita funkcie, technika výpočtu limít, spojitosť funkcie, asymptoty grafu funkcie. Postupnosť a jej limita, Eulerove číslo.\n4. Diferenciálny počet, aproximácia diferenciálom a marginálna analýza. Elasticita funkcie, elasticita funkcie dopytu a elasticita funkcie ponuky. LHospitalovo pravidlo.\n5. Monotónnosť funkcie, konvexnosť a konkávnosť funkcie. Lokálne extrémy. Priebeh funkcie.\n6. Absolútne extrémy, optimalizačné úlohy pre funkcie ekonomickej analýzy (maximalizácia, resp. minimalizácia funkcií totálnych a priemerných veličín). Exponenciálne modely, exponenciálny rast a klesanie, krivka učenia sa, logistická krivka.\n\nOdporúčaná literatúra:\n1. Molnárová M. 2021. Matematika I pre Hospodársku informatiku. TU v Košiciach, 2021. 174 s. ISBN 978-80-553-3954-2. Dostupné online: https://kmti.fei.tuke.sk/predmet/matematika-i-hi (január 2025).\n2. Grinčová A., Molnárová M. 2012. Matematika I a jej využitie v ekonómii. Zbierka riešených a neriešených úloh. TU v Košiciach, 2012. 176 s. ISBN 978-80-553-1158-6. Dostupné online: https://kmti.fei.tuke.sk/predmet/matematika-i-hi (január 2025).\n3. Hoffman L.D., Bradley G.L. 1989. Calculus for business, economics and the social and life sciences. Mc.Graw-Hill, 1989. 784 s. ISBN 978-0-07-353231-8.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 375\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n6%\n5%\n9%\n11%\n26%\n43%\n\n\nZabezpečuje:\nprof. RNDr. Ján Plavka, CSc.\nRNDr. Monika Molnárová, PhD.\n\nDátum poslednej zmeny: 31.08.2025\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

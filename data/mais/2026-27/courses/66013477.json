@@ -1,0 +1,163 @@
+{
+  "predmet_id": "66013477",
+  "code": "26001078",
+  "name": "Supervízne systémy a HMI",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66013477",
+  "fetched_at": "2026-11-17T15:15:14Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001078"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Supervízne systémy a HMI"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": ""
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnutie poznatkov a praktických zručností v analýze procesov a služieb v modernom inteligentnom digitálnom svete, anpr. podniku a v službách. Modelovanie, simulácia a návrh stredných vrstiev ich hierarchických informačno-riadiacich systémov systémov s dôrazom na vzdialené dohliadacie (supervízne) systémy - systémy SCADA/HMI, MES, CPS, MPI s najväčším prihliadnutím na interakciu medzi strojom (okolím) a človekom - HMI. Študenti budú schopní tvorivo používať a navrhovať najnovšie softvérové, hardvérové a komunikačné systémy, platformy a služby na všeobecné a prípadové riešenia reálnych úloh riadenia (ovládanie, dohľad, zber a analýza údajov, inteligentná podpora, komunikácia s okolím, reporty a analýzy, umelá inteligencia na hranici inetrenetovej siete). Absolventi sa oboznámia s témou moderných operátorov procesov (Operator 4.0), ošetrovateľov (Health&HomeCare 4.0), ktoré po absolvovaní predmetu budú schopní riešiť. Dozvedia sa o najmodernejších technikách a aplikáciach umelejinteligencie v HMI interakciách (obrazy a videnie, virtuálna realita, rozšírená realita, hologramy, nositeľné zariadenia)."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Základné pojmy, Industry 4.0, digitálny podnik, smart Health&HomeCare, modely a simulácie, referenčné architektúry RAMI 4.0, IIRA, hierarchické, IoT a mesh sieťové systémy, informatika, digital twin\n• Informatika a umelá inteligencia na okraji internetu, human-kyber-fyzikálne systémy, Inteligentné (smart) systémy a edge, fog a cloud v digitálnom podniku a službách\n• Analýza systémov - zariadení, procesov, dát, postavenie a interoperabilita človeka s fyzickým a digitálnym aj inteligentným okolím,\n• Stredné úrovne riadenia a informatiky v systémoch, SCADA/HMI (Supervisory Control and Data Acquisition/Human Machine Interface), MES (Manufacturing Execution Systems), CPS (Collaboration Production Systems) a MPI (Manufacturing and Production Intelligence),\n• Základné funkcie klasických SCADA/HMI systémov:\no zber údajov, protokoly, databázy údajov z reálnych procesov, prúdy dát,\no rôzne užívateľské roly, bezpečnosť, monitovacie a ovládacie panely, supervízne tele-ovládanie, alarmy, udalosti, logovanie činností\no animácia, technologické pohľady, skriptovanie, reálne a historické trendy, správy\n• Človek v digitálnom svete – HumanCPS, HMC interoperabilita, Operator 4.0, Health Carer 4.0, symbióza s okolím fyzickým a digitálnym, kognitívna podpora, vizuálna 2D a 3D podpora, hologramy, nositeľné zariadenia\n• IoE a IoT brány a huby v smart systémoch (IIoT, IoT), edge a fog v digitálnom svete,\n• Princípy návrhu HMI – ergonomické a psychologické hľadiská, rozdelenie obrazovky, farby, príkazy, značky – medzinárodné odporúčania a normy, UIX - user experiences, ostatné typy interakcií a inteligentná podpora\n• Systémy SCADA/HMI – tagové, objektové, komponentové, distribuované,edge, cloudové, s lokálnym, vzdialeným (internetovým) alebo mobilným užívateľským prístupom\n• Viacvrstvové softvérové architektúry SCADA/HMI - edge a cloudové služby, platformy, aplikačné, databázové a komunikačné servery a ich klienti, publish-subcribe\n• Ďalšie funkcie SCADA/HMI – machine learning, vision, štatistické riadenie procesov, analýza a objavovanie znalostí z aktuálnych a historických údajov, inteligentná podpora rozhodovania, reportovanie a on-line analýzy\n• Digital twin - virtuálna, rozšírená a mixovaná realita, 2D a 3D vizualizácia, 3D grafika, hologramy.\n• Súvislosti s big data a robotikou v digitálnom svete a Industry 4.0/Smart Industry"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Internetové zdroje - projekty, články, moodle.tuke.sk, tutoriály, príručky (Wonderware, Rockwell Automation, CISCO, Mathworks, Microsoft, IBM)\n• Zolotová, I. - Karch, P. - Laciňák, L.: Riadenie a vizualizačné systémy, Technická univerzita v Košiciach, s. 222, ISBN: 978-80-553-0958-3\n• Výučbové a laboratórne výstupy z národného projektu IT akadémia pre 21.storočie\n• Zolotová, I., Papcun, P.: moodle.tuke.sk"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 166\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n13%\n17%\n21%\n14%\n28%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Iveta Zolotová, CSc.\nIng. Erik Kajáti, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 166,
+    "percent": {
+      "A": 7,
+      "B": 13,
+      "C": 17,
+      "D": 21,
+      "E": 14,
+      "FX": 28
+    }
+  },
+  "teachers": [
+    "prof. Ing. Iveta Zolotová, CSc.",
+    "Ing. Erik Kajáti, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001078\nNázov predmetu: Supervízne systémy a HMI\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby:\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): LS\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnutie poznatkov a praktických zručností v analýze procesov a služieb v modernom inteligentnom digitálnom svete, anpr. podniku a v službách. Modelovanie, simulácia a návrh stredných vrstiev ich hierarchických informačno-riadiacich systémov systémov s dôrazom na vzdialené dohliadacie (supervízne) systémy - systémy SCADA/HMI, MES, CPS, MPI s najväčším prihliadnutím na interakciu medzi strojom (okolím) a človekom - HMI. Študenti budú schopní tvorivo používať a navrhovať najnovšie softvérové, hardvérové a komunikačné systémy, platformy a služby na všeobecné a prípadové riešenia reálnych úloh riadenia (ovládanie, dohľad, zber a analýza údajov, inteligentná podpora, komunikácia s okolím, reporty a analýzy, umelá inteligencia na hranici inetrenetovej siete). Absolventi sa oboznámia s témou moderných operátorov procesov (Operator 4.0), ošetrovateľov (Health&HomeCare 4.0), ktoré po absolvovaní predmetu budú schopní riešiť. Dozvedia sa o najmodernejších technikách a aplikáciach umelejinteligencie v HMI interakciách (obrazy a videnie, virtuálna realita, rozšírená realita, hologramy, nositeľné zariadenia).\n\nStručná osnova predmetu:\n• Základné pojmy, Industry 4.0, digitálny podnik, smart Health&HomeCare, modely a simulácie, referenčné architektúry RAMI 4.0, IIRA, hierarchické, IoT a mesh sieťové systémy, informatika, digital twin\n• Informatika a umelá inteligencia na okraji internetu, human-kyber-fyzikálne systémy, Inteligentné (smart) systémy a edge, fog a cloud v digitálnom podniku a službách\n• Analýza systémov - zariadení, procesov, dát, postavenie a interoperabilita človeka s fyzickým a digitálnym aj inteligentným okolím,\n• Stredné úrovne riadenia a informatiky v systémoch, SCADA/HMI (Supervisory Control and Data Acquisition/Human Machine Interface), MES (Manufacturing Execution Systems), CPS (Collaboration Production Systems) a MPI (Manufacturing and Production Intelligence),\n• Základné funkcie klasických SCADA/HMI systémov:\no zber údajov, protokoly, databázy údajov z reálnych procesov, prúdy dát,\no rôzne užívateľské roly, bezpečnosť, monitovacie a ovládacie panely, supervízne tele-ovládanie, alarmy, udalosti, logovanie činností\no animácia, technologické pohľady, skriptovanie, reálne a historické trendy, správy\n• Človek v digitálnom svete – HumanCPS, HMC interoperabilita, Operator 4.0, Health Carer 4.0, symbióza s okolím fyzickým a digitálnym, kognitívna podpora, vizuálna 2D a 3D podpora, hologramy, nositeľné zariadenia\n• IoE a IoT brány a huby v smart systémoch (IIoT, IoT), edge a fog v digitálnom svete,\n• Princípy návrhu HMI – ergonomické a psychologické hľadiská, rozdelenie obrazovky, farby, príkazy, značky – medzinárodné odporúčania a normy, UIX - user experiences, ostatné typy interakcií a inteligentná podpora\n• Systémy SCADA/HMI – tagové, objektové, komponentové, distribuované,edge, cloudové, s lokálnym, vzdialeným (internetovým) alebo mobilným užívateľským prístupom\n• Viacvrstvové softvérové architektúry SCADA/HMI - edge a cloudové služby, platformy, aplikačné, databázové a komunikačné servery a ich klienti, publish-subcribe\n• Ďalšie funkcie SCADA/HMI – machine learning, vision, štatistické riadenie procesov, analýza a objavovanie znalostí z aktuálnych a historických údajov, inteligentná podpora rozhodovania, reportovanie a on-line analýzy\n• Digital twin - virtuálna, rozšírená a mixovaná realita, 2D a 3D vizualizácia, 3D grafika, hologramy.\n• Súvislosti s big data a robotikou v digitálnom svete a Industry 4.0/Smart Industry\n\n\n\nOdporúčaná literatúra:\n• Internetové zdroje - projekty, články, moodle.tuke.sk, tutoriály, príručky (Wonderware, Rockwell Automation, CISCO, Mathworks, Microsoft, IBM)\n• Zolotová, I. - Karch, P. - Laciňák, L.: Riadenie a vizualizačné systémy, Technická univerzita v Košiciach, s. 222, ISBN: 978-80-553-0958-3\n• Výučbové a laboratórne výstupy z národného projektu IT akadémia pre 21.storočie\n• Zolotová, I., Papcun, P.: moodle.tuke.sk\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 166\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n13%\n17%\n21%\n14%\n28%\n\n\nZabezpečuje:\nprof. Ing. Iveta Zolotová, CSc.\nIng. Erik Kajáti, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

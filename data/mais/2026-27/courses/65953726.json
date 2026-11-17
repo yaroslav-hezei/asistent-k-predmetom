@@ -1,0 +1,174 @@
+{
+  "predmet_id": "65953726",
+  "code": "26000153",
+  "name": "SAP ABAP Programovanie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953726",
+  "fetched_at": "2026-11-17T15:11:04Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000153"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "SAP ABAP Programovanie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "0,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je vhodný pre študentov s minimálnymi skúsenosťami so systému SAP. V predmete si študent osvojí technologické základy systému SAP. Študent bude schopný sa orientovať medzi aplikáciami a komponentmi SAP. Predmet absolventa naučí pracovať s poliami, výpočtami, textovými reťazcami a vytváraním a úpravou databázových tabuliek. Absolvent predmetu získa praktické zručnosti k tvorbe vlastných aplikácií v jazyku ABAP."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základy systému SAP\n2. Technologické základy systému SAP\n3. Začíname s jazykom ABAP a systémom SAP\n4. Dátový slovník\n5. Programovanie v nástroji Editor ABAP\n6. Pole a výpočty\n7. Práca s textovými reťazcami\n8. Ladenie programov\n9. Úprava transparentných databázových tabuliek\n10. Úprava dát v databázových tabuľkách\n11. Riadenie toku programu a logické výrazy\n12. Výberové obrazovky\n13. Modularizácia programov"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. KELLER, Horst; KRÜGER, Sascha. ABAP Programming in SAP NetWeaver. 2005. ISBN 1592290795.\n2. FÄRBER, Günther; KIRCHNER, Julia. ABAP Basics. 2006. ISBN 1592293697.\n3. BANDARI, Kiran. Complete ABAP. 2018. ISBN 978-1985723315.\n4. BALÁŽ, Anton. ABAP Programovanie. 2025. Dostupné z: https://balaza.gitlab.io/sapabap"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 503\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n14%\n28%\n29%\n16%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Anton Baláž, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 503,
+    "percent": {
+      "A": 7,
+      "B": 14,
+      "C": 28,
+      "D": 29,
+      "E": 16,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Anton Baláž, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000153\nNázov predmetu: SAP ABAP Programovanie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 0,3\nExterná forma štúdia (hodiny za semester): ZS 39\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je vhodný pre študentov s minimálnymi skúsenosťami so systému SAP. V predmete si študent osvojí technologické základy systému SAP. Študent bude schopný sa orientovať medzi aplikáciami a komponentmi SAP. Predmet absolventa naučí pracovať s poliami, výpočtami, textovými reťazcami a vytváraním a úpravou databázových tabuliek. Absolvent predmetu získa praktické zručnosti k tvorbe vlastných aplikácií v jazyku ABAP.\n\nStručná osnova predmetu:\n1. Základy systému SAP\n2. Technologické základy systému SAP\n3. Začíname s jazykom ABAP a systémom SAP\n4. Dátový slovník\n5. Programovanie v nástroji Editor ABAP\n6. Pole a výpočty\n7. Práca s textovými reťazcami\n8. Ladenie programov\n9. Úprava transparentných databázových tabuliek\n10. Úprava dát v databázových tabuľkách\n11. Riadenie toku programu a logické výrazy\n12. Výberové obrazovky\n13. Modularizácia programov\n\nOdporúčaná literatúra:\n1. KELLER, Horst; KRÜGER, Sascha. ABAP Programming in SAP NetWeaver. 2005. ISBN 1592290795.\n2. FÄRBER, Günther; KIRCHNER, Julia. ABAP Basics. 2006. ISBN 1592293697.\n3. BANDARI, Kiran. Complete ABAP. 2018. ISBN 978-1985723315.\n4. BALÁŽ, Anton. ABAP Programovanie. 2025. Dostupné z: https://balaza.gitlab.io/sapabap\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 503\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n7%\n14%\n28%\n29%\n16%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Anton Baláž, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

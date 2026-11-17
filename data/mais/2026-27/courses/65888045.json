@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65888045",
+  "code": "26000854",
+  "name": "Technológie a služby mobilných sieti",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888045",
+  "fetched_at": "2026-11-17T15:03:32Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000854"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Technológie a služby mobilných sieti"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,0,2,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu študent získa základné poznatky o šírení rádiových vĺn v mobilnom prostredí, princípe bunkových sietí a fungovaní rádiových mobilných komunikácií. Zároveň pochopí evolúciu mobilných systémov od 2G po 5G vrátane ich architektúry, štruktúry a služieb."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do mobilných rádiových sietí a základné pojmy - Prehľad architektúry mobilných sietí, základné komponenty (Core Network, RAN), typy mobilných sietí a základné protokoly.\n2. Bunkové komunikačné systémy a návrh siete - Koncepcia bunkového pokrytia, plánovanie a optimalizácia siete, modely bunkových systémov a analýza kapacity.\n3. Rádiové komunikačné systémy a kanály - Základy rádiovej propagácie, parametre mobilného kanála, modelovanie kanálov, fading, path loss a praktické simulácie.\n4. Antény a viacnasobný prístup k rádiovému kanálu - Anténne systémy, MIMO, beamforming, digitálne modulácie, metódy prístupu k kanálu (TDMA, FDMA, CDMA, OFDMA) a moderné technológie 5G.\n5. Generácie mobilných sietí a služby - Prehľad 3G a 4G systémov, architektúra a služby 5G (NR), QoS, VoLTE, IoT/M2M integrácia a príklady moderných aplikácií.\n6. Trendy a vývoj mobilných a bezdrôtových systémov - 5G a 6G perspektívy, edge computing, cloudové služby, ultra-low latency aplikácie, inteligentné dopravné systémy a smart cities."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Ch.Tseng: The Road to B5G/6G Mobile Communication Networks: Technologies and Applications, 2025, 300 str., ISBN- 978-8743801092;\nW. Jang: Cellular Communication Networks and Standards, 2024, 272 str., ISBN: 978-3031578199;\nA. Aagaard: The Changing World of Mobile Communications, 2023, ISBN: 978-3-031-33190-9"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 343\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n10%\n26%\n34%\n20%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Papaj, PhD.\nIng. Hai Tran Ngoc"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 343,
+    "percent": {
+      "A": 2,
+      "B": 10,
+      "C": 26,
+      "D": 34,
+      "E": 20,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Papaj, PhD.",
+    "Ing. Hai Tran Ngoc"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000854\nNázov predmetu: Technológie a služby mobilných sieti\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,0,2,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu študent získa základné poznatky o šírení rádiových vĺn v mobilnom prostredí, princípe bunkových sietí a fungovaní rádiových mobilných komunikácií. Zároveň pochopí evolúciu mobilných systémov od 2G po 5G vrátane ich architektúry, štruktúry a služieb.\n\nStručná osnova predmetu:\n1. Úvod do mobilných rádiových sietí a základné pojmy - Prehľad architektúry mobilných sietí, základné komponenty (Core Network, RAN), typy mobilných sietí a základné protokoly.\n2. Bunkové komunikačné systémy a návrh siete - Koncepcia bunkového pokrytia, plánovanie a optimalizácia siete, modely bunkových systémov a analýza kapacity.\n3. Rádiové komunikačné systémy a kanály - Základy rádiovej propagácie, parametre mobilného kanála, modelovanie kanálov, fading, path loss a praktické simulácie.\n4. Antény a viacnasobný prístup k rádiovému kanálu - Anténne systémy, MIMO, beamforming, digitálne modulácie, metódy prístupu k kanálu (TDMA, FDMA, CDMA, OFDMA) a moderné technológie 5G.\n5. Generácie mobilných sietí a služby - Prehľad 3G a 4G systémov, architektúra a služby 5G (NR), QoS, VoLTE, IoT/M2M integrácia a príklady moderných aplikácií.\n6. Trendy a vývoj mobilných a bezdrôtových systémov - 5G a 6G perspektívy, edge computing, cloudové služby, ultra-low latency aplikácie, inteligentné dopravné systémy a smart cities.\n\n\nOdporúčaná literatúra:\nCh.Tseng: The Road to B5G/6G Mobile Communication Networks: Technologies and Applications, 2025, 300 str., ISBN- 978-8743801092;\nW. Jang: Cellular Communication Networks and Standards, 2024, 272 str., ISBN: 978-3031578199;\nA. Aagaard: The Changing World of Mobile Communications, 2023, ISBN: 978-3-031-33190-9\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 343\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n10%\n26%\n34%\n20%\n8%\n\n\nZabezpečuje:\ndoc. Ing. Ján Papaj, PhD.\nIng. Hai Tran Ngoc\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

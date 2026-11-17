@@ -1,0 +1,21 @@
+{
+  "source": "https://maisportal.tuke.sk/portal/",
+  "scraped_at": "2026-11-17T15:21:50Z",
+  "academic_year": "2026/2027",
+  "faculty": "FEI",
+  "degrees": [
+    "PRVY",
+    "PRVY_PROFES_ORIENTOVANY",
+    "DRUHY"
+  ],
+  "forms": [
+    "DENNA"
+  ],
+  "counts": {
+    "programs": 32,
+    "plan_rows": 1540,
+    "sheets": 665,
+    "unique_course_codes": 646
+  },
+  "failures": []
+}

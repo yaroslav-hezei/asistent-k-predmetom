@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65969580",
+  "code": "26000608",
+  "name": "Hlavné poznatky odboru elektronika a ich využitie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969580",
+  "fetched_at": "2026-11-17T15:13:54Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000608"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Hlavné poznatky odboru elektronika a ich využitie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "4"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 52/LS 52"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška pre 1. a 2. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Zopakovanie hlavných poznatkov (jadra) študijného odboru elektronika študijného programu technológie v automobilovej elektronike a získanie prehľadu o najnovších trendoch v odbore."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Okruhy tém pre štátnu skúšku:\n1. Najnovšie poznatky a trendy v odbore.\n2. Návrhové systémy v elektronike a spoľahlivosť elektronických systémov.\n3. Výrobné procesy v elektronike.\n4. Technológie výroby senzorov a technika mikrosystémov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Soutor, Z., Šavel, J., Žúrek J.: Hybridní integrované obvody, SNTL/ALFA, 1982\n• Pietriková, A., Somora, M.: Vývojové trendy materiálov pre hrubé vrstvy, vedecká monografia, 1998, ISBN 80-7099-316-2.\n• Pietriková, A, Slosarčík, S.: Výrobné procesy v mikroelektronike, vedecká monografia, 2000, ISBN 80-7099-340-5"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 156\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n35%\n21%\n11%\n4%\n3%\n26%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Šaliga, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Štátna skúška pre 1. a 2. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 156,
+    "percent": {
+      "A": 35,
+      "B": 21,
+      "C": 11,
+      "D": 4,
+      "E": 3,
+      "FX": 26
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Šaliga, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26000608\nNázov predmetu: Hlavné poznatky odboru elektronika a ich využitie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 4\nExterná forma štúdia (hodiny za semester): ZS 52/LS 52\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška pre 1. a 2. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZopakovanie hlavných poznatkov (jadra) študijného odboru elektronika študijného programu technológie v automobilovej elektronike a získanie prehľadu o najnovších trendoch v odbore.\n\nStručná osnova predmetu:\nOkruhy tém pre štátnu skúšku:\n1. Najnovšie poznatky a trendy v odbore.\n2. Návrhové systémy v elektronike a spoľahlivosť elektronických systémov.\n3. Výrobné procesy v elektronike.\n4. Technológie výroby senzorov a technika mikrosystémov.\n\nOdporúčaná literatúra:\n• Soutor, Z., Šavel, J., Žúrek J.: Hybridní integrované obvody, SNTL/ALFA, 1982\n• Pietriková, A., Somora, M.: Vývojové trendy materiálov pre hrubé vrstvy, vedecká monografia, 1998, ISBN 80-7099-316-2.\n• Pietriková, A, Slosarčík, S.: Výrobné procesy v mikroelektronike, vedecká monografia, 2000, ISBN 80-7099-340-5\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 156\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n35%\n21%\n11%\n4%\n3%\n26%\n\n\nZabezpečuje:\nprof. Ing. Ján Šaliga, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

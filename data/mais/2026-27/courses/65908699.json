@@ -1,0 +1,171 @@
+{
+  "predmet_id": "65908699",
+  "code": "26001286",
+  "name": "Základy programovania PLC",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908699",
+  "fetched_at": "2026-11-17T15:06:54Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001286"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy programovania PLC"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 13,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú jeden teoretický test vo výške 40 bodov. Ak študent získa v teste menej ako 21 bodov, môže absolvovať opravný teoretický test, rovnako vo výške 40 bodov. Študent získa zápočet, ak získa za teoretický test, prvý alebo opravný, >=21 bodov."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov. Skúška pozostáva z písomnej časti. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení > 30 bodov, a keď súčet bodov za priebežné a záverečné hodnotenie bude > 51."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti sa oboznámia so základnými princípmi programovania programovateľných logických automatov. Nadobudnuté teoretické vedomosti budú následne vedieť aplikovať na vybrané typy úloh z oblasti automatizácie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základné pojmy a definície z prostredia programovateľných logických automatov\n2. Základný prehľad rôznych typov programovateľných logických automatov, možnosti ich rozšírenia a prepojenia s rôznymi perifériami vzhľadom na požadovanú aplikáciu\n3. Elektrické zapojenie a inštalácia programovateľného logického automatu\n4. Programovacie prostredie programovateľných logických automatov (konfigurácia programovacieho prostredia, nastavenie simulácie programovateľného logického automatu, prehľad o základných programovacích jazykoch, editácia líniovej schémy, základná práca so štruktúrovaným textom)Základné informácie smernici 2006/42 / ES o strojových zariadeniach\n5. Programovanie logických automatov pomocou funkčných blokov a knižníc (využitie časovač, matematických funkcií)\n6. Stavový automat a jeho praktické využitie\n7. Tvorba komplexných aplikácii prepojených s grafickým používateľským rozhraním"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] P. Fedor and D. Perduková, Control of Assembling Lines with PLC. Košice, Slovakia: Technická univerzita v Košiciach, 2014, p. 73. ISBN 978-80-553-1775-5.\n[2] P. Fedor and D. Perduková, Riadiace systémy s programovateľnými automatmi. Košice, Slovakia: Technická univerzita v Košiciach, 2017, p. 214. ISBN 978-80-553-2812-6.\n[3] M. Olejár, Programovanie PLC. Nitra, Slovakia: Slovenská poľnohospodárska univerzita v Nitre, 2015. ISBN 978-80-552-1397-2.\n[4] D. Perduková and P. Fedor, Riadiace a vizualizačné systémy: E-Learningová učebnica. Košice, Slovakia: Technická univerzita v Košiciach, 2006, p. 70. ISBN 80-8073-486-0.\n[5] D. Perduková and P. Fedor, “Virtual Laboratory for the Study of Technological Process Automation,” International Journal of Engineering Education, vol. 29, no. 1, pp. 230–238, 2013. ISSN 0949-149X."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 39 hodín (3 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (111 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 31\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n42%\n29%\n16%\n3%\n6%\n3%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Daniela Perduková, PhD.\nprof. Ing. Pavol Fedor, PhD.\nIng. Ján Bačík, PhD.\nIng. Ladislav Hric"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 31,
+    "percent": {
+      "A": 42,
+      "B": 29,
+      "C": 16,
+      "D": 3,
+      "E": 6,
+      "FX": 3
+    }
+  },
+  "teachers": [
+    "prof. Ing. Daniela Perduková, PhD.",
+    "prof. Ing. Pavol Fedor, PhD.",
+    "Ing. Ján Bačík, PhD.",
+    "Ing. Ladislav Hric"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001286\nNázov predmetu: Základy programovania PLC\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,2\nExterná forma štúdia (hodiny za semester): ZS 13,26\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\n1.\n1.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú jeden teoretický test vo výške 40 bodov. Ak študent získa v teste menej ako 21 bodov, môže absolvovať opravný teoretický test, rovnako vo výške 40 bodov. Študent získa zápočet, ak získa za teoretický test, prvý alebo opravný, >=21 bodov.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nZa záverečné hodnotenie môže študent získať 60 bodov. Skúška pozostáva z písomnej časti. Študentovi bude udelená skúška, ak získa v záverečnom hodnotení > 30 bodov, a keď súčet bodov za priebežné a záverečné hodnotenie bude > 51.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti sa oboznámia so základnými princípmi programovania programovateľných logických automatov. Nadobudnuté teoretické vedomosti budú následne vedieť aplikovať na vybrané typy úloh z oblasti automatizácie.\n\nStručná osnova predmetu:\n1. Základné pojmy a definície z prostredia programovateľných logických automatov\n2. Základný prehľad rôznych typov programovateľných logických automatov, možnosti ich rozšírenia a prepojenia s rôznymi perifériami vzhľadom na požadovanú aplikáciu\n3. Elektrické zapojenie a inštalácia programovateľného logického automatu\n4. Programovacie prostredie programovateľných logických automatov (konfigurácia programovacieho prostredia, nastavenie simulácie programovateľného logického automatu, prehľad o základných programovacích jazykoch, editácia líniovej schémy, základná práca so štruktúrovaným textom)Základné informácie smernici 2006/42 / ES o strojových zariadeniach\n5. Programovanie logických automatov pomocou funkčných blokov a knižníc (využitie časovač, matematických funkcií)\n6. Stavový automat a jeho praktické využitie\n7. Tvorba komplexných aplikácii prepojených s grafickým používateľským rozhraním\n\nOdporúčaná literatúra:\n[1] P. Fedor and D. Perduková, Control of Assembling Lines with PLC. Košice, Slovakia: Technická univerzita v Košiciach, 2014, p. 73. ISBN 978-80-553-1775-5.\n[2] P. Fedor and D. Perduková, Riadiace systémy s programovateľnými automatmi. Košice, Slovakia: Technická univerzita v Košiciach, 2017, p. 214. ISBN 978-80-553-2812-6.\n[3] M. Olejár, Programovanie PLC. Nitra, Slovakia: Slovenská poľnohospodárska univerzita v Nitre, 2015. ISBN 978-80-552-1397-2.\n[4] D. Perduková and P. Fedor, Riadiace a vizualizačné systémy: E-Learningová učebnica. Košice, Slovakia: Technická univerzita v Košiciach, 2006, p. 70. ISBN 80-8073-486-0.\n[5] D. Perduková and P. Fedor, “Virtual Laboratory for the Study of Technological Process Automation,” International Journal of Engineering Education, vol. 29, no. 1, pp. 230–238, 2013. ISSN 0949-149X.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 39 hodín (3 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (111 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 31\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n42%\n29%\n16%\n3%\n6%\n3%\n\n\nZabezpečuje:\nprof. Ing. Daniela Perduková, PhD.\nprof. Ing. Pavol Fedor, PhD.\nIng. Ján Bačík, PhD.\nIng. Ladislav Hric\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

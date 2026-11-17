@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65982845",
+  "code": "26001387",
+  "name": "Rozhodovacie algoritmy založené na učení s posilňovaním",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65982845",
+  "fetched_at": "2026-11-17T15:14:38Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001387"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Rozhodovacie algoritmy založené na učení s posilňovaním"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (AI_Ing_join_D_en)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra získavajú študenti body v rámci zápočtu za vypracovanie individuálnych zadaní riešiacich výber, návrh a\nimplementáciu systémov založených na učení posilňovaním."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent zvládne vybrané metódy a techniky strojového učenia s dôrazom na učenie s posilňovaním. Naučí sa rozvíjať a\nnavrhovať vlastné riešenia problémov pomocou vytvárania modelov odvodených z ovplyvňovania reálnych aj simulovaných\nsystémov s dôrazom na porozumenie používaným metódam. Naučí sa tvorivo aplikovať získané poznatky o širokej škále metód\nstrojového učenia s posilňovaním a efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov. Naučí sa\npracovať na projektoch obsahujúcich identifikáciu stratégií, metód, techník a prostriedkov riešenia problémov rôznych typov,\nanalýzu, návrh a implementáciu učiacich sa systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do oblasti učenia posilňovaním, základné pojmy, model interakcie\n- Konečné Markovovské rozhodovacie procesy, hodnotové funkcie, Bellmanove rovnice\n- Monte Carlo prístupy\n- Temporal difference prístupy\n- Hybridizácia základných prístupov\n- Aproximácia hodnotovej funkcie, lineárny vs nelineárny aproximátor\n- Aproximácia politiky, gradientový prístup\n- Actor-critic prístupy\n- Učenie s modelom prostredia, dynamické programovanie\n- Plánovanie a učenie, vytváranie modelu prostredia\n- Imitačné učenie, inverzné učenie, off-line učenie"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Sutton, Barto: Reinforcement learning (2nd ed.). MIT Press, 2018\n- Russell, Nordvig: Artificial Intelligence – A modern Approach., (4th ed). Pearson, 2020\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Juraj Gazda, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Umelá inteligencia (AI_Ing_join_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Juraj Gazda, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001387\nNázov predmetu: Rozhodovacie algoritmy založené na učení s posilňovaním\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nUmelá inteligencia (AI_Ing_join_D_en)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nŠtudent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra získavajú študenti body v rámci zápočtu za vypracovanie individuálnych zadaní riešiacich výber, návrh a\nimplementáciu systémov založených na učení posilňovaním.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent zvládne vybrané metódy a techniky strojového učenia s dôrazom na učenie s posilňovaním. Naučí sa rozvíjať a\nnavrhovať vlastné riešenia problémov pomocou vytvárania modelov odvodených z ovplyvňovania reálnych aj simulovaných\nsystémov s dôrazom na porozumenie používaným metódam. Naučí sa tvorivo aplikovať získané poznatky o širokej škále metód\nstrojového učenia s posilňovaním a efektívne sa rozhodovať pri výbere a použití metód, techník a prostriedkov. Naučí sa\npracovať na projektoch obsahujúcich identifikáciu stratégií, metód, techník a prostriedkov riešenia problémov rôznych typov,\nanalýzu, návrh a implementáciu učiacich sa systémov.\n\nStručná osnova predmetu:\n- Úvod do oblasti učenia posilňovaním, základné pojmy, model interakcie\n- Konečné Markovovské rozhodovacie procesy, hodnotové funkcie, Bellmanove rovnice\n- Monte Carlo prístupy\n- Temporal difference prístupy\n- Hybridizácia základných prístupov\n- Aproximácia hodnotovej funkcie, lineárny vs nelineárny aproximátor\n- Aproximácia politiky, gradientový prístup\n- Actor-critic prístupy\n- Učenie s modelom prostredia, dynamické programovanie\n- Plánovanie a učenie, vytváranie modelu prostredia\n- Imitačné učenie, inverzné učenie, off-line učenie\n\nOdporúčaná literatúra:\n- Sutton, Barto: Reinforcement learning (2nd ed.). MIT Press, 2018\n- Russell, Nordvig: Artificial Intelligence – A modern Approach., (4th ed). Pearson, 2020\n- Ďalšia literatúra bude aktualizovaná priebežne na webovej stránke predmetu.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Juraj Gazda, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

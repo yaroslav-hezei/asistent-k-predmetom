@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65908353",
+  "code": "26001271",
+  "name": "Riadenie výkonových polovodičových systémov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908353",
+  "fetched_at": "2026-11-17T15:06:27Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001271"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Riadenie výkonových polovodičových systémov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 6 laboratórnych protokolov (18b.), Kontrolný test (22b.)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 4 zadané otázky."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú vedomosti z oblasti teórie a využitia riadenia výkonových polovodičových systémov. Naučia sa analyzovať, modelovať, navrhovať a simulovať riadiace štruktúry a algoritmy pre pokročilé výkonové polovodičové meniče pre moderné aplikácie v oblasti obnoviteľných zdrojov energie, elektromobility, regulovaných jednosmerných a striedavých elektrických pohonov, batériových úložísk energie. Študenti budú rozumieť riadeniu usmerňovačov riadených šírkovo - impluzovou moduláciou, jednosmerným meničom s obojsmerným tokom energie, meničom s jednotkovým účinníkom, nepriamym meničom frekvencie pomocou simulácie. Ďalej sa naučia využívať techniku automatického generovania kódu v prostredí PLECS a Simulink a základy riadenia výkonových polovodičových systémov pomocou digitálnych signálových mikrokontrolérov.\nŠtudenti sa v rámci laboratórnych cvičení naučia navrhnúť základné riadenie pre jednosmerné meniče a usmerňovače so šírkovo-impulzovou moduláciou a obojsmerným tokom výkonu. Na laboratórnom modeli univerzálneho trojfázového meniča v mostíkovom zapojení sa prostredníctvom automatického generovania kódu naučia riadiť impulzový menič a striedač/usmerňovač s jednotkovým účinníkom a obojsmerným tokom výkonu. Naučia sa používať modernú meraciu techniku, systémy Rapid Contol Prototyping a spracovanie údajov zo snímačov. V rámci cvičení sa zdokonalia v tímovej práci a prezentovaní výsledkov. Študenti tak získajú komplexné znalosti, ktoré budú uplatňovať pri štúdiu nadväzujúcich odborných predmetov z oblasti riadenia a zároveň ich pripravia na prácu špecialistu/špecialistky výkonovej elektroniky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Riadenie meničov pomocou šírkovo-impulzovej modulácie – aplikácia na jednosmerné meniče, striedače a usmerňovače\n2. Modelovanie meničov v prostredí PLECS a Simulink\n3. Napäťové a prúdové riadenie jednosmerných meničov, integrované riadiace obvody, snímače napätia a prúdu\n4. Šírkové riadenie s fázovým posunom pre nepriame jednosmerné meniče\n5. Vektorové riadenie usmerňovačov a striedačov s pulzne-šírkovou moduláciou s obojsmerným tokom výkonu, riadenie meničov s jednotkovým účinníkom\n6. Digitálne signálové mikrokontroléry v riadení výkonových polovodičových systémoch\n7. Rapid Control Prototyping v prostredí PLECS a Simulink\n8. Návrh riadenia priameho jednosmerného meniča\n9. Návrh riadenia dvojitého aktívneho meniča v mostíkovom zapojení\n10. Návrh riadenia trojfázového mostíkového meniča pripojeného do siete s jednotkovým účinníkom a obojsmerným tokom výkonu"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Šlapák V., Lacko, M. Signálové mikrokontroléry. Košice: TU, 2018. [CD-ROM], ISBN 978-80-553-2970-3.\n[2] Kyslan, K. a kol. Automatické generovanie kódu z prostredia MATLAB Simulink, Košice: Technická univerzita v Košiciach, 2018, 66 s., [CD-ROM], ISBN 978-80-553-2754-9\n[3] Mohan, N., Undeland, T., Robbins, W. Power Electronics, New York: John Wiley & Sons, 1995\n[4] Pástor, M., Dudrik, J. Konštrukcia a dimenzovanie meničov, 1. vyd. - Košice : Technická univerzita v Košiciach - 2021. - 63 s. [CD-ROM], ISBN 978-80-553-3916-0."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (103 hodín), spolu 168 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 15\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n47%\n13%\n13%\n7%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Pástor, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 15,
+    "percent": {
+      "A": 20,
+      "B": 47,
+      "C": 13,
+      "D": 13,
+      "E": 7,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Pástor, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001271\nNázov predmetu: Riadenie výkonových polovodičových systémov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): LS 26,39\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 6 laboratórnych protokolov (18b.), Kontrolný test (22b.).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 4 zadané otázky.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú vedomosti z oblasti teórie a využitia riadenia výkonových polovodičových systémov. Naučia sa analyzovať, modelovať, navrhovať a simulovať riadiace štruktúry a algoritmy pre pokročilé výkonové polovodičové meniče pre moderné aplikácie v oblasti obnoviteľných zdrojov energie, elektromobility, regulovaných jednosmerných a striedavých elektrických pohonov, batériových úložísk energie. Študenti budú rozumieť riadeniu usmerňovačov riadených šírkovo - impluzovou moduláciou, jednosmerným meničom s obojsmerným tokom energie, meničom s jednotkovým účinníkom, nepriamym meničom frekvencie pomocou simulácie. Ďalej sa naučia využívať techniku automatického generovania kódu v prostredí PLECS a Simulink a základy riadenia výkonových polovodičových systémov pomocou digitálnych signálových mikrokontrolérov.\nŠtudenti sa v rámci laboratórnych cvičení naučia navrhnúť základné riadenie pre jednosmerné meniče a usmerňovače so šírkovo-impulzovou moduláciou a obojsmerným tokom výkonu. Na laboratórnom modeli univerzálneho trojfázového meniča v mostíkovom zapojení sa prostredníctvom automatického generovania kódu naučia riadiť impulzový menič a striedač/usmerňovač s jednotkovým účinníkom a obojsmerným tokom výkonu. Naučia sa používať modernú meraciu techniku, systémy Rapid Contol Prototyping a spracovanie údajov zo snímačov. V rámci cvičení sa zdokonalia v tímovej práci a prezentovaní výsledkov. Študenti tak získajú komplexné znalosti, ktoré budú uplatňovať pri štúdiu nadväzujúcich odborných predmetov z oblasti riadenia a zároveň ich pripravia na prácu špecialistu/špecialistky výkonovej elektroniky.\n\nStručná osnova predmetu:\n1. Riadenie meničov pomocou šírkovo-impulzovej modulácie – aplikácia na jednosmerné meniče, striedače a usmerňovače\n2. Modelovanie meničov v prostredí PLECS a Simulink\n3. Napäťové a prúdové riadenie jednosmerných meničov, integrované riadiace obvody, snímače napätia a prúdu\n4. Šírkové riadenie s fázovým posunom pre nepriame jednosmerné meniče\n5. Vektorové riadenie usmerňovačov a striedačov s pulzne-šírkovou moduláciou s obojsmerným tokom výkonu, riadenie meničov s jednotkovým účinníkom\n6. Digitálne signálové mikrokontroléry v riadení výkonových polovodičových systémoch\n7. Rapid Control Prototyping v prostredí PLECS a Simulink\n8. Návrh riadenia priameho jednosmerného meniča\n9. Návrh riadenia dvojitého aktívneho meniča v mostíkovom zapojení\n10. Návrh riadenia trojfázového mostíkového meniča pripojeného do siete s jednotkovým účinníkom a obojsmerným tokom výkonu\n\nOdporúčaná literatúra:\n[1] Šlapák V., Lacko, M. Signálové mikrokontroléry. Košice: TU, 2018. [CD-ROM], ISBN 978-80-553-2970-3.\n[2] Kyslan, K. a kol. Automatické generovanie kódu z prostredia MATLAB Simulink, Košice: Technická univerzita v Košiciach, 2018, 66 s., [CD-ROM], ISBN 978-80-553-2754-9\n[3] Mohan, N., Undeland, T., Robbins, W. Power Electronics, New York: John Wiley & Sons, 1995\n[4] Pástor, M., Dudrik, J. Konštrukcia a dimenzovanie meničov, 1. vyd. - Košice : Technická univerzita v Košiciach - 2021. - 63 s. [CD-ROM], ISBN 978-80-553-3916-0.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (103 hodín), spolu 168 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 15\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n20%\n47%\n13%\n13%\n7%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Marek Pástor, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

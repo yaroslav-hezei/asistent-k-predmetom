@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65960494",
+  "code": "2610201",
+  "name": "Automatizácia v elektroenergetike",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960494",
+  "fetched_at": "2026-11-17T15:13:37Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2610201"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Automatizácia v elektroenergetike"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPriebežná kontrola a semestrálny projekt Elektrická časť elektrární"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška pozostávajúca z písomného testu a ústnej odpovede"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Oboznámiť študentov so základmi teórie riadenia, matematického modelovania systémov, s algebrou prenosových funkcií, prechodovou funkciou a charakteristikou, impulznou funkciou a charakteristikou, s princípmi regulátorov, s automatizovanými systémami riadenia a merania v elektroenergetike, s hierarchiou a architektúrou riadiacich systémov, s riadením diskrétnych a spojitých procesov v elektroenergetike, s uplatnením moderných metód pri hardvérovej a softvérovej implementácii automatizácie.\nRegulačné programy tepelných elektrární. Regulačné programy jadrových elektrární"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Základné pojmy teórie kybernetiky, automatizácie a riadenia.\n- Využitie Laplaceovej transformácie pre riešenie diferenciálnych rovníc.\n- Matematické modely systémov\n- Algebra prenosových funkcií\n- Prechodová funkcia a charakteristika\n- Impulzná funkcia a charakteristika\n- Riadenie diskrétnych a spojitých procesov v elektroenergetike, typy sústav a riadenia energetických technologických procesov\n- PID regulátory\n- Senzory, akčné členy a regulátory v energetických technologických procesoch\n- Riadenie a regulácia výrobných procesov elektroenergetike\n- Regulácia tepelných a jadrových elektrární"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Jadlovská A. a kol.: Základy automatického riadenia v aplikáciách, TU Košice, 2020\nKolcun, M. a kol: Elektrárne, TU Košice, 2007\nCimbala, R.: Elektrická časť elektrární. TU Košice 2007\nBakošová, M., Fikar,M.: Riadenie procesov. STU v Bratislave, 2008\nKarol Marton ... [et al.] : Magnetic fluid in ionizing electric field, Journal of Electrostatics. Vol. 71, no. 3 (2013), p. 467-470. - ISSN 0304-3886\nPeter Havran ... [et al.]: Dielectric properties of electrical insulating liquids for high voltage electric devices in a time-varying electric field, Energies. Bazilej Roč. 15, č. 1 (2022), s. [1-21]\nČasopisecká a firemná literatúra s programovými produktami"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Záťaž študenta: 150 hodín\nPrednášky: 26 hodín, cvičenia: 13 hodín, príprava na zápočtovú písomku: 15 hodín, projekt Elektrická časť elektrární: 25 hodín, príprava na písomný test: 20 hodín, príprava na ústnu skúšku: 21 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 656\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n17%\n28%\n31%\n17%\n4%\n3%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Roman Cimbala, PhD.\nIng. Jozef Király, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 656,
+    "percent": {
+      "A": 17,
+      "B": 28,
+      "C": 31,
+      "D": 17,
+      "E": 4,
+      "FX": 3
+    }
+  },
+  "teachers": [
+    "prof. Ing. Roman Cimbala, PhD.",
+    "Ing. Jozef Király, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2610201\nNázov predmetu: Automatizácia v elektroenergetike\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nPriebežná kontrola a semestrálny projekt Elektrická časť elektrární\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nSkúška pozostávajúca z písomného testu a ústnej odpovede\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOboznámiť študentov so základmi teórie riadenia, matematického modelovania systémov, s algebrou prenosových funkcií, prechodovou funkciou a charakteristikou, impulznou funkciou a charakteristikou, s princípmi regulátorov, s automatizovanými systémami riadenia a merania v elektroenergetike, s hierarchiou a architektúrou riadiacich systémov, s riadením diskrétnych a spojitých procesov v elektroenergetike, s uplatnením moderných metód pri hardvérovej a softvérovej implementácii automatizácie.\nRegulačné programy tepelných elektrární. Regulačné programy jadrových elektrární\n\nStručná osnova predmetu:\n- Základné pojmy teórie kybernetiky, automatizácie a riadenia.\n- Využitie Laplaceovej transformácie pre riešenie diferenciálnych rovníc.\n- Matematické modely systémov\n- Algebra prenosových funkcií\n- Prechodová funkcia a charakteristika\n- Impulzná funkcia a charakteristika\n- Riadenie diskrétnych a spojitých procesov v elektroenergetike, typy sústav a riadenia energetických technologických procesov\n- PID regulátory\n- Senzory, akčné členy a regulátory v energetických technologických procesoch\n- Riadenie a regulácia výrobných procesov elektroenergetike\n- Regulácia tepelných a jadrových elektrární\n\nOdporúčaná literatúra:\nJadlovská A. a kol.: Základy automatického riadenia v aplikáciách, TU Košice, 2020\nKolcun, M. a kol: Elektrárne, TU Košice, 2007\nCimbala, R.: Elektrická časť elektrární. TU Košice 2007\nBakošová, M., Fikar,M.: Riadenie procesov. STU v Bratislave, 2008\nKarol Marton ... [et al.] : Magnetic fluid in ionizing electric field, Journal of Electrostatics. Vol. 71, no. 3 (2013), p. 467-470. - ISSN 0304-3886\nPeter Havran ... [et al.]: Dielectric properties of electrical insulating liquids for high voltage electric devices in a time-varying electric field, Energies. Bazilej Roč. 15, č. 1 (2022), s. [1-21]\nČasopisecká a firemná literatúra s programovými produktami\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Záťaž študenta: 150 hodín\nPrednášky: 26 hodín, cvičenia: 13 hodín, príprava na zápočtovú písomku: 15 hodín, projekt Elektrická časť elektrární: 25 hodín, príprava na písomný test: 20 hodín, príprava na ústnu skúšku: 21 hodín\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 656\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n17%\n28%\n31%\n17%\n4%\n3%\n\n\nZabezpečuje:\nprof. Ing. Roman Cimbala, PhD.\nIng. Jozef Király, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65953870",
+  "code": "26001259",
+  "name": "Technické aplikácie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953870",
+  "fetched_at": "2026-11-17T15:11:17Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001259"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Technické aplikácie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je zameraný na výučbu numerických a grafických metód a techník programu Matlab a Excel pre rôzne vedné a aplikačné oblasti. Študenti získajú prehľad základných metód a postupov vhodných pre oblasť matematiky, fyziky, teórie automatického riadenia až po využitie v modelovaní a riadení priemyselných procesov. Formou cvičení si študenti osvoja numerické, grafické a vizualizačné postupy a spôsob tvorby vlastných programových modulov a funkcií."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "MATLAB ako interaktívny systém pre vedecko-technické výpočty, základné komponenty Matlabu, režimy práce. Operácie s maticami, riešenie sústav lineárnych a nelineárnych rovníc. Práca s reťazcami znakov, práca s polynómami a funkciami, import dát z Excelu. Zobrazovanie dát pomocou 2D, 3D a špeciálnych typov grafov, tlač, uloženie a export grafu. Tvorba skriptov a m-funkcií. Prepájanie aplikácií pomocou DDE rozhrania. Simulink - nástroj pre modelovanie dynamických systémov, prepojenie Matlab - Simulink. Pokročilé techniky spracovania údajov pomocou programu MS Excel: (tvorba súhrnov, kontingenčné tabuľky, formuláre, makrá). Vybrané kapitoly z objektového programovania (VBA)."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Jílek, F. MATLAB: názorný průvodce uživatele. 2. vyd. Praha: Grada, 2018. ISBN 978-80-271-0534-6.\n2. Pecinovský, J. Excel 2021: podrobný průvodce. 1. vyd. Praha: Grada, 2021. ISBN 978-80-271-1457-7.\n3. Kiusalaas, J. Numerical Methods in Engineering with Python and MATLAB. 4. vyd. Cambridge: Cambridge University Press, 2022. ISBN 978-1-00-915489-3.\n4. Moore, H. MATLAB for Engineers. 6. vyd. Boston: Pearson, 2023. ISBN 978-0-13-761362-5.\n5. Gilat, A. MATLAB: An Introduction with Applications. 6. vyd. Hoboken: Wiley, 2021. ISBN 978-1-119-59434-4.\n6. Liengme, B. V. A Guide to Microsoft Excel for Scientists and Engineers. 5. vyd. Amsterdam: Elsevier, 2021. ISBN 978-0-12-822603-2.\n7. Florey, D. Excel Power Programming with VBA. 1. vyd. New York: Apress, 2021. ISBN 978-1-4842-6543-8.\n8. Chapra, S. C., Canale, R. P. Numerical Methods for Engineers. 8. vyd. New York: McGraw-Hill, 2021. ISBN 978-1-260-57056-8."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Feciľak, PhD.\nprof. Ing. Daniela Perduková, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Feciľak, PhD.",
+    "prof. Ing. Daniela Perduková, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001259\nNázov predmetu: Technické aplikácie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Dištančná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je zameraný na výučbu numerických a grafických metód a techník programu Matlab a Excel pre rôzne vedné a aplikačné oblasti. Študenti získajú prehľad základných metód a postupov vhodných pre oblasť matematiky, fyziky, teórie automatického riadenia až po využitie v modelovaní a riadení priemyselných procesov. Formou cvičení si študenti osvoja numerické, grafické a vizualizačné postupy a spôsob tvorby vlastných programových modulov a funkcií.\n\nStručná osnova predmetu:\nMATLAB ako interaktívny systém pre vedecko-technické výpočty, základné komponenty Matlabu, režimy práce. Operácie s maticami, riešenie sústav lineárnych a nelineárnych rovníc. Práca s reťazcami znakov, práca s polynómami a funkciami, import dát z Excelu. Zobrazovanie dát pomocou 2D, 3D a špeciálnych typov grafov, tlač, uloženie a export grafu. Tvorba skriptov a m-funkcií. Prepájanie aplikácií pomocou DDE rozhrania. Simulink - nástroj pre modelovanie dynamických systémov, prepojenie Matlab - Simulink. Pokročilé techniky spracovania údajov pomocou programu MS Excel: (tvorba súhrnov, kontingenčné tabuľky, formuláre, makrá). Vybrané kapitoly z objektového programovania (VBA).\n\nOdporúčaná literatúra:\n1. Jílek, F. MATLAB: názorný průvodce uživatele. 2. vyd. Praha: Grada, 2018. ISBN 978-80-271-0534-6.\n2. Pecinovský, J. Excel 2021: podrobný průvodce. 1. vyd. Praha: Grada, 2021. ISBN 978-80-271-1457-7.\n3. Kiusalaas, J. Numerical Methods in Engineering with Python and MATLAB. 4. vyd. Cambridge: Cambridge University Press, 2022. ISBN 978-1-00-915489-3.\n4. Moore, H. MATLAB for Engineers. 6. vyd. Boston: Pearson, 2023. ISBN 978-0-13-761362-5.\n5. Gilat, A. MATLAB: An Introduction with Applications. 6. vyd. Hoboken: Wiley, 2021. ISBN 978-1-119-59434-4.\n6. Liengme, B. V. A Guide to Microsoft Excel for Scientists and Engineers. 5. vyd. Amsterdam: Elsevier, 2021. ISBN 978-0-12-822603-2.\n7. Florey, D. Excel Power Programming with VBA. 1. vyd. New York: Apress, 2021. ISBN 978-1-4842-6543-8.\n8. Chapra, S. C., Canale, R. P. Numerical Methods for Engineers. 8. vyd. New York: McGraw-Hill, 2021. ISBN 978-1-260-57056-8.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Peter Feciľak, PhD.\nprof. Ing. Daniela Perduková, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

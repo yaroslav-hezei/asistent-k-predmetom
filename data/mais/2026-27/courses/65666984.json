@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65666984",
+  "code": "2619333",
+  "name": "Úvod do hospodárskej informatiky",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65666984",
+  "fetched_at": "2026-11-17T14:59:58Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2619333"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Úvod do hospodárskej informatiky"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,1,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 13,13,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZa skupinový semestrálny projekt možno získať 40 bodov za jeho vypracovanie a 10 bodov za jeho prezentáciu. Testová časť zápočtu je za 50 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Pochopiť základné pojmy v oblasti hospodárskej informatiky, najmä pojem informačný systém a metodiku riešenia podnikových problémov. Oboznámiť sa so základmi vybraných oblastí hospodárskej informatiky, ktoré môžu byť dobrým rámcom pre tému budúcej bakalárskej práce. Rozvinúť schopnosť študentov tvorivo aplikovať poznatky získané na prednáškach, seminároch a cvičeniach z predmetu UHI formou projektovej práce metodikou SCRUM na zadaní. Oboznámiť sa s pokynmi pre vypracovanie bakalárskej práce v študijnom programe Hospodárska informatika, osvojenie si základov práce s literatúrou a písania odborného textu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Obchodné (podnikové) ciele, ktoré vedú firmy k investovaniu do informačných systémov (IS). Čo je to IS? Hlavné komponenty IS. Úloha informačných systémov v podniku. Typy informačných systémov: z funkčného hľadiska a z organizačného hľadiska. Celopodnikové informačné systémy. Využitie IS s cieľom dosiahnuť konkurenčnú výhodu. Základné princípy fungovania metodiky SCRUM. Biznis scenár, biznis model canvas. Manažment znalostí. Úloha a miesto znalostí v organizáciách. Znalostné procesy. Objavovanie znalostí. Proces objavovania znalostí, popis jednotlivých krokov. Príklady najčastejších typov dolovaných znalostí. Pozvané prednášky a semináre na aktuálne témy hospodárskej informatiky z praxe."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Laudon, K.C., Laudon, J.P.: Essentials of Management Information Systems. 8th edition. Pearson, Prentice Hall, 2007, 441 s. ISBN-13: 978-0-13-501353-3\nBasl, J., Blažíček, R.: Podnikové informační systémy. Podnik v informační společnosti. 2. vyd. Praha: Grada Publishing, 2008, ISBN 978-80-247-2279-5.\nTvrdíková, M.: Aplikace moderních informačních technologií v řízení firmy: Nástroje ke zvyšování kvality informačních systémů. Praha: Grada Publishing, 2008, 176 s., ISBN 978-80-247-2728-8"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 60 hodín, z toho:\n• Účasť na prednáškach: 13 hodín\n• Účasť na seminároch: 13 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 8 hodín\n• Projektová práca priamo na cvičeniach: 13 hodín\n\nNekontaktná výučba: spolu 90 hodín, z toho:\n• Príprava na semináre (štúdium literatúry): 10 hodín\n• Spracovanie semestrálneho projektu: 70 hodín\n• Príprava prezentácie: 10 hodín\n------------------------------------------------\nCelkovo výučba spolu: 150 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1767\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n13%\n25%\n26%\n15%\n16%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Paralič, PhD.\ndoc. Ing. František Babič, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1767,
+    "percent": {
+      "A": 5,
+      "B": 13,
+      "C": 25,
+      "D": 26,
+      "E": 15,
+      "FX": 16
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Paralič, PhD.",
+    "doc. Ing. František Babič, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2619333\nNázov predmetu: Úvod do hospodárskej informatiky\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,1,1,1\nExterná forma štúdia (hodiny za semester): LS 13,13,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nZa skupinový semestrálny projekt možno získať 40 bodov za jeho vypracovanie a 10 bodov za jeho prezentáciu. Testová časť zápočtu je za 50 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPochopiť základné pojmy v oblasti hospodárskej informatiky, najmä pojem informačný systém a metodiku riešenia podnikových problémov. Oboznámiť sa so základmi vybraných oblastí hospodárskej informatiky, ktoré môžu byť dobrým rámcom pre tému budúcej bakalárskej práce. Rozvinúť schopnosť študentov tvorivo aplikovať poznatky získané na prednáškach, seminároch a cvičeniach z predmetu UHI formou projektovej práce metodikou SCRUM na zadaní. Oboznámiť sa s pokynmi pre vypracovanie bakalárskej práce v študijnom programe Hospodárska informatika, osvojenie si základov práce s literatúrou a písania odborného textu.\n\nStručná osnova predmetu:\nObchodné (podnikové) ciele, ktoré vedú firmy k investovaniu do informačných systémov (IS). Čo je to IS? Hlavné komponenty IS. Úloha informačných systémov v podniku. Typy informačných systémov: z funkčného hľadiska a z organizačného hľadiska. Celopodnikové informačné systémy. Využitie IS s cieľom dosiahnuť konkurenčnú výhodu. Základné princípy fungovania metodiky SCRUM. Biznis scenár, biznis model canvas. Manažment znalostí. Úloha a miesto znalostí v organizáciách. Znalostné procesy. Objavovanie znalostí. Proces objavovania znalostí, popis jednotlivých krokov. Príklady najčastejších typov dolovaných znalostí. Pozvané prednášky a semináre na aktuálne témy hospodárskej informatiky z praxe.\n\nOdporúčaná literatúra:\nLaudon, K.C., Laudon, J.P.: Essentials of Management Information Systems. 8th edition. Pearson, Prentice Hall, 2007, 441 s. ISBN-13: 978-0-13-501353-3\nBasl, J., Blažíček, R.: Podnikové informační systémy. Podnik v informační společnosti. 2. vyd. Praha: Grada Publishing, 2008, ISBN 978-80-247-2279-5.\nTvrdíková, M.: Aplikace moderních informačních technologií v řízení firmy: Nástroje ke zvyšování kvality informačních systémů. Praha: Grada Publishing, 2008, 176 s., ISBN 978-80-247-2728-8\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 60 hodín, z toho:\n• Účasť na prednáškach: 13 hodín\n• Účasť na seminároch: 13 hodín\n• Účasť na cvičeniach: 13 hodín\n• Priame konzultácie: 8 hodín\n• Projektová práca priamo na cvičeniach: 13 hodín\n\nNekontaktná výučba: spolu 90 hodín, z toho:\n• Príprava na semináre (štúdium literatúry): 10 hodín\n• Spracovanie semestrálneho projektu: 70 hodín\n• Príprava prezentácie: 10 hodín\n------------------------------------------------\nCelkovo výučba spolu: 150 hodín\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1767\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n13%\n25%\n26%\n15%\n16%\n\n\nZabezpečuje:\nprof. Ing. Ján Paralič, PhD.\ndoc. Ing. František Babič, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,180 @@
+{
+  "predmet_id": "66001935",
+  "code": "2611531",
+  "name": "Sémantika programovacích jazykov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66001935",
+  "fetched_at": "2026-11-17T15:14:55Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2611531"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Sémantika programovacích jazykov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npriebežný test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent sa v predmete oboznámi s rôznymi prístupmi k definovaniu formálnej sémantiky jazykov. Osvojí si najdôležitejšie sémantické metódy, akými sú operačná, prirodzená, denotačná, algebraická a axiomatická sémantika. Získa poznatky o aplikáciách jednotlivých metód v návrhu, definícii a implementácii programovacích jazykov. Na príklade jednoduchého jazyka zvládne definovať sémantiku jazykových konštrukcií a rozšíriť tieto definície na doménovo-špecifické jazyky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Definícia pojmu sémantika, klasifikácia sémantických metód, komponenty definície syntaxe a sémantiky programovacieho jazyka.\n2. Jednoduchý programovací jazyk, sémantika aritmetických a boolovských výrazov.\n3. Prirodzená operačná sémantika ako operačná sémantika veľkých krokov.\n4. Štrukturálna operačná sémantika ako operačná sémantika malých krokov.\n5. Rozšírenia jednoduchého procedurálneho jazyka a ich operačná sémantika.\n6. Operačná sémantika blokov, deklarácií a procedúr.\n7. Abstraktná implementácia programovacích jazykov.\n8. Algebraická sémantika. Axiomatická sémantika.\n9. Denotačná sémantika.\n10. Nepriama denotačná sémantika.\n11. Sémantika vybraných doménovo-špecifických jazykov.\n12. Sémantika v pojmoch teórie kategórií."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. H.R. Nielson, F. Nielson: Semantics with applications. An Appetizer. Springer, 2007\n2. D.A Schmidt: Denotational semantics. Methodology for language development. Allyn and Bacon, 1986\n3. W. Steingartner, V. Novitzká: Metódy formálnej sémantiky programovacích jazykov, TU Košice, 2022\n4. W. Steingartner: Operačná sémantika v praxi, TU Košice, 2022\n5. A. Koubková, J. Pavelka: Úvod do teoretické informatiky, MatfyzPress, 2005"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 2842\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n19%\n26%\n21%\n10%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. William Steingartner, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 2842,
+    "percent": {
+      "A": 16,
+      "B": 19,
+      "C": 26,
+      "D": 21,
+      "E": 10,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. William Steingartner, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2611531\nNázov predmetu: Sémantika programovacích jazykov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\npriebežný test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent sa v predmete oboznámi s rôznymi prístupmi k definovaniu formálnej sémantiky jazykov. Osvojí si najdôležitejšie sémantické metódy, akými sú operačná, prirodzená, denotačná, algebraická a axiomatická sémantika. Získa poznatky o aplikáciách jednotlivých metód v návrhu, definícii a implementácii programovacích jazykov. Na príklade jednoduchého jazyka zvládne definovať sémantiku jazykových konštrukcií a rozšíriť tieto definície na doménovo-špecifické jazyky.\n\nStručná osnova predmetu:\n1. Definícia pojmu sémantika, klasifikácia sémantických metód, komponenty definície syntaxe a sémantiky programovacieho jazyka.\n2. Jednoduchý programovací jazyk, sémantika aritmetických a boolovských výrazov.\n3. Prirodzená operačná sémantika ako operačná sémantika veľkých krokov.\n4. Štrukturálna operačná sémantika ako operačná sémantika malých krokov.\n5. Rozšírenia jednoduchého procedurálneho jazyka a ich operačná sémantika.\n6. Operačná sémantika blokov, deklarácií a procedúr.\n7. Abstraktná implementácia programovacích jazykov.\n8. Algebraická sémantika. Axiomatická sémantika.\n9. Denotačná sémantika.\n10. Nepriama denotačná sémantika.\n11. Sémantika vybraných doménovo-špecifických jazykov.\n12. Sémantika v pojmoch teórie kategórií.\n\nOdporúčaná literatúra:\n1. H.R. Nielson, F. Nielson: Semantics with applications. An Appetizer. Springer, 2007\n2. D.A Schmidt: Denotational semantics. Methodology for language development. Allyn and Bacon, 1986\n3. W. Steingartner, V. Novitzká: Metódy formálnej sémantiky programovacích jazykov, TU Košice, 2022\n4. W. Steingartner: Operačná sémantika v praxi, TU Košice, 2022\n5. A. Koubková, J. Pavelka: Úvod do teoretické informatiky, MatfyzPress, 2005\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 2842\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n16%\n19%\n26%\n21%\n10%\n8%\n\n\nZabezpečuje:\ndoc. Ing. William Steingartner, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

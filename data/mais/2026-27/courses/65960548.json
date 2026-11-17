@@ -1,0 +1,171 @@
+{
+  "predmet_id": "65960548",
+  "code": "2610291",
+  "name": "Systémy chránenia v elektrizačnej sústave",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65960548",
+  "fetched_at": "2026-11-17T15:13:42Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2610291"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Systémy chránenia v elektrizačnej sústave"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nvstupné testy, protokoly z laboratórnych meraní, projektová práca"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné vedomosti o integrovanom systéme chránenia, merania, monitorovania a riadenia elektrických zariadení, o spolupráci s riadiacim a informačným systémom v elektrických staniciach, o komunikácii inteligentných elektronických zariadení."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- digitálne ochrany ako súčasť riadiaceho a informačného systému,\n- konfigurácia ochranných terminálov,\n- komunikácia inteligentných elektronických zariadení,\n- príslušenstvo elektrických ochrán,\n- spracovanie vstupných elektrických veličín digitálnymi ochranami,\n- zaznamenávanie porúch a vyhodnocovanie poruchových záznamov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Anderson, P. M.: Power System Protection. IEEE Press, 1999, ISBN 0-7803-3427-2.\n2. Phadke, A., G., Thorp, J. S.: Computer Relaying for Power Systems. Research Studies Press, 1990, ISBN 0-86380-074-2.\n3. Janíček, F. et al.: Digitálne ochrany v elektrizačnej sústave. STU Bratislava, 2004, ISBN 80-227-2135-2.\n4. Hvizdoš, M., Kmec, M.: Skúšanie digitálnych ochrán pomocou testovacieho zariadenia CMC. TU Košice, 2013, ISBN 978-80-553-1507-2."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pracovná záťaž:\nPriama výučba - prednášky 26 hodín, cvičenia 26 hodín, konzultácie 13 hodín, príprava na merania 26 hodín, spracovanie protokolov z meraní 26 hodín, vypracovanie zadaní 8 hodín, príprava na skúšku 25 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 611\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n14%\n23%\n32%\n23%\n7%\n1%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Juraj Kurimský, PhD.\ndoc. Ing. Zsolt Čonka, PhD.\nIng. Róbert Štefko, PhD.\nIng. Marek Bobček, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Elektroenergetika (EE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 611,
+    "percent": {
+      "A": 14,
+      "B": 23,
+      "C": 32,
+      "D": 23,
+      "E": 7,
+      "FX": 1
+    }
+  },
+  "teachers": [
+    "prof. Ing. Juraj Kurimský, PhD.",
+    "doc. Ing. Zsolt Čonka, PhD.",
+    "Ing. Róbert Štefko, PhD.",
+    "Ing. Marek Bobček, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 2610291\nNázov predmetu: Systémy chránenia v elektrizačnej sústave\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nElektroenergetika (EE_Ing_D_en)\nElektroenergetika (EE_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nvstupné testy, protokoly z laboratórnych meraní, projektová práca\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné vedomosti o integrovanom systéme chránenia, merania, monitorovania a riadenia elektrických zariadení, o spolupráci s riadiacim a informačným systémom v elektrických staniciach, o komunikácii inteligentných elektronických zariadení.\n\nStručná osnova predmetu:\n- digitálne ochrany ako súčasť riadiaceho a informačného systému,\n- konfigurácia ochranných terminálov,\n- komunikácia inteligentných elektronických zariadení,\n- príslušenstvo elektrických ochrán,\n- spracovanie vstupných elektrických veličín digitálnymi ochranami,\n- zaznamenávanie porúch a vyhodnocovanie poruchových záznamov.\n\nOdporúčaná literatúra:\n1. Anderson, P. M.: Power System Protection. IEEE Press, 1999, ISBN 0-7803-3427-2.\n2. Phadke, A., G., Thorp, J. S.: Computer Relaying for Power Systems. Research Studies Press, 1990, ISBN 0-86380-074-2.\n3. Janíček, F. et al.: Digitálne ochrany v elektrizačnej sústave. STU Bratislava, 2004, ISBN 80-227-2135-2.\n4. Hvizdoš, M., Kmec, M.: Skúšanie digitálnych ochrán pomocou testovacieho zariadenia CMC. TU Košice, 2013, ISBN 978-80-553-1507-2.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pracovná záťaž:\nPriama výučba - prednášky 26 hodín, cvičenia 26 hodín, konzultácie 13 hodín, príprava na merania 26 hodín, spracovanie protokolov z meraní 26 hodín, vypracovanie zadaní 8 hodín, príprava na skúšku 25 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 611\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n14%\n23%\n32%\n23%\n7%\n1%\n\n\nZabezpečuje:\nprof. Ing. Juraj Kurimský, PhD.\ndoc. Ing. Zsolt Čonka, PhD.\nIng. Róbert Štefko, PhD.\nIng. Marek Bobček, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

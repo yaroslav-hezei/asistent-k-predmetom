@@ -1,0 +1,175 @@
+{
+  "predmet_id": "66001912",
+  "code": "26000645",
+  "name": "Metaprogramovanie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66001912",
+  "fetched_at": "2026-11-17T15:14:53Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000645"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Metaprogramovanie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadanie, testy"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je venovaný technikám metaprogramovania a ich využitiu pri návrhu a implementácii programov. Študenti sa oboznámia s rôznymi reprezentáciami programov, s možnosťami ich analýzy a generovania. Budú sa tiež venovať pokročilým vlastnostiam programovacích jazykov, ktoré umožňujú programom analyzovať a upravovať vlastnú štruktúru. Naučia sa používať reflexiu, atribútové programovanie, makrá, generovanie kódu, aspektovo-orientované programovanie. Tieto témy budú preberané v kontexte vedeckého výskumu ale tiež praktického vývoja softvérových systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Metaprogramovanie – definícia, použitie, typy metaprogramovania.\n2. Význam metaprogramovania pre modularitu softvéru.\n3. Formy programu od zdrojového kódu po bežiaci proces.\n4. Reflexia ako metaprogramovanie počas behu programu – jej realizácia a využitie.\n5. Proces a jeho vlastnosti: štruktúra pamäte, zásobník volaní a ich introspekcia.\n6. Metadáta v kóde – definícia a použitie anotácií.\n7. Význam metaprogramovania v softvérovej architektúre.\n8. Spracovanie kódu počas prekladu, anotačný procesor.\n9. Štruktúra spustiteľného kódu, jeho analýza a modifikácia.\n10. Textové a syntaktické makrá a ich využitie.\n11. Systémy typov a genetické typy.\n12. Generovanie kódu a programovanie so šablónami.\n13. Modelovanie a metamodelovanie.\n14. Aspektovo-orientované programovanie – princípy a použitie v AspectJ."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] CHODAREV, S. Metaprogramovanie [online]. Dostupné na internete: .\n[2] KOLLÁR, J. et al. Modelovanie a generovanie softvérových architektúr. Košice: Elfa ISBN 978-80-553-1229-3.\n[3] FORMAN, I.R. - FORMAN, N. Java reflection in action. Greenwich, Conn. : London: Manning ; Pearson Education, 2005. 273 s. ISBN 978-1-932394-18-4.\n[4] FOWLER, M. Domain-specific languages. Upper Saddle River, N.J: Addison-Wesley, 2011. 1 s. ISBN 978-0-321-71294-3.\n[5] THOMAS, D. - HUNT, A. The pragmatic programmer: your journey to mastery. Second edition, 20th anniversary edtion. Boston: Addison-Wesley, 2020. 321 s. ISBN 978-0-13-595705-9.\n[6] LADDAD, R. AspectJ in action: enterprise AOP with Spring applications. 2nd ed. Greenwich, CT: Manning, 2010. 519 s. ISBN 978-1-933988-05-4.\n[7] ABELSON, H. et al. Structure and interpretation of computer programs. 2. ed. Cambridge, Mass.: MIT Press, 2002. 657 s. ISBN 978-0-262-51087-5. Dostupné na internete: .\n[8] RAMALHO, L. Fluent Python. First edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly, 2016. 765 s. ISBN 978-1-4919-4600-8."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 657\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n23%\n18%\n19%\n17%\n10%\n13%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Jaroslav Porubän, PhD.\nIng. Sergej Chodarev, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 657,
+    "percent": {
+      "A": 23,
+      "B": 18,
+      "C": 19,
+      "D": 17,
+      "E": 10,
+      "FX": 13
+    }
+  },
+  "teachers": [
+    "prof. Ing. Jaroslav Porubän, PhD.",
+    "Ing. Sergej Chodarev, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000645\nNázov predmetu: Metaprogramovanie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzadanie, testy\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je venovaný technikám metaprogramovania a ich využitiu pri návrhu a implementácii programov. Študenti sa oboznámia s rôznymi reprezentáciami programov, s možnosťami ich analýzy a generovania. Budú sa tiež venovať pokročilým vlastnostiam programovacích jazykov, ktoré umožňujú programom analyzovať a upravovať vlastnú štruktúru. Naučia sa používať reflexiu, atribútové programovanie, makrá, generovanie kódu, aspektovo-orientované programovanie. Tieto témy budú preberané v kontexte vedeckého výskumu ale tiež praktického vývoja softvérových systémov.\n\nStručná osnova predmetu:\n1. Metaprogramovanie – definícia, použitie, typy metaprogramovania.\n2. Význam metaprogramovania pre modularitu softvéru.\n3. Formy programu od zdrojového kódu po bežiaci proces.\n4. Reflexia ako metaprogramovanie počas behu programu – jej realizácia a využitie.\n5. Proces a jeho vlastnosti: štruktúra pamäte, zásobník volaní a ich introspekcia.\n6. Metadáta v kóde – definícia a použitie anotácií.\n7. Význam metaprogramovania v softvérovej architektúre.\n8. Spracovanie kódu počas prekladu, anotačný procesor.\n9. Štruktúra spustiteľného kódu, jeho analýza a modifikácia.\n10. Textové a syntaktické makrá a ich využitie.\n11. Systémy typov a genetické typy.\n12. Generovanie kódu a programovanie so šablónami.\n13. Modelovanie a metamodelovanie.\n14. Aspektovo-orientované programovanie – princípy a použitie v AspectJ.\n\nOdporúčaná literatúra:\n[1] CHODAREV, S. Metaprogramovanie [online]. Dostupné na internete: .\n[2] KOLLÁR, J. et al. Modelovanie a generovanie softvérových architektúr. Košice: Elfa ISBN 978-80-553-1229-3.\n[3] FORMAN, I.R. - FORMAN, N. Java reflection in action. Greenwich, Conn. : London: Manning ; Pearson Education, 2005. 273 s. ISBN 978-1-932394-18-4.\n[4] FOWLER, M. Domain-specific languages. Upper Saddle River, N.J: Addison-Wesley, 2011. 1 s. ISBN 978-0-321-71294-3.\n[5] THOMAS, D. - HUNT, A. The pragmatic programmer: your journey to mastery. Second edition, 20th anniversary edtion. Boston: Addison-Wesley, 2020. 321 s. ISBN 978-0-13-595705-9.\n[6] LADDAD, R. AspectJ in action: enterprise AOP with Spring applications. 2nd ed. Greenwich, CT: Manning, 2010. 519 s. ISBN 978-1-933988-05-4.\n[7] ABELSON, H. et al. Structure and interpretation of computer programs. 2. ed. Cambridge, Mass.: MIT Press, 2002. 657 s. ISBN 978-0-262-51087-5. Dostupné na internete: .\n[8] RAMALHO, L. Fluent Python. First edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly, 2016. 765 s. ISBN 978-1-4919-4600-8.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 657\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n23%\n18%\n19%\n17%\n10%\n13%\n\n\nZabezpečuje:\nprof. Ing. Jaroslav Porubän, PhD.\nIng. Sergej Chodarev, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

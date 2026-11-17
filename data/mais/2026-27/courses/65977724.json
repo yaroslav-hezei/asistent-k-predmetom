@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65977724",
+  "code": "26001385",
+  "name": "Optoelektronické komponenty počítačových sietí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65977724",
+  "fetched_at": "2026-11-17T15:14:34Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001385"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Optoelektronické komponenty počítačových sietí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,2,0,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu získa študent rozšírené teoretické a praktické vedomosti z oblasti teórie optických vlákien, zdrojov a fotodetektorov, prenosových vlastností optických vlákien a káblov, modulácie a demodulácie optického žiarenia, pasívnych prvkov optických vláknových počítačových sietí, merania optických vlákien pre počítačové siete a optických zobrazovacích prvkov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do teórie optoelektroniky pre počítačové siete (základné pojmy a história vývoja optoelektronických systémov a ich komponentov).\n2. Korpuskulárna a vlnová teória svetla.\n3. Rozdelenie, základné typy a prenosové vlastnosti optických vlákien.\n4. Výroba optických vlákien a pasívne prvky optoelektronických počítačových sietí.\n5. Meranie parametrov optických vlákien pre počítačové siete.\n6. Zdroje optického žiarenia a ich vlastnosti.\n7. Fotodetektory a ich šumové vlastnosti.\n8. Modulácia a demodulácia optického žiarenia.\n9. Trendy a perspektívy v optoelektronike.\n10. Optické zobrazovacie prvky."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Bhardwaj,A., et al.: Photonics and Optoelectronics in Industry 5.0 (Advances in Optics and Optoelectronics). Springer 2025, 212 pp. ISBN 978-9819675937\n2. Elias N. Glytsis: Optical Science and Engineering. CRC Press, 2025, 942 pp. ISBN 978-1032790626\n3. Para,T.: Optoelectronics - Recent Advances. IntechOpen 2024, 150 pp. ISBN 978-1837697960\n4. William A. Challener: Fundamental Optical Models. CRC Press, 2026, 448 pp. ISBN 978-1041148364\n5. Rogalski,A and Bielecki,Z.: Detection of Optical Signals. CRC Press 2024, 594 pp. ISBN 9781032069227\n6. Ole Keller: Fundamentals of Photon Physics. CRC Press, 2024, 560 pp. ISBN 978-0367457266\n7. Ďurišová,J,.Mizera,T.: Optika pre fotoniku. EDIS, Žilina, 2021.\n8. Filka,M. a kol.: Optoelektronika pre telekomunikácie a informatiku. Centa Brno, 2017, 462 pp. ISBN 978-8086785141\n9. Turán,J.: Optoelektronika. Harlequin Košice, 2002, 309 pp. ISBN 80-89082017\n10. Turán,J.-Ovseník,Ľ.: Optoelektronika (príklady a testy). Harlequin Košice, 2002, 252 pp. ISBN 80-89082025."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Poznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ľuboš Ovseník, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ľuboš Ovseník, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26001385\nNázov predmetu: Optoelektronické komponenty počítačových sietí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,2,0,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu získa študent rozšírené teoretické a praktické vedomosti z oblasti teórie optických vlákien, zdrojov a fotodetektorov, prenosových vlastností optických vlákien a káblov, modulácie a demodulácie optického žiarenia, pasívnych prvkov optických vláknových počítačových sietí, merania optických vlákien pre počítačové siete a optických zobrazovacích prvkov.\n\nStručná osnova predmetu:\n1. Úvod do teórie optoelektroniky pre počítačové siete (základné pojmy a história vývoja optoelektronických systémov a ich komponentov).\n2. Korpuskulárna a vlnová teória svetla.\n3. Rozdelenie, základné typy a prenosové vlastnosti optických vlákien.\n4. Výroba optických vlákien a pasívne prvky optoelektronických počítačových sietí.\n5. Meranie parametrov optických vlákien pre počítačové siete.\n6. Zdroje optického žiarenia a ich vlastnosti.\n7. Fotodetektory a ich šumové vlastnosti.\n8. Modulácia a demodulácia optického žiarenia.\n9. Trendy a perspektívy v optoelektronike.\n10. Optické zobrazovacie prvky.\n\n\nOdporúčaná literatúra:\n1. Bhardwaj,A., et al.: Photonics and Optoelectronics in Industry 5.0 (Advances in Optics and Optoelectronics). Springer 2025, 212 pp. ISBN 978-9819675937\n2. Elias N. Glytsis: Optical Science and Engineering. CRC Press, 2025, 942 pp. ISBN 978-1032790626\n3. Para,T.: Optoelectronics - Recent Advances. IntechOpen 2024, 150 pp. ISBN 978-1837697960\n4. William A. Challener: Fundamental Optical Models. CRC Press, 2026, 448 pp. ISBN 978-1041148364\n5. Rogalski,A and Bielecki,Z.: Detection of Optical Signals. CRC Press 2024, 594 pp. ISBN 9781032069227\n6. Ole Keller: Fundamentals of Photon Physics. CRC Press, 2024, 560 pp. ISBN 978-0367457266\n7. Ďurišová,J,.Mizera,T.: Optika pre fotoniku. EDIS, Žilina, 2021.\n8. Filka,M. a kol.: Optoelektronika pre telekomunikácie a informatiku. Centa Brno, 2017, 462 pp. ISBN 978-8086785141\n9. Turán,J.: Optoelektronika. Harlequin Košice, 2002, 309 pp. ISBN 80-89082017\n10. Turán,J.-Ovseník,Ľ.: Optoelektronika (príklady a testy). Harlequin Košice, 2002, 252 pp. ISBN 80-89082025.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Poznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Ľuboš Ovseník, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

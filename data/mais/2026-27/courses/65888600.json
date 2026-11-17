@@ -1,0 +1,165 @@
+{
+  "predmet_id": "65888600",
+  "code": "26000886",
+  "name": "Hlavné poznatky z oblasti Počítačových sietí a ich využitie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888600",
+  "fetched_at": "2026-11-17T15:04:14Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000886"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Hlavné poznatky z oblasti Počítačových sietí a ich využitie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "0,4,0,0,0,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 52/LS 52"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Štátna skúška pre 1. a 2. stupeň"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvovaním preukáže študent schopnosť analyticky a tvorivo myslieť, rozvíjať a riešiť problémy a úlohy v danej odbornej oblasti, najmä s pomocou nadobudnutých poznatkov z absolvovaných predmetov a s použitím odbornej literatúry."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Globálny súbor poznatkov z danej odbornej oblasti, viazaný najmä na povinné a povinne-voliteľné predmety študijného programu absolvovaného študentom, ktoré obsahujúce témy z jadra študijného odboru informatika."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Podľa jednotlivých absolvovaných predmetov z danej odbornej oblasti."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 283\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n21%\n18%\n6%\n4%\n20%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "Dr. h. c. prof. Ing. Anton Čižmár, CSc.\ndoc. Ing. Matúš Pleva, PhD.\nprof. Ing. Pavol Galajda, CSc.\ndoc. Ing. Stanislav Ondáš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Štátna skúška pre 1. a 2. stupeň",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 283,
+    "percent": {
+      "A": 30,
+      "B": 21,
+      "C": 18,
+      "D": 6,
+      "E": 4,
+      "FX": 20
+    }
+  },
+  "teachers": [
+    "Dr. h. c. prof. Ing. Anton Čižmár, CSc.",
+    "doc. Ing. Matúš Pleva, PhD.",
+    "prof. Ing. Pavol Galajda, CSc.",
+    "doc. Ing. Stanislav Ondáš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000886\nNázov predmetu: Hlavné poznatky z oblasti Počítačových sietí a ich využitie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 0,4,0,0,0,0,0,0,0\nExterná forma štúdia (hodiny za semester): ZS 52/LS 52\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Štátna skúška pre 1. a 2. stupeň\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nŠtátna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvovaním preukáže študent schopnosť analyticky a tvorivo myslieť, rozvíjať a riešiť problémy a úlohy v danej odbornej oblasti, najmä s pomocou nadobudnutých poznatkov z absolvovaných predmetov a s použitím odbornej literatúry.\n\nStručná osnova predmetu:\nGlobálny súbor poznatkov z danej odbornej oblasti, viazaný najmä na povinné a povinne-voliteľné predmety študijného programu absolvovaného študentom, ktoré obsahujúce témy z jadra študijného odboru informatika.\n\nOdporúčaná literatúra:\nPodľa jednotlivých absolvovaných predmetov z danej odbornej oblasti.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 283\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n21%\n18%\n6%\n4%\n20%\n\n\nZabezpečuje:\nDr. h. c. prof. Ing. Anton Čižmár, CSc.\ndoc. Ing. Matúš Pleva, PhD.\nprof. Ing. Pavol Galajda, CSc.\ndoc. Ing. Stanislav Ondáš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

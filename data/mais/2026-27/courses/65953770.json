@@ -1,0 +1,182 @@
+{
+  "predmet_id": "65953770",
+  "code": "26001201",
+  "name": "Softvérová bezpečnosť",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953770",
+  "fetched_at": "2026-11-17T15:11:08Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001201"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Softvérová bezpečnosť"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n1. PO\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámenie sa s princípmi a praktikami bezpečného programovania. Bezpečné programovanie znamená vytváranie bezpečného softvéru bez zraniteľnosti, ktoré by mohli zneužiť útočníci. Výsledkom je aplikovanie bezpečnostných vlastností knižníc ako autentifkácia, šifrovanie a iné."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Princípy bezpečného programovania\n2. Defenzívne programovanie\n3. Kontrola vstupu, validácia dát\n4. Pretečenie zásobníka\n5. Race hazardy\n6. Statická, dynamicka analýza\n7. Bezpečnosť citlivých dát\n8. Výber programovacieho jazyka\n9. Testovanie\n10. SDLC a bezpečnosť"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Madoš, B. Softvérová bezpečnosť (SB) [online]. Košice: KPI FEI TUKE, 2025. Dostupné z: https://moodle.fei.tuke.sk/course/view.php?id=136.\n2. Helfrich, J. N. Security for Software Engineers. 1st Edition, Chapman and Hall/CRC, 2020. ISBN-13 : 978-0367656812.\n3. Merkow, M. Secure, Resilient, and Agile Software Development. 1st Edition, Auerbach Publications, 2019, ISBN-13 : 978-0367332594.\n4. Dowd, M.; McDonald, J. a Schuh, J. The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities. 2n edition. Boston: Addison-Wesley, 2021. ISBN 978-0-321-44430-3.\n5. OWASP Foundation. The OWASP Web Application Security Project. Dostupné z: https://www.owasp.org/."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 126\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n46%\n22%\n2%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Martin Chovanec, PhD.\ndoc. Ing. Branislav Madoš, PhD.\nIng. Lenka Bubeňková"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 126,
+    "percent": {
+      "A": 30,
+      "B": 46,
+      "C": 22,
+      "D": 2,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Martin Chovanec, PhD.",
+    "doc. Ing. Branislav Madoš, PhD.",
+    "Ing. Lenka Bubeňková"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001201\nNázov predmetu: Softvérová bezpečnosť\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná informatika (ApI_Bc_D_sk)\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n1. PO\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámenie sa s princípmi a praktikami bezpečného programovania. Bezpečné programovanie znamená vytváranie bezpečného softvéru bez zraniteľnosti, ktoré by mohli zneužiť útočníci. Výsledkom je aplikovanie bezpečnostných vlastností knižníc ako autentifkácia, šifrovanie a iné.\n\nStručná osnova predmetu:\n1. Princípy bezpečného programovania\n2. Defenzívne programovanie\n3. Kontrola vstupu, validácia dát\n4. Pretečenie zásobníka\n5. Race hazardy\n6. Statická, dynamicka analýza\n7. Bezpečnosť citlivých dát\n8. Výber programovacieho jazyka\n9. Testovanie\n10. SDLC a bezpečnosť\n\nOdporúčaná literatúra:\n1. Madoš, B. Softvérová bezpečnosť (SB) [online]. Košice: KPI FEI TUKE, 2025. Dostupné z: https://moodle.fei.tuke.sk/course/view.php?id=136.\n2. Helfrich, J. N. Security for Software Engineers. 1st Edition, Chapman and Hall/CRC, 2020. ISBN-13 : 978-0367656812.\n3. Merkow, M. Secure, Resilient, and Agile Software Development. 1st Edition, Auerbach Publications, 2019, ISBN-13 : 978-0367332594.\n4. Dowd, M.; McDonald, J. a Schuh, J. The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities. 2n edition. Boston: Addison-Wesley, 2021. ISBN 978-0-321-44430-3.\n5. OWASP Foundation. The OWASP Web Application Security Project. Dostupné z: https://www.owasp.org/.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 126\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n30%\n46%\n22%\n2%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Martin Chovanec, PhD.\ndoc. Ing. Branislav Madoš, PhD.\nIng. Lenka Bubeňková\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

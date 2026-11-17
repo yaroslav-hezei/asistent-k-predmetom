@@ -1,0 +1,181 @@
+{
+  "predmet_id": "65952861",
+  "code": "2615951",
+  "name": "Logika pre informatikov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65952861",
+  "fetched_at": "2026-11-17T15:09:59Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2615951"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Logika pre informatikov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežné testy"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámiť študentov s logickými systémami používanými v informatike. Získajú vedomosti o štruktúre logických systémov, ich klasifikácii, o rozdiele medzi klasickou a intuicionistickou logikou. Osvoja si dokazovanie v Gentzenovych kalkuloch, rezolučnú metódu a pochopia teoretické základy, na ktorých je postavená paradigma logického programovania. Zvládnu princípy neklasických logík ako je lineárna logika, modálne logiky a ich aplikácie v informatike. Získajú poznatky o dokazovacích systémoch a programovacích jazykoch založených na jednotlivých logikách. Študenti sa oboznámia s princípmi logického programovania v jazyku Prolog, vrátane SLD rezolúcie a nadobudnú praktické zručnosti pri riešení úloh logickým programovaním."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základné pojmy, logické systémy a ich použitie v informatike.\n2. Výroková logika: Jazyk a sémantika.\n3. Výroková logika: Dedukčné kalkuly a formálne dôkazy. Gentzenove kalkuly.\n4. Výroková logika: Rezolučná metóda. Problém splniteľnosti booleovských formúl (SAT problém).\n5. Predikátová logika: Jazyk a sémantika.\n6. Predikátová logika: Gentzenove kalkuly a rezolučná metóda.\n7. Logické programovanie: Hornovsky fragment predikátovej logiky a SLD rezolúcia.\n8. Logické programovanie v jazyku Prolog: Základné pojmy, zoznamy, aritmetika.\n9. Logické programovanie v jazyku Prolog: Operátory, pravidlo rezu. negácia, spätné prehľadávanie.\n10. Intuicionistická logika a Curry-Howardova korešpondencia.\n11. Lineárna logika.\n12. Modálne logiky.\n13. Fuzzy logika. Floydova-Hoareova logika."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. V.Švejdar: Logika. Neúplnost, složitost a nutnost, Academia, Praha, 2002.\n2. M. Duží: Logika pro informatiky (a příbuzné obory). VŠB-Technická universita Ostrava 2012.\n3. M. Huth, R. Mark: Logic in Computer Science: Modelling and reasoning about systems. Cambridge university press, 2004.\n4. P. Taylor: Practical foundations of mathematics, Cambridge Univ.Press, 1989.\n5. J. Y. Girard, Y.Lafont, P.Taylor: Proofs and Types, Cambridge Univ.Press, 2003.\n6. J. Y. Girard: Linear logic: syntax and semantics.\n7. L. Sterling, E. Y. Shapiro: The art of Prolog: advanced programming techniques. MIT press, 1994.\n8. Z. Hou: Fundamentals of Logic and Computation. Springer International Publishing, 2021."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 1089\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n40%\n22%\n16%\n10%\n3%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. William Steingartner, PhD.\nIng. Ján Perháč, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 1089,
+    "percent": {
+      "A": 40,
+      "B": 22,
+      "C": 16,
+      "D": 10,
+      "E": 3,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "doc. Ing. William Steingartner, PhD.",
+    "Ing. Ján Perháč, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2615951\nNázov predmetu: Logika pre informatikov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npriebežné testy\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámiť študentov s logickými systémami používanými v informatike. Získajú vedomosti o štruktúre logických systémov, ich klasifikácii, o rozdiele medzi klasickou a intuicionistickou logikou. Osvoja si dokazovanie v Gentzenovych kalkuloch, rezolučnú metódu a pochopia teoretické základy, na ktorých je postavená paradigma logického programovania. Zvládnu princípy neklasických logík ako je lineárna logika, modálne logiky a ich aplikácie v informatike. Získajú poznatky o dokazovacích systémoch a programovacích jazykoch založených na jednotlivých logikách. Študenti sa oboznámia s princípmi logického programovania v jazyku Prolog, vrátane SLD rezolúcie a nadobudnú praktické zručnosti pri riešení úloh logickým programovaním.\n\nStručná osnova predmetu:\n1. Základné pojmy, logické systémy a ich použitie v informatike.\n2. Výroková logika: Jazyk a sémantika.\n3. Výroková logika: Dedukčné kalkuly a formálne dôkazy. Gentzenove kalkuly.\n4. Výroková logika: Rezolučná metóda. Problém splniteľnosti booleovských formúl (SAT problém).\n5. Predikátová logika: Jazyk a sémantika.\n6. Predikátová logika: Gentzenove kalkuly a rezolučná metóda.\n7. Logické programovanie: Hornovsky fragment predikátovej logiky a SLD rezolúcia.\n8. Logické programovanie v jazyku Prolog: Základné pojmy, zoznamy, aritmetika.\n9. Logické programovanie v jazyku Prolog: Operátory, pravidlo rezu. negácia, spätné prehľadávanie.\n10. Intuicionistická logika a Curry-Howardova korešpondencia.\n11. Lineárna logika.\n12. Modálne logiky.\n13. Fuzzy logika. Floydova-Hoareova logika.\n\nOdporúčaná literatúra:\n1. V.Švejdar: Logika. Neúplnost, složitost a nutnost, Academia, Praha, 2002.\n2. M. Duží: Logika pro informatiky (a příbuzné obory). VŠB-Technická universita Ostrava 2012.\n3. M. Huth, R. Mark: Logic in Computer Science: Modelling and reasoning about systems. Cambridge university press, 2004.\n4. P. Taylor: Practical foundations of mathematics, Cambridge Univ.Press, 1989.\n5. J. Y. Girard, Y.Lafont, P.Taylor: Proofs and Types, Cambridge Univ.Press, 2003.\n6. J. Y. Girard: Linear logic: syntax and semantics.\n7. L. Sterling, E. Y. Shapiro: The art of Prolog: advanced programming techniques. MIT press, 1994.\n8. Z. Hou: Fundamentals of Logic and Computation. Springer International Publishing, 2021.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 1089\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n40%\n22%\n16%\n10%\n3%\n7%\n\n\nZabezpečuje:\ndoc. Ing. William Steingartner, PhD.\nIng. Ján Perháč, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

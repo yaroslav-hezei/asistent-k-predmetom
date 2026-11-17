@@ -1,0 +1,169 @@
+{
+  "predmet_id": "66699691",
+  "code": "26001413",
+  "name": "Medicínska informatika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66699691",
+  "fetched_at": "2026-11-17T15:16:59Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001413"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Medicínska informatika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nreferát, projekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet poskytuje prehľad princípov, technológií a algoritmov používaných v medicínskom zobrazovaní so zameraním na informatické aspekty spracovania a analýzy obrazových dát. Študenti sa oboznámia s fyzikálnymi princípmi zobrazovacích modalít (RTG, CT, MRI, USG, PET), štandardmi medicínskych dát (DICOM), úlohami riešenými pri spracovaní obrazových dát (klasifikácia, segmentácia, registrácia) a využitím metód strojového učenia a hlbokého učenia pri diagnostike. Dôraz sa kladie na algoritmické riešenia, implementáciu, prácu s reálnymi dátami, pochopenie klinického kontextu a vývoj prototypov medicínskeho softvéru."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do medicínskej informatiky\n2. Doménová analýza vo vývoji medicínskeho softvéru\n3. Technológie v medicínskej informatike a zobrazovaní\n4. Architektúra softvéru v medicíne\n5. Zobrazovanie v medicíne a medicínskom softvéri\n6. Umelá inteligencia a strojové učenie v medicíne\n7. Rámec MONAI\n8. Fyzikálne neurónové siete v zdravotníctve\n9. Úvod do technológie ultrazvuku\n10. Úvod do technológií RTG a CT\n11. Úvod do technológie magnetickej rezonancie\n12. Prototypovanie softvéru pre doménu medicíny"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. ARNOWITZ, Jonathan; ARENT, Michael; BERGER, Nevin. Effective prototyping for software makers. Elsevier, 2010.\n2. SOMMERVILLE, Ian. Engineering software products. London, UK: Pearson, 2020.\n3. BISCHOFBERGER, Walter R.; POMBERGER, Gustav. Prototyping-oriented software development: Concepts and tools. Springer Science & Business Media, 2012.\n4. HAVLICE, Zdeněk. Základy softvérového inžinierstva. 1. vyd. Košice: Technická univerzita v Košiciach, 2012. ISBN 978-80-553-1223-1.\n5. HAVLICE, Zdeněk. Technológia softvérových projektov: Objektová analýza a návrh systémov. Košice: Academic Press Elfa, 2002.\n6. ŠIMKO, Jozef; ŠIMKO, Michal; BIELIKOVÁ, Mária. Softvérové inžinierstvo v otázkach a odpovediach. Bratislava: Vydavateľstvo SPEKTRUM STU, 2017. ISBN 978-80-227-4669-4.\n7. HJØRLAND, Birger. Domain analysis. Knowledge Organization. 2017, roč. 44, č. 6, s. 436–464.\n8. SUETENS, Paul. Fundamentals of medical imaging. Cambridge university press, 2017.\n9. JODOGNE, Sébastien. The Orthanc ecosystem for medical imaging. Journal of digital imaging, 2018, 31.3: 341-352.\n10. PIANYKH, Oleg S. Digital imaging and communications in medicine (DICOM) a practical introduction and survival guide. Berlin, Heidelberg: Springer Berlin Heidelberg, 2012.\n11. HECKMAN, Kenneth; SCHULTZ, Thomas J. PACS architecture. In: PACS: A Guide to the Digital Revolution. New York, NY: Springer New York, 2006. p. 249-267.\n12. MALIK, Paras, et al. Overview of artificial intelligence in medicine. Journal of family medicine and primary care, 2019, 8.7: 2328-2331.\n13. ZHANG, Peng; KAMEL BOULOS, Maged N. Generative AI in medicine and healthcare: promises, opportunities and challenges. Future Internet, 2023, 15.9: 286."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Jaroslav Porubän, PhD.\nIng. Marek Ružička, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. Ing. Jaroslav Porubän, PhD.",
+    "Ing. Marek Ružička, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001413\nNázov predmetu: Medicínska informatika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nreferát, projekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet poskytuje prehľad princípov, technológií a algoritmov používaných v medicínskom zobrazovaní so zameraním na informatické aspekty spracovania a analýzy obrazových dát. Študenti sa oboznámia s fyzikálnymi princípmi zobrazovacích modalít (RTG, CT, MRI, USG, PET), štandardmi medicínskych dát (DICOM), úlohami riešenými pri spracovaní obrazových dát (klasifikácia, segmentácia, registrácia) a využitím metód strojového učenia a hlbokého učenia pri diagnostike. Dôraz sa kladie na algoritmické riešenia, implementáciu, prácu s reálnymi dátami, pochopenie klinického kontextu a vývoj prototypov medicínskeho softvéru.\n\nStručná osnova predmetu:\n1. Úvod do medicínskej informatiky\n2. Doménová analýza vo vývoji medicínskeho softvéru\n3. Technológie v medicínskej informatike a zobrazovaní\n4. Architektúra softvéru v medicíne\n5. Zobrazovanie v medicíne a medicínskom softvéri\n6. Umelá inteligencia a strojové učenie v medicíne\n7. Rámec MONAI\n8. Fyzikálne neurónové siete v zdravotníctve\n9. Úvod do technológie ultrazvuku\n10. Úvod do technológií RTG a CT\n11. Úvod do technológie magnetickej rezonancie\n12. Prototypovanie softvéru pre doménu medicíny\n\nOdporúčaná literatúra:\n1. ARNOWITZ, Jonathan; ARENT, Michael; BERGER, Nevin. Effective prototyping for software makers. Elsevier, 2010.\n2. SOMMERVILLE, Ian. Engineering software products. London, UK: Pearson, 2020.\n3. BISCHOFBERGER, Walter R.; POMBERGER, Gustav. Prototyping-oriented software development: Concepts and tools. Springer Science & Business Media, 2012.\n4. HAVLICE, Zdeněk. Základy softvérového inžinierstva. 1. vyd. Košice: Technická univerzita v Košiciach, 2012. ISBN 978-80-553-1223-1.\n5. HAVLICE, Zdeněk. Technológia softvérových projektov: Objektová analýza a návrh systémov. Košice: Academic Press Elfa, 2002.\n6. ŠIMKO, Jozef; ŠIMKO, Michal; BIELIKOVÁ, Mária. Softvérové inžinierstvo v otázkach a odpovediach. Bratislava: Vydavateľstvo SPEKTRUM STU, 2017. ISBN 978-80-227-4669-4.\n7. HJØRLAND, Birger. Domain analysis. Knowledge Organization. 2017, roč. 44, č. 6, s. 436–464.\n8. SUETENS, Paul. Fundamentals of medical imaging. Cambridge university press, 2017.\n9. JODOGNE, Sébastien. The Orthanc ecosystem for medical imaging. Journal of digital imaging, 2018, 31.3: 341-352.\n10. PIANYKH, Oleg S. Digital imaging and communications in medicine (DICOM) a practical introduction and survival guide. Berlin, Heidelberg: Springer Berlin Heidelberg, 2012.\n11. HECKMAN, Kenneth; SCHULTZ, Thomas J. PACS architecture. In: PACS: A Guide to the Digital Revolution. New York, NY: Springer New York, 2006. p. 249-267.\n12. MALIK, Paras, et al. Overview of artificial intelligence in medicine. Journal of family medicine and primary care, 2019, 8.7: 2328-2331.\n13. ZHANG, Peng; KAMEL BOULOS, Maged N. Generative AI in medicine and healthcare: promises, opportunities and challenges. Future Internet, 2023, 15.9: 286.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. Ing. Jaroslav Porubän, PhD.\nIng. Marek Ružička, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

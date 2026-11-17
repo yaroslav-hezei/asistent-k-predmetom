@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65682468",
+  "code": "26001381",
+  "name": "Moderné prístupy v optimalizácii",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65682468",
+  "fetched_at": "2026-11-17T15:02:02Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001381"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Moderné prístupy v optimalizácii"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra absolvujú študenti písomku za 10 bodov, zameranú na optimalizačné metódy a riešenie úloh. Ďalšie body možno získať v rámci zápočtu za zadania, ktoré spočívajú v práci na projektoch riešiacich úlohy z oblasti optimalizácie."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámiť študentov s hlavnými skupinami optimalizačných algoritmov určených na riešenie numerických aj kombinatorických problémov. Predmet sa zameriava na praktické využitie klasických optimalizačných postupov a biologicky inšpirovaných metód vrátane populačných a evolučných algoritmov. Súčasťou predmetu je aj prehľad najnovších prístupov k riešeniu optimalizačných úloh. Absolvent získa prehľad o možnostiach a obmedzeniach jednotlivých skupín algoritmov, s dôrazom na ich výpočtovú náročnosť, a osvojí si ich aplikáciu pri riešení reálnych optimalizačných problémov. Na základe získaných praktických skúseností bude schopný zvoliť vhodný typ optimalizačného algoritmu vzhľadom na charakter úlohy a výpočtové nároky a aplikovať ho v oblasti modelovania, návrhu a optimalizácie systémov a procesov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Výpočtová zložitosť, základné zložitostné triedy.\n2. Rozhodovacia a optimalizačná úloha, vybrané kanonické typy úloh.\n3. Perturbačný a konštrukčný prístup.\n4. Stratégie prehľadávania, systematické a lokálne prehľadávanie, orezávacie heuristiky.\n5. Únik z lokálneho extrému.\n6. Biologicky orientované algoritmy.\n7. Evolučne orientované algoritmy.\n8. Moderné optimalizačné algoritmy.\n9. Prípadové štúdie použitia optimalizačných algoritmov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "- Kochenderfer, Wheeler: Algorithms for Optimization (2nd ed), The MIT Press, 2025.\n- Brownlee: Clever Algorithms, Nature-Inspired Programming Recipes, 2012.\n- Hoos, Stützle: Stochastic Local Search, Foundations and Applications, Elsevier, 2004.\n- Michalewicz, Fogel: How to Solve It: Modern Heuristics, Springer, 2004."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na cvičeniach: 13 hodín\n- Priame konzultácie k projektovej práci: 13 hodín\n\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh, zadaní a projektovej práce: 48 hodín\n- Príprava na skúšku: 48 hodín\n\nCelkový počet hodín: 160 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marián Mach, CSc.\nIng. Ján Magyar, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Umelá inteligencia (UI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marián Mach, CSc.",
+    "Ing. Ján Magyar, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001381\nNázov predmetu: Moderné prístupy v optimalizácii\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nUmelá inteligencia (UI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra absolvujú študenti písomku za 10 bodov, zameranú na optimalizačné metódy a riešenie úloh. Ďalšie body možno získať v rámci zápočtu za zadania, ktoré spočívajú v práci na projektoch riešiacich úlohy z oblasti optimalizácie.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámiť študentov s hlavnými skupinami optimalizačných algoritmov určených na riešenie numerických aj kombinatorických problémov. Predmet sa zameriava na praktické využitie klasických optimalizačných postupov a biologicky inšpirovaných metód vrátane populačných a evolučných algoritmov. Súčasťou predmetu je aj prehľad najnovších prístupov k riešeniu optimalizačných úloh. Absolvent získa prehľad o možnostiach a obmedzeniach jednotlivých skupín algoritmov, s dôrazom na ich výpočtovú náročnosť, a osvojí si ich aplikáciu pri riešení reálnych optimalizačných problémov. Na základe získaných praktických skúseností bude schopný zvoliť vhodný typ optimalizačného algoritmu vzhľadom na charakter úlohy a výpočtové nároky a aplikovať ho v oblasti modelovania, návrhu a optimalizácie systémov a procesov.\n\nStručná osnova predmetu:\n1. Výpočtová zložitosť, základné zložitostné triedy.\n2. Rozhodovacia a optimalizačná úloha, vybrané kanonické typy úloh.\n3. Perturbačný a konštrukčný prístup.\n4. Stratégie prehľadávania, systematické a lokálne prehľadávanie, orezávacie heuristiky.\n5. Únik z lokálneho extrému.\n6. Biologicky orientované algoritmy.\n7. Evolučne orientované algoritmy.\n8. Moderné optimalizačné algoritmy.\n9. Prípadové štúdie použitia optimalizačných algoritmov.\n\nOdporúčaná literatúra:\n- Kochenderfer, Wheeler: Algorithms for Optimization (2nd ed), The MIT Press, 2025.\n- Brownlee: Clever Algorithms, Nature-Inspired Programming Recipes, 2012.\n- Hoos, Stützle: Stochastic Local Search, Foundations and Applications, Elsevier, 2004.\n- Michalewicz, Fogel: How to Solve It: Modern Heuristics, Springer, 2004.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 52 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na cvičeniach: 13 hodín\n- Priame konzultácie k projektovej práci: 13 hodín\n\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh, zadaní a projektovej práce: 48 hodín\n- Príprava na skúšku: 48 hodín\n\nCelkový počet hodín: 160 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Marián Mach, CSc.\nIng. Ján Magyar, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

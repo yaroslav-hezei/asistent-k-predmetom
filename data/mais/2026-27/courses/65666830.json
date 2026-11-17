@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65666830",
+  "code": "26001291",
+  "name": "Digitálna transformácia a Industry 5.0",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65666830",
+  "fetched_at": "2026-11-17T14:59:48Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001291"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Digitálna transformácia a Industry 5.0"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\n3.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu získa poznatky o najnovších kybernetických (inteligentných, informačných a riadiacich) princípoch a technológiách zavádzaných do rôznych typov priemyslu či ľudského života. Študent získa prehľad prínosoch jednotlivých priemyselných revolúcií s dôrazom na štvrtú priemyselnú revolúciu. Pochopí pojmy a súvislostí ako napr. cloudové systémy, IoE (Internet of Everything – Internet všetkého) a IoT (Internet of things – Internet vecí). Pochopí prenikanie, synergiu, ekosystém týchto pilerov do rôznych odvetví priemyslu a života (cloud manufacturing, industrial IoT, smart city, smart living, smart home, smart automation). Študent bude poznať vývoj priemyselných sietí (ASi, DeviceNet, ProfiBus, ...), využívané protokoly v priemysle, napr. priemyselný Ethernet, OPC, DDE, ODBC, MQTT, ... či bezdrôtové technológie (napr. bluetooth, wifi, NFC). Absolvent spozná najmodernejšie architektúry a aplikácie inteligentných informačno-riadiacich systémov. Získa prehľad o nasadeniach cloudových systémov (MS Azure, Wonderware, Rockwell automation, IBM Bluemix, big data) a aplikáciách inteligentných systémov (robotics, computer vision, machine intelligence, control systems)."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Prehľad jednotlivých priemyselných revolúcií\n• Kyber-fyzikálne systémy, Inteligentné (smart) systémy v Industry 4.0\n• Inteligentný (smart) riadiaci a výrobný systém, produkt, služba\n• Cisco kurz a certifikácia - Úvod do IoE (Internet of Every Things)\n• Architektúry priemyselných informačných systémov\n• Fog a cloud computing a systémy, IBM Bluemix, Microsoft Azure\n• Cloud manufacturing, postavenie SCADA/HMI, MIS, ERP, MES v Industry 4.0\n• IoE a IoT huby v priemysle (IIoT), snímače a akčné členy v Industry 4.0\n• Siete a protokoly v Industry 4.0\n• Systémy priemyselnej inteligencie a operačnej excelencie\n• Big data v Industry 4.0\n• Robotika v Industry 4.0\n• Aplikácia fog a cloud systémov"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "MEGOW, J.: Reference Architecture Models Industry 4.0, Smart Manufacturing and IoT, Begleitforschung PAiCE, Berlin, 2020"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na seminároch: 13 hodín\n- Priame konzultácie a konzultácie k projektovej práci: 19 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh, zadaní a projektovej práce: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 122\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n22%\n30%\n25%\n5%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Iveta Zolotová, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok ZS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 122,
+    "percent": {
+      "A": 13,
+      "B": 22,
+      "C": 30,
+      "D": 25,
+      "E": 5,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "prof. Ing. Iveta Zolotová, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001291\nNázov predmetu: Digitálna transformácia a Industry 5.0\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\n3.rok ZS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu získa poznatky o najnovších kybernetických (inteligentných, informačných a riadiacich) princípoch a technológiách zavádzaných do rôznych typov priemyslu či ľudského života. Študent získa prehľad prínosoch jednotlivých priemyselných revolúcií s dôrazom na štvrtú priemyselnú revolúciu. Pochopí pojmy a súvislostí ako napr. cloudové systémy, IoE (Internet of Everything – Internet všetkého) a IoT (Internet of things – Internet vecí). Pochopí prenikanie, synergiu, ekosystém týchto pilerov do rôznych odvetví priemyslu a života (cloud manufacturing, industrial IoT, smart city, smart living, smart home, smart automation). Študent bude poznať vývoj priemyselných sietí (ASi, DeviceNet, ProfiBus, ...), využívané protokoly v priemysle, napr. priemyselný Ethernet, OPC, DDE, ODBC, MQTT, ... či bezdrôtové technológie (napr. bluetooth, wifi, NFC). Absolvent spozná najmodernejšie architektúry a aplikácie inteligentných informačno-riadiacich systémov. Získa prehľad o nasadeniach cloudových systémov (MS Azure, Wonderware, Rockwell automation, IBM Bluemix, big data) a aplikáciách inteligentných systémov (robotics, computer vision, machine intelligence, control systems).\n\nStručná osnova predmetu:\n• Prehľad jednotlivých priemyselných revolúcií\n• Kyber-fyzikálne systémy, Inteligentné (smart) systémy v Industry 4.0\n• Inteligentný (smart) riadiaci a výrobný systém, produkt, služba\n• Cisco kurz a certifikácia - Úvod do IoE (Internet of Every Things)\n• Architektúry priemyselných informačných systémov\n• Fog a cloud computing a systémy, IBM Bluemix, Microsoft Azure\n• Cloud manufacturing, postavenie SCADA/HMI, MIS, ERP, MES v Industry 4.0\n• IoE a IoT huby v priemysle (IIoT), snímače a akčné členy v Industry 4.0\n• Siete a protokoly v Industry 4.0\n• Systémy priemyselnej inteligencie a operačnej excelencie\n• Big data v Industry 4.0\n• Robotika v Industry 4.0\n• Aplikácia fog a cloud systémov\n\nOdporúčaná literatúra:\nMEGOW, J.: Reference Architecture Models Industry 4.0, Smart Manufacturing and IoT, Begleitforschung PAiCE, Berlin, 2020\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 58 hodín\n- Účasť na prednáškach: 26 hodín\n- Účasť na seminároch: 13 hodín\n- Priame konzultácie a konzultácie k projektovej práci: 19 hodín\nNekontaktná výučba: spolu 108 hodín\n- Príprava na prednášky a cvičenia: 12 hodín\n- Vypracovanie úloh, zadaní a projektovej práce: 48 hodín\n- Príprava na skúšku: 48 hodín\nCelkový počet hodín: 166 hodín\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 122\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n13%\n22%\n30%\n25%\n5%\n4%\n\n\nZabezpečuje:\nprof. Ing. Iveta Zolotová, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

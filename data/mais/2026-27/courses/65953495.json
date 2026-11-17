@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65953495",
+  "code": "26001005",
+  "name": "Priemyselná a systémová bezpečnosť",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953495",
+  "fetched_at": "2026-11-17T15:10:47Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001005"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Priemyselná a systémová bezpečnosť"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Priemyselná bezpečnosť sa zameriava na technológiu LOXON, ktorá sa využíva v inteligentných systémoch, so zameraním na bezpečnostné prvky. Študenti sa oboznávia so systémom loxon, jednotlivými hardvérovými prvkami a návrhom komplexného systému pre zabezpečenie pomocov LOXON."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod\n2. Prostredie systému Loxon\n3. Loxon miniserver + rozšírenia\n4. Loxon základná konfigurácia\n5. Bezpečnostné prvky - senzor prítomnosti\n6. Bezpečnostné prvky - detektor dymu a vody\n7. Implementácia bezpečnostných prvkov\n8. Zápočtová previerka\n9. Bezpečnostné prvky - okenný a dverový kontakt\n10. Bezpečnostné prvky – NFC TOUCH tree\n11. Implementácia bezpečnostných prvkov\n12. Konfigurácia komplexného bezpečnostného systému\n13. Udeľovanie zápočtov"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "https://academy-sk.loxone.com/folder/odborne-skolenie\nhttps://www.loxone.com/cscz/pro-partnery/skoleni/\nPascal Ackerman: Industrial Cybersecurity, Packt Publishing Limited, 2021."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 175\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n46%\n41%\n6%\n0%\n1%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Eva Chovancová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 175,
+    "percent": {
+      "A": 46,
+      "B": 41,
+      "C": 6,
+      "D": 0,
+      "E": 1,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "doc. Ing. Eva Chovancová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001005\nNázov predmetu: Priemyselná a systémová bezpečnosť\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nKyberbezpečnosť (KB_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPriemyselná bezpečnosť sa zameriava na technológiu LOXON, ktorá sa využíva v inteligentných systémoch, so zameraním na bezpečnostné prvky. Študenti sa oboznávia so systémom loxon, jednotlivými hardvérovými prvkami a návrhom komplexného systému pre zabezpečenie pomocov LOXON.\n\nStručná osnova predmetu:\n1. Úvod\n2. Prostredie systému Loxon\n3. Loxon miniserver + rozšírenia\n4. Loxon základná konfigurácia\n5. Bezpečnostné prvky - senzor prítomnosti\n6. Bezpečnostné prvky - detektor dymu a vody\n7. Implementácia bezpečnostných prvkov\n8. Zápočtová previerka\n9. Bezpečnostné prvky - okenný a dverový kontakt\n10. Bezpečnostné prvky – NFC TOUCH tree\n11. Implementácia bezpečnostných prvkov\n12. Konfigurácia komplexného bezpečnostného systému\n13. Udeľovanie zápočtov\n\nOdporúčaná literatúra:\nhttps://academy-sk.loxone.com/folder/odborne-skolenie\nhttps://www.loxone.com/cscz/pro-partnery/skoleni/\nPascal Ackerman: Industrial Cybersecurity, Packt Publishing Limited, 2021.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 175\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n46%\n41%\n6%\n0%\n1%\n7%\n\n\nZabezpečuje:\ndoc. Ing. Eva Chovancová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

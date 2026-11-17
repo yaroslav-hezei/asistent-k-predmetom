@@ -1,0 +1,230 @@
+{
+  "predmet_id": "65950081",
+  "code": "2600171",
+  "name": "Fyzika I",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950081",
+  "fetched_at": "2026-11-17T15:07:17Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2600171"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Fyzika I"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\nPísomné kontrolné skúšky počas semestra"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nSkúška písomnou formou"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je poskytnúť študentom základné fyzikálne poznatky z oblasti mechaniky, mechanického kmitania a vlnenia, náuky o teple a gravitačnom poli, ktoré sú potrebné pre nadväzujúce predmety v rámci učebných plánov príslušných študijných programov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Kinematika a dynamika hmotného bodu, Newtonove pohybové zákony, impulz, hybnosť, práca, výkon. Kinetická a potenciálna energia, zákon zachovania mechanickej energie. Mechanika sústavy hmotných bodov a telies, rotácia telesa, kinetická energia pri rotačnom pohybe, moment zotrvačnosti. Kmity, harmonický oscilátor, rezonancia. Mechanické vlny, rovnica vlnenia, interferencia vlnenia. Kinetická teória ideálneho plynu, vnútorná energia. Termodynamika, práca, teplo, tepelná kapacita, termodynamické zákony, entropia. Gravitačné pole."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "HLAVÁČOVÁ, J., ZIMAN, J., KOVAĽAKOVÁ, M., ZAGYI, B. Fyzika 1, 1. vyd - Košice : TU, - 2005. - 92 s. - ISBN 80-8086-009-2\n\nHLAVÁČOVÁ, J., KOVAĽAKOVÁ. M, KLADIVOVÁ M., ŠEVČOVIČ L. Úlohy z fyziky, 1. vyd - Košice : Elfa - 2010. - 66 s. - ISBN 978-80-8086-132-2\n\nOLČÁK, D., GIBOVÁ Z. Mechanický pohyb častice a telesa1. vyd - Košice : TU - 2014. - 97 s.. - ISBN 987-80-553-1817-2\n\nHALLIDAY, D.; RESNICK, R.; WALKER, J. Fyzika. Z angl. orig. Fundametals of Physics, prel. J. MUSILOVÁ, Z. BOCHNÍČEK, V. HOLÝ. Havlíčkův Brod: VUTIUM, PROMETEUS, 2000. Brožovaný komplet: ISBN 80-214-1868-0 (VUTIUM), ISBN 81-7196-213-9 (PROMETEUS), pevná väzba ISBN 80-214-1869-9 (VUTIUM), ISBN 81-7196-214-7 (PROMETEUS. (Česky.)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 52 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 26 hodín\nNekontaktná výučba: spolu 98 hodín, z toho:\n• Príprava na prednášky a cvičenia – 49 hodín\n• Príprava na skúšku – 49 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 12224\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n9%\n13%\n15%\n14%\n44%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. RNDr. Ján Ziman, CSc.\nRNDr. Kornel Richter, PhD.\nRNDr. Peter Vrábel, PhD.\nRNDr. Anton Baran, PhD.\nRNDr. Natália Šmídová, PhD.\ndoc. RNDr. Oľga Fričová, PhD.\nMgr. Peter Duranka, PhD.\ndoc. RNDr. Mária Kovaľaková, PhD.\ndoc. RNDr. Júlia Hlaváčová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 5,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 12224,
+    "percent": {
+      "A": 4,
+      "B": 9,
+      "C": 13,
+      "D": 15,
+      "E": 14,
+      "FX": 44
+    }
+  },
+  "teachers": [
+    "prof. RNDr. Ján Ziman, CSc.",
+    "RNDr. Kornel Richter, PhD.",
+    "RNDr. Peter Vrábel, PhD.",
+    "RNDr. Anton Baran, PhD.",
+    "RNDr. Natália Šmídová, PhD.",
+    "doc. RNDr. Oľga Fričová, PhD.",
+    "Mgr. Peter Duranka, PhD.",
+    "doc. RNDr. Mária Kovaľaková, PhD.",
+    "doc. RNDr. Júlia Hlaváčová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 2600171\nNázov predmetu: Fyzika I\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\nPísomné kontrolné skúšky počas semestra\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nSkúška písomnou formou\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je poskytnúť študentom základné fyzikálne poznatky z oblasti mechaniky, mechanického kmitania a vlnenia, náuky o teple a gravitačnom poli, ktoré sú potrebné pre nadväzujúce predmety v rámci učebných plánov príslušných študijných programov.\n\nStručná osnova predmetu:\nKinematika a dynamika hmotného bodu, Newtonove pohybové zákony, impulz, hybnosť, práca, výkon. Kinetická a potenciálna energia, zákon zachovania mechanickej energie. Mechanika sústavy hmotných bodov a telies, rotácia telesa, kinetická energia pri rotačnom pohybe, moment zotrvačnosti. Kmity, harmonický oscilátor, rezonancia. Mechanické vlny, rovnica vlnenia, interferencia vlnenia. Kinetická teória ideálneho plynu, vnútorná energia. Termodynamika, práca, teplo, tepelná kapacita, termodynamické zákony, entropia. Gravitačné pole.\n\nOdporúčaná literatúra:\nHLAVÁČOVÁ, J., ZIMAN, J., KOVAĽAKOVÁ, M., ZAGYI, B. Fyzika 1, 1. vyd - Košice : TU, - 2005. - 92 s. - ISBN 80-8086-009-2\n\nHLAVÁČOVÁ, J., KOVAĽAKOVÁ. M, KLADIVOVÁ M., ŠEVČOVIČ L. Úlohy z fyziky, 1. vyd - Košice : Elfa - 2010. - 66 s. - ISBN 978-80-8086-132-2\n\nOLČÁK, D., GIBOVÁ Z. Mechanický pohyb častice a telesa1. vyd - Košice : TU - 2014. - 97 s.. - ISBN 987-80-553-1817-2\n\nHALLIDAY, D.; RESNICK, R.; WALKER, J. Fyzika. Z angl. orig. Fundametals of Physics, prel. J. MUSILOVÁ, Z. BOCHNÍČEK, V. HOLÝ. Havlíčkův Brod: VUTIUM, PROMETEUS, 2000. Brožovaný komplet: ISBN 80-214-1868-0 (VUTIUM), ISBN 81-7196-213-9 (PROMETEUS), pevná väzba ISBN 80-214-1869-9 (VUTIUM), ISBN 81-7196-214-7 (PROMETEUS. (Česky.)\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 52 hodín, z toho:\n• Účasť na prednáškach: 26 hodín\n• Účasť na cvičeniach: 26 hodín\nNekontaktná výučba: spolu 98 hodín, z toho:\n• Príprava na prednášky a cvičenia – 49 hodín\n• Príprava na skúšku – 49 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 12224\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n9%\n13%\n15%\n14%\n44%\n\n\nZabezpečuje:\nprof. RNDr. Ján Ziman, CSc.\nRNDr. Kornel Richter, PhD.\nRNDr. Peter Vrábel, PhD.\nRNDr. Anton Baran, PhD.\nRNDr. Natália Šmídová, PhD.\ndoc. RNDr. Oľga Fričová, PhD.\nMgr. Peter Duranka, PhD.\ndoc. RNDr. Mária Kovaľaková, PhD.\ndoc. RNDr. Júlia Hlaváčová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,171 @@
+{
+  "predmet_id": "65908449",
+  "code": "26001272",
+  "name": "Signálové mikrokontroléry",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908449",
+  "fetched_at": "2026-11-17T15:06:33Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001272"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Signálové mikrokontroléry"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti, 2x test (15 bodov + 15 bodov), 1x praktické zadanie (10 bodov)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Test (40 bodov), praktická úloha (20 bodov)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú vedomosti z oblasti využitia a programovania signálových mikrontrolérov na príklade TMS320F28379D, a to najmä pre riadenie výkonových meničov a elektrických pohonov. Budú rozumieť činnosti mikrokontroléra vo všeobecnosti ako aj jeho periférií. Budú vedieť vytvoriť návrh softvéru, resp. navrhnúť firmvér, ktorý zabezpečí správnu konfiguráciu mikrokontroléra a riadenie edukačných prípravkov, ako napr. RGB LED, piezoakustického prvku, impulzového meniča, jednosmerného motora so snímačom prúdu a polohy či riadenie krokového motora. Pri tomto návrhu sa študenti zároveň naučia riešiť problémy, spojené s návrhom softvéru a jeho prepojenia na hardvér, pričom budú používať rôzne laboratórne prístroje. Študenti tak získajú schopnosť prepájať vedomosti z viacerých predmetov štúdia, najmä vedomosti z výkonovej elektroniky, regulovaných pohonov a programovania a algoritmizácie. Taktiež získajú komplexné znalosti, ktoré sa budú uplatňovať pri štúdiu nadväzujúcich odborných predmetov z oblasti riadenia a návrhu elektrotechnických systémov a pomôžu im lepšie pochopiť medzipredmetové vzťahy."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Rekapitulácia poznatkov z programovania a algoritmizácie – programovací jazyk C, návrh prehľadného programového kódu, modulárne programovanie.\n2. Úvod do programovania mikrokontrolérov - oboznámenie sa s mikrokontrolérom TMS320F2837xD, systémové hodiny mikrokontroléra, všeobecné vstupy a výstupy.\n3. Časovače – princíp činnosti, konfigurácia, príklady použitia.\n4. Prerušovací systém mikrokontroléra – prerušenia CPU, rozšírenie prerušení pomocou PIE, konfigurácia prerušení, obsluha prerušení, príznaky prerušenia, príklady použitia.\n5. Modul mikrokontroléra pre impulzovo-šírkovú moduláciu – princíp činnosti, časová základňa, porovnávací submodul, riadenie výstupných pinov, bezpečnostná medzera, chybová zóna, PWM chopper, spúšťač udalostí, príklady použitia.\n6. AD prevodník mikrokontroléra – princíp činnosti, možnosti spúšťania, konfigurácia prevodníka, voľba kanálov pre konverziu, vyhodnotenie výsledkov, príklady použitia.\n7. Modul eQEP pre spracovanie inkrementálnych snímačov mikrokontrolérom – princíp činnosti, konfigurácia, spracovanie výsledkov, vyhodnocovanie polohy a rýchlosti, kvantifikačná chyba pri vyhodnotení polohy a rýchlosti, príklady použitia.\n8. Modul eCAP pre meranie dĺžky impulzov na vstupe mikrokontroléra – princíp činnosti, konfigurácia modulu, spracovanie výsledkov, príklady použitia.\n9. Asynchrónna sériová komunikácia SCI – princíp činnosti, komunikačné rámce, komunikácia medzi viacerými zariadeniami, konfigurácia modulu, formát odosielaných a prijímaných dát, odosielanie a prijímanie rôznych dátových typov, práca so zásobníkom FIFO."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] P. Herout, Učebnice jazyka C (1. díl), České Budějovice: Kopp nakladatelství, 2009, ISBN 978-80-7232-383-8\n[2] V. Šlapák a M. Lacko, Signálové mikrokontroléry, Košice: Technická univerzita v Košiciach, 2018, ISBN 978-80-553-2970-3\n[3] Texas Instruments, Inc., TMS320F2837xD Dual-Core Real-Time Microcontrollers : Datasheet. Dallas (Texas, USA) : Texas Instruments, 2024, rev. Feb. 2024, Lit. Number SPRS880,\n[4] Texas Instruments, Inc., TMS320F2837xD Dual-Core Real-Time Microcontrollers : Technical Reference Manual, Dallas (Texas, USA) : Texas Instruments, 2024, rev. May 2024, Lit. Number SPRUHM8"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 18\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n22%\n28%\n33%\n6%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Karol Kyslan, PhD.\ndoc. Ing. Milan Lacko, PhD.\nIng. Viktor Šlapák, PhD.\nIng. Mário Šutor"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 18,
+    "percent": {
+      "A": 11,
+      "B": 22,
+      "C": 28,
+      "D": 33,
+      "E": 6,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. Karol Kyslan, PhD.",
+    "doc. Ing. Milan Lacko, PhD.",
+    "Ing. Viktor Šlapák, PhD.",
+    "Ing. Mário Šutor"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26001272\nNázov predmetu: Signálové mikrokontroléry\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): ZS 26,39\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti, 2x test (15 bodov + 15 bodov), 1x praktické zadanie (10 bodov).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Test (40 bodov), praktická úloha (20 bodov).\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú vedomosti z oblasti využitia a programovania signálových mikrontrolérov na príklade TMS320F28379D, a to najmä pre riadenie výkonových meničov a elektrických pohonov. Budú rozumieť činnosti mikrokontroléra vo všeobecnosti ako aj jeho periférií. Budú vedieť vytvoriť návrh softvéru, resp. navrhnúť firmvér, ktorý zabezpečí správnu konfiguráciu mikrokontroléra a riadenie edukačných prípravkov, ako napr. RGB LED, piezoakustického prvku, impulzového meniča, jednosmerného motora so snímačom prúdu a polohy či riadenie krokového motora. Pri tomto návrhu sa študenti zároveň naučia riešiť problémy, spojené s návrhom softvéru a jeho prepojenia na hardvér, pričom budú používať rôzne laboratórne prístroje. Študenti tak získajú schopnosť prepájať vedomosti z viacerých predmetov štúdia, najmä vedomosti z výkonovej elektroniky, regulovaných pohonov a programovania a algoritmizácie. Taktiež získajú komplexné znalosti, ktoré sa budú uplatňovať pri štúdiu nadväzujúcich odborných predmetov z oblasti riadenia a návrhu elektrotechnických systémov a pomôžu im lepšie pochopiť medzipredmetové vzťahy.\n\nStručná osnova predmetu:\n1. Rekapitulácia poznatkov z programovania a algoritmizácie – programovací jazyk C, návrh prehľadného programového kódu, modulárne programovanie.\n2. Úvod do programovania mikrokontrolérov - oboznámenie sa s mikrokontrolérom TMS320F2837xD, systémové hodiny mikrokontroléra, všeobecné vstupy a výstupy.\n3. Časovače – princíp činnosti, konfigurácia, príklady použitia.\n4. Prerušovací systém mikrokontroléra – prerušenia CPU, rozšírenie prerušení pomocou PIE, konfigurácia prerušení, obsluha prerušení, príznaky prerušenia, príklady použitia.\n5. Modul mikrokontroléra pre impulzovo-šírkovú moduláciu – princíp činnosti, časová základňa, porovnávací submodul, riadenie výstupných pinov, bezpečnostná medzera, chybová zóna, PWM chopper, spúšťač udalostí, príklady použitia.\n6. AD prevodník mikrokontroléra – princíp činnosti, možnosti spúšťania, konfigurácia prevodníka, voľba kanálov pre konverziu, vyhodnotenie výsledkov, príklady použitia.\n7. Modul eQEP pre spracovanie inkrementálnych snímačov mikrokontrolérom – princíp činnosti, konfigurácia, spracovanie výsledkov, vyhodnocovanie polohy a rýchlosti, kvantifikačná chyba pri vyhodnotení polohy a rýchlosti, príklady použitia.\n8. Modul eCAP pre meranie dĺžky impulzov na vstupe mikrokontroléra – princíp činnosti, konfigurácia modulu, spracovanie výsledkov, príklady použitia.\n9. Asynchrónna sériová komunikácia SCI – princíp činnosti, komunikačné rámce, komunikácia medzi viacerými zariadeniami, konfigurácia modulu, formát odosielaných a prijímaných dát, odosielanie a prijímanie rôznych dátových typov, práca so zásobníkom FIFO.\n\nOdporúčaná literatúra:\n[1] P. Herout, Učebnice jazyka C (1. díl), České Budějovice: Kopp nakladatelství, 2009, ISBN 978-80-7232-383-8\n[2] V. Šlapák a M. Lacko, Signálové mikrokontroléry, Košice: Technická univerzita v Košiciach, 2018, ISBN 978-80-553-2970-3\n[3] Texas Instruments, Inc., TMS320F2837xD Dual-Core Real-Time Microcontrollers : Datasheet. Dallas (Texas, USA) : Texas Instruments, 2024, rev. Feb. 2024, Lit. Number SPRS880,\n[4] Texas Instruments, Inc., TMS320F2837xD Dual-Core Real-Time Microcontrollers : Technical Reference Manual, Dallas (Texas, USA) : Texas Instruments, 2024, rev. May 2024, Lit. Number SPRUHM8\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 18\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n22%\n28%\n33%\n6%\n0%\n\n\nZabezpečuje:\ndoc. Ing. Karol Kyslan, PhD.\ndoc. Ing. Milan Lacko, PhD.\nIng. Viktor Šlapák, PhD.\nIng. Mário Šutor\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

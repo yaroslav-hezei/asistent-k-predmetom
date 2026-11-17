@@ -1,0 +1,172 @@
+{
+  "predmet_id": "65908001",
+  "code": "2608871",
+  "name": "Elektromechanické výrobné systémy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908001",
+  "fetched_at": "2026-11-17T15:05:59Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2608871"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektromechanické výrobné systémy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Exkurzia"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,39,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 2 referátov (2x10b), 1 zadanie (20b). Na získanie zápočtu je nutné obhájiť oba referáty a zadanie."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 2 zadané otázky (2x30b)."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa vedomosti o aplikáciách elektrických pohonov v priemysle, hlavne v oblasti riadenia kontinuálnych výrobných liniek a ich uzlov v rôznych oblastiach priemyslu. Ďalej získa vedomosti o priemyselných meničoch pre jednosmerné a striedavé pohony, ich diagnostike, systémoch pre nadradenú technologickú reguláciu a komunikácii medzi pohonom a PLC. V rámci cvičení sa naučí nastavovať priemyselné meniče a programovať ich riadenie a komunikáciu prostredníctvom PLC. Zároveň sa naučí navrhovať riadenie pre komponenty výrobných liniek, vrátane potrebných výpočtov. Súčasťou predmetu sú exkurzie do výrobných podnikov, kde študent získa vedomosti o realizácii a činnosti elektrotechnických systémov v praxi. Výsledkom vzdelávania sú komplexné znalosti o aplikáciách elektrických pohonov v priemysle, predovšetkým ich voľbe, nastavení, komunikácii s PLC a diagnostike."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Základné vlastnosti komerčných meničov pre jednosmerné a striedavé pohony.\n2. Riadenie základných podsystémov výrobných liniek: riadenie ťahu a hrúbky pásu, stredenie pásu, riadenie odvíjacích a navíjacích zariadení, riadenie letmých a bubnových nožníc a pod.\n3. Typické aplikácie pohonov v priemysle: riadenie žeriavov, dopravníkov, čerpadiel a ventilátorov, valcovanie, deliace linky a pod.\n4. Návrh a výpočet regulácie uvedených podsystémov, simulačná analýza regulácie technologických veličín a praktické cvičenia na fyzikálnom laboratórnom modeli kontinuálnej linky.\n5. Praktické cvičenia z nastavovania meničov pre DC a AC pohony a ich spolupráce s PLC systémami."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] L. Zboray, F. Ďurovský, and J. Tomko, Regulované pohony. Košice, Slovakia: Vienala, 2000. ISBN 80-88-922-13-5.\n[2] W. Leonhard, Control of Electrical Drives. Springer Verlag, Berlin, Heidelberg, New York, Tokyo, 1997.\n[3] P. Brandštetter, Střídavé regulační pohony – moderní způsoby řízení. Ostrava, Czech Republic, 1999.\n[4] F. Ďurovský, Priemyselné pohony. Košice, Slovakia: Učebné texty vydané v rámci projektu Elina, 2001. ISBN 80-89061-27-3.\n[5] Študijné materiály na portáli Moodle.\n[6] Katalógy firiem Siemens, ABB."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Poznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 443\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n29%\n21%\n21%\n17%\n8%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. František Ďurovský, PhD.\ndoc. Ing. Karol Kyslan, PhD.\nIng. Matej Hric\ndoc. Ing. Milan Lacko, PhD.\nIng. Lukáš Pancurák, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 443,
+    "percent": {
+      "A": 29,
+      "B": 21,
+      "C": 21,
+      "D": 17,
+      "E": 8,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "doc. Ing. František Ďurovský, PhD.",
+    "doc. Ing. Karol Kyslan, PhD.",
+    "Ing. Matej Hric",
+    "doc. Ing. Milan Lacko, PhD.",
+    "Ing. Lukáš Pancurák, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 2608871\nNázov predmetu: Elektromechanické výrobné systémy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Exkurzia\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3,1\nExterná forma štúdia (hodiny za semester): ZS 26,39,13\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. Odovzdanie 2 referátov (2x10b), 1 zadanie (20b). Na získanie zápočtu je nutné obhájiť oba referáty a zadanie.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Formou písomnej prípravy a ústnej odpovede na 2 zadané otázky (2x30b).\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa vedomosti o aplikáciách elektrických pohonov v priemysle, hlavne v oblasti riadenia kontinuálnych výrobných liniek a ich uzlov v rôznych oblastiach priemyslu. Ďalej získa vedomosti o priemyselných meničoch pre jednosmerné a striedavé pohony, ich diagnostike, systémoch pre nadradenú technologickú reguláciu a komunikácii medzi pohonom a PLC. V rámci cvičení sa naučí nastavovať priemyselné meniče a programovať ich riadenie a komunikáciu prostredníctvom PLC. Zároveň sa naučí navrhovať riadenie pre komponenty výrobných liniek, vrátane potrebných výpočtov. Súčasťou predmetu sú exkurzie do výrobných podnikov, kde študent získa vedomosti o realizácii a činnosti elektrotechnických systémov v praxi. Výsledkom vzdelávania sú komplexné znalosti o aplikáciách elektrických pohonov v priemysle, predovšetkým ich voľbe, nastavení, komunikácii s PLC a diagnostike.\n\nStručná osnova predmetu:\n1. Základné vlastnosti komerčných meničov pre jednosmerné a striedavé pohony.\n2. Riadenie základných podsystémov výrobných liniek: riadenie ťahu a hrúbky pásu, stredenie pásu, riadenie odvíjacích a navíjacích zariadení, riadenie letmých a bubnových nožníc a pod.\n3. Typické aplikácie pohonov v priemysle: riadenie žeriavov, dopravníkov, čerpadiel a ventilátorov, valcovanie, deliace linky a pod.\n4. Návrh a výpočet regulácie uvedených podsystémov, simulačná analýza regulácie technologických veličín a praktické cvičenia na fyzikálnom laboratórnom modeli kontinuálnej linky.\n5. Praktické cvičenia z nastavovania meničov pre DC a AC pohony a ich spolupráce s PLC systémami.\n\nOdporúčaná literatúra:\n[1] L. Zboray, F. Ďurovský, and J. Tomko, Regulované pohony. Košice, Slovakia: Vienala, 2000. ISBN 80-88-922-13-5.\n[2] W. Leonhard, Control of Electrical Drives. Springer Verlag, Berlin, Heidelberg, New York, Tokyo, 1997.\n[3] P. Brandštetter, Střídavé regulační pohony – moderní způsoby řízení. Ostrava, Czech Republic, 1999.\n[4] F. Ďurovský, Priemyselné pohony. Košice, Slovakia: Učebné texty vydané v rámci projektu Elina, 2001. ISBN 80-89061-27-3.\n[5] Študijné materiály na portáli Moodle.\n[6] Katalógy firiem Siemens, ABB.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Poznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 65 hodín (5 hodín za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (85 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester.\nPredmet sa otvorí v len prípade ak si ho zapíše 10 a viac študentov.\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 443\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n29%\n21%\n21%\n17%\n8%\n4%\n\n\nZabezpečuje:\ndoc. Ing. František Ďurovský, PhD.\ndoc. Ing. Karol Kyslan, PhD.\nIng. Matej Hric\ndoc. Ing. Milan Lacko, PhD.\nIng. Lukáš Pancurák, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65950397",
+  "code": "26000726",
+  "name": "Matematické metódy pre technikov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950397",
+  "fetched_at": "2026-11-17T15:07:30Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000726"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Matematické metódy pre technikov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nNa udelenie zápočtu je nevyhnutné úspešne absolvovať dva testy z príkladov počas semestra."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úvodná prednáška o matematických metódach, aktívne využívaných fyzikmi a v technike. Miesto formálnych dôkazov sa dôraz kladie na konkrétne úlohy praktického významu, kvalitatívnu analýzu a spôsoby zjednodušenia riešenia úloh na základe fyzikálnej podstaty skúmaných procesov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Odhady matematických výrazov, derivácií, integrálov a riešení diferenciálnych rovníc. Číselné integrovanie, odhady súm a radov pomocou integrovania. Matematické spracovanie výsledkov experimentov a hľadanie empirických vzorcov. Asymptoty nevlastných integrálov, integrovanie rýchlo sa meniacich funkcií. Vzorec Stirlinga. Výpočty súm číselných a funkcionálnych radov. Integrály závisiace od parametra. Viacrozmerné priestory. Využitie funkcií komplexnej premennej vo fyzike. Harmonické funkcie. Integrály od funkcií komplexnej premennej. Reziduá. Delta funkcia Diraca a s ňou spojené funkcie. Teória poľa - skalárne pole a gradient, potenciálna energia a sila, potenciál, pole rýchlosti a tok, divergencia vektorového poľa, rovnica spojitosti, Gaussova-Ostrogradského veta, Poissonova a Laplaceova rovnice v aplikáciách. Rotácia. Vektory a pseudovektory. Základy variačného počtu, funkcionál, úlohy na extrémum, Eulerova rovnica. Fermatov princíp v optike, princíp najmenšieho účinku."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. J. Mathews, R.L. Walker: Mathematical Methods of Physics, Benjamin, Inc., New York e.a., 1971\n2. Ja.B. Zel'dovich, A.D. Myshkis: Elements of applied mathematics. 3nd edition, Nauka, Moskva, 1972\n3. E. Kreyszig: Advanced Engineering Mathematics. 8th ed. New York, Wiley & Sons, 1999\n4. D. Jordan, P. Smith: Mathematical Techniques. An Introduction for the Engineering, Physical,and Matematical Sciences, 3rd Edition, Oxford Univ. Press, 2002\n5. G. Arfken, H. Weber, Mathematical Methods for Physicists, Elsevier, Academic Press, NY e.a., 2006"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium pri príprave na zápočet a skúšku, spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. RNDr. Jana Tóthová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "prof. RNDr. Jana Tóthová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 26000726\nNázov predmetu: Matematické metódy pre technikov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): ZS 26,39\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nNa udelenie zápočtu je nevyhnutné úspešne absolvovať dva testy z príkladov počas semestra.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚvodná prednáška o matematických metódach, aktívne využívaných fyzikmi a v technike. Miesto formálnych dôkazov sa dôraz kladie na konkrétne úlohy praktického významu, kvalitatívnu analýzu a spôsoby zjednodušenia riešenia úloh na základe fyzikálnej podstaty skúmaných procesov.\n\nStručná osnova predmetu:\nOdhady matematických výrazov, derivácií, integrálov a riešení diferenciálnych rovníc. Číselné integrovanie, odhady súm a radov pomocou integrovania. Matematické spracovanie výsledkov experimentov a hľadanie empirických vzorcov. Asymptoty nevlastných integrálov, integrovanie rýchlo sa meniacich funkcií. Vzorec Stirlinga. Výpočty súm číselných a funkcionálnych radov. Integrály závisiace od parametra. Viacrozmerné priestory. Využitie funkcií komplexnej premennej vo fyzike. Harmonické funkcie. Integrály od funkcií komplexnej premennej. Reziduá. Delta funkcia Diraca a s ňou spojené funkcie. Teória poľa - skalárne pole a gradient, potenciálna energia a sila, potenciál, pole rýchlosti a tok, divergencia vektorového poľa, rovnica spojitosti, Gaussova-Ostrogradského veta, Poissonova a Laplaceova rovnice v aplikáciách. Rotácia. Vektory a pseudovektory. Základy variačného počtu, funkcionál, úlohy na extrémum, Eulerova rovnica. Fermatov princíp v optike, princíp najmenšieho účinku.\n\nOdporúčaná literatúra:\n1. J. Mathews, R.L. Walker: Mathematical Methods of Physics, Benjamin, Inc., New York e.a., 1971\n2. Ja.B. Zel'dovich, A.D. Myshkis: Elements of applied mathematics. 3nd edition, Nauka, Moskva, 1972\n3. E. Kreyszig: Advanced Engineering Mathematics. 8th ed. New York, Wiley & Sons, 1999\n4. D. Jordan, P. Smith: Mathematical Techniques. An Introduction for the Engineering, Physical,and Matematical Sciences, 3rd Edition, Oxford Univ. Press, 2002\n5. G. Arfken, H. Weber, Mathematical Methods for Physicists, Elsevier, Academic Press, NY e.a., 2006\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium pri príprave na zápočet a skúšku, spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\nprof. RNDr. Jana Tóthová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

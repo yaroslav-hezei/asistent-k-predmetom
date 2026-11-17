@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65969846",
+  "code": "26001172",
+  "name": "Flexibilná elektronika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969846",
+  "fetched_at": "2026-11-17T15:14:17Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001172"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Flexibilná elektronika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť komplexné vedomosti v oblasti flexibilnej a tlačenej elektroniky so zameraním na metódy nanášania vodivých, polovodičových, izolačných a špeciálnych vrstiev ako aj vedomosti v oblasti 3D tlače."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Polymérne flexibilné materiály\nFlexibilné materiály s nanesenou vodivou vrstvou\nMateriály aplikované na polymérne flexibilné substráty\nTechnológie nanášania vrstiev na polymérne flexibilné substráty (sieťotlač, hĺbkotlač, flexografia, inkjet printing, aerosol printing)\nNanotechnológia\nFlexibilné dosky plošných spojov\nMetodika návrhu flexibilnej elektroniky\nPoruchy flexibilnej elektroniky\nFyzikálna podstata technológie 3D tlače (FDM, SLA, DLP, CLIP, FFF, MJF, SLS, DMLS)\nAplikácie technológií 3D tlače vo flexibilnej elektronike\nMateriály aplikované v technológií 3D tlače\nAktuálne trendy vo flexibilnej elektronike a 3D tlači"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Flexibilná elektronika / Peter Lukács - 1. vyd. - Košice : Technická univerzita v Košiciach - 2023. - 93 s.. - ISBN 978-80-553-4334-1\nKECKER, K.: “Organic and Printed Electronics,” 3rd Edition, Manroland AG: Germany, 2009.\nGERMAN, M. Randall: Sintering Theory and Practice. UK: Wiley-Blackwell, 1996. 568 s. ISBN 978-0-471-05786-4.\nHOSOKAWA, Masuo – NAITO, Makio – NOGI, Kiyoshi et al.: Nanoparticle Technology Handbook. UK: Elsevier Science, 2012. 644 s. ISBN 978-0-444-56336-1.\nDÖRSAM, Edgar.: Printing Technology for Electronics. Darmstadt: Technische Universität Darmstadt, 2013.\nSurface analysis of polymeric substrates used for inkjet printing technology / Alena Pietriková ... [et al.] - 2016. In: Circuit World. Vol. 42, no. 1 (2016), p. 9-16. - ISSN 0305-6120 Spôsob prístupu: http://www.emeraldinsight.com/doi/pdfplus/10.1108/CW-10-2015-0047..."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 71\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n31%\n17%\n21%\n15%\n7%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Lukács, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 71,
+    "percent": {
+      "A": 31,
+      "B": 17,
+      "C": 21,
+      "D": 15,
+      "E": 7,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Lukács, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001172\nNázov predmetu: Flexibilná elektronika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť komplexné vedomosti v oblasti flexibilnej a tlačenej elektroniky so zameraním na metódy nanášania vodivých, polovodičových, izolačných a špeciálnych vrstiev ako aj vedomosti v oblasti 3D tlače.\n\nStručná osnova predmetu:\nPolymérne flexibilné materiály\nFlexibilné materiály s nanesenou vodivou vrstvou\nMateriály aplikované na polymérne flexibilné substráty\nTechnológie nanášania vrstiev na polymérne flexibilné substráty (sieťotlač, hĺbkotlač, flexografia, inkjet printing, aerosol printing)\nNanotechnológia\nFlexibilné dosky plošných spojov\nMetodika návrhu flexibilnej elektroniky\nPoruchy flexibilnej elektroniky\nFyzikálna podstata technológie 3D tlače (FDM, SLA, DLP, CLIP, FFF, MJF, SLS, DMLS)\nAplikácie technológií 3D tlače vo flexibilnej elektronike\nMateriály aplikované v technológií 3D tlače\nAktuálne trendy vo flexibilnej elektronike a 3D tlači\n\n\nOdporúčaná literatúra:\nFlexibilná elektronika / Peter Lukács - 1. vyd. - Košice : Technická univerzita v Košiciach - 2023. - 93 s.. - ISBN 978-80-553-4334-1\nKECKER, K.: “Organic and Printed Electronics,” 3rd Edition, Manroland AG: Germany, 2009.\nGERMAN, M. Randall: Sintering Theory and Practice. UK: Wiley-Blackwell, 1996. 568 s. ISBN 978-0-471-05786-4.\nHOSOKAWA, Masuo – NAITO, Makio – NOGI, Kiyoshi et al.: Nanoparticle Technology Handbook. UK: Elsevier Science, 2012. 644 s. ISBN 978-0-444-56336-1.\nDÖRSAM, Edgar.: Printing Technology for Electronics. Darmstadt: Technische Universität Darmstadt, 2013.\nSurface analysis of polymeric substrates used for inkjet printing technology / Alena Pietriková ... [et al.] - 2016. In: Circuit World. Vol. 42, no. 1 (2016), p. 9-16. - ISSN 0305-6120 Spôsob prístupu: http://www.emeraldinsight.com/doi/pdfplus/10.1108/CW-10-2015-0047...\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 71\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n31%\n17%\n21%\n15%\n7%\n8%\n\n\nZabezpečuje:\ndoc. Ing. Peter Lukács, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

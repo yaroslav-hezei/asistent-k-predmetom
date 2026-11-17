@@ -1,0 +1,162 @@
+{
+  "predmet_id": "65666779",
+  "code": "26001232",
+  "name": "Dátová vizualizácia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65666779",
+  "fetched_at": "2026-11-17T14:59:41Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001232"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Dátová vizualizácia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 3,1"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "3"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Celkové hodnotenie je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu budú študenti ovládať základné postupy spracovania dát, rôznych foriem zobrazenia, základné princípy štatistického modelovania dát, ako aj interpretáciu štatistických modelov. Získané teoretické vedomosti budú študenti schopní aplikovať na riešenie reálnych úloh prostredníctvom softvérového prostredia Tableau."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Modul 1 – Úvod do problematiky spojený so základnou charakteristikou a predstavením softvérového prostredia Tableau. Študentom bude zároveň predstavená a následne nimi realizovaná prvá fáza vizualizácie dát, ktorou je získanie dát: preberanie dát zo zdroja, ktorým môže byt’ súbor (umiestnený na lokálnom disku alebo na sieti), databáza, webová stránka a podobne.\n\nModul 2 – Predstavenie doplňujúceho komponentu Tableau prep, ktorý je dôležitý a nápomocný pri realizácii druhej fázy vizualizácie dát - triedenie dát: prispôsobenie štruktúry dát, aby zodpovedala cieľu vizualizácie, rozdelenie dát do kategórií, konverzia dátových typov, atď.\n\nModul 3 – Praktická práca v softvérových prostrediach Tableau a Tableu data prep, ktorá predstavuje už reálnu prácu s dátami, pričom v tejto fáze bude kladený dôraz najmä na filtrovanie dát: odstraňovanie nadbytočných údajov, normalizáciu dát, atď.\n\nModul 4 – Nadstavbová praktická práca v softvérových prostrediach Tableau a Tableu prep Dolovanie znalostí: Jednoduché ukážky integrácie dát, hľadanie nezrovnalostí, podobností. Ukážka doplnkov rozšírenia R a Python. Predstavenie využitia metód matematickej štatistiky a hĺbkovej analýzy dát pre odhalenie vzorcov v dátach a matematického kontextu. Použitie klasifikácie a automatizovanej predikcie v Tableau.\n\nModul 5 – Komplexná vizualizácia / reprezentácia dát. Využitie poznatkov vizuálnej komunikácie pri úpravách grafického výstupu, výstavbe hierarchie, pridávaní detailov v Dashboardoch. Doplnenie metód pre manipuláciu s vizualizáciou, aby používateľ mohol s výstupom pracovať (dynamické parametre, zobrazovanie detailov, výber podmnožiny dát a podobne).\n\nModul 6 - Praktické využitie nadobudnutých vedomostí / Mini Data Challenge - Hackathon - Open data Košice"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Odporúčaná literatúra:\n● S. Few: Information Dashboard Design (Displaying Data for At-a-Glance Monitoring), Analytics Press, Oakland, United States, ISBN: 9781938377006, 2013.\n● J. Steele, N. Iliinsky: Beautiful Visualization : Looking at Data Through the Eyes of Experts, O'Reilly Media, Incorporated, Sebastopol, United States, ISBN: 9781449379865, 2010.\n● E. Mcdaniel, S. McDaniel: The Accidental Analyst: Show Your Data Who's Boss, Createspace Independent Pub, Scotts Valley, CA, United States, ISBN: 978-1477432266, 2012.\n● A. Cairo: Functional Art, The: An introduction to information graphics and visualization (Voices That Matter), Mixed media product, United States, ISBN: 978-0321834737, 1st Edition, 2012.\n● E. Tufte: The Visual Display of Quantitative Information, Graphics, CT, United States, ISBN: 978-1930824133, 2nd edition, 2001\n● D. Rosenberg, A. Grafton: Cartographies of Time: A History of the Timeline, New York: Princeton Architectural Press, ISBN: 978-1568987637, 2013.\n● S. Rendgen, J. Wiedemann: Information Graphics, Taschen GmbH, Cologne, Germany, ISBN: 978-3836583831, 2020.\n● C. Ware: Visual Thinking for Design, Elsevier Science & Technology, San Francisco, United States, ISBN: 978-0123708960, 2008.\n● C. Nussbaumer Knaflic: Storytelling with Data : A Data Visualization Guide for Business Professionals, John Wiley & Sons Inc, New York, United States, ISBN: 978-1119002253, 2015.\n● D. McCandless: Knowledge is Beautiful, HarperCollins Publishers, London, United Kingdom, ISBN: 978-0007427925, 2014.\n● N. Yau, Visualize This : The FlowingData Guide to Design, Visualization, and Statistics, John Wiley & Sons Inc, New York, United States, ISBN: 978-0470944882, 2011.\n● S. Wexler, J. Shaffer, A. Cotgreave: The Big Book of Dashboards : Visualizing Your Data Using Real-World Business Scenarios, John Wiley & Sons Inc, New York, United States, ISBN: 978-1119282716, 2017.\n\nLiterárne zdroje budú doplnené o tréningové materiály využívané pri interných a externých vzdelávacích aktivitách spoločností, ktoré predmet zabezpečujú."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Poznámky: Predmet je vyučovaný predstaviteľmi spoločností Data Tailors a SCALEUP.\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\nKontaktná výučba: spolu 30 hodín\n• Účasť na seminároch: 18 hodín\n• Projektová práca: 6 hodín\n• Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 24 hodín\n• Príprava na semináre: 24 hodín\nCelkový počet hodín: 54 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. František Babič, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 3,
+    "recommended_semester": "LS",
+    "completion": "Zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. František Babič, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001232\nNázov predmetu: Dátová vizualizácia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): LS 3,1\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 3\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nHospodárska informatika (HI_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 51% z 100%.\nZápočet\nZáverečné hodnotenie (ZH):\nCelkové hodnotenie je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu budú študenti ovládať základné postupy spracovania dát, rôznych foriem zobrazenia, základné princípy štatistického modelovania dát, ako aj interpretáciu štatistických modelov. Získané teoretické vedomosti budú študenti schopní aplikovať na riešenie reálnych úloh prostredníctvom softvérového prostredia Tableau.\n\n\nStručná osnova predmetu:\nModul 1 – Úvod do problematiky spojený so základnou charakteristikou a predstavením softvérového prostredia Tableau. Študentom bude zároveň predstavená a následne nimi realizovaná prvá fáza vizualizácie dát, ktorou je získanie dát: preberanie dát zo zdroja, ktorým môže byt’ súbor (umiestnený na lokálnom disku alebo na sieti), databáza, webová stránka a podobne.\n\nModul 2 – Predstavenie doplňujúceho komponentu Tableau prep, ktorý je dôležitý a nápomocný pri realizácii druhej fázy vizualizácie dát - triedenie dát: prispôsobenie štruktúry dát, aby zodpovedala cieľu vizualizácie, rozdelenie dát do kategórií, konverzia dátových typov, atď.\n\nModul 3 – Praktická práca v softvérových prostrediach Tableau a Tableu data prep, ktorá predstavuje už reálnu prácu s dátami, pričom v tejto fáze bude kladený dôraz najmä na filtrovanie dát: odstraňovanie nadbytočných údajov, normalizáciu dát, atď.\n\nModul 4 – Nadstavbová praktická práca v softvérových prostrediach Tableau a Tableu prep Dolovanie znalostí: Jednoduché ukážky integrácie dát, hľadanie nezrovnalostí, podobností. Ukážka doplnkov rozšírenia R a Python. Predstavenie využitia metód matematickej štatistiky a hĺbkovej analýzy dát pre odhalenie vzorcov v dátach a matematického kontextu. Použitie klasifikácie a automatizovanej predikcie v Tableau.\n\nModul 5 – Komplexná vizualizácia / reprezentácia dát. Využitie poznatkov vizuálnej komunikácie pri úpravách grafického výstupu, výstavbe hierarchie, pridávaní detailov v Dashboardoch. Doplnenie metód pre manipuláciu s vizualizáciou, aby používateľ mohol s výstupom pracovať (dynamické parametre, zobrazovanie detailov, výber podmnožiny dát a podobne).\n\nModul 6 - Praktické využitie nadobudnutých vedomostí / Mini Data Challenge - Hackathon - Open data Košice\n\n\nOdporúčaná literatúra:\nOdporúčaná literatúra:\n● S. Few: Information Dashboard Design (Displaying Data for At-a-Glance Monitoring), Analytics Press, Oakland, United States, ISBN: 9781938377006, 2013.\n● J. Steele, N. Iliinsky: Beautiful Visualization : Looking at Data Through the Eyes of Experts, O'Reilly Media, Incorporated, Sebastopol, United States, ISBN: 9781449379865, 2010.\n● E. Mcdaniel, S. McDaniel: The Accidental Analyst: Show Your Data Who's Boss, Createspace Independent Pub, Scotts Valley, CA, United States, ISBN: 978-1477432266, 2012.\n● A. Cairo: Functional Art, The: An introduction to information graphics and visualization (Voices That Matter), Mixed media product, United States, ISBN: 978-0321834737, 1st Edition, 2012.\n● E. Tufte: The Visual Display of Quantitative Information, Graphics, CT, United States, ISBN: 978-1930824133, 2nd edition, 2001\n● D. Rosenberg, A. Grafton: Cartographies of Time: A History of the Timeline, New York: Princeton Architectural Press, ISBN: 978-1568987637, 2013.\n● S. Rendgen, J. Wiedemann: Information Graphics, Taschen GmbH, Cologne, Germany, ISBN: 978-3836583831, 2020.\n● C. Ware: Visual Thinking for Design, Elsevier Science & Technology, San Francisco, United States, ISBN: 978-0123708960, 2008.\n● C. Nussbaumer Knaflic: Storytelling with Data : A Data Visualization Guide for Business Professionals, John Wiley & Sons Inc, New York, United States, ISBN: 978-1119002253, 2015.\n● D. McCandless: Knowledge is Beautiful, HarperCollins Publishers, London, United Kingdom, ISBN: 978-0007427925, 2014.\n● N. Yau, Visualize This : The FlowingData Guide to Design, Visualization, and Statistics, John Wiley & Sons Inc, New York, United States, ISBN: 978-0470944882, 2011.\n● S. Wexler, J. Shaffer, A. Cotgreave: The Big Book of Dashboards : Visualizing Your Data Using Real-World Business Scenarios, John Wiley & Sons Inc, New York, United States, ISBN: 978-1119282716, 2017.\n\nLiterárne zdroje budú doplnené o tréningové materiály využívané pri interných a externých vzdelávacích aktivitách spoločností, ktoré predmet zabezpečujú.\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Poznámky: Predmet je vyučovaný predstaviteľmi spoločností Data Tailors a SCALEUP.\n\nV prípade prechodu na dištančnú formu alebo hybridnú formu štúdia je možné príslušné formy výučby realizovať v on-line forme prostredníctvom pripravených výučbových materiálov a softvérového vybavenia.\nKontaktná výučba: spolu 30 hodín\n• Účasť na seminároch: 18 hodín\n• Projektová práca: 6 hodín\n• Priame konzultácie: 6 hodín\nNekontaktná výučba: spolu 24 hodín\n• Príprava na semináre: 24 hodín\nCelkový počet hodín: 54 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. František Babič, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

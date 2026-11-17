@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65887895",
+  "code": "26000848",
+  "name": "Prenosové média sieťových infraštruktúr",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65887895",
+  "fetched_at": "2026-11-17T15:03:26Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000848"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Prenosové média sieťových infraštruktúr"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,0,0,1,1,0,0,0,0"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu získa študent základné vedomosti a zručnosti z teórie rôznych typov pevných a bezdrôtových prenosových médií z hľadiska konštrukčného, prenosových vlastností a nepriaznivých vplyvov pri prenose signálov. Zameriava sa na využitie rôznych moderných typov prenosových médií pre súčasné požiadavky prenosov multimediálnych signálov (dáta, hlas, video) prostredníctvom nových technológií v počítačových sieťach."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do teórie prenosových médií- základné pojmy, rozdelenie do kategórií (typy prenosových ciest).\n2. Pevné metalické prenosové médiá 1– základy elementárnej teórie metalických vedení pre počítačové siete.\n3. Pevné metalické prenosové médiá 2– typy metalických prenosových médií pre počítačové siete.\n4. Pevné optické prenosové médiá 1– optické prenosové médium používané v prístupových a transportných sieťach.\n5. Pevné optické prenosové médiá 2– analýza šírenia optického žiarenia, rozbor prenosových vlastností optických médií, nepriaznivé vplyvy na optické prenosové médiá z hľadiska prenosovej kapacity a dosahu prenosu – tlmenie, disperzia.\n6. Pevné optické prenosové médiá 3– káble s optickými vláknami, konštrukčné a prenosové vlastnosti, technológia budovania optických trás v počítačových sieťach.\n7. Bezdrôtové prenosové systémy - základné pojmy, história bezdrôtovej komunikácie, vybrané typy bezdrôtových systémov (WiFi, UWB, ZigBee, Bluetooth, IrDA, VLC, FSO, LiFi, atď.).\n8. Šírenie ELM vĺn - zložky ELM vĺn, polarizácia ELM vĺn, frekvenčné pásma, spôsoby šírenia, šírenie ELM vĺn v rôznom prostredí, šírenie rádiových vĺn rôznych frekvencií.\n9. Šírenie prízemných, ionosférických a troposférických ELM vĺn.\n10. Význam antén a ich základné parametre pre vytváranie bezdrôtového prenosu.\n11. Lineárne antény - tenké symetrické antény, valcová anténa, sústavy lineárnych antén, príklady lineárnych antén, antény s postupujúcou vlnou.\n12. Plošné antény - štrbinové antény, lievikové antény, reflektorové antény, šošovkové antény, mikropásikové antény.\n13. Anténové sústavy a Smart antény."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Hui,R.: Introduction to Fiber-Optic Communications. Academic Press, 2025, 808 pp. ISBN 978-0443289095\n2. Rappaport,Theodore S.: Wireless Communications. Cambridge University Press, 2024.\n3. Lyle,A.: Fiber Optics: Everything Of Fiber Optics With Practical Guidelines: Dark Fiber Operation. 2021. ISBN 979-8724314626.\n4. Peterson,L.L. and Bruce,S.D.: Computer Networks. Elsevier Science & Technology, 2021, 848 pp. ISBN 0128182008\n5. Tanenbaum Andrew S.: Computer Networks. PEARSON Education Limited, 2021, 944 pp.\n6. Newman,M.: Networks. Oxford University Press, 2018, 800 pp.\n7. Pisco,M.: Optical Fibers: New Developments. Nova Science Pub Inc, 2013, 363 pp. ISBN 978-1628084252\n8. Lafata,P.-Vodrážka,J.: Optické přístupové sítě a přípojky FTTx. ČVUT, Praha, 2014.\n9. Balanis,C.A.: Antenna Theory: Analysis and Design, Wiley 4th edition, 2015, ISBN 978-1119178996.\n10. Woodward,B.: Cabling: The Complete Guide to Copper and Fiber–Optic Networking. Sybex, 5th edition 2014, ISBN 978-1118807323."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 638\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n34%\n28%\n14%\n4%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ľuboš Ovseník, PhD.\nIng. Patrik Jurík, PhD.\nIng. Miroslav Sokol, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 638,
+    "percent": {
+      "A": 11,
+      "B": 34,
+      "C": 28,
+      "D": 14,
+      "E": 4,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ľuboš Ovseník, PhD.",
+    "Ing. Patrik Jurík, PhD.",
+    "Ing. Miroslav Sokol, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26000848\nNázov predmetu: Prenosové média sieťových infraštruktúr\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie numerické, Cvičenie laboratórne, Projektová práca, Ateliér, Stáž, Exkurzia, Odborná prax\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,0,0,1,1,0,0,0,0\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nPočítačové siete (PS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu získa študent základné vedomosti a zručnosti z teórie rôznych typov pevných a bezdrôtových prenosových médií z hľadiska konštrukčného, prenosových vlastností a nepriaznivých vplyvov pri prenose signálov. Zameriava sa na využitie rôznych moderných typov prenosových médií pre súčasné požiadavky prenosov multimediálnych signálov (dáta, hlas, video) prostredníctvom nových technológií v počítačových sieťach.\n\nStručná osnova predmetu:\n1. Úvod do teórie prenosových médií- základné pojmy, rozdelenie do kategórií (typy prenosových ciest).\n2. Pevné metalické prenosové médiá 1– základy elementárnej teórie metalických vedení pre počítačové siete.\n3. Pevné metalické prenosové médiá 2– typy metalických prenosových médií pre počítačové siete.\n4. Pevné optické prenosové médiá 1– optické prenosové médium používané v prístupových a transportných sieťach.\n5. Pevné optické prenosové médiá 2– analýza šírenia optického žiarenia, rozbor prenosových vlastností optických médií, nepriaznivé vplyvy na optické prenosové médiá z hľadiska prenosovej kapacity a dosahu prenosu – tlmenie, disperzia.\n6. Pevné optické prenosové médiá 3– káble s optickými vláknami, konštrukčné a prenosové vlastnosti, technológia budovania optických trás v počítačových sieťach.\n7. Bezdrôtové prenosové systémy - základné pojmy, história bezdrôtovej komunikácie, vybrané typy bezdrôtových systémov (WiFi, UWB, ZigBee, Bluetooth, IrDA, VLC, FSO, LiFi, atď.).\n8. Šírenie ELM vĺn - zložky ELM vĺn, polarizácia ELM vĺn, frekvenčné pásma, spôsoby šírenia, šírenie ELM vĺn v rôznom prostredí, šírenie rádiových vĺn rôznych frekvencií.\n9. Šírenie prízemných, ionosférických a troposférických ELM vĺn.\n10. Význam antén a ich základné parametre pre vytváranie bezdrôtového prenosu.\n11. Lineárne antény - tenké symetrické antény, valcová anténa, sústavy lineárnych antén, príklady lineárnych antén, antény s postupujúcou vlnou.\n12. Plošné antény - štrbinové antény, lievikové antény, reflektorové antény, šošovkové antény, mikropásikové antény.\n13. Anténové sústavy a Smart antény.\n\n\nOdporúčaná literatúra:\n1. Hui,R.: Introduction to Fiber-Optic Communications. Academic Press, 2025, 808 pp. ISBN 978-0443289095\n2. Rappaport,Theodore S.: Wireless Communications. Cambridge University Press, 2024.\n3. Lyle,A.: Fiber Optics: Everything Of Fiber Optics With Practical Guidelines: Dark Fiber Operation. 2021. ISBN 979-8724314626.\n4. Peterson,L.L. and Bruce,S.D.: Computer Networks. Elsevier Science & Technology, 2021, 848 pp. ISBN 0128182008\n5. Tanenbaum Andrew S.: Computer Networks. PEARSON Education Limited, 2021, 944 pp.\n6. Newman,M.: Networks. Oxford University Press, 2018, 800 pp.\n7. Pisco,M.: Optical Fibers: New Developments. Nova Science Pub Inc, 2013, 363 pp. ISBN 978-1628084252\n8. Lafata,P.-Vodrážka,J.: Optické přístupové sítě a přípojky FTTx. ČVUT, Praha, 2014.\n9. Balanis,C.A.: Antenna Theory: Analysis and Design, Wiley 4th edition, 2015, ISBN 978-1119178996.\n10. Woodward,B.: Cabling: The Complete Guide to Copper and Fiber–Optic Networking. Sybex, 5th edition 2014, ISBN 978-1118807323.\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 638\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n34%\n28%\n14%\n4%\n8%\n\n\nZabezpečuje:\nprof. Ing. Ľuboš Ovseník, PhD.\nIng. Patrik Jurík, PhD.\nIng. Miroslav Sokol, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

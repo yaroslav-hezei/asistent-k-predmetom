@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65888880",
+  "code": "26001097",
+  "name": "Projektový manažment",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65888880",
+  "fetched_at": "2026-11-17T15:04:31Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačových sietí"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001097"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Projektový manažment"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné poznatky o projektovom manažmente o plánovaní a riadení projektov, o úlohách a zodpovednostiach projektového manažéra a o riadení projektového tímu. Oboznámi sa so životným cyklom softvérových projektov a s metódami manažovania softvérového projektu a vývojového tímu.\nPo úspešnom absolvovaní predmetu by mal byť študent schopný rozumieť problematike riadenia projektov, participovať v projektovom tíme a riadiť projektový tím. Mal by byť schopný riadiť softvérové projekty, manažovať a analyzovať požiadavky zákazníka, navrhovať systémy a testy a vytvárať potrebnú dokumentáciu."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do projektového manažmentu.\n2. Projekt, projektový manažér a projektový tím, metódy riadenia projektov.\n3. Úvod do softvérového inžinierstva, životný cyklus softvérových systémov.\n2. Metódy vývoja softvérových systémov.\n3. Zber, spracovanie a dokumentovanie požiadaviek na softvérový systém – komunikácia so zákazníkom.\n4. Modelovanie štruktúry a správania softvérových systémov.\n5. Testovanie softvérov.\n6. Dokumentovanie, konfigurácia a nasadenie softvérových systémov.\n7. Údržba softvéru, opravy a záplaty softvérových systémov.\n8. Evolúcia a zastarávanie softvéru.\n9. Plánovanie a ERP systémy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Doležal J., Krátký J.: Projektový management v praxi, Naučte se řídit projekty! Grada Publishing, a.s., 2017\n2. Doležal J. a kol.: Projektový management. Komplexně, prakticky a podle světových standardu., Grada Publishing, a.s., 2016\n3. Havlice, Z.: Modelovanie a prototypovanie pri projektovaní informačných systémov. - 85 s - Košice : Elfa, - 1999. - ISBN 80-88786-95-9.\n4. Samuelis, L. et al.Software Engineering Fundamentals – Measuring, Comprehending, and Managing your Software Projects, Ladislav Samuelis et al., ISBN 978-80-553-0848-7"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať klasifikovaný zápočet. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 306\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n42%\n30%\n15%\n5%\n1%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Stanislav Ondáš, PhD.\ndoc. Ing. Matúš Pleva, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačových sietí",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové siete (PS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 306,
+    "percent": {
+      "A": 42,
+      "B": 30,
+      "C": 15,
+      "D": 5,
+      "E": 1,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Stanislav Ondáš, PhD.",
+    "doc. Ing. Matúš Pleva, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačových sietí\n\n\nKód predmetu: 26001097\nNázov predmetu: Projektový manažment\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nPočítačové siete (PS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné poznatky o projektovom manažmente o plánovaní a riadení projektov, o úlohách a zodpovednostiach projektového manažéra a o riadení projektového tímu. Oboznámi sa so životným cyklom softvérových projektov a s metódami manažovania softvérového projektu a vývojového tímu.\nPo úspešnom absolvovaní predmetu by mal byť študent schopný rozumieť problematike riadenia projektov, participovať v projektovom tíme a riadiť projektový tím. Mal by byť schopný riadiť softvérové projekty, manažovať a analyzovať požiadavky zákazníka, navrhovať systémy a testy a vytvárať potrebnú dokumentáciu.\n\n\nStručná osnova predmetu:\n1. Úvod do projektového manažmentu.\n2. Projekt, projektový manažér a projektový tím, metódy riadenia projektov.\n3. Úvod do softvérového inžinierstva, životný cyklus softvérových systémov.\n2. Metódy vývoja softvérových systémov.\n3. Zber, spracovanie a dokumentovanie požiadaviek na softvérový systém – komunikácia so zákazníkom.\n4. Modelovanie štruktúry a správania softvérových systémov.\n5. Testovanie softvérov.\n6. Dokumentovanie, konfigurácia a nasadenie softvérových systémov.\n7. Údržba softvéru, opravy a záplaty softvérových systémov.\n8. Evolúcia a zastarávanie softvéru.\n9. Plánovanie a ERP systémy.\n\n\nOdporúčaná literatúra:\n1. Doležal J., Krátký J.: Projektový management v praxi, Naučte se řídit projekty! Grada Publishing, a.s., 2017\n2. Doležal J. a kol.: Projektový management. Komplexně, prakticky a podle světových standardu., Grada Publishing, a.s., 2016\n3. Havlice, Z.: Modelovanie a prototypovanie pri projektovaní informačných systémov. - 85 s - Košice : Elfa, - 1999. - ISBN 80-88786-95-9.\n4. Samuelis, L. et al.Software Engineering Fundamentals – Measuring, Comprehending, and Managing your Software Projects, Ladislav Samuelis et al., ISBN 978-80-553-0848-7\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať klasifikovaný zápočet. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 180 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 306\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n42%\n30%\n15%\n5%\n1%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Stanislav Ondáš, PhD.\ndoc. Ing. Matúš Pleva, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

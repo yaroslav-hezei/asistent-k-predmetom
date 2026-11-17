@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65667209",
+  "code": "26000938",
+  "name": "Základy ABAP",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667209",
+  "fetched_at": "2026-11-17T15:00:15Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000938"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Základy ABAP"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "1"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti získajú poznatky potrebné na tvorbu základných reportov v programovacom jazyku ABAP, tvorbu dopytov nad databázou jazykom SQL a následné spracovanie dát použitím rôznych dátových typov. Takisto sa študenti oboznámia s výberovou obrazovkou a funkčnými modulmi. Po úspešnom absolvovaním predmetu by mali byť študenti schopní navrhnúť a implementovať riešenia objektovo orientovaným prístupom v programovacom jazyku ABAP."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Princípy programovania v jazyku ABAP, deklarácia premenných, základná syntax jazyka ABAP.\n- Open SQL, navigácia v ABAP Workbench, ABAP Editor.\n- Aritmetické operácie, logické podmienky, operácie s reťazcami, cykly.\n- Testovanie programov s použitím debuggera.\n- Prehľad najdôležitejších príkazov jazyka ABAP.\n- Definícia elementárnych a štruktúrovaných dátových objektov, funkčné grupy a funkčné moduly, poloobrazovky, funkčné kódy.\n- Lokálne a globálne triedy, dedenie, polymorfizmus."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Elektronické zdroje a používateľské príručky SAP: http://www.sap.com http://help.sap.com/ http://scn.sap.com\nVarma N.: SAP Hana SQL Script Essentials: # Programming Concepts with Examples. 2020.\nO’Neil, B., Perfiljeva, J.: ABAP: An Introduction and Begginer’s Guide to Programming with SAP ABAP (2nd edition). SAP Press, 2019, ISBN 978-1493218806"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Predmet je vyučovaný odborníkmi firmy Accenture Slovakia"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 35\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n49%\n11%\n9%\n3%\n14%\n14%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Ján Paralič, PhD.\ndoc. Ing. František Babič, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 1,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 35,
+    "percent": {
+      "A": 49,
+      "B": 11,
+      "C": 9,
+      "D": 3,
+      "E": 14,
+      "FX": 14
+    }
+  },
+  "teachers": [
+    "prof. Ing. Ján Paralič, PhD.",
+    "doc. Ing. František Babič, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26000938\nNázov predmetu: Základy ABAP\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1\nExterná forma štúdia (hodiny za semester): ZS 26,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 1\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti získajú poznatky potrebné na tvorbu základných reportov v programovacom jazyku ABAP, tvorbu dopytov nad databázou jazykom SQL a následné spracovanie dát použitím rôznych dátových typov. Takisto sa študenti oboznámia s výberovou obrazovkou a funkčnými modulmi. Po úspešnom absolvovaním predmetu by mali byť študenti schopní navrhnúť a implementovať riešenia objektovo orientovaným prístupom v programovacom jazyku ABAP.\n\nStručná osnova predmetu:\n- Princípy programovania v jazyku ABAP, deklarácia premenných, základná syntax jazyka ABAP.\n- Open SQL, navigácia v ABAP Workbench, ABAP Editor.\n- Aritmetické operácie, logické podmienky, operácie s reťazcami, cykly.\n- Testovanie programov s použitím debuggera.\n- Prehľad najdôležitejších príkazov jazyka ABAP.\n- Definícia elementárnych a štruktúrovaných dátových objektov, funkčné grupy a funkčné moduly, poloobrazovky, funkčné kódy.\n- Lokálne a globálne triedy, dedenie, polymorfizmus.\n\nOdporúčaná literatúra:\nElektronické zdroje a používateľské príručky SAP: http://www.sap.com http://help.sap.com/ http://scn.sap.com\nVarma N.: SAP Hana SQL Script Essentials: # Programming Concepts with Examples. 2020.\nO’Neil, B., Perfiljeva, J.: ABAP: An Introduction and Begginer’s Guide to Programming with SAP ABAP (2nd edition). SAP Press, 2019, ISBN 978-1493218806\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Predmet je vyučovaný odborníkmi firmy Accenture Slovakia\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 35\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n49%\n11%\n9%\n3%\n14%\n14%\n\n\nZabezpečuje:\nprof. Ing. Ján Paralič, PhD.\ndoc. Ing. František Babič, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

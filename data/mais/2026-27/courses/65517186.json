@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65517186",
+  "code": "2608531",
+  "name": "Operačná analýza",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517186",
+  "fetched_at": "2026-11-17T14:58:44Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2608531"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Operačná analýza"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26/,26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové modelovanie (PM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\npísomný test a vypracovanie zadania"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Poskytnúť základné poznatky z oblasti operačnej analýzy, osvojiť si terminológiu a pochopiť princípy a aplikácie jednotlivých metód. Praktické výpočty realizovať vo vhodnom programe - MATLAB, Excel, Geogebra."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do lineárneho programovania\n2. Bázické riešenie techniky jeho určovania\n3. Dvojrozmerný a trojrozmerný prípad\n4. Kritéria optimálneho riešenia\n5. Simplexová metóda\n6. Duálne problémy\n7. Súvis riešenia primárnej a duálnej úlohy lineárneho programovania\n8. Úloha celočíselného programovania\n9. Dopravná úloha\n10. Priraďovací problém\n11. Úloha o maximálnom toku\n12. Ďalšie aplikácie lineárneho programovania (CPM, PERT, ...)"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Plesník, J. - Dupačová, J. - Vlach, M.: Lineárne programovanie, Alfa Bratislava, 1990, ISBN: 80-05-00679-9.\n2. Gass, S. I.: Lineárne programovanie. Alfa Bratislava.\n3. Zuchovskij, S. I. - Radčíková, I. A.: Matematické metódy síťové analýzy. SNTL Praha, 1973.\n4. Berežný, Š. - Kravecová, D.: Lineárne programovanie, TU Košice, 2012, ISBN 978-80-553-0910-1.\n5. Berežný Štefan - Hajduová Zuzana - Kravecová Daniela: Úvod do lineárneho programovania, Sosnowiec, Poland, Humanitas University Sosnowiec 2013, ISBN: 978-83-61991-74-8."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 420\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n9%\n15%\n27%\n25%\n15%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Helena Myšková, PhD.\nRNDr. Štefan Berežný, PhD.\nRNDr. Juraj Valiska, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok LS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 420,
+    "percent": {
+      "A": 9,
+      "B": 9,
+      "C": 15,
+      "D": 27,
+      "E": 25,
+      "FX": 15
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Helena Myšková, PhD.",
+    "RNDr. Štefan Berežný, PhD.",
+    "RNDr. Juraj Valiska, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2608531\nNázov predmetu: Operačná analýza\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26/,26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok LS\nPočítačové modelovanie (PM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 11% z 20%.\npísomný test a vypracovanie zadania\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPoskytnúť základné poznatky z oblasti operačnej analýzy, osvojiť si terminológiu a pochopiť princípy a aplikácie jednotlivých metód. Praktické výpočty realizovať vo vhodnom programe - MATLAB, Excel, Geogebra.\n\nStručná osnova predmetu:\n1. Úvod do lineárneho programovania\n2. Bázické riešenie techniky jeho určovania\n3. Dvojrozmerný a trojrozmerný prípad\n4. Kritéria optimálneho riešenia\n5. Simplexová metóda\n6. Duálne problémy\n7. Súvis riešenia primárnej a duálnej úlohy lineárneho programovania\n8. Úloha celočíselného programovania\n9. Dopravná úloha\n10. Priraďovací problém\n11. Úloha o maximálnom toku\n12. Ďalšie aplikácie lineárneho programovania (CPM, PERT, ...)\n\nOdporúčaná literatúra:\n1. Plesník, J. - Dupačová, J. - Vlach, M.: Lineárne programovanie, Alfa Bratislava, 1990, ISBN: 80-05-00679-9.\n2. Gass, S. I.: Lineárne programovanie. Alfa Bratislava.\n3. Zuchovskij, S. I. - Radčíková, I. A.: Matematické metódy síťové analýzy. SNTL Praha, 1973.\n4. Berežný, Š. - Kravecová, D.: Lineárne programovanie, TU Košice, 2012, ISBN 978-80-553-0910-1.\n5. Berežný Štefan - Hajduová Zuzana - Kravecová Daniela: Úvod do lineárneho programovania, Sosnowiec, Poland, Humanitas University Sosnowiec 2013, ISBN: 978-83-61991-74-8.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 420\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n9%\n9%\n15%\n27%\n25%\n15%\n\n\nZabezpečuje:\ndoc. RNDr. Helena Myšková, PhD.\nRNDr. Štefan Berežný, PhD.\nRNDr. Juraj Valiska, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

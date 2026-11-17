@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65835937",
+  "code": "26000103",
+  "name": "Operačný systém - Linux II",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65835937",
+  "fetched_at": "2026-11-17T15:02:21Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra teoretickej a priemyselnej elektrotechniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000103"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Operačný systém - Linux II"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntest"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Administrácia systémov Linux, inštalácia, konfigurácia služieb, zálohovanie, obnovenie, zotavenie, automatizácia."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do Linux\n- Práca v prostredí Linux I.\n- Inštalácia Linux\n- Hardvér I. a II.\n- Networking I. a II.\n- Shell scripting I. až IV."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "HEIMKE, M..: Ubuntu Linux Unleashed 2021, Pearson Education (US), ISBN 9780136778851\nRadoslav Bučko ... [et al.]: Safety system for intelligent building, In: MEES 2017. - Danwers: IEEE, 2017 S. 252-255. - ISBN 978-153861750-2\nHERTZOG, R., MAS, R. : Debian Administrator's Handbook, Debian Jessie from Discovery to Mastery, Freexian, 2015, ISBN 9791091414043\nNEGUS, Ch.: Linux Bible, John Wiley & Sons, 2020, ISBN: 1119578884\nPTETERSEN, R.: Ubuntu 20.04 LTS Desktop, 2020, Surfing Turtle Press, ISBN: 1949857107\nhttps://www.ubuntu.cz\nhttps://help.ubuntu.com/stable/ubuntu-help/"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 163\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n19%\n26%\n19%\n22%\n7%\n6%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ján Molnár, PhD.\ndoc. Ing. Patrik Jacko, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra teoretickej a priemyselnej elektrotechniky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 163,
+    "percent": {
+      "A": 19,
+      "B": 26,
+      "C": 19,
+      "D": 22,
+      "E": 7,
+      "FX": 6
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ján Molnár, PhD.",
+    "doc. Ing. Patrik Jacko, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra teoretickej a priemyselnej elektrotechniky\n\n\nKód predmetu: 26000103\nNázov predmetu: Operačný systém - Linux II\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nPriemyselná elektrotechnika (PE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntest\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAdministrácia systémov Linux, inštalácia, konfigurácia služieb, zálohovanie, obnovenie, zotavenie, automatizácia.\n\nStručná osnova predmetu:\n- Úvod do Linux\n- Práca v prostredí Linux I.\n- Inštalácia Linux\n- Hardvér I. a II.\n- Networking I. a II.\n- Shell scripting I. až IV.\n\nOdporúčaná literatúra:\nHEIMKE, M..: Ubuntu Linux Unleashed 2021, Pearson Education (US), ISBN 9780136778851\nRadoslav Bučko ... [et al.]: Safety system for intelligent building, In: MEES 2017. - Danwers: IEEE, 2017 S. 252-255. - ISBN 978-153861750-2\nHERTZOG, R., MAS, R. : Debian Administrator's Handbook, Debian Jessie from Discovery to Mastery, Freexian, 2015, ISBN 9791091414043\nNEGUS, Ch.: Linux Bible, John Wiley & Sons, 2020, ISBN: 1119578884\nPTETERSEN, R.: Ubuntu 20.04 LTS Desktop, 2020, Surfing Turtle Press, ISBN: 1949857107\nhttps://www.ubuntu.cz\nhttps://help.ubuntu.com/stable/ubuntu-help/\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach 52 hodín (4 hodiny / týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta v rozsahu 98 hodín nepriamej výučby, v stanovenom prevedení spolu 150 hodín časovej náročnosti práce študenta za semester.\n\n\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 163\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n19%\n26%\n19%\n22%\n7%\n6%\n\n\nZabezpečuje:\ndoc. Ing. Ján Molnár, PhD.\ndoc. Ing. Patrik Jacko, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

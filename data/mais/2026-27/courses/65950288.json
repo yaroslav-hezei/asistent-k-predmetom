@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65950288",
+  "code": "26000723",
+  "name": "Fyzikálne meranie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950288",
+  "fetched_at": "2026-11-17T15:07:21Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000723"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Fyzikálne meranie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nNutnou podmienkou na udelenie zápočtu je odovzdanie všetkých správne vypracovaných referátov z laboratórnych cvičení. Študent prospeje v PH a získa zápočet ak dosiahne aspoň 21% z 40% za dve zápočtové písomky a odovzdané referáty."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Získať teoretické základy fyzikálneho merania a zručnosti potrebné k spracovaniu a vyhodnocovaniu výsledkov merania. Nadobudnuté vedomosti aplikovať pri meraní konkrétnych fyzikálnych úloh."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Zásady práce v laboratóriu a bezpečnosť pri práci\n- Fyzikálne jednotky a sústavy fyzikálnych jednotiek. Meranie fyzikálnych veličín, metódy merania a ich rozdelenie.\n- Základy teórie chýb. Chyby a neistoty merania, zákon normálneho rozloženia, zápis výsledku merania, trieda presnosti, neistoty a hodnoty nameranej veličiny.\n- Lineárna a kvadratická interpolácia. Extrapolácia.\n- Vybrané základné a pomocné meracie prístroje.\n- Merania veličín z mechaniky, termodynamiky, elektriny, magnetizmu, optiky,\n- Numerické metódy spracovania výsledkov. Grafické metódy spracovania výsledkov.\n- Merací systém IP- Coach - základné funkcie, popis okien programu, úpravy tabuliek a grafov, meranie, spracovanie výsledkov merania."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "TARABČÁKOVÁ, Edita. Úvod do praktických cvičení z fyziky. Košice: Rektorát UPJŠ v Košiciach, 1983, 294 s.\nBROŽ, Jaromír a kol. Základy fysikálních měření I. Praha: Štátne pedagogické nakladatelství, 1967, 524 s.\nBROŽ, Jaromír a kol. Základy fysikálních měření II. Praha: Štátne pedagogické nakladatelství, 1974, 756 s.\nKREMPASKÝ, Július. Meranie termofyzikálnych veličín. Bratislava: Vydavateľstvo SAV, 1969, 288 s.\nUHRIN, Ján, ŠEVČOVIČ, Ladislav, MURÍN, Jozef. Fyzikálne merania. Košice: ELFA s.r.o, 2006. 142 s. ISBN 80-8086-032-7.\nGIBOVÁ, Zuzana. Fyzikálne meranie. Košice: TUKE, 2019, 155 s. ISBN 978-80-553-3318-2."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní nameraných výsledkov a príprave referátov z laboratórnych cvičení v stanovenom vyhotovení, spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 27\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n48%\n7%\n22%\n0%\n11%\n11%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Oľga Fričová, PhD.\nRNDr. Peter Vrábel, PhD.\nIng. Simona Vráblová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 27,
+    "percent": {
+      "A": 48,
+      "B": 7,
+      "C": 22,
+      "D": 0,
+      "E": 11,
+      "FX": 11
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Oľga Fričová, PhD.",
+    "RNDr. Peter Vrábel, PhD.",
+    "Ing. Simona Vráblová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 26000723\nNázov predmetu: Fyzikálne meranie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,3\nExterná forma štúdia (hodiny za semester): ZS 26,39\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nNutnou podmienkou na udelenie zápočtu je odovzdanie všetkých správne vypracovaných referátov z laboratórnych cvičení. Študent prospeje v PH a získa zápočet ak dosiahne aspoň 21% z 40% za dve zápočtové písomky a odovzdané referáty.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nŠtudent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZískať teoretické základy fyzikálneho merania a zručnosti potrebné k spracovaniu a vyhodnocovaniu výsledkov merania. Nadobudnuté vedomosti aplikovať pri meraní konkrétnych fyzikálnych úloh.\n\nStručná osnova predmetu:\n- Zásady práce v laboratóriu a bezpečnosť pri práci\n- Fyzikálne jednotky a sústavy fyzikálnych jednotiek. Meranie fyzikálnych veličín, metódy merania a ich rozdelenie.\n- Základy teórie chýb. Chyby a neistoty merania, zákon normálneho rozloženia, zápis výsledku merania, trieda presnosti, neistoty a hodnoty nameranej veličiny.\n- Lineárna a kvadratická interpolácia. Extrapolácia.\n- Vybrané základné a pomocné meracie prístroje.\n- Merania veličín z mechaniky, termodynamiky, elektriny, magnetizmu, optiky,\n- Numerické metódy spracovania výsledkov. Grafické metódy spracovania výsledkov.\n- Merací systém IP- Coach - základné funkcie, popis okien programu, úpravy tabuliek a grafov, meranie, spracovanie výsledkov merania.\n\nOdporúčaná literatúra:\nTARABČÁKOVÁ, Edita. Úvod do praktických cvičení z fyziky. Košice: Rektorát UPJŠ v Košiciach, 1983, 294 s.\nBROŽ, Jaromír a kol. Základy fysikálních měření I. Praha: Štátne pedagogické nakladatelství, 1967, 524 s.\nBROŽ, Jaromír a kol. Základy fysikálních měření II. Praha: Štátne pedagogické nakladatelství, 1974, 756 s.\nKREMPASKÝ, Július. Meranie termofyzikálnych veličín. Bratislava: Vydavateľstvo SAV, 1969, 288 s.\nUHRIN, Ján, ŠEVČOVIČ, Ladislav, MURÍN, Jozef. Fyzikálne merania. Košice: ELFA s.r.o, 2006. 142 s. ISBN 80-8086-032-7.\nGIBOVÁ, Zuzana. Fyzikálne meranie. Košice: TUKE, 2019, 155 s. ISBN 978-80-553-3318-2.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní nameraných výsledkov a príprave referátov z laboratórnych cvičení v stanovenom vyhotovení, spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 27\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n48%\n7%\n22%\n0%\n11%\n11%\n\n\nZabezpečuje:\ndoc. RNDr. Oľga Fričová, PhD.\nRNDr. Peter Vrábel, PhD.\nIng. Simona Vráblová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

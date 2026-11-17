@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65969821",
+  "code": "26001087",
+  "name": "Číslicové spracovanie obrazov",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65969821",
+  "fetched_at": "2026-11-17T15:14:15Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001087"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Číslicové spracovanie obrazov"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Po absolvovaní predmetu študent má prehľad o základných technikách, ktoré sú využívané v oblasti číslicového spracovania obrazu. Študent si prehĺbi zručnosti s programovacím prostredím MATLAB."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do spracovania obrazov\n- Vizuálny systém človeka\n- Čo je obraz\n- Bitová hĺbka, Bitové roviny, Farba, Jas, Sýtosť ...\n- História fotografie\n- Perspektívna a ortografická projekcia\n- Snímanie obrazu\n- Zobrazovanie obrazu\nŠtatistické charakteristiky obrazu\n- Stredná hodnota, disperzia, Histogram, Pravdepodobnostná tabuľka, 2D korelácia a autokoreálcia, 2D konvolúcia\n- Ekvalizácia histogramu\n- Filtrácia obrazov\n- Detekcia hrán\nKvantovanie obrazu\nÚvod do kompresie obrazu a Entropické kódovanie\n- Teória kódovania (kompresie) obrazu, kompresný model\n- Entropia, Bitová dĺžka, Prenosová rýchlosť, Redukovaná redundancia ....\n- Entropické kódy\n- PCM systém.\nRedukcia irelevancie a redundancie\n- Predikčný kódovací systém\n- Transformačný kódovací systém\n- Hybridný kódovací systém\nVideokodeky\nHierarchická reprezentácia obrazu a jej využitie v praxi :\n- kompresia, klasifikácia, zlučovanie obrazov, odšumovanie obrazov\nTechniky 3D snímania\nGeometrické transformácie 3D objektov\n- Rotácia a Posunutie\nVyužitie spracovania obrazu v automobilovom priemysle\n- Parkovacie kamery\n- Kamera vtáčej perspektívy\n- Detekcia dopravného značenia\nKompresné snímanie obrazov:\n- snímacie matice, rekonštrukčné algoritmy, podmienky rekonštrukcie, single pixel camera"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Mihalík, J.-Zavacký, J.: Diskrétne spracovanie signálov. LČSOV FEI TU Košice, 2011\n[2] Mihalík, J.: Kódovanie obrazu vo videokomunikáciach. LČSOV FEI TU Košice, 2001\n[3] Mihalík, J.: Číslicové spracovanie obrazov , LČSOV FEI TU Košice, 2018\n[4] Smith, S.: Digital signal processing: a practical guide for engineers and scientists. Elsevier, 2013\n[5] Mihalík, J.: Číslicové spracovanie obrazov LČSOV FEI TU Košice, 2018\n[6] Mihalík, J. - Gladišová, I.: Štatistická analýza obrazov (Návody na cvičenia) . LČSOV FEI TU Košice, 2018\n[7] Mihalík, J. - Gladišová, I.: Diskrétne spracovanie signálov (Návody na cvičenia). LČSOV FEI TU Košice, 2017\n[8] Gladišová, I.- Mihalík, J.: Kvantovanie a entropické kódovanie (Návody na cvičenia). LČSOV FEI TU Košice, 2012\n[9] Mihalík, J. - Gladišová, I.: Kódovanie obrazov (Návody na cvičenia), LČSOV FEI TU Košice, 2012\n[10] Mihalík, J. - Gladišová, I.: Diskrétne ortogonálne transformácie vizuálnych objektov (Algoritmy a riešené príklady) LČSOV FEI TU Košice, 2019\n[11] Levický D.: Multimédia a ochrana obsahu. Košice 2012"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 100\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n18%\n20%\n27%\n13%\n7%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Ondrej Kováč, PhD.\ndoc. Ing. Mária Gamcová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Automobilová elektronika (AE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 100,
+    "percent": {
+      "A": 15,
+      "B": 18,
+      "C": 20,
+      "D": 27,
+      "E": 13,
+      "FX": 7
+    }
+  },
+  "teachers": [
+    "doc. Ing. Ondrej Kováč, PhD.",
+    "doc. Ing. Mária Gamcová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001087\nNázov predmetu: Číslicové spracovanie obrazov\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAutomobilová elektronika (AE_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPo absolvovaní predmetu študent má prehľad o základných technikách, ktoré sú využívané v oblasti číslicového spracovania obrazu. Študent si prehĺbi zručnosti s programovacím prostredím MATLAB.\n\nStručná osnova predmetu:\nÚvod do spracovania obrazov\n- Vizuálny systém človeka\n- Čo je obraz\n- Bitová hĺbka, Bitové roviny, Farba, Jas, Sýtosť ...\n- História fotografie\n- Perspektívna a ortografická projekcia\n- Snímanie obrazu\n- Zobrazovanie obrazu\nŠtatistické charakteristiky obrazu\n- Stredná hodnota, disperzia, Histogram, Pravdepodobnostná tabuľka, 2D korelácia a autokoreálcia, 2D konvolúcia\n- Ekvalizácia histogramu\n- Filtrácia obrazov\n- Detekcia hrán\nKvantovanie obrazu\nÚvod do kompresie obrazu a Entropické kódovanie\n- Teória kódovania (kompresie) obrazu, kompresný model\n- Entropia, Bitová dĺžka, Prenosová rýchlosť, Redukovaná redundancia ....\n- Entropické kódy\n- PCM systém.\nRedukcia irelevancie a redundancie\n- Predikčný kódovací systém\n- Transformačný kódovací systém\n- Hybridný kódovací systém\nVideokodeky\nHierarchická reprezentácia obrazu a jej využitie v praxi :\n- kompresia, klasifikácia, zlučovanie obrazov, odšumovanie obrazov\nTechniky 3D snímania\nGeometrické transformácie 3D objektov\n- Rotácia a Posunutie\nVyužitie spracovania obrazu v automobilovom priemysle\n- Parkovacie kamery\n- Kamera vtáčej perspektívy\n- Detekcia dopravného značenia\nKompresné snímanie obrazov:\n- snímacie matice, rekonštrukčné algoritmy, podmienky rekonštrukcie, single pixel camera\n\nOdporúčaná literatúra:\n[1] Mihalík, J.-Zavacký, J.: Diskrétne spracovanie signálov. LČSOV FEI TU Košice, 2011\n[2] Mihalík, J.: Kódovanie obrazu vo videokomunikáciach. LČSOV FEI TU Košice, 2001\n[3] Mihalík, J.: Číslicové spracovanie obrazov , LČSOV FEI TU Košice, 2018\n[4] Smith, S.: Digital signal processing: a practical guide for engineers and scientists. Elsevier, 2013\n[5] Mihalík, J.: Číslicové spracovanie obrazov LČSOV FEI TU Košice, 2018\n[6] Mihalík, J. - Gladišová, I.: Štatistická analýza obrazov (Návody na cvičenia) . LČSOV FEI TU Košice, 2018\n[7] Mihalík, J. - Gladišová, I.: Diskrétne spracovanie signálov (Návody na cvičenia). LČSOV FEI TU Košice, 2017\n[8] Gladišová, I.- Mihalík, J.: Kvantovanie a entropické kódovanie (Návody na cvičenia). LČSOV FEI TU Košice, 2012\n[9] Mihalík, J. - Gladišová, I.: Kódovanie obrazov (Návody na cvičenia), LČSOV FEI TU Košice, 2012\n[10] Mihalík, J. - Gladišová, I.: Diskrétne ortogonálne transformácie vizuálnych objektov (Algoritmy a riešené príklady) LČSOV FEI TU Košice, 2019\n[11] Levický D.: Multimédia a ochrana obsahu. Košice 2012\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 100\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n18%\n20%\n27%\n13%\n7%\n\n\nZabezpečuje:\ndoc. Ing. Ondrej Kováč, PhD.\ndoc. Ing. Mária Gamcová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

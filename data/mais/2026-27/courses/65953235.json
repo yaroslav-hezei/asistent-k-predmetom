@@ -1,0 +1,200 @@
+{
+  "predmet_id": "65953235",
+  "code": "2609041",
+  "name": "Počítačová grafika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953235",
+  "fetched_at": "2026-11-17T15:10:28Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2609041"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Počítačová grafika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nzápočtová písomka"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\npísomná a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je zameraný na základy počítačovej grafiky z hľadiska potrieb informatických odborov. Cieľom je získať poznatky o princípoch práce grafických systémoch s tým, že v niektorých kapitolách je venovaná pozornosť aj odvodeniam jednotlivých algoritmov. Študenti sú po absolvovaní schopní tvorby grafických aplikácií."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "• Počítačová grafika – história, pojmy, súvislosti, aplikácie a súvisiace technológie\n• Videnie, vizualizácia a vrstvy vizualizačného procesu\n• Priestor, svetlo a farby\n• Grafická informácia a grafické primitíva\n• Priestor a objekty\n• Transformácie grafických objektov\n• Projekcie (premietacie transformácie)\n• Krivky a plochy v počítačovej grafike\n• Riešenie viditeľnosti\n• Vyplňovanie a textúrovanie\n• Tieňovanie, osvetľovanie a fotorealistické zobrazovanie\n• Špeciálne oblasti PG a virtuálna realita"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Počítačová grafika - podklady k prednáškam '24/ Branislav Sobota - 1.vyd. - Košice : TU - 2024. - ISBN 978-80-553-4691-5\n2. Počítačová Grafika - Návody na cvičenia, 2. prepracované vydanie/ Branislav Sobota, Marián Hudák, Miriama Mattová - 2. vyd. - Košice : Technická univerzita v Košiciach - 2023 - ISBN 978-80-553-4417-1\n3. Computer Graphics - Principles and Practice,/ Foley, J. et al. – 2nd. ed, Adison-Wesley, Reading, Massachusetts, 1995, - ISBN 978-0201848403\n4. Fundamentals of Computer Graphics 4th Edition/ Steven Marschner, Peter Shirley, - 4th. Ed., P - A K Peters Press, 2015, - ISBN 978-1482229394\n5. Moderní počítačová grafika/ Žára, J., Beneš, B., Sochor, J., Felkel, P.: . Computer press, Praha, 2004, ISBN 80-0454-0"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 2178\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n17%\n20%\n24%\n19%\n13%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Branislav Sobota, PhD.\nIng. Timotej Sobota\nIng. Damian Chmura"
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 2178,
+    "percent": {
+      "A": 17,
+      "B": 20,
+      "C": 24,
+      "D": 19,
+      "E": 13,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "doc. Ing. Branislav Sobota, PhD.",
+    "Ing. Timotej Sobota",
+    "Ing. Damian Chmura"
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2609041\nNázov predmetu: Počítačová grafika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 16% z 30%.\nzápočtová písomka\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 36% z 70%.\npísomná a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je zameraný na základy počítačovej grafiky z hľadiska potrieb informatických odborov. Cieľom je získať poznatky o princípoch práce grafických systémoch s tým, že v niektorých kapitolách je venovaná pozornosť aj odvodeniam jednotlivých algoritmov. Študenti sú po absolvovaní schopní tvorby grafických aplikácií.\n\nStručná osnova predmetu:\n• Počítačová grafika – história, pojmy, súvislosti, aplikácie a súvisiace technológie\n• Videnie, vizualizácia a vrstvy vizualizačného procesu\n• Priestor, svetlo a farby\n• Grafická informácia a grafické primitíva\n• Priestor a objekty\n• Transformácie grafických objektov\n• Projekcie (premietacie transformácie)\n• Krivky a plochy v počítačovej grafike\n• Riešenie viditeľnosti\n• Vyplňovanie a textúrovanie\n• Tieňovanie, osvetľovanie a fotorealistické zobrazovanie\n• Špeciálne oblasti PG a virtuálna realita\n\nOdporúčaná literatúra:\n1. Počítačová grafika - podklady k prednáškam '24/ Branislav Sobota - 1.vyd. - Košice : TU - 2024. - ISBN 978-80-553-4691-5\n2. Počítačová Grafika - Návody na cvičenia, 2. prepracované vydanie/ Branislav Sobota, Marián Hudák, Miriama Mattová - 2. vyd. - Košice : Technická univerzita v Košiciach - 2023 - ISBN 978-80-553-4417-1\n3. Computer Graphics - Principles and Practice,/ Foley, J. et al. – 2nd. ed, Adison-Wesley, Reading, Massachusetts, 1995, - ISBN 978-0201848403\n4. Fundamentals of Computer Graphics 4th Edition/ Steven Marschner, Peter Shirley, - 4th. Ed., P - A K Peters Press, 2015, - ISBN 978-1482229394\n5. Moderní počítačová grafika/ Žára, J., Beneš, B., Sochor, J., Felkel, P.: . Computer press, Praha, 2004, ISBN 80-0454-0\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 2178\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n17%\n20%\n24%\n19%\n13%\n8%\n\n\nZabezpečuje:\ndoc. Ing. Branislav Sobota, PhD.\nIng. Timotej Sobota\nIng. Damian Chmura\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

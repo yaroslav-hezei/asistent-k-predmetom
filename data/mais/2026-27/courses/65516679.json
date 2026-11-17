@@ -1,0 +1,257 @@
+{
+  "predmet_id": "65516679",
+  "code": "26001211",
+  "name": "Matematika II",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65516679",
+  "fetched_at": "2026-11-17T14:57:43Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001211"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Matematika II"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 52,52/,26,26/LS 52,52/,26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je oboznámiť študentov s poznatkami integrálneho počtu funkcie jednej premennej a základmi funkcie komplexnej premennej, Laplaceovou transformáciou a najviac používanými metódami riešenia typových úloh."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Polynómy. Rozklad na parciálne zlomky.\nPrimitívna funkcia a neurčitý integrál.\nIntegrácia racionálnych funkcií a iracionálnych funkcií.\nIntegrácia goniometrických funkcií.\nUrčitý integrál. Nevlastné integrály.\nAplikácie integrálneho počtu.\nZáklady funkcie komplexnej premennej.\nLaplaceova transformácia.\nVlastnosti a použitie Laplaceovej transformácie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Džurina, J.- Grinčová, A. - Pirč, V.: Matematika 1. ELFA, 2009.\n2. Eliáš, J. - Horváth, J. - Kajan, J.: Zbierka úloh z vyššej matematiky II, IV. Alfa, Bratislava.\n3. Baculíková, B. - Grinčová, A.: Matematika 1 -Vzorové a neriešené úlohy . TU Košice, 2013.\n4. Džurina, J. - Grinčová, A. - Pirč, V.: Matematická analýza 2. ELFA, 2007, ISBN 987-80-8086-052-3.\n5. Eliáš, J. - Horváth, J. - Kajan, J.: Zbierka úloh z vyššej matematiky III, IV. Alfa, Bratislava.\n6. Grinčová, A. - Petrillová, J.: Matematika 2 - zbierka riešených a neriešených úloh. TU, Košice, ISBN 978-80-553-2577-4."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 4996\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n6%\n8%\n15%\n28%\n35%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. RNDr. Ján Plavka, CSc.\nMgr. Jana Fortes, PhD.\ndoc. RNDr. Blanka Baculíková, PhD.\nRNDr. Emília Draženská, PhD.\nRNDr. Mária Hutníková, PhD.\nprof. RNDr. Jozef Džurina, CSc.\nMgr. Mária Švecová, PhD.\nRNDr. Michal Staš, PhD.\nRNDr. Mária Timková, PhD.\nRNDr. Juraj Valiska, PhD.\nRNDr. Anna Grinčová, PhD.\nRNDr. Zuzana Gibová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové siete (PS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 4996,
+    "percent": {
+      "A": 8,
+      "B": 6,
+      "C": 8,
+      "D": 15,
+      "E": 28,
+      "FX": 35
+    }
+  },
+  "teachers": [
+    "prof. RNDr. Ján Plavka, CSc.",
+    "Mgr. Jana Fortes, PhD.",
+    "doc. RNDr. Blanka Baculíková, PhD.",
+    "RNDr. Emília Draženská, PhD.",
+    "RNDr. Mária Hutníková, PhD.",
+    "prof. RNDr. Jozef Džurina, CSc.",
+    "Mgr. Mária Švecová, PhD.",
+    "RNDr. Michal Staš, PhD.",
+    "RNDr. Mária Timková, PhD.",
+    "RNDr. Juraj Valiska, PhD.",
+    "RNDr. Anna Grinčová, PhD.",
+    "RNDr. Zuzana Gibová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 26001211\nNázov predmetu: Matematika II\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 52,52/,26,26/LS 52,52/,26,26\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nPočítačové siete (PS_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je oboznámiť študentov s poznatkami integrálneho počtu funkcie jednej premennej a základmi funkcie komplexnej premennej, Laplaceovou transformáciou a najviac používanými metódami riešenia typových úloh.\n\nStručná osnova predmetu:\nPolynómy. Rozklad na parciálne zlomky.\nPrimitívna funkcia a neurčitý integrál.\nIntegrácia racionálnych funkcií a iracionálnych funkcií.\nIntegrácia goniometrických funkcií.\nUrčitý integrál. Nevlastné integrály.\nAplikácie integrálneho počtu.\nZáklady funkcie komplexnej premennej.\nLaplaceova transformácia.\nVlastnosti a použitie Laplaceovej transformácie.\n\nOdporúčaná literatúra:\n1. Džurina, J.- Grinčová, A. - Pirč, V.: Matematika 1. ELFA, 2009.\n2. Eliáš, J. - Horváth, J. - Kajan, J.: Zbierka úloh z vyššej matematiky II, IV. Alfa, Bratislava.\n3. Baculíková, B. - Grinčová, A.: Matematika 1 -Vzorové a neriešené úlohy . TU Košice, 2013.\n4. Džurina, J. - Grinčová, A. - Pirč, V.: Matematická analýza 2. ELFA, 2007, ISBN 987-80-8086-052-3.\n5. Eliáš, J. - Horváth, J. - Kajan, J.: Zbierka úloh z vyššej matematiky III, IV. Alfa, Bratislava.\n6. Grinčová, A. - Petrillová, J.: Matematika 2 - zbierka riešených a neriešených úloh. TU, Košice, ISBN 978-80-553-2577-4.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 4996\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n6%\n8%\n15%\n28%\n35%\n\n\nZabezpečuje:\nprof. RNDr. Ján Plavka, CSc.\nMgr. Jana Fortes, PhD.\ndoc. RNDr. Blanka Baculíková, PhD.\nRNDr. Emília Draženská, PhD.\nRNDr. Mária Hutníková, PhD.\nprof. RNDr. Jozef Džurina, CSc.\nMgr. Mária Švecová, PhD.\nRNDr. Michal Staš, PhD.\nRNDr. Mária Timková, PhD.\nRNDr. Juraj Valiska, PhD.\nRNDr. Anna Grinčová, PhD.\nRNDr. Zuzana Gibová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

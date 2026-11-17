@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65957763",
+  "code": "26001057",
+  "name": "Mikroprocesorová technika",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65957763",
+  "fetched_at": "2026-11-17T15:12:17Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001057"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Mikroprocesorová technika"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": ""
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet je zameraný na rozšírenie poznatkov o hardverových prostriedkoch v mikroprocesorovej technike. Pozornosť sa venuje 32 bitovým ARM mikrokontrolérom, obvodom na externú podporu možností sieťovej a bezdrôtovej komunikácie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "-Architektúra počítačového systému.\n-Mikroprocesor, mikrokontrolér, architektúra 32 bitových ARM mikrokontrolérov.\n-Mikrokontroler XMC1100, pamäťový priestor, interné vstupno-výstupné zariadenia.\n-Vývojové prostriedky, vývoj aplikácie, ladiace nástroje (Assembler, Jazyk C).\n-Vývojové prostredie DAVE.\n-Externé rozšírenie pamäťového priestoru mikrokontorlérov. (I2C pamäte, SD Card).\n-Obvody externého rozšírenia pre LIN, CAN zbernicu.\n-Aplikácia LIN zbernice s XMC1100.\n-Vývoj praktických aplikácií s využitím vývojovej dosky XMC2GO."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "Livovský, Ľ: Mikroprocesorová technika ATmega328P. 2023\nCatsoulis, J.: Design Embedded Hardware, Second Edition, 2005 OReilly Media\nTrevor Martin: The Designer’s Guide to the Cortex-M Processor Family, 2013 Elsevier\nYui, J.: The Definitive Guide to ARM Cortex-M0 and Cortex-M0+ Processors, Elsevier\nhttp://www.infineon.com: XMC1100\nhttp://www.infineon.com: Board Users MAnual XMC 2Go Ki t wi th XMC1100\nhttps://github.com/Infineon\nhttps://elearning.vector.com\nKernighan, B.W.-Ritchie, D.M.:The C Programming Language, Second Edition.\nHorovčák, P., Podlubný, I.:Úvod do programovania v jazyku C. http://people.tuke.sk/igor.podlubny/C/index.htm"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 41\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n24%\n10%\n7%\n20%\n15%\n24%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Alena Pietriková, CSc.\nIng. Ľubomír Livovský, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "3.rok ZS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 41,
+    "percent": {
+      "A": 24,
+      "B": 10,
+      "C": 7,
+      "D": 20,
+      "E": 15,
+      "FX": 24
+    }
+  },
+  "teachers": [
+    "prof. Ing. Alena Pietriková, CSc.",
+    "Ing. Ľubomír Livovský, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001057\nNázov predmetu: Mikroprocesorová technika\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n3.rok ZS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 1.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nKlasifikovaný zápočet\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet je zameraný na rozšírenie poznatkov o hardverových prostriedkoch v mikroprocesorovej technike. Pozornosť sa venuje 32 bitovým ARM mikrokontrolérom, obvodom na externú podporu možností sieťovej a bezdrôtovej komunikácie.\n\nStručná osnova predmetu:\n-Architektúra počítačového systému.\n-Mikroprocesor, mikrokontrolér, architektúra 32 bitových ARM mikrokontrolérov.\n-Mikrokontroler XMC1100, pamäťový priestor, interné vstupno-výstupné zariadenia.\n-Vývojové prostriedky, vývoj aplikácie, ladiace nástroje (Assembler, Jazyk C).\n-Vývojové prostredie DAVE.\n-Externé rozšírenie pamäťového priestoru mikrokontorlérov. (I2C pamäte, SD Card).\n-Obvody externého rozšírenia pre LIN, CAN zbernicu.\n-Aplikácia LIN zbernice s XMC1100.\n-Vývoj praktických aplikácií s využitím vývojovej dosky XMC2GO.\n\nOdporúčaná literatúra:\nLivovský, Ľ: Mikroprocesorová technika ATmega328P. 2023\nCatsoulis, J.: Design Embedded Hardware, Second Edition, 2005 OReilly Media\nTrevor Martin: The Designer’s Guide to the Cortex-M Processor Family, 2013 Elsevier\nYui, J.: The Definitive Guide to ARM Cortex-M0 and Cortex-M0+ Processors, Elsevier\nhttp://www.infineon.com: XMC1100\nhttp://www.infineon.com: Board Users MAnual XMC 2Go Ki t wi th XMC1100\nhttps://github.com/Infineon\nhttps://elearning.vector.com\nKernighan, B.W.-Ritchie, D.M.:The C Programming Language, Second Edition.\nHorovčák, P., Podlubný, I.:Úvod do programovania v jazyku C. http://people.tuke.sk/igor.podlubny/C/index.htm\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku (klasifikovaný zápočet) . To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach, cvičeniach, ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, v stanovenom prevedení spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 41\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n24%\n10%\n7%\n20%\n15%\n24%\n\n\nZabezpečuje:\nprof. Ing. Alena Pietriková, CSc.\nIng. Ľubomír Livovský, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

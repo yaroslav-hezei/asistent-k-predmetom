@@ -1,0 +1,162 @@
+{
+  "predmet_id": "66014062",
+  "code": "2609991",
+  "name": "Riadenie a umelá inteligencia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=66014062",
+  "fetched_at": "2026-11-17T15:16:06Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2609991"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Riadenie a umelá inteligencia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú jednu písomku za 20b, v ktorej budú výpočtovo riešiť definované príklady a následne postup riešenia a získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy definované v troch zadaniach (v súčte za 20b). Z priebežného hodnotenia študent môže získať 40b (min. počet je 21b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje výpočet a algoritmický návrh riešenia aplikačných úloh v jazyku Matlab/Simulink so simulačným overením na PC (30b), teoretická časť skúšky spočíva vo vypracovaní komplexných otázok vyplývajúcich z obsahu prednášok (30b).Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Hlavným cieľom predmetu je zvládnutie vybraných moderných metód a techník pri modelovaní a inteligentnom riadení kyber-fyzikálnych systémov na teoretickej a algoritmickej úrovni, ktoré využívajú vlastnosti dopredných neurónových sietí MLP v rôznych aplikáciách ako: neurónový dopredný model NARX/NISS nelineárneho systému, neurónový inverzný model a neurónový estimátor. Ďalším cieľom predmetu je poukázať na možnosť navrhnuté modifikované algoritmy stavového optimálneho a prediktívneho riadenia na báze neurónových modelov verifikovať na simulačných modeloch fyzikálnych systémov (hydraulický systém, robot manipulátor, mobilný robot, gulička na ploche) v riadiacich štruktúrach implementovaných do programového prostredia Matlab/Simulink s využitím funkcií Neural, NNSID, NNCTRL MPC toolboxov.\nPredmet ďalej umožňuje získanie znalostí a zručností z numerického a algoritmického riešenia aplikácie niekoľkých typov algoritmov diskrétnych PSD a polynomiálnych regulátorov v riadení simulačných modelov dynamických systémov (výmeník tepla, hydraulický systém, gulička na tyči, žeriav, helikoptéra) a laboratórnych výukových modelov hydraulický systém, systém inverzného kyvadla v programovom systéme Matlab/Simulink, Control a System Identification toolbox-ov v zvolených riadiacich štruktúrach. Predmet sa venuje aj metodike a etapám návrhu algoritmov adaptívnych regulátorov (STC) pre systémy s neznámymi /premenlivými parametramia to: algoritmom on-line experimentálnej identifikácie fyzikálneho modelu s následnou syntézou STC regulátora za podpory Ident a STC Tool s cieľom ich porovnania s inteligentným adaptívnym riadením na báze neurónových sietí. Výuka predmetu a riešenie zadaní je realizované na modeloch (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Prehľad a vývoj klasických/moderných metód kybernetiky s aplikačným využitím v priemyselnej informatike, súčasné trendy v modelovaní a riadení fyzikálnych systémov s využitím metód umelej inteligencie hlavne neurónových sietí\n2. Algoritmizácia metód syntéz pre PID/PSD algoritmy riadenia v simulačnom jazyku Matlab/Simulink, typy aproximácií, rýchlostný algoritmus, overenie algoritmov na simulačných a laboratórnych modeloch (web portál : kyb.fei.tuke.sk) v riadiacich štruktúrach\n3. Modifikácie číslicových PID regulátorov, wind-up regulátora, Takahassiho vzťah, riadenie systémov s dopravným oneskorením\n4. Experimentálna identifikácia modelov fyzikálnych systémov s neznámymi/premenlivými parametrami s využitím funkcií Identification Toolboxu pre použitie v adaptívnych algoritmoch riadenia (STC), modely stochastických systémov – ARX/ARMAX\n5. Algoritmy adaptívnych číslicových PID regulátorov založených na modifikovanom Ziegler-Nichols kritériu a metóde rozloženia pólov,\n6. Modelovanie nelineárnych fyzikálnych systémov pomocou dopredných neurónových sietí MLP, dynamické dopredné neurónové modely NARX, NARMAX, NISS, matica zosilnenia, aplikačné využitie funkcií Neural a NNSID Toolboxov\n7. Inteligentné metódy a algoritmy riadenia nelineárnych systémov (optimálne a prediktívne riadenie) s využitím neurónových sietí MLP\n8. Metodika pre získanie dopredných a inverzných neurónových modelov, riadiace štruktúry na báze inverzného neurónového modelu: priame inverzné riadenie (Direct Inverse Control - DIC), riadenie s vnútorným modelom (Internal Model Control - IMC),\n9. Riadiace štruktúry na báze dopredného neurónového modelu - riadenie s dopredným neurónovým modelom (Feed-forward Control - FFC), prediktívne riadenie (Neural Model Predictive Control - NMPC), funkcie knižnice NNCTRL\n10. Štruktúry riadenia na základe odhadu parametrov nelineárneho systému - inteligentné adaptívne algoritmy NSTC a NGPC (adaptívne riadenie a zovšeobecnené prediktívne riadenie) na výpočet riadiaceho zákona s neurónovým modelom pre nelineárny systém"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "• Jadlovská, A. - Jadlovská, S.: Moderné metódy modelovania a riadenia nelineárnych systémov, FEI, TU, Košice 2013\n• Jajčišin, Š. - Jadlovská, A.: Návrh algoritmov prediktívneho riadenia s využitím nelineárnych modelov fyzikálnych systémov, FEI, TU, elfa, Košice, 2013\n• Jadlovská, A. – Jadlovská, S,:Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3,\nJadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1.\n\n• Végh, P.: Neurónové a fuzzy systémy, STU, Bratislava 2014, ISBN 978-80-227-4227-6\n• Chen, Y. – Xue, D.: System Simulation Techniques with Matlab/Simulink, Willey-Blackwell 2013, ISBN 978-111-864-7929\n• Chen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458\n• Isidori, A.: Nonlinear Control System, Springer Verlag, 2005\n• Pokorný, M.: Umělá inteligence v modelování a řízení, BEN, Praha 1996\n• Bíla, J.: Umělá inteligence a neurónové sitě, ČVUT Praha 1998\n• Švarc, I.,- Šeda, M.-Vítečková, M.: Automatické řízení, VUT Brno 2007, CERM, ISBN 978-80-214-3491-2\n• Balátě, J.: Automatické řízení, nakladatelství BEN, Technická literatura, Praha 2004, ISBN 80-7300-148-9\n\nTutoriály a prezentácie na výukovom web portáli pre simulačné a laboratórne modely výskumnej skupiny CMMRaPI (kyb.fei.tuke.sk)\nMultifunkčné pracovisko nedeštruktívnej diagnostiky s lineárnym pohonom\n(http://kyb.fei.tuke.sk/laboratoria/modely/multiKyv.php)\nRotačné inverzné kyvadlo FPM-210/211(http://kyb.fei.tuke.sk/laboratoria/modely/kyv.php)"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 349\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n10%\n18%\n26%\n11%\n20%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Anna Jadlovská, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 5,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 349,
+    "percent": {
+      "A": 15,
+      "B": 10,
+      "C": 18,
+      "D": 26,
+      "E": 11,
+      "FX": 20
+    }
+  },
+  "teachers": [
+    "doc. Ing. Anna Jadlovská, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2609991\nNázov predmetu: Riadenie a umelá inteligencia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInteligentné systémy (IntS_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nV priebehu semestra študenti absolvujú jednu písomku za 20b, v ktorej budú výpočtovo riešiť definované príklady a následne postup riešenia a získané výsledky overia simuláciou na PC. Súčasťou hodnotenia za semester je vypracovanie a obhájenie navrhnutého programového riešenia na PC pre úlohy definované v troch zadaniach (v súčte za 20b). Z priebežného hodnotenia študent môže získať 40b (min. počet je 21b).\n\n\n\n\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška pozostáva z dvoch častí: praktická časť obsahuje výpočet a algoritmický návrh riešenia aplikačných úloh v jazyku Matlab/Simulink so simulačným overením na PC (30b), teoretická časť skúšky spočíva vo vypracovaní komplexných otázok vyplývajúcich z obsahu prednášok (30b).Študentovi bude udelená skúška, ak získa v záverečnom hodnotení aspoň 31 bodov.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nHlavným cieľom predmetu je zvládnutie vybraných moderných metód a techník pri modelovaní a inteligentnom riadení kyber-fyzikálnych systémov na teoretickej a algoritmickej úrovni, ktoré využívajú vlastnosti dopredných neurónových sietí MLP v rôznych aplikáciách ako: neurónový dopredný model NARX/NISS nelineárneho systému, neurónový inverzný model a neurónový estimátor. Ďalším cieľom predmetu je poukázať na možnosť navrhnuté modifikované algoritmy stavového optimálneho a prediktívneho riadenia na báze neurónových modelov verifikovať na simulačných modeloch fyzikálnych systémov (hydraulický systém, robot manipulátor, mobilný robot, gulička na ploche) v riadiacich štruktúrach implementovaných do programového prostredia Matlab/Simulink s využitím funkcií Neural, NNSID, NNCTRL MPC toolboxov.\nPredmet ďalej umožňuje získanie znalostí a zručností z numerického a algoritmického riešenia aplikácie niekoľkých typov algoritmov diskrétnych PSD a polynomiálnych regulátorov v riadení simulačných modelov dynamických systémov (výmeník tepla, hydraulický systém, gulička na tyči, žeriav, helikoptéra) a laboratórnych výukových modelov hydraulický systém, systém inverzného kyvadla v programovom systéme Matlab/Simulink, Control a System Identification toolbox-ov v zvolených riadiacich štruktúrach. Predmet sa venuje aj metodike a etapám návrhu algoritmov adaptívnych regulátorov (STC) pre systémy s neznámymi /premenlivými parametramia to: algoritmom on-line experimentálnej identifikácie fyzikálneho modelu s následnou syntézou STC regulátora za podpory Ident a STC Tool s cieľom ich porovnania s inteligentným adaptívnym riadením na báze neurónových sietí. Výuka predmetu a riešenie zadaní je realizované na modeloch (http://kyb.fei.tuke.sk/laboratoria/modely/modely.php)\n\nStručná osnova predmetu:\n1. Prehľad a vývoj klasických/moderných metód kybernetiky s aplikačným využitím v priemyselnej informatike, súčasné trendy v modelovaní a riadení fyzikálnych systémov s využitím metód umelej inteligencie hlavne neurónových sietí\n2. Algoritmizácia metód syntéz pre PID/PSD algoritmy riadenia v simulačnom jazyku Matlab/Simulink, typy aproximácií, rýchlostný algoritmus, overenie algoritmov na simulačných a laboratórnych modeloch (web portál : kyb.fei.tuke.sk) v riadiacich štruktúrach\n3. Modifikácie číslicových PID regulátorov, wind-up regulátora, Takahassiho vzťah, riadenie systémov s dopravným oneskorením\n4. Experimentálna identifikácia modelov fyzikálnych systémov s neznámymi/premenlivými parametrami s využitím funkcií Identification Toolboxu pre použitie v adaptívnych algoritmoch riadenia (STC), modely stochastických systémov – ARX/ARMAX\n5. Algoritmy adaptívnych číslicových PID regulátorov založených na modifikovanom Ziegler-Nichols kritériu a metóde rozloženia pólov,\n6. Modelovanie nelineárnych fyzikálnych systémov pomocou dopredných neurónových sietí MLP, dynamické dopredné neurónové modely NARX, NARMAX, NISS, matica zosilnenia, aplikačné využitie funkcií Neural a NNSID Toolboxov\n7. Inteligentné metódy a algoritmy riadenia nelineárnych systémov (optimálne a prediktívne riadenie) s využitím neurónových sietí MLP\n8. Metodika pre získanie dopredných a inverzných neurónových modelov, riadiace štruktúry na báze inverzného neurónového modelu: priame inverzné riadenie (Direct Inverse Control - DIC), riadenie s vnútorným modelom (Internal Model Control - IMC),\n9. Riadiace štruktúry na báze dopredného neurónového modelu - riadenie s dopredným neurónovým modelom (Feed-forward Control - FFC), prediktívne riadenie (Neural Model Predictive Control - NMPC), funkcie knižnice NNCTRL\n10. Štruktúry riadenia na základe odhadu parametrov nelineárneho systému - inteligentné adaptívne algoritmy NSTC a NGPC (adaptívne riadenie a zovšeobecnené prediktívne riadenie) na výpočet riadiaceho zákona s neurónovým modelom pre nelineárny systém\n\n\n\nOdporúčaná literatúra:\n• Jadlovská, A. - Jadlovská, S.: Moderné metódy modelovania a riadenia nelineárnych systémov, FEI, TU, Košice 2013\n• Jajčišin, Š. - Jadlovská, A.: Návrh algoritmov prediktívneho riadenia s využitím nelineárnych modelov fyzikálnych systémov, FEI, TU, elfa, Košice, 2013\n• Jadlovská, A. – Jadlovská, S,:Simulačné systémy v kybernetike, TU Košice, 2015, 240s, [CD-ROM], ISBN 978-80-553-2011-3,\nJadlovská, A. - Jadlovská, S et al.: Základy automatického riadenia v aplikáciách, 1. vyd. - Košice : Technická univerzita v Košiciach - 2020. - 187 s. [print]. - ISBN 978-80-553-3724-1.\n\n• Végh, P.: Neurónové a fuzzy systémy, STU, Bratislava 2014, ISBN 978-80-227-4227-6\n• Chen, Y. – Xue, D.: System Simulation Techniques with Matlab/Simulink, Willey-Blackwell 2013, ISBN 978-111-864-7929\n• Chen, Y. – Xue, D.: Modeling Analysis and Design of Control Systems in Matlab and Simulink, 2014, Word Scientific, ISBN 978-981-461-8458\n• Isidori, A.: Nonlinear Control System, Springer Verlag, 2005\n• Pokorný, M.: Umělá inteligence v modelování a řízení, BEN, Praha 1996\n• Bíla, J.: Umělá inteligence a neurónové sitě, ČVUT Praha 1998\n• Švarc, I.,- Šeda, M.-Vítečková, M.: Automatické řízení, VUT Brno 2007, CERM, ISBN 978-80-214-3491-2\n• Balátě, J.: Automatické řízení, nakladatelství BEN, Technická literatura, Praha 2004, ISBN 80-7300-148-9\n\nTutoriály a prezentácie na výukovom web portáli pre simulačné a laboratórne modely výskumnej skupiny CMMRaPI (kyb.fei.tuke.sk)\nMultifunkčné pracovisko nedeštruktívnej diagnostiky s lineárnym pohonom\n(http://kyb.fei.tuke.sk/laboratoria/modely/multiKyv.php)\nRotačné inverzné kyvadlo FPM-210/211(http://kyb.fei.tuke.sk/laboratoria/modely/kyv.php)\n\n\n\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 349\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n15%\n10%\n18%\n26%\n11%\n20%\n\n\nZabezpečuje:\ndoc. Ing. Anna Jadlovská, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

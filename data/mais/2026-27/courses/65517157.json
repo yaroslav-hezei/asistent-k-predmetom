@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65517157",
+  "code": "2604271",
+  "name": "Teória hromadnej obsluhy",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65517157",
+  "fetched_at": "2026-11-17T14:58:42Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra matematiky a teoretickej informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2604271"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Teória hromadnej obsluhy"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/,26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u11% z 20%.\nKontrolné písomky."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nSkúška."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Oboznámiť študentov so základnými princípmi a modelmi teórie hromadnej obsluhy a jej aplikácií. Využitie poznatkov z rôznych oborov matematiky a optimalizácie - matematická analýza, lineárna algebra, pravdepodobnosť a matematická štatistika, operačná analýza, optimalizačné metódy, diferenčné a diferenciálne rovnice, Z-transormácia a Laplaceova-transformácia.\nPri riešení praktických úloh napísať skript riešenia v programe MATLAB."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Markovské reťazce\n2. Markovovské procesy so spojitým časom\n3. Modely hromadnej obsluhy a ich klasifikácia\n4. Modely riadenia zásob\n5. Modely obnovy"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Pidany, J.: Systémová a operačná analýza 2, Modely hromadnej obsluhy, Košice 1991.\n2. Dudorkin, J.: Operační výzkum, Praha 1997.\n3. Unčovský, L.: Stochastické metódy operačnej analýzy, Bratislava 1980.\n4. Zítek, F.: Ztracený čas, Elementy teorie hromadné obsluhy, Praha 1969.\n5. Belstrom, C. V.: Probability and stochastic processes for engineers, New York 1991.\n6. Kořenář Václav: Stochastické procesy, Praha 2002, ISBN: 80-245-0311-5\n7. Kořenář Václav, Lagová Milada a kolektív autorov: Optimalizační metody, Praha 2003, ISBN: 80-245-0609-2\n8. Henrieta HRABLIK CHOVANOVÁ, Peter SAKÁL, Katarína DRIENIKOVÁ, Tomáš NAŇO: OPERAČNÁ ANALÝZA, Časť II, Materiálovotechnologická fakulta STU v Bratislave 2012, ISBN: 978-80-8096-165-7\n9. Dr. János Sztrik: Basic Queueing Theory, University of Debrecen, Faculty of Informatics, 2021\n10. Francois Baccelli and Pierre Brémaud: Elements of Queueing Theory, Palm Martingale Calculus and Stochastic Recurrences, Second Edition, Springer (2003), ISBN: 3-540-66088-7"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 147\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n12%\n19%\n34%\n27%\n4%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Helena Myšková, PhD.\nRNDr. Štefan Berežný, PhD.\nRNDr. Juraj Valiska, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra matematiky a teoretickej informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Počítačové modelovanie (PM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 147,
+    "percent": {
+      "A": 4,
+      "B": 12,
+      "C": 19,
+      "D": 34,
+      "E": 27,
+      "FX": 4
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Helena Myšková, PhD.",
+    "RNDr. Štefan Berežný, PhD.",
+    "RNDr. Juraj Valiska, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra matematiky a teoretickej informatiky\n\n\nKód predmetu: 2604271\nNázov predmetu: Teória hromadnej obsluhy\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/,26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nPočítačové modelovanie (PM_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 1u z 1u11% z 20%.\nKontrolné písomky.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 41% z 80%.\nSkúška.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOboznámiť študentov so základnými princípmi a modelmi teórie hromadnej obsluhy a jej aplikácií. Využitie poznatkov z rôznych oborov matematiky a optimalizácie - matematická analýza, lineárna algebra, pravdepodobnosť a matematická štatistika, operačná analýza, optimalizačné metódy, diferenčné a diferenciálne rovnice, Z-transormácia a Laplaceova-transformácia.\nPri riešení praktických úloh napísať skript riešenia v programe MATLAB.\n\nStručná osnova predmetu:\n1. Markovské reťazce\n2. Markovovské procesy so spojitým časom\n3. Modely hromadnej obsluhy a ich klasifikácia\n4. Modely riadenia zásob\n5. Modely obnovy\n\nOdporúčaná literatúra:\n1. Pidany, J.: Systémová a operačná analýza 2, Modely hromadnej obsluhy, Košice 1991.\n2. Dudorkin, J.: Operační výzkum, Praha 1997.\n3. Unčovský, L.: Stochastické metódy operačnej analýzy, Bratislava 1980.\n4. Zítek, F.: Ztracený čas, Elementy teorie hromadné obsluhy, Praha 1969.\n5. Belstrom, C. V.: Probability and stochastic processes for engineers, New York 1991.\n6. Kořenář Václav: Stochastické procesy, Praha 2002, ISBN: 80-245-0311-5\n7. Kořenář Václav, Lagová Milada a kolektív autorov: Optimalizační metody, Praha 2003, ISBN: 80-245-0609-2\n8. Henrieta HRABLIK CHOVANOVÁ, Peter SAKÁL, Katarína DRIENIKOVÁ, Tomáš NAŇO: OPERAČNÁ ANALÝZA, Časť II, Materiálovotechnologická fakulta STU v Bratislave 2012, ISBN: 978-80-8096-165-7\n9. Dr. János Sztrik: Basic Queueing Theory, University of Debrecen, Faculty of Informatics, 2021\n10. Francois Baccelli and Pierre Brémaud: Elements of Queueing Theory, Palm Martingale Calculus and Stochastic Recurrences, Second Edition, Springer (2003), ISBN: 3-540-66088-7\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 147\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n4%\n12%\n19%\n34%\n27%\n4%\n\n\nZabezpečuje:\ndoc. RNDr. Helena Myšková, PhD.\nRNDr. Štefan Berežný, PhD.\nRNDr. Juraj Valiska, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

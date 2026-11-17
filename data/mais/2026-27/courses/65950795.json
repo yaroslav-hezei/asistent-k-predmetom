@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65950795",
+  "code": "2618983",
+  "name": "Spektroskopické metódy štúdia tuhých látok",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65950795",
+  "fetched_at": "2026-11-17T15:08:03Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra fyziky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2618983"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Spektroskopické metódy štúdia tuhých látok"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzápočtová písomka, referáty z meraní"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\npísomná skúška pozostávajúca z testu teoretických znalostí"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Cieľom predmetu je poskytnúť študentom základné teoretické poznatky a praktické skúsenosti z oblasti optických spektroskopických metód v tuhej fáze, a to zo spektroskopie Ramanovho rozptylu a vibračnej a elektrónovej absorpčnej spektroskopie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Stacionárne stavy molekúl z hľadiska optickej spektroskopie, vibračný pohyb molekúl.\nInterakcia látky s optickým žiarením - elastická a neelastická interakcia, pravdepodobnosti prechodov, tvar spektrálnej čiary.\nAbsorpčná spektroskopia - vibračné a elektrónové absorpčné prechody, výberové pravidlá, prechod optického žiarenia absorbujúcim prostredím, techniky merania absorpčných spektier.\nSpektroskopia Ramanovho rozptylu - charakteristiky klasického Ramanovho rozptylu, rezonančný a povrchom zosílený Ramanov rozptyl.\nNelineárne optické metódy - dvojfotónová absorpcia, stimulovaný Ramanov a hyperramanov rozptyl, koherentný antistokesov rozptyl.\nVyužitie optických spektroskopických metód pri štúdiu materiálov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "ATKINS, Peter a PAULA, Julio de. Fyzikální chemie. Praha: VŠCHT Praha, 2013. 944 s. ISBN 978-80-7080-830-6.\nHOLLAS, J. Michael. Modern spectroscopy. 4th ed. Chichester: Wiley, 2004. 452 s. ISBN 0-470-84415-9.\nPIŠÚT, Ján, GOMOLČÁK, Ladislav a ČERNÝ, Vladimír. Úvod do kvantovej mechaniky. Bratislava: FMFI UK, 2008. 376 s. ISBN 978-80-89186-33-4.\nPROCHÁZKA, Marek. Surface-enhanced Raman spectroscopy: Bioanalytical, biomolecular and medical applications. Online. Springer, 2016. 221 s. ISBN 978-3-319-23992-7. Dostupné z Springer: https://doi.org/10.1007/978-3-319-23992-7.\nPROSSER, Václav a kol. Experimentální metody biofyziky. Praha: Academia, 1989. 716 s. ISBN 80-200-0059-3.\nZÝKA, Jaroslav a kol. Analytická příručka Díl II. 4. upr. vyd. Praha: SNTL, 1988. 831 s. ISBN 04-602-80."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Kontaktná výučba: spolu 52 hodín, z toho:\n• účasť na prednáškach: 26 hodín\n• účasť na cvičeniach: 26 hodín\nNekontaktná výučba: spolu 100 hodín, z toho:\n• príprava na prednášky a cvičenia: 40 hodín\n• príprava na skúšku: 60 hodín"
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 20\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n20%\n20%\n10%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. RNDr. Ing. Jozef Onufer, PhD.\nRNDr. Natália Šmídová, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra fyziky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 20,
+    "percent": {
+      "A": 50,
+      "B": 20,
+      "C": 20,
+      "D": 10,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. RNDr. Ing. Jozef Onufer, PhD.",
+    "RNDr. Natália Šmídová, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra fyziky\n\n\nKód predmetu: 2618983\nNázov predmetu: Spektroskopické metódy štúdia tuhých látok\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nzápočtová písomka, referáty z meraní\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\npísomná skúška pozostávajúca z testu teoretických znalostí\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nCieľom predmetu je poskytnúť študentom základné teoretické poznatky a praktické skúsenosti z oblasti optických spektroskopických metód v tuhej fáze, a to zo spektroskopie Ramanovho rozptylu a vibračnej a elektrónovej absorpčnej spektroskopie.\n\nStručná osnova predmetu:\nStacionárne stavy molekúl z hľadiska optickej spektroskopie, vibračný pohyb molekúl.\nInterakcia látky s optickým žiarením - elastická a neelastická interakcia, pravdepodobnosti prechodov, tvar spektrálnej čiary.\nAbsorpčná spektroskopia - vibračné a elektrónové absorpčné prechody, výberové pravidlá, prechod optického žiarenia absorbujúcim prostredím, techniky merania absorpčných spektier.\nSpektroskopia Ramanovho rozptylu - charakteristiky klasického Ramanovho rozptylu, rezonančný a povrchom zosílený Ramanov rozptyl.\nNelineárne optické metódy - dvojfotónová absorpcia, stimulovaný Ramanov a hyperramanov rozptyl, koherentný antistokesov rozptyl.\nVyužitie optických spektroskopických metód pri štúdiu materiálov.\n\nOdporúčaná literatúra:\nATKINS, Peter a PAULA, Julio de. Fyzikální chemie. Praha: VŠCHT Praha, 2013. 944 s. ISBN 978-80-7080-830-6.\nHOLLAS, J. Michael. Modern spectroscopy. 4th ed. Chichester: Wiley, 2004. 452 s. ISBN 0-470-84415-9.\nPIŠÚT, Ján, GOMOLČÁK, Ladislav a ČERNÝ, Vladimír. Úvod do kvantovej mechaniky. Bratislava: FMFI UK, 2008. 376 s. ISBN 978-80-89186-33-4.\nPROCHÁZKA, Marek. Surface-enhanced Raman spectroscopy: Bioanalytical, biomolecular and medical applications. Online. Springer, 2016. 221 s. ISBN 978-3-319-23992-7. Dostupné z Springer: https://doi.org/10.1007/978-3-319-23992-7.\nPROSSER, Václav a kol. Experimentální metody biofyziky. Praha: Academia, 1989. 716 s. ISBN 80-200-0059-3.\nZÝKA, Jaroslav a kol. Analytická příručka Díl II. 4. upr. vyd. Praha: SNTL, 1988. 831 s. ISBN 04-602-80.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Kontaktná výučba: spolu 52 hodín, z toho:\n• účasť na prednáškach: 26 hodín\n• účasť na cvičeniach: 26 hodín\nNekontaktná výučba: spolu 100 hodín, z toho:\n• príprava na prednášky a cvičenia: 40 hodín\n• príprava na skúšku: 60 hodín\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 20\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n50%\n20%\n20%\n10%\n0%\n0%\n\n\nZabezpečuje:\ndoc. RNDr. Ing. Jozef Onufer, PhD.\nRNDr. Natália Šmídová, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

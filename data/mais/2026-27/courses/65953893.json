@@ -1,0 +1,174 @@
+{
+  "predmet_id": "65953893",
+  "code": "26000657",
+  "name": "Technológie na báze prepínaných sietí",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953893",
+  "fetched_at": "2026-11-17T15:11:19Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000657"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Technológie na báze prepínaných sietí"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,26/LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": "2615821 - Aplikácie počítačových sietí"
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Predmet predstavuje úzke prepojenie študijného programu s praxou pri príprave študentov na priemyselnú certifikačnú skúšku CCNP Switch (642-813 SWITCH - Implementing Cisco IP Switched Networks). Študent sa oboznámi s problematikou projektovania rozsiahlych sieťových infraštruktúr s dôrazom na problematiku prepínania na rôznych vrstvách sieťového modelu. Osvojí si problematiku virtuálnych sietí (VLAN), smerovania medzi VLAN, využívania rozsiahlých bezdrôtových sietí a konfiguračné postupy, ktoré sú využívané pri návrhu reálnych WAN riešení."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do koncepcie budovania prepínaných sietí.\n2. Virtuálne siete a ich implementácia : základy.\n3. Implementačné aspekty Spanning Tree algoritmu I.\n4. Implementačné aspekty Spanning Tree algoritmu II.\n5. Koncepcia smerovania medzi VLAN.\n6. Sieťové riešenia s krátkou reakčnou dobou.\n7. Technológie bezdrôtových sietí a ich využívanie.\n8. Návrh riešenia sietí na báze bezdrôtových technológií.\n9. Konfiguračné aspekty využívania WLAN zariadení.\n10. Riešenie prenos hlasu v IP sieťach.\n11. Metódy zabezpečenej prevádzky v IP sieťach I.\n12. Metódy zabezpečenej prevádzky v IP sieťach II."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Networking Academy Program, CCNP Switch course\n2. H. Benjamin: CCNP Practical Studies: Routing, Cisco Press, Indianopolis, 2002, 545 pp.\n3. Robert Wright: IP Routing Primer. Cisco Press., Indianopolis, 1998, 290 pp.\n4. Craig Hunt: Konfigurace a správa síti. TCP/IP. Computer Press, Praha, 1997, 460 str.\n5. Dilip C. Naik : Internet : standardy a protokoly. Computer Press, Brno, 1999.6.\n6. Doyle J., Carrol J.: Routing TCP/IP"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 229\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n18%\n25%\n21%\n5%\n9%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Peter Feciľak, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_en)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 229,
+    "percent": {
+      "A": 22,
+      "B": 18,
+      "C": 25,
+      "D": 21,
+      "E": 5,
+      "FX": 9
+    }
+  },
+  "teachers": [
+    "doc. Ing. Peter Feciľak, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26000657\nNázov predmetu: Technológie na báze prepínaných sietí\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): ZS 26,26/LS 26,26\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nInformatika (INF_Ing_D_en)\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\n2.\nPrezenčná\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety: 2615821 - Aplikácie počítačových sietí\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntesty, zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nzáverečný test, skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nPredmet predstavuje úzke prepojenie študijného programu s praxou pri príprave študentov na priemyselnú certifikačnú skúšku CCNP Switch (642-813 SWITCH - Implementing Cisco IP Switched Networks). Študent sa oboznámi s problematikou projektovania rozsiahlych sieťových infraštruktúr s dôrazom na problematiku prepínania na rôznych vrstvách sieťového modelu. Osvojí si problematiku virtuálnych sietí (VLAN), smerovania medzi VLAN, využívania rozsiahlých bezdrôtových sietí a konfiguračné postupy, ktoré sú využívané pri návrhu reálnych WAN riešení.\n\nStručná osnova predmetu:\n1. Úvod do koncepcie budovania prepínaných sietí.\n2. Virtuálne siete a ich implementácia : základy.\n3. Implementačné aspekty Spanning Tree algoritmu I.\n4. Implementačné aspekty Spanning Tree algoritmu II.\n5. Koncepcia smerovania medzi VLAN.\n6. Sieťové riešenia s krátkou reakčnou dobou.\n7. Technológie bezdrôtových sietí a ich využívanie.\n8. Návrh riešenia sietí na báze bezdrôtových technológií.\n9. Konfiguračné aspekty využívania WLAN zariadení.\n10. Riešenie prenos hlasu v IP sieťach.\n11. Metódy zabezpečenej prevádzky v IP sieťach I.\n12. Metódy zabezpečenej prevádzky v IP sieťach II.\n\n\nOdporúčaná literatúra:\n1. Networking Academy Program, CCNP Switch course\n2. H. Benjamin: CCNP Practical Studies: Routing, Cisco Press, Indianopolis, 2002, 545 pp.\n3. Robert Wright: IP Routing Primer. Cisco Press., Indianopolis, 1998, 290 pp.\n4. Craig Hunt: Konfigurace a správa síti. TCP/IP. Computer Press, Praha, 1997, 460 str.\n5. Dilip C. Naik : Internet : standardy a protokoly. Computer Press, Brno, 1999.6.\n6. Doyle J., Carrol J.: Routing TCP/IP\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 229\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n22%\n18%\n25%\n21%\n5%\n9%\n\n\nZabezpečuje:\ndoc. Ing. Peter Feciľak, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,1875 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>MAIS - Modulárny Akademický Informačný Systém</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" rel="stylesheet" href="css/main.css" media="screen,projection" />
+		<link type="text/css" rel="stylesheet" href="css/navig.css" media="screen,projection" />
+		<link type="text/css" rel="stylesheet" href="css/grid.css" media="screen,projection" />
+		<link type="text/css" rel="stylesheet" href="css/forms.css" media="screen,projection" />
+		<link rel="shortcut icon" href="img/favicon.ico" />
+		<script type="text/javascript">
+		<!--
+			var root = '/portal/';
+		//-->
+		</script>
+	</head>
+	<body>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="header">
+    <div id="headerTop">
+    	Modulárny Akademický Informačný Systém MAIS
+        	<div class="right">
+        	
+				<span class="localeSelector">
+					
+						
+						
+							
+						
+							
+							
+								<span class="SK active" title='slovenčina'>SK</span>
+							
+						
+					
+						
+						
+							
+						
+										
+							<a href="?lang=en" onclick="showPleaseWait();" style="color:white;" title='English'>
+								<span class="EN">EN</span></a>
+							
+							
+						
+					
+				</span>
+			
+			</div>    	
+    </div>
+    <table id="headerLogo" cellpadding="0" cellspacing="0">
+		<tr>
+			<td><a href="home.mais"><img src="img/logoMais.gif" alt="" /></a></td>
+			<td class="systemWarning">  </td>
+			<td><img
+				src="img/unilogo_tuke_header.png"
+				class="uniLogo_tuke" style="margin-top: 2px"
+				alt="Logo Technickej univerzity v Košiciach" /></td>
+		</tr>
+	</table>
+    <div id="headerNavig" style="white-space: nowrap;">
+    <table style="position:relative; padding:0; margin:0px 0px 0px 0px; border-spacing:0;" cellpadding="0" cellspacing="0" width="100%">
+    	<tr>
+    		<td>
+		        <ul>
+		            <li><a href="home.mais" title="">Domov</a></li>
+		            
+			            <li><a href="studijneProgramy.mais" title=""><span>Študijné programy</span></a></li>
+		            
+		            
+			            <li><a href="predmetyStudia.mais" title=""><span>Predmety</span></a></li>
+		            
+		            
+					
+						<li><a href="miestnosti.mais" title=""><span>Miestnosti</span></a></li>
+					
+					
+					
+					
+						<li><a href="rozvrhy.mais" title=""><span>Rozvrhy</span></a></li>
+					
+					
+					
+					
+		        </ul>
+        	</td>
+		</tr>
+	</table>
+    </div>
+</div>
+		<div id="content">
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	function toggleShowSpsVKomb(kombSpsId) {
+		var icon = document.getElementById("sps_vkomb_detail_icon_"+kombSpsId);
+		var trElement = icon.closest('tr');
+		var spsVKobmInfo = document.getElementById("sps_v_kombinacii_info_"+kombSpsId);
+		if (spsVKobmInfo.style.display == 'none') {
+			spsVKobmInfo.style.display = null;
+			icon.innerText = '<<';
+			trElement.setAttribute('title', "Zatvor");
+		} else {
+			spsVKobmInfo.style.display = 'none';
+			icon.innerText = '>>';
+			trElement.setAttribute('title', "Zobraz");
+		}
+	}
+</script>
+
+<style>
+	.hideOspButton {
+		cursor: pointer;
+		margin-left: 50px;
+	}
+	.hideOspButton:hover {
+		font-weight:bold;
+	}
+</style>
+
+<h1>Študijné programy</h1>
+
+<form id="mainForm" action="studijneProgramy.mais" method="post" autocomplete="off">
+	<input id="akcia" name="akcia" type="hidden" value=""/>
+	
+	
+
+    
+
+	<table class="filterTable">
+		<tr>
+			<td><label for="zvolenaFakultaId">Fakulta</label></td>
+			<td><select id="zvolenaFakultaId" name="zvolenaFakultaId" onchange="this.form.akcia.value=&#39;zmen_fakultu&#39;; this.form.submit(); this.form.odosli.disabled=&#39;true&#39;;">
+					<option value="">&nbsp;</option>
+					
+						<option value="6880"
+							>Ekonomická fakulta (EkF)</option>
+					
+						<option value="6874"
+							>Fakulta baníctva, ekológie, riadenia a geotechnológií (FBERG)</option>
+					
+						<option value="6878"
+							selected>Fakulta elektrotechniky a informatiky (FEI)</option>
+					
+						<option value="6875"
+							>Fakulta materiálov, metalurgie a recyklácie (FMMR)</option>
+					
+						<option value="6881"
+							>Fakulta umení (FU)</option>
+					
+						<option value="6873"
+							>Fakulta výrobných technológií (FVT)</option>
+					
+						<option value="6882"
+							>Letecká fakulta (LF)</option>
+					
+						<option value="6879"
+							>Rektorát (R)</option>
+					
+						<option value="6877"
+							>Stavebná fakulta (SvF)</option>
+					
+						<option value="6876"
+							>Strojnícka fakulta (SjF)</option>
+					
+				</select></td>
+		</tr>
+		<tr>
+			<td><label for="zvolenyARKS">Akademický rok</label></td>
+			<td><select id="zvolenyARKS" name="zvolenyARKSId" class="small" onchange="this.form.akcia.value=&#39;akademicky_rok&#39;; this.form.submit(); this.form.odosli.disabled=&#39;true&#39;;">
+					
+						<option value="69476467"
+							>2027/2028</option>
+					
+						<option value="64312664"
+							selected>2026/2027</option>
+					
+						<option value="59671803"
+							>2025/2026</option>
+					
+						<option value="51570801"
+							>2024/2025</option>
+					
+				</select></td>
+		</tr>
+		<tr>
+			<td><label for="zvolenaFormaStudia">Forma štúdia</label></td>
+			<td><select id="zvolenaFormaStudia" name="zvolenaFormaStudia" class="small" onchange="this.form.akcia.value=&#39;forma_studia&#39;; this.form.submit(); this.form.odosli.disabled=&#39;true&#39;;">
+					<option value=""></option>
+					
+						<option value="DENNA"
+							selected>Denná</option>
+					
+						<option value="EXTERNA"
+							>Externá</option>
+					
+						<option value="NEUVEDENA"
+							>Neuvedená</option>
+					
+				</select></td>
+		</tr>
+		<tr>
+			<td><label for="zvolenyStupenStudia">Stupeň štúdia</label></td>
+			<td><select id="zvolenyStupenStudia" name="zvolenyStupenStudia" class="small" onchange="this.form.akcia.value=&#39;stupen_studia&#39;; this.form.submit(); this.form.odosli.disabled=&#39;true&#39;;">
+					<option value=""></option>
+					
+						<option value="PRVY"
+							selected>1.</option>
+					
+						<option value="PRVY_PROFES_ORIENTOVANY"
+							>1. PO</option>
+					
+						<option value="PRVY_A_DRUHY"
+							>1. a 2.</option>
+					
+						<option value="DRUHY"
+							>2.</option>
+					
+						<option value="TRETI"
+							>3.</option>
+					
+						<option value="NEUVEDENY"
+							>Neuvedený</option>
+					
+				</select></td>
+		</tr>
+
+		
+			
+
+			
+				<tr>
+					<td><label for="zvolenyStudijnyProgramStudia">Študijný program štúdia</label></td>
+					<td><select id="zvolenyStudijnyProgramStudiaId" name="zvolenyStudijnyProgramStudiaId">
+							<option value=""></option>
+							
+								<option value="65699720"
+									selected>Aplikovaná elektrotechnika (ApE_Bc_D_KM)</option>
+							
+								<option value="65699721"
+									>Aplikovaná elektrotechnika (ApE_Bc_D_sk)</option>
+							
+								<option value="65699719"
+									>Automobilová elektronika (AE_Bc_D_sk)</option>
+							
+								<option value="65699732"
+									>Elektroenergetika (EE_Bc_D_sk)</option>
+							
+								<option value="65699735"
+									>Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)</option>
+							
+								<option value="65669424"
+									>Hospodárska informatika (HI_Bc_D_sk)</option>
+							
+								<option value="65699736"
+									>Informatika (INF_Bc_D_en)</option>
+							
+								<option value="66055315"
+									>Informatika (INF_Bc_D_KM)</option>
+							
+								<option value="65699737"
+									>Informatika (INF_Bc_D_sk)</option>
+							
+								<option value="65941562"
+									>Inteligentné systémy (IntS_Bc_D_sk)</option>
+							
+								<option value="65699740"
+									>Kyberbezpečnosť (KB_Bc_D_sk)</option>
+							
+								<option value="65699746"
+									>Počítačové modelovanie (PM_Bc_D_sk)</option>
+							
+								<option value="65699749"
+									>Počítačové siete (PS_Bc_D_sk)</option>
+							
+								<option value="65699743"
+									>Priemyselná elektrotechnika (PE_Bc_D_sk)</option>
+							
+								<option value="65873056"
+									>Umelá inteligencia (UI_Bc_D_sk)</option>
+							
+						</select></td>
+				</tr>
+
+				<tr>
+					<td>&nbsp;</td>
+					<td><input id="odosli" name="odosli" type="button"
+						class="button next"
+						value="Odošli"
+						onclick="this.form.akcia.value='zobraz_studijny_program'; this.form.submit(); this.form.odosli.disabled='true';" /></td>
+				</tr>
+			
+
+		
+
+	</table>
+
+	
+
+
+	
+
+	
+		<br /><br />
+		<h2>Aplikovaná elektrotechnika (ApE_Bc_D_KM)</h2>
+		<table class="filterTable">
+			<tr>
+				<td>Forma štúdia</td>
+				<td class="bold">Denná</td>
+			</tr>
+			<tr>
+				<td>Stupeň štúdia</td>
+				<td class="bold">1.</td>
+			</tr>
+			<tr>
+				<td>Študijný odbor</td>
+				<td class="bold">Elektrotechnika (2675R00)</td>
+			</tr>
+			<tr>
+				<td>Metóda</td>
+				<td class="bold">Kombinovaná</td>
+			</tr>
+			<tr>
+				<td>Dĺžka štúdia</td>
+				<td class="bold">3.0</td>
+			</tr>
+			<tr>
+				<td>Akademický rok</td>
+				<td class="bold">2026/2027</td>
+			</tr>
+			
+			
+			<tr>
+				<td style="vertical-align: top;">Profil absolventa</td>
+				<td class="bold" style="vertical-align: top;">Absolvent študijného programu Aplikovaná elektrotechnika má vedomosti o  elektrických pohonoch, strojoch, prístrojoch, výkonových polovodičových systémoch, pneumatických a hydraulických systémoch vrátane ich modelovania a riadenia. Dokáže aplikovať riadiace algoritmy pre elektrotechnické systémy, vykonávať ich technickú obsluhu a testovať produkty výroby pomocou diagnostických nástrojov. Uplatní sa pri konštruovaní, nasadzovaní, prevádzke, údržbe a riadení elektrotechnických systémov.</td>
+			</tr>
+			
+			
+		</table>
+		
+		
+		<br />
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+	
+		
+			<br />
+			<br />
+			<h5 class="inline">
+				Obdobie štúdia
+				:
+			</h5>
+			<h3 class="inline">
+				1.
+				rok
+				ZS
+			</h3>
+			<table class="basic_grid" cellspacing="0">
+				<tr>
+					<th>#</th>
+					<th>Kód</th>
+					<th>Názov</th>
+					<th>Ukončenie</th>
+					<th>Kredity</th>
+					<th>Typ</th>
+					<th>Profilový predmet</th>
+					<th>Rozsah výučby</th>
+					<th>Detail predmetu / IL</th>
+				</tr>
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001233</td>
+						<td class="bold">FEI - Jazyk 1
+							(FEI - Jazyk 1)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">2</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">S-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65699858"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65699858; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26000618</td>
+						<td class="bold">Základy inžinierstva materiálov
+							(ZIM)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">5</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 S-1 CL-1 
+								za týždeň</td>
+						<td><a id="buttonPrint_65957425"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65957425; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26000629</td>
+						<td class="bold">Základy algoritmizácie a programovania
+							(ZAP)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">5</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-3 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65954478"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65954478; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001218</td>
+						<td class="bold">Telesná výchova I.
+							(TV I.)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">1</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65699824"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65699824; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001210</td>
+						<td class="bold">Matematika I
+							(MAT I)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CN-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65516630"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65516630; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">2607333</td>
+						<td class="bold">Základy elektrotechnického inžinierstva
+							(ZEI)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">5</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CN-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65959630"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65959630; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26000824</td>
+						<td class="bold">Úvod do inžinierstva
+							(UI)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">3</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">S-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65976737"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65976737; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26000888</td>
+						<td class="bold">Repetitórium z matematiky
+							(RzM)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">3</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">P-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65516479"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65516479; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26000889</td>
+						<td class="bold">Úvod do fyziky
+							(UDF - FEI)</td>
+						<td nowrap="nowrap">Zápočet (Z-%)</td>
+						<td class="textCenter">2</td>
+						<td title="Výberový">V</td>
+						<td title=""></td>
+						<td nowrap="nowrap">CN-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65950923"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65950923; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+			</table>
+			
+				<br />
+				
+					V období od 1. rok ZS do 1. rok ZS je pre postup do ďalšieho obobia štúdia potrebné úspešne absolvovať predmety za 18 kreditov.
+					<br />
+				
+					V období od 1. rok ZS do 1. rok ZS je potrebné sa zapísať na 8 P predmetov.
+					<br />
+				
+			
+		
+	
+		
+			<br />
+			<br />
+			<h5 class="inline">
+				Obdobie štúdia
+				:
+			</h5>
+			<h3 class="inline">
+				1.
+				rok
+				LS
+			</h3>
+			<table class="basic_grid" cellspacing="0">
+				<tr>
+					<th>#</th>
+					<th>Kód</th>
+					<th>Názov</th>
+					<th>Ukončenie</th>
+					<th>Kredity</th>
+					<th>Typ</th>
+					<th>Profilový predmet</th>
+					<th>Rozsah výučby</th>
+					<th>Detail predmetu / IL</th>
+				</tr>
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001234</td>
+						<td class="bold">FEI - Jazyk 2
+							(FEI - Jazyk 2)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">2</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">S-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65699879"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65699879; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001219</td>
+						<td class="bold">Telesná výchova II.
+							(TV II.)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">1</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65699841"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65699841; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">2608731</td>
+						<td class="bold">Počítačové aplikácie
+							(PA)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">CL-3 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908208"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908208; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">2600171</td>
+						<td class="bold">Fyzika I
+							(FI)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">5</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CN-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65950081"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65950081; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">2618641</td>
+						<td class="bold">Elektrotechnika
+							(E_EE,PE,AES,FIPM_Bc)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-3 S-3 
+								za týždeň</td>
+						<td><a id="buttonPrint_65890130"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65890130; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">2607391</td>
+						<td class="bold">Programovanie
+							(Progr)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">5</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65953562"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65953562; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001211</td>
+						<td class="bold">Matematika II
+							(MAT II)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CN-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65516679"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65516679; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">1.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001422</td>
+						<td class="bold">Národné obranné sily FEI
+							(NOS-FEI)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">4</td>
+						<td title="Výberový">V</td>
+						<td title=""></td>
+						<td nowrap="nowrap">OP-8 
+								za týždeň</td>
+						<td><a id="buttonPrint_68800020"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=68800020; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+			</table>
+			
+				<br />
+				
+					V období od 1. rok LS do 1. rok LS je pre postup do ďalšieho obobia štúdia potrebné úspešne absolvovať predmety za 18 kreditov.
+					<br />
+				
+					V období od 1. rok LS do 1. rok LS je potrebné sa zapísať na 7 P predmetov.
+					<br />
+				
+					V období od 1. rok ZS do 1. rok LS je pre postup do ďalšieho obobia štúdia potrebné úspešne absolvovať predmety za 36 kreditov.
+					<br />
+				
+			
+		
+	
+		
+			<br />
+			<br />
+			<h5 class="inline">
+				Obdobie štúdia
+				:
+			</h5>
+			<h3 class="inline">
+				2.
+				rok
+				ZS
+			</h3>
+			<table class="basic_grid" cellspacing="0">
+				<tr>
+					<th>#</th>
+					<th>Kód</th>
+					<th>Názov</th>
+					<th>Ukončenie</th>
+					<th>Kredity</th>
+					<th>Typ</th>
+					<th>Profilový predmet</th>
+					<th>Rozsah výučby</th>
+					<th>Detail predmetu / IL</th>
+				</tr>
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">2607481</td>
+						<td class="bold">Fyzika II
+							(FII)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-3 CN-1 CL-1 
+								za týždeň</td>
+						<td><a id="buttonPrint_65950188"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65950188; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						class="noBorder">
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001214</td>
+						<td class="bold">Matematika III
+							(MAT III-n)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CN-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65516778"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65516778; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+						<tr
+							>
+							<td></td>
+							<td nowrap="nowrap"><i>26001210</i></td>
+							<td><i>Matematika I
+									(MAT I)</i></td>
+							<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+							<td class="textCenter">6</td>
+							<td colspan="3">Prerekvizita</td>
+							<td><a
+								id="buttonPrint_56526724"
+								style="text-transform: none;" class="details"
+								onclick="document.forms.detailForm.predmetId.value=56526724; document.forms.detailForm.submit();">
+									Detail predmetu / IL
+							</a></td>
+						</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001034</td>
+						<td class="bold">Základy elektrických strojov
+							(ZELS)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CN-1 CL-1 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908642"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908642; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">2621551</td>
+						<td class="bold">Priemyselná elektronika
+							(PrE)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CN-1 CL-1 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908230"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908230; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">2607821</td>
+						<td class="bold">Automobilová elektrotechnika
+							(AutoElek)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title=""></td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65907782"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65907782; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001336</td>
+						<td class="bold">Odborný predmet na zahraničnej vysokej škole
+							(Mobilita-Bc)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title=""></td>
+						<td nowrap="nowrap">S-2 PP-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65339753"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65339753; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001414</td>
+						<td class="bold">Meranie a modelovanie v elektrotechnike
+							(MME)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title=""></td>
+						<td nowrap="nowrap">P-1 CL-2 PP-1 
+								za týždeň</td>
+						<td><a id="buttonPrint_66865584"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=66865584; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001422</td>
+						<td class="bold">Národné obranné sily FEI
+							(NOS-FEI)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">4</td>
+						<td title="Výberový">V</td>
+						<td title=""></td>
+						<td nowrap="nowrap">OP-8 
+								za týždeň</td>
+						<td><a id="buttonPrint_68800020"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=68800020; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+			</table>
+			
+				<br />
+				
+					V období od 2. rok ZS do 2. rok ZS je potrebné sa zapísať na predmety za 18 kreditov.
+					<br />
+				
+					V období od 2. rok ZS do 2. rok ZS je potrebné sa zapísať na 4 P predmety, 1 PV predmet.
+					<br />
+				
+			
+		
+	
+		
+			<br />
+			<br />
+			<h5 class="inline">
+				Obdobie štúdia
+				:
+			</h5>
+			<h3 class="inline">
+				2.
+				rok
+				LS
+			</h3>
+			<table class="basic_grid" cellspacing="0">
+				<tr>
+					<th>#</th>
+					<th>Kód</th>
+					<th>Názov</th>
+					<th>Ukončenie</th>
+					<th>Kredity</th>
+					<th>Typ</th>
+					<th>Profilový predmet</th>
+					<th>Rozsah výučby</th>
+					<th>Detail predmetu / IL</th>
+				</tr>
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">2608241</td>
+						<td class="bold">Výkonová elektronika
+							(VE)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-3 CL-3 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908595"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908595; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001041</td>
+						<td class="bold">Základy programovania mikropočítačov
+							(ZPM)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908675"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908675; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						class="noBorder">
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26000438</td>
+						<td class="bold">Elektrické pohony
+							(EP)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65907926"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65907926; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+						<tr
+							>
+							<td></td>
+							<td nowrap="nowrap"><i>26001034</i></td>
+							<td><i>Základy elektrických strojov
+									(ZELS)</i></td>
+							<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+							<td class="textCenter">6</td>
+							<td colspan="3">Prerekvizita</td>
+							<td><a
+								id="buttonPrint_45536785"
+								style="text-transform: none;" class="details"
+								onclick="document.forms.detailForm.predmetId.value=45536785; document.forms.detailForm.submit();">
+									Detail predmetu / IL
+							</a></td>
+						</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001040</td>
+						<td class="bold">Riadenie priemyselných systémov
+							(RPS)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908329"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908329; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001036</td>
+						<td class="bold">Pneumatické a hydraulické systémy
+							(PHS)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title=""></td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908186"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908186; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001336</td>
+						<td class="bold">Odborný predmet na zahraničnej vysokej škole
+							(Mobilita-Bc)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title=""></td>
+						<td nowrap="nowrap">S-2 PP-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65339753"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65339753; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001035</td>
+						<td class="bold">Snímače a meranie v elektrotechnike
+							(SMEL)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title="Ďalší profilový predmet">DPP</td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908498"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908498; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">2.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001422</td>
+						<td class="bold">Národné obranné sily FEI
+							(NOS-FEI)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">4</td>
+						<td title="Výberový">V</td>
+						<td title=""></td>
+						<td nowrap="nowrap">OP-8 
+								za týždeň</td>
+						<td><a id="buttonPrint_68800020"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=68800020; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+			</table>
+			
+				<br />
+				
+					V období od 2. rok LS do 2. rok LS je pre postup do ďalšieho obobia štúdia potrebné úspešne absolvovať predmety za 18 kreditov.
+					<br />
+				
+					V období od 2. rok LS do 2. rok LS je potrebné sa zapísať na 4 P predmety, 1 PV predmet.
+					<br />
+				
+					V období od 2. rok ZS do 2. rok LS je pre postup do ďalšieho obobia štúdia potrebné úspešne absolvovať predmety za 36 kreditov.
+					<br />
+				
+			
+		
+	
+		
+			<br />
+			<br />
+			<h5 class="inline">
+				Obdobie štúdia
+				:
+			</h5>
+			<h3 class="inline">
+				3.
+				rok
+				ZS
+			</h3>
+			<table class="basic_grid" cellspacing="0">
+				<tr>
+					<th>#</th>
+					<th>Kód</th>
+					<th>Názov</th>
+					<th>Ukončenie</th>
+					<th>Kredity</th>
+					<th>Typ</th>
+					<th>Profilový predmet</th>
+					<th>Rozsah výučby</th>
+					<th>Detail predmetu / IL</th>
+				</tr>
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001286</td>
+						<td class="bold">Základy programovania PLC
+							(ZPLC)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-1 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908699"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908699; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26000444</td>
+						<td class="bold">Bakalársky projekt 1
+							(BPr1)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (ZP-KZ)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">S-2 PP-6 
+								za týždeň</td>
+						<td><a id="buttonPrint_65907828"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65907828; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001043</td>
+						<td class="bold">Tvorba používateľských rozhraní
+							(TPR)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">P-1 CL-2 PP-1 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908543"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908543; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">2607491</td>
+						<td class="bold">Prenos a rozvod elektrickej energie
+							(PREE)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title=""></td>
+						<td nowrap="nowrap">P-2 CN-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65959775"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65959775; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001336</td>
+						<td class="bold">Odborný predmet na zahraničnej vysokej škole
+							(Mobilita-Bc)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title=""></td>
+						<td nowrap="nowrap">S-2 PP-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65339753"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65339753; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001038</td>
+						<td class="bold">Základy robotiky
+							(ZR)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908728"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908728; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							ZS
+						</td>
+						<td nowrap="nowrap">26001422</td>
+						<td class="bold">Národné obranné sily FEI
+							(NOS-FEI)</td>
+						<td nowrap="nowrap">Zápočet (Z-U)</td>
+						<td class="textCenter">4</td>
+						<td title="Výberový">V</td>
+						<td title=""></td>
+						<td nowrap="nowrap">OP-8 
+								za týždeň</td>
+						<td><a id="buttonPrint_68800020"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=68800020; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+			</table>
+			
+				<br />
+				
+					V období od 3. rok ZS do 3. rok ZS je potrebné sa zapísať na predmety za 18 kreditov.
+					<br />
+				
+					V období od 3. rok ZS do 3. rok ZS je potrebné sa zapísať na 4 P predmety, 1 PV predmet.
+					<br />
+				
+			
+		
+	
+		
+			<br />
+			<br />
+			<h5 class="inline">
+				Obdobie štúdia
+				:
+			</h5>
+			<h3 class="inline">
+				3.
+				rok
+				LS
+			</h3>
+			<table class="basic_grid" cellspacing="0">
+				<tr>
+					<th>#</th>
+					<th>Kód</th>
+					<th>Názov</th>
+					<th>Ukončenie</th>
+					<th>Kredity</th>
+					<th>Typ</th>
+					<th>Profilový predmet</th>
+					<th>Rozsah výučby</th>
+					<th>Detail predmetu / IL</th>
+				</tr>
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26001039</td>
+						<td class="bold">Elektrické prístroje
+							(EPR)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65907949"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65907949; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						class="noBorder">
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">26000443</td>
+						<td class="bold">Bakalársky projekt 2
+							(BPr2)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (ZP-KZ)</td>
+						<td class="textCenter">12</td>
+						<td title="Povinný">P</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">S-3 PP-9 
+								za týždeň</td>
+						<td><a id="buttonPrint_65907807"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65907807; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+						<tr
+							>
+							<td></td>
+							<td nowrap="nowrap"><i>26000444</i></td>
+							<td><i>Bakalársky projekt
+									(BPr)</i></td>
+							<td nowrap="nowrap">Klasifikovaný zápočet (ZP-KZ)</td>
+							<td class="textCenter">6</td>
+							<td colspan="3">Prerekvizita</td>
+							<td><a
+								id="buttonPrint_27393471"
+								style="text-transform: none;" class="details"
+								onclick="document.forms.detailForm.predmetId.value=27393471; document.forms.detailForm.submit();">
+									Detail predmetu / IL
+							</a></td>
+						</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">29000888</td>
+						<td class="bold">Spoločenské vedy a technika
+							(KSV_SVT)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinný">P</td>
+						<td title=""></td>
+						<td nowrap="nowrap">P-1 S-1 
+								za týždeň</td>
+						<td><a id="buttonPrint_65997498"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65997498; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">2622593</td>
+						<td class="bold">Odborná prax vo firme
+							(OPF)</td>
+						<td nowrap="nowrap">Klasifikovaný zápočet (KZ)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title=""></td>
+						<td nowrap="nowrap">OP-6 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908149"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908149; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">2621671</td>
+						<td class="bold">Projektovanie elektrotechnických zariadení
+							(PEZ)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title="Profilový predmet">PP</td>
+						<td nowrap="nowrap">CL-3 PP-1 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908257"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908257; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+					<tr
+						>
+						<td class="textRight" nowrap="nowrap">3.
+							rok
+							LS
+						</td>
+						<td nowrap="nowrap">2609221</td>
+						<td class="bold">Simulácia výrobných systémov
+							(SimVS)</td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td class="textCenter">6</td>
+						<td title="Povinne voliteľný">PV</td>
+						<td title=""></td>
+						<td nowrap="nowrap">P-2 CL-2 
+								za týždeň</td>
+						<td><a id="buttonPrint_65908474"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=65908474; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+					
+				
+			</table>
+			
+				<br />
+				
+					V období od 3. rok LS do 3. rok LS je potrebné sa zapísať na 3 P predmety, 1 PV predmet.
+					<br />
+				
+					V období od 1. rok ZS do 3. rok LS je pre riadne skončenie štúdia potrebné úspešne absolvovať predmety za 180 kreditov.
+					<br />
+				
+			
+		
+	
+
+	
+		<br />
+		<br />
+		<h3 class="inline">
+			Predmety štátnej skúšky
+			:
+		</h3>
+		
+		<table class="basic_grid width60p" cellspacing="0">
+			<tr>
+				<th>#</th>
+				<th>Kód</th>
+				<th>Názov</th>
+				<th>Ukončenie</th>
+				<th>Kredity</th>
+				<th>Typ</th>
+				<th>Profilový predmet</th>
+				<th>Fakulta</th>
+				<th>Detail predmetu / IL</th>
+			</tr>
+			
+			
+				<tr>
+					<td class="textRight" nowrap="nowrap">1.</td>
+					<td nowrap="nowrap">26001446</td>
+					<td class="bold">Regulované pohony
+						(RePo_SS)</td>
+					<td nowrap="nowrap">Štátna skúška z predmetu pre 1. stupeň (ŠS_1)</td>
+					<td nowrap="nowrap">6</td>
+					<td title="Povinný">P</td>
+					<td title="Profilový predmet">PP</td>
+					<td>FEI</td>
+					<td><a id="buttonPrint_69482574"
+						style="text-transform: none;" class="details"
+						onclick="document.forms.detailForm.predmetId.value=69482574; document.forms.detailForm.submit();">
+							Detail predmetu / IL
+					</a></td>
+				</tr>
+				
+					<tr
+						>
+						<td></td>
+						<td nowrap="nowrap"><i>26000438</i></td>
+						<td><i>Elektrické pohony
+								(EP)</i></td>
+						<td nowrap="nowrap">Zápočet a skúška (ZS)</td>
+						<td>6</td>
+						<td>Prerekvizita</td>
+						<td></td>
+						<td></td>
+						<td><a
+							id="buttonPrint_27356468"
+							style="text-transform: none;" class="details"
+							onclick="document.forms.detailForm.predmetId.value=27356468; document.forms.detailForm.submit();">
+								Detail predmetu / IL
+						</a></td>
+					</tr>
+				
+
+			
+		</table>
+	
+
+	<br />
+	<br />
+	<input id="buttonPrint" name="buttonPrint" type="button"
+		class="button print"
+		value="Tlač odporúčaný študijný plán"
+		onclick="document.forms.printForm.studijnyProgramStudiaId.value=65699720; document.forms.printForm.submit();" />
+	<br />
+	<br />
+
+	<div class="legend">
+		<h4>
+			Typ predmetu
+			:
+		</h4>
+		<span>P = Povinný predmet,  PV = Povinne voliteľný predmet,  V = Výberový predmet</span>
+		<h4>
+			Rozsah výučby
+			:
+		</h4>
+		<span>A = Ateliér, CL = Cvičenie laboratórne, CN = Cvičenie numerické, E = Exkurzia, OP = Odborná prax, P = Prednáška, PP = Projektová práca, S = Seminár, S = Stáž</span>
+		<h4>
+			Druh profilového predmetu
+			:
+		</h4>
+		<span>PP = Profilový predmet,  DPP = Ďalší profilový predmet</span>
+
+		
+			<br />
+			<br />
+			<span>Kurzívou sú zobrazené prerekvizity predmetu štúdia. Pred zapísaním predmetu s prerekvizitou musíte úspešne absolvovať predpísané prerekvizity.</span>
+		
+		
+	</div>
+
+	<br />
+
+			
+	
+</form>
+
+<form id="detailForm" method="post" target="printWindow" action="tlacPredmetuOSP.mais">
+	<input type="hidden" name="predmetId" value="" />
+</form>
+<form id="printForm" name="printForm" method="post" target="printWindow" action="tlacOdporucanyStudijnyPlan.mais">
+	<input type="hidden" name="studijnyProgramStudiaId" value=""/>
+</form>
+<form id="tlacZozProgHabInaug" method="post" action="tlacZozProgHabInaug.mais">
+		<input type="hidden" name=multiZvoleneSpIdsString value="" />
+</form>
+<form id="detailProgramuSaavsForm" method="post" action="detailProgramuSaavs.mais">
+		<input type="hidden" name="programId" value="" />
+</form>
+</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+<div id="footer"><p>Technická univerzita v Košiciach<br /> Optimalizovan&eacute; pre internetov&yacute; prehliadač <a href="http://www.mozilla.org/products/firefox/" target="_blank">Mozilla FireFox</a><a href="http://www.mozilla.org/products/firefox/" target="_blank"></a> <br />Verzia: 26.1028.1, Build: 28.10.2026, Release: 28.10.2026, Verzia DB: 26.10.16.1<br />&copy;&nbsp; <a href="http://www.iternal.sk" target="_blank"><span>ITernal, s.r.o.</span></a>, v&scaron;etky pr&aacute;va s&uacute; vyhraden&eacute;.</p> </div>
+	</body>
+</html>

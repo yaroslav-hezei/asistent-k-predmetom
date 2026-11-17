@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65908521",
+  "code": "26000147",
+  "name": "Trojrozmerné modelovanie a simulácia",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65908521",
+  "fetched_at": "2026-11-17T15:06:39Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektrotechniky a mechatroniky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000147"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Trojrozmerné modelovanie a simulácia"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "1,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 13,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Kombinovaná, Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. 1 zadanie (40b)."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Vytvorenie zostavy podľa zadaných podkladov, vytvorenie výkresu zostavy a animácia zostavy v programe Creo."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent po absolvovaní predmetu by mal zvládnuť základné modelovanie v profesionálnom CAD programe Creo. Mal by vedieť vytvárať modely súčiastok, vytvárať zostavy, výkresy a animácie.\nJedná sa o profesionálny program, ktorý majú skôr väčšie firmy. Po zvládnutí modelovania v Creo by študent nemal mať závažnejšie problémy pri modelovaní v iných CAD programoch."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Tvorba škíc.\nTvorba objemových prvkov - typ Part , subtyp – Solid,\n- vytvorenie objemu vysúvaním kolmo na škicovaciu rovinu,\n- vytvorenie objemu rotáciou,\n- úprava objemu odoberaním materiálu,\n- prvky vytvárané ťahaním po krivke.\nTvorba škrupinových prvkov.\nTvorba zostáv.\nManipulácia s prvkami.\nAnalýza modelu.\nTvorba výkresov.\nAnimácie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] TOROK, J.; KAŠČÁK, J. Základy práce v systéme Creo Parametric 9 s podporou rozšírenej reality. Košice: Technická univerzita v Košiciach, 2022. ISBN 978-80-553-4301-3. Dostupné aj na internete: https://kppvt.fvt.tuke.sk/wp-content/uploads/2023/10/Creo_9.pdf .\n[2] Dokumentácia k programu Creo. [online]. PTC (Parametric Technology Corporation). Dostupné na: http://www.ptc.com/product/creo."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/ zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester. zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester. Existuje študentská verzia CREO, ktorú si môže študent nainštalovať na svoj počítač a doma pracovať s programom."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 401\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n31%\n19%\n20%\n17%\n11%\n1%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Želmíra Ferková, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektrotechniky a mechatroniky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_KM)",
+      "degree": "2.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Aplikovaná elektrotechnika (ApE_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 401,
+    "percent": {
+      "A": 31,
+      "B": 19,
+      "C": 20,
+      "D": 17,
+      "E": 11,
+      "FX": 1
+    }
+  },
+  "teachers": [
+    "doc. Ing. Želmíra Ferková, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektrotechniky a mechatroniky\n\n\nKód predmetu: 26000147\nNázov predmetu: Trojrozmerné modelovanie a simulácia\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 1,3\nExterná forma štúdia (hodiny za semester): ZS 13,39\nMetóda štúdia: Kombinovaná, Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok ZS\nAplikovaná elektrotechnika (ApE_Ing_D_KM)\nAplikovaná elektrotechnika (ApE_Ing_D_sk)\n2.\n2.\nKombinovaná\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet: absolvovanie cvičení, max. 3 ospravedlnené neúčasti. 1 zadanie (40b).\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška: Vytvorenie zostavy podľa zadaných podkladov, vytvorenie výkresu zostavy a animácia zostavy v programe Creo.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent po absolvovaní predmetu by mal zvládnuť základné modelovanie v profesionálnom CAD programe Creo. Mal by vedieť vytvárať modely súčiastok, vytvárať zostavy, výkresy a animácie.\nJedná sa o profesionálny program, ktorý majú skôr väčšie firmy. Po zvládnutí modelovania v Creo by študent nemal mať závažnejšie problémy pri modelovaní v iných CAD programoch.\n\nStručná osnova predmetu:\nTvorba škíc.\nTvorba objemových prvkov - typ Part , subtyp – Solid,\n- vytvorenie objemu vysúvaním kolmo na škicovaciu rovinu,\n- vytvorenie objemu rotáciou,\n- úprava objemu odoberaním materiálu,\n- prvky vytvárané ťahaním po krivke.\nTvorba škrupinových prvkov.\nTvorba zostáv.\nManipulácia s prvkami.\nAnalýza modelu.\nTvorba výkresov.\nAnimácie.\n\nOdporúčaná literatúra:\n[1] TOROK, J.; KAŠČÁK, J. Základy práce v systéme Creo Parametric 9 s podporou rozšírenej reality. Košice: Technická univerzita v Košiciach, 2022. ISBN 978-80-553-4301-3. Dostupné aj na internete: https://kppvt.fvt.tuke.sk/wp-content/uploads/2023/10/Creo_9.pdf .\n[2] Dokumentácia k programu Creo. [online]. PTC (Parametric Technology Corporation). Dostupné na: http://www.ptc.com/product/creo.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby, na prednáškach a cvičeniach 52 hodín (4 hodiny za týždeň), ako aj samostatné štúdium a aj samostatnú tvorivú činnosť študenta pri spracovaní semestrálneho zadania/ zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester. zadania/zadaní, projektu na stanovenú tému, v stanovenom rozsahu, prípravu na zápočtové písomky, prípravu na skúšku v stanovenej forme (98 hodín), spolu 150 hodín časovej náročnosti práce študenta za semester. Existuje študentská verzia CREO, ktorú si môže študent nainštalovať na svoj počítač a doma pracovať s programom.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 401\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n31%\n19%\n20%\n17%\n11%\n1%\n\n\nZabezpečuje:\ndoc. Ing. Želmíra Ferková, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

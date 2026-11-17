@@ -1,0 +1,170 @@
+{
+  "predmet_id": "65667310",
+  "code": "2609961",
+  "name": "Počítačové videnie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667310",
+  "fetched_at": "2026-11-17T15:00:25Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2609961"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Počítačové videnie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 26,13,13/LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\n3.rok LS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "2."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npísomný test, riešenie samostatných úloh na počítači, esej, projekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nkombinovaná skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Oboznámenie sa študentov so základnou teóriu číslicového spracovania obrazov a počítačového videnia, orientácia v širokom spektrom informačných zdrojov a nových trendoch, získanie praktická skúseností a zručností pri analýze a realizácii menších úloh a väčších aplikačných projektov\npočítačového videnia v špecializovaných laboratóriách, schopnosť tvorivo navrhovať a realizovať vizuálne systémy ako podsystémy moderných inteligentných informačno-riadiacich systémov pre riadenie a rozhodovanie, ovládanie a využívanie moderných programovacích jazykov, knižníc a prostredí (Matlab, C, C++, C#) pri projektovaní produktov a služieb pre inteligentné vizuálne interakcie"
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "- Úvod do počítačového videnia, vzťah k iným vedám, informačné zdroje.\n- Zdroje obrazu, získanie číslicovej formy.\n- Reprezentácie obrazov obrazový priestor, základná vnútorné a vonkajšie reprezentácie, tradičné a hierarchické, formáty, maticová reprezentácia obrazu, stratové a bezstratové kódovanie.\n- Grafické formáty, farebné modely obrazov.\n- Vlastnosti číslicových obrazov (vizuálne, metrické, topologické, štatistické, kontextové, textúrové).\n- Bodové operácie - redukcia farieb, jasové a geometrické transformácie.\n- Lokálne operácie lineárne, nelineárne; vyhladzovanie, detekcia hrán.\n- Globálne operácie - Fourierova a iné transformácie.\n- Segmentácia obrazov prahovaním, na báze oblastí (hranice, homogenita), aktívne kontúry.\n- Morfologické spracovanie obrazov.\n- Identifikácia objektov a ich popis, rozpoznávanie objektov príznakový a syntaktický prístup.\n- Úvod do 3D rekonštrukcie a zobrazovania.\n- Systémy počítačového videnia a aplikácie."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "ŠONKA, M. - HLAVÁČ, V.: Počítačové videní, Grada 1992, ISBN 80-85424-67-3\nŠONKA, M. HLAVÁČ, V. BOYLE, R.: Image Processing, Analysis, and Machine Vision. PSW Publishing, 2nd Edition, p. 755, 1998, ISBN 0-534-95393-X\nBundzel, M. - ZOLOTOVÁ, I.: Počítačové videnie v praxi, Elfa 2013, s. 90, ISBN 978-80-8086-225-1\nhttp://www.mathworks.com/academia/ - Matlab, Simulink, Toolboxy, Blocksety"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 947\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n12%\n12%\n19%\n21%\n20%\n16%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Marek Bundzel, PhD.\nIng. Maroš Hliboký, PhD.\nIng. Ján Magyar, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS, LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "3.rok LS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 947,
+    "percent": {
+      "A": 12,
+      "B": 12,
+      "C": 19,
+      "D": 21,
+      "E": 20,
+      "FX": 16
+    }
+  },
+  "teachers": [
+    "doc. Ing. Marek Bundzel, PhD.",
+    "Ing. Maroš Hliboký, PhD.",
+    "Ing. Ján Magyar, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 2609961\nNázov predmetu: Počítačové videnie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): ZS 26,13,13/LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS, LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\n2.\nPrezenčná\n\n\n3.rok LS\nInteligentné systémy (IntS_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia: 2.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\npísomný test, riešenie samostatných úloh na počítači, esej, projekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nkombinovaná skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nOboznámenie sa študentov so základnou teóriu číslicového spracovania obrazov a počítačového videnia, orientácia v širokom spektrom informačných zdrojov a nových trendoch, získanie praktická skúseností a zručností pri analýze a realizácii menších úloh a väčších aplikačných projektov\npočítačového videnia v špecializovaných laboratóriách, schopnosť tvorivo navrhovať a realizovať vizuálne systémy ako podsystémy moderných inteligentných informačno-riadiacich systémov pre riadenie a rozhodovanie, ovládanie a využívanie moderných programovacích jazykov, knižníc a prostredí (Matlab, C, C++, C#) pri projektovaní produktov a služieb pre inteligentné vizuálne interakcie\n\n\nStručná osnova predmetu:\n- Úvod do počítačového videnia, vzťah k iným vedám, informačné zdroje.\n- Zdroje obrazu, získanie číslicovej formy.\n- Reprezentácie obrazov obrazový priestor, základná vnútorné a vonkajšie reprezentácie, tradičné a hierarchické, formáty, maticová reprezentácia obrazu, stratové a bezstratové kódovanie.\n- Grafické formáty, farebné modely obrazov.\n- Vlastnosti číslicových obrazov (vizuálne, metrické, topologické, štatistické, kontextové, textúrové).\n- Bodové operácie - redukcia farieb, jasové a geometrické transformácie.\n- Lokálne operácie lineárne, nelineárne; vyhladzovanie, detekcia hrán.\n- Globálne operácie - Fourierova a iné transformácie.\n- Segmentácia obrazov prahovaním, na báze oblastí (hranice, homogenita), aktívne kontúry.\n- Morfologické spracovanie obrazov.\n- Identifikácia objektov a ich popis, rozpoznávanie objektov príznakový a syntaktický prístup.\n- Úvod do 3D rekonštrukcie a zobrazovania.\n- Systémy počítačového videnia a aplikácie.\n\nOdporúčaná literatúra:\nŠONKA, M. - HLAVÁČ, V.: Počítačové videní, Grada 1992, ISBN 80-85424-67-3\nŠONKA, M. HLAVÁČ, V. BOYLE, R.: Image Processing, Analysis, and Machine Vision. PSW Publishing, 2nd Edition, p. 755, 1998, ISBN 0-534-95393-X\nBundzel, M. - ZOLOTOVÁ, I.: Počítačové videnie v praxi, Elfa 2013, s. 90, ISBN 978-80-8086-225-1\nhttp://www.mathworks.com/academia/ - Matlab, Simulink, Toolboxy, Blocksety\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 947\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n12%\n12%\n19%\n21%\n20%\n16%\n\n\nZabezpečuje:\ndoc. Ing. Marek Bundzel, PhD.\nIng. Maroš Hliboký, PhD.\nIng. Ján Magyar, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

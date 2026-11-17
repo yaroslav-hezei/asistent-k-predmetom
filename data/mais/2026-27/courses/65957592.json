@@ -1,0 +1,163 @@
+{
+  "predmet_id": "65957592",
+  "code": "26001046",
+  "name": "Elektronika 2",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65957592",
+  "fetched_at": "2026-11-17T15:12:03Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001046"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Elektronika 2"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntest a projekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\ntest a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Úspešným absolvovaním predmetu získa študent základné poznatky o základných selektívnych a viazaných obvodoch, ako aj poznatky zo syntézy vybraných typov pasívnych jednobrán a frekvenčne selektívnych bezstratových filtrov, klasifikácie základných typov filtrov, syntézy reaktančných filtrov (Butterworthove, Čebyševove a Cauerove filtre). Študent získa zručnosti a skúsenosti s návrhom elektrických filtrov pomocou návrhových softvérov. Z oblasti napájania elektronických obvodov študent nadobudne poznatky o zdrojoch napájania elektronických obvodov, automobilových napájacích systémoch, meničoch napätia, manažmente napájania a bezdrôtovom napájaní a nabíjaní, ako aj elektrochemických a alternatívnych zdrojoch napájania."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Frekvenčné charakteristiky lineárnych obvodov. Bódeho asymptotická aproximácia frekvenčných charakteristík lineárnych obvodov. Pasívne dvojpóly (LC, RL, RC, RLC dvojpóly). Rezonančné a viazané obvody. Kanonické realizácie LC dvojpólov. Kryštály ako rezonančné obvody. Elektrické filtre. Impedančné a frekvenčné normovanie. Frekvenčné transformácie. Syntéza bezstratových filtrov. Napájania elektronických systémov. Lineárne regulátory. Elektrochemické a elektrostatické zdroje energie. Solárne články, solar tracking systems. Nabíjacie a ochranné obvody. Integrované riešenia nabíjacích a ochranných obvodov. Bezdrôtové nabíjacie systémy. Znižujúce a zvyšujúce meniče napätia. Power management elektronických zariadení. Inteligentné obvody správy napájania. Automobilové napájacie systémy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] Hájek, K.- Sedláček, J.: Kmitočtové filtry. Praha, BEN 2002, ISBN 80-7300-023-7, [2] Dostál, T.: Elektrické filtry: přednášky a numerická cvičení. Brno, BEN, 2002, ISBN 80-7300-023-7, [3] Analog Devices: Power Management. Basic Linear Design. 2007, http://www.analog.com/media/en/training-seminars/design-handbooks/Basic-Linear-Design/Chapter9.pdf, [4] Amtex Electronics: Principles of Power Conversion. Artesyn, 2005, http://www.amtex.com.au/application_notes_pdf/CHP1-Princ._Power_Convers.pdf, [5] Zhang, H.: Basic Concepts of Linear Regulator and Switching Mode Power Supplies. Linear Technology, 2013, http://cds.linear.com/docs/en/application-note/AN140fa.pdf"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby na prednáškach, cvičeniach, ako aj samostatné štúdium a tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu a forme, spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 198\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n7%\n15%\n29%\n14%\n31%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Pavol Galajda, CSc.\nIng. Slavomír Kardoš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 198,
+    "percent": {
+      "A": 5,
+      "B": 7,
+      "C": 15,
+      "D": 29,
+      "E": 14,
+      "FX": 31
+    }
+  },
+  "teachers": [
+    "prof. Ing. Pavol Galajda, CSc.",
+    "Ing. Slavomír Kardoš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26001046\nNázov predmetu: Elektronika 2\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntest a projekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\ntest a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nÚspešným absolvovaním predmetu získa študent základné poznatky o základných selektívnych a viazaných obvodoch, ako aj poznatky zo syntézy vybraných typov pasívnych jednobrán a frekvenčne selektívnych bezstratových filtrov, klasifikácie základných typov filtrov, syntézy reaktančných filtrov (Butterworthove, Čebyševove a Cauerove filtre). Študent získa zručnosti a skúsenosti s návrhom elektrických filtrov pomocou návrhových softvérov. Z oblasti napájania elektronických obvodov študent nadobudne poznatky o zdrojoch napájania elektronických obvodov, automobilových napájacích systémoch, meničoch napätia, manažmente napájania a bezdrôtovom napájaní a nabíjaní, ako aj elektrochemických a alternatívnych zdrojoch napájania.\n\nStručná osnova predmetu:\nFrekvenčné charakteristiky lineárnych obvodov. Bódeho asymptotická aproximácia frekvenčných charakteristík lineárnych obvodov. Pasívne dvojpóly (LC, RL, RC, RLC dvojpóly). Rezonančné a viazané obvody. Kanonické realizácie LC dvojpólov. Kryštály ako rezonančné obvody. Elektrické filtre. Impedančné a frekvenčné normovanie. Frekvenčné transformácie. Syntéza bezstratových filtrov. Napájania elektronických systémov. Lineárne regulátory. Elektrochemické a elektrostatické zdroje energie. Solárne články, solar tracking systems. Nabíjacie a ochranné obvody. Integrované riešenia nabíjacích a ochranných obvodov. Bezdrôtové nabíjacie systémy. Znižujúce a zvyšujúce meniče napätia. Power management elektronických zariadení. Inteligentné obvody správy napájania. Automobilové napájacie systémy.\n\nOdporúčaná literatúra:\n[1] Hájek, K.- Sedláček, J.: Kmitočtové filtry. Praha, BEN 2002, ISBN 80-7300-023-7, [2] Dostál, T.: Elektrické filtry: přednášky a numerická cvičení. Brno, BEN, 2002, ISBN 80-7300-023-7, [3] Analog Devices: Power Management. Basic Linear Design. 2007, http://www.analog.com/media/en/training-seminars/design-handbooks/Basic-Linear-Design/Chapter9.pdf, [4] Amtex Electronics: Principles of Power Conversion. Artesyn, 2005, http://www.amtex.com.au/application_notes_pdf/CHP1-Princ._Power_Convers.pdf, [5] Zhang, H.: Basic Concepts of Linear Regulator and Switching Mode Power Supplies. Linear Technology, 2013, http://cds.linear.com/docs/en/application-note/AN140fa.pdf\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby na prednáškach, cvičeniach, ako aj samostatné štúdium a tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu a forme, spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 198\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n5%\n7%\n15%\n29%\n14%\n31%\n\n\nZabezpečuje:\nprof. Ing. Pavol Galajda, CSc.\nIng. Slavomír Kardoš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

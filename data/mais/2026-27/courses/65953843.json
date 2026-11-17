@@ -1,0 +1,164 @@
+{
+  "predmet_id": "65953843",
+  "code": "26001251",
+  "name": "Špecifikácia a testovanie softvéru",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953843",
+  "fetched_at": "2026-11-17T15:11:14Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001251"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Špecifikácia a testovanie softvéru"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Dištančná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": "1 prof. or."
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nindividuálne a skupinové zadanie"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa základné poznatky o princípoch a metódach testovania softvérových systémov a o rôznych úrovniach a typoch testovania. Osvojí si vzťah medzi testovaním a špecifikáciou softvéru, naučí sa nástroje a postupy pre špecifikáciu požiadaviek, konceptuálne modelovania a špecifikáciu procesov. Osvojí si základné zručnosti potrebné pre navrhovanie testovacích prípadov, prácu s nástrojmi na automatizáciu testovania a pre analýzu výsledkov testovania. Po úspešnom absolvovaní predmetu bude študent schopný pochopiť a špecifikovať požiadavky na softvér, testovať softvér v rôznych fázach vývoja, navrhovať testy pre jednotlivé fázy vývoja, používať metódy a nástroje pre podporu analýzy, návrhu a automatizácie testov, vytvárať potrebnú dokumentáciu pre testovanie."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Význam špecifikácie a testovania softvéru, typy testovania.\n2. Pochopenie zadanie a dolovanie požiadaviek na softvérový systém.\n3. Analýza objektov a operácií a konceptuálny návrh.\n4. Analýza procesov a modelovanie správania softvérových systémov.\n5. Základy jazyka UML (Unified Modeling Language).\n6. Pokročilé jednotkové testovanie, mockovanie a nástroje na jeho automatizáciu.\n7. Vývoj riadený testami (TDD).\n8. Integračné testovanie, end-to-end testovanie a nástroje na jeho automatizáciu.\n9. Akceptačné testovanie a Behavior Driven Development (BDD).\n10. Manuálne testovanie, testovacie techniky a návrh testovacích prípadov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] CHODAREV, S. et al. Základy softvérového inžinierstva [online]. Dostupné na internete: https://moodle.fei.tuke.sk/course/view.php?id=22.\n[2] CHODAREV, S. et al. Základy softvérového inžinierstva. Košice: TUKE, 2020. 78 s. ISBN 978-80-553-3576-6.\n[3] THOMAS, D. - HUNT, A. The pragmatic programmer: your journey to mastery. Second edition, 20th anniversary edtion. Boston: Addison-Wesley, 2020. 321 s. ISBN 978-0-13-595705-9.\n[4] KHORIKOV, V. Unit testing principles, practices, and patterns. New York: Manning Publications, 2020. 304 s. ISBN 978-1617296277.\n[5] MARTIN, R.C. Clean code: a handbook of agile software craftsmanship. Upper Saddle River, N.J: Prentice Hall, 2009. 431 s. ISBN 978-0-13-608323-8.\n[6] FARLEY, D. Modern software engineering: doing what works to build better software faster. Boston: Addison-Wesley, 2022. 224 s. ISBN 978-0-13-731491-1.\n[7] FOWLER, M. UML distilled: a brief guide to the standard object modeling language. 3 vyd. Boston: Addison-Wesley, 2004. 175 s. ISBN 978-0-321-19368-1."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. William Steingartner, PhD.\nIng. Marek Horváth, PhD.\nIng. Sergej Chodarev, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Aplikovaná informatika (ApI_Bc_D_sk)",
+      "degree": "1. PO",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 0,
+    "percent": {
+      "A": 0,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0,
+      "FX": 0
+    }
+  },
+  "teachers": [
+    "doc. Ing. William Steingartner, PhD.",
+    "Ing. Marek Horváth, PhD.",
+    "Ing. Sergej Chodarev, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001251\nNázov predmetu: Špecifikácia a testovanie softvéru\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Dištančná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nAplikovaná informatika (ApI_Bc_D_sk)\n1. PO\nPrezenčná\n\n\nStupeň štúdia: 1 prof. or.\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nindividuálne a skupinové zadanie\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa základné poznatky o princípoch a metódach testovania softvérových systémov a o rôznych úrovniach a typoch testovania. Osvojí si vzťah medzi testovaním a špecifikáciou softvéru, naučí sa nástroje a postupy pre špecifikáciu požiadaviek, konceptuálne modelovania a špecifikáciu procesov. Osvojí si základné zručnosti potrebné pre navrhovanie testovacích prípadov, prácu s nástrojmi na automatizáciu testovania a pre analýzu výsledkov testovania. Po úspešnom absolvovaní predmetu bude študent schopný pochopiť a špecifikovať požiadavky na softvér, testovať softvér v rôznych fázach vývoja, navrhovať testy pre jednotlivé fázy vývoja, používať metódy a nástroje pre podporu analýzy, návrhu a automatizácie testov, vytvárať potrebnú dokumentáciu pre testovanie.\n\nStručná osnova predmetu:\n1. Význam špecifikácie a testovania softvéru, typy testovania.\n2. Pochopenie zadanie a dolovanie požiadaviek na softvérový systém.\n3. Analýza objektov a operácií a konceptuálny návrh.\n4. Analýza procesov a modelovanie správania softvérových systémov.\n5. Základy jazyka UML (Unified Modeling Language).\n6. Pokročilé jednotkové testovanie, mockovanie a nástroje na jeho automatizáciu.\n7. Vývoj riadený testami (TDD).\n8. Integračné testovanie, end-to-end testovanie a nástroje na jeho automatizáciu.\n9. Akceptačné testovanie a Behavior Driven Development (BDD).\n10. Manuálne testovanie, testovacie techniky a návrh testovacích prípadov.\n\nOdporúčaná literatúra:\n[1] CHODAREV, S. et al. Základy softvérového inžinierstva [online]. Dostupné na internete: https://moodle.fei.tuke.sk/course/view.php?id=22.\n[2] CHODAREV, S. et al. Základy softvérového inžinierstva. Košice: TUKE, 2020. 78 s. ISBN 978-80-553-3576-6.\n[3] THOMAS, D. - HUNT, A. The pragmatic programmer: your journey to mastery. Second edition, 20th anniversary edtion. Boston: Addison-Wesley, 2020. 321 s. ISBN 978-0-13-595705-9.\n[4] KHORIKOV, V. Unit testing principles, practices, and patterns. New York: Manning Publications, 2020. 304 s. ISBN 978-1617296277.\n[5] MARTIN, R.C. Clean code: a handbook of agile software craftsmanship. Upper Saddle River, N.J: Prentice Hall, 2009. 431 s. ISBN 978-0-13-608323-8.\n[6] FARLEY, D. Modern software engineering: doing what works to build better software faster. Boston: Addison-Wesley, 2022. 224 s. ISBN 978-0-13-731491-1.\n[7] FOWLER, M. UML distilled: a brief guide to the standard object modeling language. 3 vyd. Boston: Addison-Wesley, 2004. 175 s. ISBN 978-0-321-19368-1.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 0\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n0%\n0%\n0%\n0%\n0%\n0%\n\n\nZabezpečuje:\ndoc. Ing. William Steingartner, PhD.\nIng. Marek Horváth, PhD.\nIng. Sergej Chodarev, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

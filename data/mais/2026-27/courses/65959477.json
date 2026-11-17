@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65959477",
+  "code": "26000136",
+  "name": "Databázové systémy - SQL Oracle",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65959477",
+  "fetched_at": "2026-11-17T15:12:28Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra elektroenergetiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000136"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Databázové systémy - SQL Oracle"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežná kontrola a zadanie. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%."
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nPísomná skúška. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%."
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Základné princípy SQL. Základy SQL: práca s jednou tabuľkou, agregačné funkcie, vnorené dopyty, modifikácia dát, integritné obmedzenia, modifikácia štruktúry tabuľky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Úvod do SQL a databáz, historický vývoj, relačný model.\n2. Návrh databáz, metodológia návrhu databáz, chyby v návrhu.\n3. Úvod do jazyka SQL, modifikácia štruktúry tabuľky, príkaz SELECT.\n4. Manipulácia s viacerými tabuľkami, princíp množín.\n5. Zoskupenie dát, agregačné funkcie.\n6. Ďalšie črty SQL, pohľady, triggre, indexy."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "[1] T. Conolly, C. Begg, R. Holowczak: Mistrovství – databáze, Computer Press 2009, ISBN 978-80-251-2328-7\n[2] M. J. Hernandez, J. L. Viescas: Myslíme v jazyku SQL tvorba dotazu, Grada, Praha 2004, ISBN 80-247-0899-X\n[3] David Procházka: ORACLE, pruvodce správou, využitím a programováním nad databázovým systémem, GRADA, Praha 2009, ISBN 978-80-247-2762-2\n[4] M.J.Hernandez: Návrh databází, GRADA, Praha 2006, ISBN 80-247-0900-7\n[5] dokumentácia Oracle http://download.oracle.com/docs/cd/B19306_01/appdev.102/b14251/adfns_regexp.htm"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pracovná záťaž: priama výučba – prednášky – 26 hod, cvičenia - 13 hod, projektová práca – 13 hod, príprava prezentácie projektovej práce – 20 hod, príprava na test priebežného hodnotenia – 20 hod, príprava na skúšku – 45 hod, konzultácia zadania – 13 hod."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 476\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n25%\n32%\n17%\n5%\n10%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Jaroslav Petráš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra elektroenergetiky",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "2.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 476,
+    "percent": {
+      "A": 11,
+      "B": 25,
+      "C": 32,
+      "D": 17,
+      "E": 5,
+      "FX": 10
+    }
+  },
+  "teachers": [
+    "doc. Ing. Jaroslav Petráš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra elektroenergetiky\n\n\nKód predmetu: 26000136\nNázov predmetu: Databázové systémy - SQL Oracle\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n2.rok LS\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\n1.\n1.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nPriebežná kontrola a zadanie. Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% zo 40%.\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nPísomná skúška. Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% zo 60%.\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nZákladné princípy SQL. Základy SQL: práca s jednou tabuľkou, agregačné funkcie, vnorené dopyty, modifikácia dát, integritné obmedzenia, modifikácia štruktúry tabuľky.\n\nStručná osnova predmetu:\n1. Úvod do SQL a databáz, historický vývoj, relačný model.\n2. Návrh databáz, metodológia návrhu databáz, chyby v návrhu.\n3. Úvod do jazyka SQL, modifikácia štruktúry tabuľky, príkaz SELECT.\n4. Manipulácia s viacerými tabuľkami, princíp množín.\n5. Zoskupenie dát, agregačné funkcie.\n6. Ďalšie črty SQL, pohľady, triggre, indexy.\n\nOdporúčaná literatúra:\n[1] T. Conolly, C. Begg, R. Holowczak: Mistrovství – databáze, Computer Press 2009, ISBN 978-80-251-2328-7\n[2] M. J. Hernandez, J. L. Viescas: Myslíme v jazyku SQL tvorba dotazu, Grada, Praha 2004, ISBN 80-247-0899-X\n[3] David Procházka: ORACLE, pruvodce správou, využitím a programováním nad databázovým systémem, GRADA, Praha 2009, ISBN 978-80-247-2762-2\n[4] M.J.Hernandez: Návrh databází, GRADA, Praha 2006, ISBN 80-247-0900-7\n[5] dokumentácia Oracle http://download.oracle.com/docs/cd/B19306_01/appdev.102/b14251/adfns_regexp.htm\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pracovná záťaž: priama výučba – prednášky – 26 hod, cvičenia - 13 hod, projektová práca – 13 hod, príprava prezentácie projektovej práce – 20 hod, príprava na test priebežného hodnotenia – 20 hod, príprava na skúšku – 45 hod, konzultácia zadania – 13 hod.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 476\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n11%\n25%\n32%\n17%\n5%\n10%\n\n\nZabezpečuje:\ndoc. Ing. Jaroslav Petráš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

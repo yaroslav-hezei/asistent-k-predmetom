@@ -1,0 +1,253 @@
+{
+  "predmet_id": "65953562",
+  "code": "2607391",
+  "name": "Programovanie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65953562",
+  "fetched_at": "2026-11-17T15:10:53Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "2607391"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Programovanie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,2"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,26"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná, Kombinovaná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "5"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "priebežné testy, 2 zadania, zápočtový test"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nskúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Tento kurz sa venuje pokročilým témam v jazyku C. Študenti sa naučia používať štruktúrované údajové typy, dynamicky spravovať pamäť, vytvárať a pracovať s dynamickými zoznamami, používať štandardné knižnice, rozumieť regulárnym výrazom a pod. Taktiež sa naučia organizovať svoj kód do modulov a osvoja si základy prístupu programovania riadeného testami. Záver kurzu je venovaný základom programovania mikrokontrolérov pomocou prototypovacej dosky Arduino Uno."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Umiestnenie údajov v pamäti, operátory referencie a dereferencie, odovzdávanie parametrov hodnotou vs adresou\n2. Dynamická alokácia a uvoľnenie pamäte, problémy pri alokácii, pravouhlé a zubaté pole, pole smerníkov\n3. Štruktúrované údajové typy, používateľom definované údajové typy, binárne súbory, serializácia a deserializácia\n4. Vyhľadávanie a triedenie zoznamov\n5. Reprezentácia času v počítači, pretečenie, enumeračné typy, exit status, štandardné kanály/prúdy\n6. Regulárne výrazy\n7. Spájané zoznamy, rozličné typy spájaných zoznamov, CRUD operácie nad spájanými zoznamami\n8. Binárne vyhľadávacie stromy a únie\n9. Prototypovacia doska Arduino UNO, cyklus Sense-Think-Act, mapa pamäte mikrokontroléra Atmega328P, fragmentácia\n10. Sériová komunikácia, digitálny vstup a výstup, digitálno-analógový prevodník\n11. Stavové stroje, diagramy stavov\n12. Prerušenia, polling, režimy spánku, maskovanie bitov"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Herout, P.: Učebnice jazyka C (1. díl). Kopp, 2009\n2. Kerninghan, B.,W., Ritchie, D.,M.: Programovací jazyk C. Alfa, Bratislava, 1989\n3. Biňas, M.: Programovanie v jazyku C, 2021, ISBN: 978-80-553-3963-4"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 16748\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n6%\n10%\n16%\n22%\n38%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Eva Chovancová, PhD.\ndoc. Ing. Tibor Vince, PhD.\nIng. Filip Gurbáľ, PhD.\ndoc. Ing. Jaroslav Petráš, PhD.\ndoc. Ing. Ondrej Kováč, PhD.\nIng. Miroslav Biňas, PhD.\nIng. Branislav Setlák\ndoc. Ing. Ján Genči, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 5,
+    "recommended_semester": "LS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Hospodárska informatika (HI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Aplikovaná elektrotechnika (ApE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Elektroenergetika (EE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Bc_D_en)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Kyberbezpečnosť (KB_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Priemyselná elektrotechnika (PE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Počítačové modelovanie (PM_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Umelá inteligencia (UI_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Inteligentné systémy (IntS_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok LS",
+      "program": "Informatika (INF_Bc_D_KM)",
+      "degree": "1.",
+      "method": "Kombinovaná"
+    }
+  ],
+  "grades": {
+    "total_students": 16748,
+    "percent": {
+      "A": 8,
+      "B": 6,
+      "C": 10,
+      "D": 16,
+      "E": 22,
+      "FX": 38
+    }
+  },
+  "teachers": [
+    "doc. Ing. Eva Chovancová, PhD.",
+    "doc. Ing. Tibor Vince, PhD.",
+    "Ing. Filip Gurbáľ, PhD.",
+    "doc. Ing. Jaroslav Petráš, PhD.",
+    "doc. Ing. Ondrej Kováč, PhD.",
+    "Ing. Miroslav Biňas, PhD.",
+    "Ing. Branislav Setlák",
+    "doc. Ing. Ján Genči, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 2607391\nNázov predmetu: Programovanie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,2\nExterná forma štúdia (hodiny za semester): LS 26,26\nMetóda štúdia: Prezenčná, Kombinovaná\n\nPočet kreditov: 5\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nHospodárska informatika (HI_Bc_D_sk)\nAutomobilová elektronika (AE_Bc_D_sk)\nAplikovaná elektrotechnika (ApE_Bc_D_KM)\nAplikovaná elektrotechnika (ApE_Bc_D_sk)\nElektroenergetika (EE_Bc_D_en)\nElektroenergetika (EE_Bc_D_sk)\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Bc_D_sk)\nInformatika (INF_Bc_D_en)\nInformatika (INF_Bc_D_sk)\nKyberbezpečnosť (KB_Bc_D_sk)\nPriemyselná elektrotechnika (PE_Bc_D_sk)\nPočítačové modelovanie (PM_Bc_D_sk)\nUmelá inteligencia (UI_Bc_D_sk)\nInteligentné systémy (IntS_Bc_D_sk)\nInformatika (INF_Bc_D_KM)\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\n1.\nPrezenčná\nPrezenčná\nKombinovaná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nPrezenčná\nKombinovaná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\npriebežné testy, 2 zadania, zápočtový test\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nskúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nTento kurz sa venuje pokročilým témam v jazyku C. Študenti sa naučia používať štruktúrované údajové typy, dynamicky spravovať pamäť, vytvárať a pracovať s dynamickými zoznamami, používať štandardné knižnice, rozumieť regulárnym výrazom a pod. Taktiež sa naučia organizovať svoj kód do modulov a osvoja si základy prístupu programovania riadeného testami. Záver kurzu je venovaný základom programovania mikrokontrolérov pomocou prototypovacej dosky Arduino Uno.\n\nStručná osnova predmetu:\n1. Umiestnenie údajov v pamäti, operátory referencie a dereferencie, odovzdávanie parametrov hodnotou vs adresou\n2. Dynamická alokácia a uvoľnenie pamäte, problémy pri alokácii, pravouhlé a zubaté pole, pole smerníkov\n3. Štruktúrované údajové typy, používateľom definované údajové typy, binárne súbory, serializácia a deserializácia\n4. Vyhľadávanie a triedenie zoznamov\n5. Reprezentácia času v počítači, pretečenie, enumeračné typy, exit status, štandardné kanály/prúdy\n6. Regulárne výrazy\n7. Spájané zoznamy, rozličné typy spájaných zoznamov, CRUD operácie nad spájanými zoznamami\n8. Binárne vyhľadávacie stromy a únie\n9. Prototypovacia doska Arduino UNO, cyklus Sense-Think-Act, mapa pamäte mikrokontroléra Atmega328P, fragmentácia\n10. Sériová komunikácia, digitálny vstup a výstup, digitálno-analógový prevodník\n11. Stavové stroje, diagramy stavov\n12. Prerušenia, polling, režimy spánku, maskovanie bitov\n\nOdporúčaná literatúra:\n1. Herout, P.: Učebnice jazyka C (1. díl). Kopp, 2009\n2. Kerninghan, B.,W., Ritchie, D.,M.: Programovací jazyk C. Alfa, Bratislava, 1989\n3. Biňas, M.: Programovanie v jazyku C, 2021, ISBN: 978-80-553-3963-4\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (prednášky, cvičenia), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 16748\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n8%\n6%\n10%\n16%\n22%\n38%\n\n\nZabezpečuje:\ndoc. Ing. Eva Chovancová, PhD.\ndoc. Ing. Tibor Vince, PhD.\nIng. Filip Gurbáľ, PhD.\ndoc. Ing. Jaroslav Petráš, PhD.\ndoc. Ing. Ondrej Kováč, PhD.\nIng. Miroslav Biňas, PhD.\nIng. Branislav Setlák\ndoc. Ing. Ján Genči, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

@@ -1,0 +1,182 @@
+{
+  "predmet_id": "65954370",
+  "code": "26001088",
+  "name": "Výskumné metódy v informatike a kyberbezpečnosti",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65954370",
+  "fetched_at": "2026-11-17T15:11:33Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra počítačov a informatiky"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001088"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Výskumné metódy v informatike a kyberbezpečnosti"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Seminár, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "3,3"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 39,39"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Klasifikovaný zápočet"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "sumár článku, anotovaná bibliografia, prezentácia, spracovanie výskumných dát, diskusia"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nrecenzie článkov, test"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študenti sa naučia systematicky zisťovať stav danej výskumnej oblasti vo svete, vyhľadávať relevantné literárne zdroje, porozumieť štruktúre vedeckých článkov, kriticky ich hodnotiť a uchovávať si prehľad o získaných vedomostiach. Získajú tiež poznatky o výskumných metódach, ktoré bude môcť využiť pri návrhu vlastných vedeckých štúdií a experimentov, ale i pri vyhodnocovaní navrhnutých systémov. Na príkladoch sa naučia vhodne prezentovať výsledky."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "1. Definícia výskumu, voľba vhodnej metódy podľa hypotézy alebo výskumnej otázky.\n2. Vyhľadávanie relevantných zdrojov a ich správa.\n3. Čítanie vedeckých článkov s porozumením.\n4. Kritické hodnotenie prečítaných článkov, recenzia.\n5. Písanie vedeckých článkov a záverečných prác.\n6. Typy výskumu, teoretický a empirický výskum.\n7. Riadený experiment, korelačná štúdia.\n8. Dotazník, rozhovor, prípadová štúdia.\n9. Benchmarking, sekundárne štúdie a iné metódy.\n10. Validita (správnosť) výskumu a jej ohrozenie.\n11. Časopisy, konferencie, publikovanie a prezentovanie výsledkov.\n12. Financovanie výskumu, duševné vlastníctvo a vedecká etika."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. SULÍR, M. Kurz: Výskumné metódy v informatike a kyberbezpečnosti. Online. 2024. Dostupné na: https://moodle.fei.tuke.sk/course/view.php?id=121. [zobrazené 2025-01-30].\n2. KUMAR, R. Research Methodology: A Step-by-Step Guide for Beginners. 5. vyd. SAGE, 2019.\n3. ZOBEL, J. Writing for Computer Science. Springer, 2014.\n4. WOHLIN, C. et al. Experimentation in Software Engineering. Springer, 2012.\n5. LAZAR, J., FENG, J. a HOCHHEISER, H. Research Methods in Human-Computer Interaction. 2. vyd. Morgan Kaufmann, 2017."
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (semináre), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 167\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n18%\n24%\n26%\n20%\n11%\n1%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Peter Drotár, PhD.\nIng. Matúš Sulír, PhD.\nprof. Ing. Jaroslav Porubän, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra počítačov a informatiky",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Klasifikovaný zápočet",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Informatika (INF_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok ZS",
+      "program": "Kyberbezpečnosť (KB_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 167,
+    "percent": {
+      "A": 18,
+      "B": 24,
+      "C": 26,
+      "D": 20,
+      "E": 11,
+      "FX": 1
+    }
+  },
+  "teachers": [
+    "prof. Ing. Peter Drotár, PhD.",
+    "Ing. Matúš Sulír, PhD.",
+    "prof. Ing. Jaroslav Porubän, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra počítačov a informatiky\n\n\nKód predmetu: 26001088\nNázov predmetu: Výskumné metódy v informatike a kyberbezpečnosti\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Seminár, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 3,3\nExterná forma štúdia (hodiny za semester): ZS 39,39\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\n2.rok ZS\nInformatika (INF_Ing_D_sk)\nKyberbezpečnosť (KB_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Klasifikovaný zápočet\nPriebežné hodnotenie (PH):\nsumár článku, anotovaná bibliografia, prezentácia, spracovanie výskumných dát, diskusia\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 51% z 100%.\nrecenzie článkov, test\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudenti sa naučia systematicky zisťovať stav danej výskumnej oblasti vo svete, vyhľadávať relevantné literárne zdroje, porozumieť štruktúre vedeckých článkov, kriticky ich hodnotiť a uchovávať si prehľad o získaných vedomostiach. Získajú tiež poznatky o výskumných metódach, ktoré bude môcť využiť pri návrhu vlastných vedeckých štúdií a experimentov, ale i pri vyhodnocovaní navrhnutých systémov. Na príkladoch sa naučia vhodne prezentovať výsledky.\n\nStručná osnova predmetu:\n1. Definícia výskumu, voľba vhodnej metódy podľa hypotézy alebo výskumnej otázky.\n2. Vyhľadávanie relevantných zdrojov a ich správa.\n3. Čítanie vedeckých článkov s porozumením.\n4. Kritické hodnotenie prečítaných článkov, recenzia.\n5. Písanie vedeckých článkov a záverečných prác.\n6. Typy výskumu, teoretický a empirický výskum.\n7. Riadený experiment, korelačná štúdia.\n8. Dotazník, rozhovor, prípadová štúdia.\n9. Benchmarking, sekundárne štúdie a iné metódy.\n10. Validita (správnosť) výskumu a jej ohrozenie.\n11. Časopisy, konferencie, publikovanie a prezentovanie výsledkov.\n12. Financovanie výskumu, duševné vlastníctvo a vedecká etika.\n\nOdporúčaná literatúra:\n1. SULÍR, M. Kurz: Výskumné metódy v informatike a kyberbezpečnosti. Online. 2024. Dostupné na: https://moodle.fei.tuke.sk/course/view.php?id=121. [zobrazené 2025-01-30].\n2. KUMAR, R. Research Methodology: A Step-by-Step Guide for Beginners. 5. vyd. SAGE, 2019.\n3. ZOBEL, J. Writing for Computer Science. Springer, 2014.\n4. WOHLIN, C. et al. Experimentation in Software Engineering. Springer, 2012.\n5. LAZAR, J., FENG, J. a HOCHHEISER, H. Research Methods in Human-Computer Interaction. 2. vyd. Morgan Kaufmann, 2017.\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu sa od študenta očakáva aktívna účasť na vzdelávacích činnostiach priamej výučby (semináre), ako aj samostatné štúdium a samostatná tvorivá činnosť pri spracovaní semestrálnych projektov (zadaní) na stanovenú tému. Časová náročnosť: 8hod/týždeň.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 167\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n18%\n24%\n26%\n20%\n11%\n1%\n\n\nZabezpečuje:\nprof. Ing. Peter Drotár, PhD.\nIng. Matúš Sulír, PhD.\nprof. Ing. Jaroslav Porubän, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

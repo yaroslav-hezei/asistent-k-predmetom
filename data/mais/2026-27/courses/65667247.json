@@ -1,0 +1,168 @@
+{
+  "predmet_id": "65667247",
+  "code": "26001064",
+  "name": "Hlboké učenie",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65667247",
+  "fetched_at": "2026-11-17T15:00:19Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Ústav umelej inteligencie"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26001064"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Hlboké učenie"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie laboratórne, Projektová práca"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "-"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "ZS 1,1,1"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Absolvent predmetu získa poznatky z oblastí hĺbkového učenia v umelej inteligencie. V úvodnej časti sa realizuje opakovanie základných neurónových sietí, základný koncept dynamického príznakového priestoru ako dôvodu pre hlboké učenie. Súčasné bude podaný prehľad typov hĺbkového učenia rozhodovanie na aký problém aký typ hlbokého učenia použiť. Absolvent získa prehľad o rôznych typoch modelov hlbokého učenia. Súčasne absolvent získa skúsenosti so základnými platformami hĺbkového učenia."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Úvod do hĺbkového učenia (Deep Learning)\n1. Neuronové siete – Perceptron - opakovanie\n2. Kohonenove siete – opakovanie\n3. Prečo Deep Learning?\n4. 3 dôvody prečo hlboke učenie\n5. Ako vybrať typ hĺbkového učenia\n6. Ako riešiť problém šírenia chyby\nModely hlbokého učenia\n1. Neocognitron\n2. LeNET\n3. Boltzmanove stroje\n4. Deep Belief neurónové siete\n5. Konvolučné neurónové siete\nPríklady štúdie Deep Learning riešení\nPríklady Deep Learning platforiem\n1. Microsoft Azure Machine Learning Platform\n2. PowerAI IBM Platform\n3. Keras\n4. Theano\n5. Caffe\n6. TensorFlow"
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "https://cognitiveclass.ai/courses/introduction-deep-learning/\nhttps://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-deep-learning-ai-frameworks"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": "slovenský, anglický"
+    },
+    {
+      "label": "Poznámky",
+      "text": ""
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 229\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n33%\n39%\n12%\n4%\n4%\n8%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "prof. Ing. Peter Sinčák, CSc."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Ústav umelej inteligencie",
+    "credits": 6,
+    "recommended_semester": "ZS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok ZS",
+      "program": "Hospodárska informatika (HI_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "1.rok ZS",
+      "program": "Inteligentné systémy (IntS_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 229,
+    "percent": {
+      "A": 33,
+      "B": 39,
+      "C": 12,
+      "D": 4,
+      "E": 4,
+      "FX": 8
+    }
+  },
+  "teachers": [
+    "prof. Ing. Peter Sinčák, CSc."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Ústav umelej inteligencie\n\n\nKód predmetu: 26001064\nNázov predmetu: Hlboké učenie\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie laboratórne, Projektová práca\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): -\nExterná forma štúdia (hodiny za semester): ZS 1,1,1\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: ZS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok ZS\nHospodárska informatika (HI_Ing_D_sk)\nInteligentné systémy (IntS_Ing_D_sk)\n2.\n2.\nPrezenčná\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\nZápočet\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\nSkúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nAbsolvent predmetu získa poznatky z oblastí hĺbkového učenia v umelej inteligencie. V úvodnej časti sa realizuje opakovanie základných neurónových sietí, základný koncept dynamického príznakového priestoru ako dôvodu pre hlboké učenie. Súčasné bude podaný prehľad typov hĺbkového učenia rozhodovanie na aký problém aký typ hlbokého učenia použiť. Absolvent získa prehľad o rôznych typoch modelov hlbokého učenia. Súčasne absolvent získa skúsenosti so základnými platformami hĺbkového učenia.\n\nStručná osnova predmetu:\nÚvod do hĺbkového učenia (Deep Learning)\n1. Neuronové siete – Perceptron - opakovanie\n2. Kohonenove siete – opakovanie\n3. Prečo Deep Learning?\n4. 3 dôvody prečo hlboke učenie\n5. Ako vybrať typ hĺbkového učenia\n6. Ako riešiť problém šírenia chyby\nModely hlbokého učenia\n1. Neocognitron\n2. LeNET\n3. Boltzmanove stroje\n4. Deep Belief neurónové siete\n5. Konvolučné neurónové siete\nPríklady štúdie Deep Learning riešení\nPríklady Deep Learning platforiem\n1. Microsoft Azure Machine Learning Platform\n2. PowerAI IBM Platform\n3. Keras\n4. Theano\n5. Caffe\n6. TensorFlow\n\n\nOdporúčaná literatúra:\nhttps://cognitiveclass.ai/courses/introduction-deep-learning/\nhttps://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-deep-learning-ai-frameworks\n\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu: slovenský, anglický\n\nPoznámky:\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 229\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n33%\n39%\n12%\n4%\n4%\n8%\n\n\nZabezpečuje:\nprof. Ing. Peter Sinčák, CSc.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}

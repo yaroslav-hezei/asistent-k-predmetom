@@ -1,0 +1,169 @@
+{
+  "predmet_id": "65957487",
+  "code": "26000921",
+  "name": "Návrh a konštrukcia elektronických zariadení",
+  "academic_year": "2026/2027",
+  "source_url": "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65957487",
+  "fetched_at": "2026-11-17T15:11:54Z",
+  "sections": [
+    {
+      "label": "Vysoká škola",
+      "text": "Technická univerzita v Košiciach"
+    },
+    {
+      "label": "Fakulta",
+      "text": "Fakulta elektrotechniky a informatiky"
+    },
+    {
+      "label": "Pracovisko",
+      "text": "Katedra technológií v elektronike"
+    },
+    {
+      "label": "Kód predmetu",
+      "text": "26000921"
+    },
+    {
+      "label": "Názov predmetu",
+      "text": "Návrh a konštrukcia elektronických zariadení"
+    },
+    {
+      "label": "Druh, rozsah a metóda vzdelávacích činností",
+      "text": ""
+    },
+    {
+      "label": "Forma výučby",
+      "text": "Prednáška, Cvičenie numerické, Cvičenie laboratórne"
+    },
+    {
+      "label": "Odporúčaný rozsah výučby (v hodinách)",
+      "text": ""
+    },
+    {
+      "label": "Denná forma štúdia (hodiny za týždeň)",
+      "text": "2,1,1"
+    },
+    {
+      "label": "Externá forma štúdia (hodiny za semester)",
+      "text": "LS 26,13,13"
+    },
+    {
+      "label": "Metóda štúdia",
+      "text": "Prezenčná"
+    },
+    {
+      "label": "Počet kreditov",
+      "text": "6"
+    },
+    {
+      "label": "Odporúčaný semester štúdia",
+      "text": "LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná\n\n\n2.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná"
+    },
+    {
+      "label": "Stupeň štúdia",
+      "text": ""
+    },
+    {
+      "label": "Podmieňujúce predmety",
+      "text": ""
+    },
+    {
+      "label": "Podmienky na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Spôsob hodnotenia a skončenia štúdia predmetu",
+      "text": "Zápočet a skúška"
+    },
+    {
+      "label": "Priebežné hodnotenie (PH)",
+      "text": "Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntest a projekt"
+    },
+    {
+      "label": "Záverečné hodnotenie (ZH)",
+      "text": "Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\ntest a ústna skúška"
+    },
+    {
+      "label": "Celkové hodnotenie",
+      "text": "CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)"
+    },
+    {
+      "label": "Výsledky vzdelávania",
+      "text": "Študent získa poznatky z oblasti konštrukcie elektronických zariadení, zahrnúc rozvody, konektory, ochranné prvky, ich integráciu do systémov, chladenie, tienenie a elektromagnetickú kompatibilitu, ako aj špecifiká elektrickej a elektronickej výbavy automobilových systémov."
+    },
+    {
+      "label": "Stručná osnova predmetu",
+      "text": "Vymedzenie pojmov, historický vývoj konštrukcií elektronických zariadení.\nPožiadavky na elektrické, mechanické a dizajnové vlastnosti elektronických zariadení.\nKovové, anorganické a polymérne konštrukčné materiály.\nKlasické a flexibilné káblové rozvody elektronických systémov a ich dimenzovanie.\nKonštrukčné prvky, konektory a svorkovnice, povrchové úpravy kontaktov.\nIntegrácia konektorov, svorkovníc a spojok do elektronických systémov.\nKonektory a svorkovnice pre spotrebnú, výpočtovú a automobilovú elektroniku.\nPuzdrenie elektronických obvodov a modulov a ich integrácia do vyšších systémových celkov, integrácia systémov typu SoC, SiP a SoM.\nChladenie elektronických zariadení, pasívne a aktívne chladenie, Peltierove články, tepelné trubice a komôrky.\nOchranné a špeciálne obvodové prvky elektronických systémov z hľadiska typu ochrany (tavné a vratné prúdové poistky, napäťové a tepelné ochrany) a z hľadiska vyhotovenia (kovové, polovodičové a keramické ochranné prvky).\nElektromagnetická interferencia (EMI) a elektromagnetická kompatibilita (EMC) elektronických systémov.\nTienenie elektronických obvodov, topológie tieniacich vrstiev, technológie realizácie.\nŠpecifiká elektrickej a elektronickej výbavy automobilových systémov."
+    },
+    {
+      "label": "Odporúčaná literatúra",
+      "text": "1. Ribbens, W: Understanding Automotive Electronics. An Engineering Perspective. Elsevier Inc., 2012, ISBN: 978-0-08-097097-4, https://www.etf.ues.rs.ba/~slubura/Mehatronicki%20sistemi%20kod%20motora%20i%20vozila/Literatura/understanding%20automative%20electronics.pdf\n2. ISO 19642-4:2019: Road vehicles - Automotive cables, https://www.iso.org/obp/ui/#iso:std:iso:19642:-4:ed-1:v1:en\n3. Deutschmann, B., Winkler, G., Kastner, P.: Impact of electromagnetic interference on the functional safety of smart power devices for automotive applications. Springer, 2018, https://link.springer.com/article/10.1007/s00502-018-0633-4"
+    },
+    {
+      "label": "Odporúčané voliteľné súčasti programu",
+      "text": ""
+    },
+    {
+      "label": "Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu",
+      "text": ""
+    },
+    {
+      "label": "Poznámky",
+      "text": "Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby na prednáškach, cvičeniach, ako aj samostatné štúdium a tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu a forme, spolu 150 h časovej náročnosti práce študenta za semester."
+    },
+    {
+      "label": "Hodnotenie predmetov",
+      "text": "Celkový počet hodnotených študentov: 115\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n7%\n14%\n30%\n23%\n23%"
+    },
+    {
+      "label": "Zabezpečuje",
+      "text": "doc. Ing. Juraj Ďurišin, PhD.\nIng. Slavomír Kardoš, PhD."
+    },
+    {
+      "label": "Dátum poslednej zmeny",
+      "text": "01.09.2026"
+    },
+    {
+      "label": "Schválil",
+      "text": "osoba/osoby zodpovedné za študijný program"
+    }
+  ],
+  "fields": {
+    "department": "Katedra technológií v elektronike",
+    "credits": 6,
+    "recommended_semester": "LS",
+    "completion": "Zápočet a skúška",
+    "last_changed": "2026-09-01",
+    "approved_by": "osoba/osoby zodpovedné za študijný program"
+  },
+  "programs": [
+    {
+      "semester": "1.rok LS",
+      "program": "Fyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)",
+      "degree": "2.",
+      "method": "Prezenčná"
+    },
+    {
+      "semester": "2.rok LS",
+      "program": "Automobilová elektronika (AE_Bc_D_sk)",
+      "degree": "1.",
+      "method": "Prezenčná"
+    }
+  ],
+  "grades": {
+    "total_students": 115,
+    "percent": {
+      "A": 2,
+      "B": 7,
+      "C": 14,
+      "D": 30,
+      "E": 23,
+      "FX": 23
+    }
+  },
+  "teachers": [
+    "doc. Ing. Juraj Ďurišin, PhD.",
+    "Ing. Slavomír Kardoš, PhD."
+  ],
+  "full_text": "Vysoká škola: Technická univerzita v Košiciach\n\nFakulta: Fakulta elektrotechniky a informatiky\n\nPracovisko: Katedra technológií v elektronike\n\n\nKód predmetu: 26000921\nNázov predmetu: Návrh a konštrukcia elektronických zariadení\n\nDruh, rozsah a metóda vzdelávacích činností:\nForma výučby: Prednáška, Cvičenie numerické, Cvičenie laboratórne\nOdporúčaný rozsah výučby (v hodinách):\nDenná forma štúdia (hodiny za týždeň): 2,1,1\nExterná forma štúdia (hodiny za semester): LS 26,13,13\nMetóda štúdia: Prezenčná\n\nPočet kreditov: 6\n\nOdporúčaný semester štúdia: LS\n\n\nOdporúčaný semester\nŠtudijný program\nStupeň štúdia\nMetóda štúdia\n\n1.rok LS\nFyzikálne inžinierstvo progresívnych materiálov (FIPM_Ing_D_sk)\n2.\nPrezenčná\n\n\n2.rok LS\nAutomobilová elektronika (AE_Bc_D_sk)\n1.\nPrezenčná\n\n\nStupeň štúdia:\n\nPodmieňujúce predmety:\n\nPodmienky na absolvovanie predmetu:\nSpôsob hodnotenia a skončenia štúdia predmetu: Zápočet a skúška\nPriebežné hodnotenie (PH): Študent prospeje v PH a získa zápočet, keď splní podmienku získať min. 21% z 40%.\ntest a projekt\nZáverečné hodnotenie (ZH): Študent prospeje v ZH a úspešne vykoná skúšku, keď splní podmienku získať min. 31% z 60%.\ntest a ústna skúška\nCelkové hodnotenie: CH je suma hodnotení získaných študentom za hodnotené obdobie. Celkový výsledok sa stanoví v súlade s vnútornými predpismi TUKE. (študijný poriadok, vnútorný predpis zásady doktorandského štúdia)\n\nVýsledky vzdelávania:\nŠtudent získa poznatky z oblasti konštrukcie elektronických zariadení, zahrnúc rozvody, konektory, ochranné prvky, ich integráciu do systémov, chladenie, tienenie a elektromagnetickú kompatibilitu, ako aj špecifiká elektrickej a elektronickej výbavy automobilových systémov.\n\nStručná osnova predmetu:\nVymedzenie pojmov, historický vývoj konštrukcií elektronických zariadení.\nPožiadavky na elektrické, mechanické a dizajnové vlastnosti elektronických zariadení.\nKovové, anorganické a polymérne konštrukčné materiály.\nKlasické a flexibilné káblové rozvody elektronických systémov a ich dimenzovanie.\nKonštrukčné prvky, konektory a svorkovnice, povrchové úpravy kontaktov.\nIntegrácia konektorov, svorkovníc a spojok do elektronických systémov.\nKonektory a svorkovnice pre spotrebnú, výpočtovú a automobilovú elektroniku.\nPuzdrenie elektronických obvodov a modulov a ich integrácia do vyšších systémových celkov, integrácia systémov typu SoC, SiP a SoM.\nChladenie elektronických zariadení, pasívne a aktívne chladenie, Peltierove články, tepelné trubice a komôrky.\nOchranné a špeciálne obvodové prvky elektronických systémov z hľadiska typu ochrany (tavné a vratné prúdové poistky, napäťové a tepelné ochrany) a z hľadiska vyhotovenia (kovové, polovodičové a keramické ochranné prvky).\nElektromagnetická interferencia (EMI) a elektromagnetická kompatibilita (EMC) elektronických systémov.\nTienenie elektronických obvodov, topológie tieniacich vrstiev, technológie realizácie.\nŠpecifiká elektrickej a elektronickej výbavy automobilových systémov.\n\nOdporúčaná literatúra:\n1. Ribbens, W: Understanding Automotive Electronics. An Engineering Perspective. Elsevier Inc., 2012, ISBN: 978-0-08-097097-4, https://www.etf.ues.rs.ba/~slubura/Mehatronicki%20sistemi%20kod%20motora%20i%20vozila/Literatura/understanding%20automative%20electronics.pdf\n2. ISO 19642-4:2019: Road vehicles - Automotive cables, https://www.iso.org/obp/ui/#iso:std:iso:19642:-4:ed-1:v1:en\n3. Deutschmann, B., Winkler, G., Kastner, P.: Impact of electromagnetic interference on the functional safety of smart power devices for automotive applications. Springer, 2018, https://link.springer.com/article/10.1007/s00502-018-0633-4\n\nOdporúčané voliteľné súčasti programu:\n\n\nJazyk, ktorého znalosť je potrebná na absolvovanie predmetu:\n\nPoznámky: Pre úspešné absolvovanie predmetu je potrebné získať zápočet a úspešne absolvovať skúšku. To v sebe zahŕňa účasť študenta na vzdelávacích činnostiach priamej výučby na prednáškach, cvičeniach, ako aj samostatné štúdium a tvorivú činnosť študenta pri spracovaní semestrálneho zadania/zadaní, projektu na stanovenú tému v stanovenom rozsahu a forme, spolu 150 h časovej náročnosti práce študenta za semester.\n\nHodnotenie predmetov:\nCelkový počet hodnotených študentov: 115\n\n\nA\nB\nC\nD\nE\nFX\n\n\n\n2%\n7%\n14%\n30%\n23%\n23%\n\n\nZabezpečuje:\ndoc. Ing. Juraj Ďurišin, PhD.\nIng. Slavomír Kardoš, PhD.\n\nDátum poslednej zmeny: 01.09.2026\n\nSchválil: osoba/osoby zodpovedné za študijný program",
+  "unknown_labels": []
+}
