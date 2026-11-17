@@ -2,7 +2,7 @@
 id: T-001
 title: MAIS scraper — course sheets and study plans to JSON
 assignee: BM
-status: open          # open → changes → done | dropped
+status: done          # open → changes → done | dropped
 created: 2026-11-15
 due:
 ---
