@@ -1,0 +1,496 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Asistent k predmetom API",
+    "version": "0.1.0"
+  },
+  "paths": {
+    "/health": {
+      "get": {
+        "tags": [
+          "system"
+        ],
+        "summary": "Liveness check",
+        "operationId": "health_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Health"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/programs": {
+      "get": {
+        "tags": [
+          "catalog"
+        ],
+        "summary": "List study programs",
+        "operationId": "list_programs_programs_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/Program"
+                  },
+                  "type": "array",
+                  "title": "Response List Programs Programs Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/programs/{program_id}/courses": {
+      "get": {
+        "tags": [
+          "catalog"
+        ],
+        "summary": "Courses in a program's study plan",
+        "operationId": "list_program_courses_programs__program_id__courses_get",
+        "parameters": [
+          {
+            "name": "program_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Program Id"
+            }
+          },
+          {
+            "name": "year",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "maximum": 4,
+                  "minimum": 1
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "Year of study.",
+              "title": "Year"
+            },
+            "description": "Year of study."
+          },
+          {
+            "name": "semester",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "enum": [
+                    "ZS",
+                    "LS"
+                  ],
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "ZS or LS.",
+              "title": "Semester"
+            },
+            "description": "ZS or LS."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ProgramCourse"
+                  },
+                  "title": "Response List Program Courses Programs  Program Id  Courses Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/courses": {
+      "get": {
+        "tags": [
+          "catalog"
+        ],
+        "summary": "Search courses by name or code",
+        "operationId": "search_courses_courses_get",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "Words to find in the name or code; case and diacritics are ignored.",
+              "title": "Q"
+            },
+            "description": "Words to find in the name or code; case and diacritics are ignored."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CourseSummary"
+                  },
+                  "title": "Response Search Courses Courses Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/courses/{course_id}": {
+      "get": {
+        "tags": [
+          "catalog"
+        ],
+        "summary": "One course",
+        "operationId": "get_course_courses__course_id__get",
+        "parameters": [
+          {
+            "name": "course_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Course Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CourseSummary"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CourseSummary": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id",
+            "description": "MAIS predmetId of the course sheet.",
+            "examples": [
+              "65954478"
+            ]
+          },
+          "code": {
+            "type": "string",
+            "title": "Code",
+            "description": "Course code.",
+            "examples": [
+              "26000629"
+            ]
+          },
+          "name": {
+            "type": "string",
+            "title": "Name",
+            "examples": [
+              "Základy algoritmizácie a programovania"
+            ]
+          },
+          "credits": {
+            "type": "integer",
+            "title": "Credits",
+            "description": "Credits from the information sheet.",
+            "examples": [
+              5
+            ]
+          },
+          "semesters": {
+            "items": {
+              "type": "string",
+              "enum": [
+                "ZS",
+                "LS"
+              ]
+            },
+            "type": "array",
+            "title": "Semesters",
+            "description": "Recommended semester(s) from the information sheet.",
+            "examples": [
+              [
+                "ZS"
+              ]
+            ]
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "code",
+          "name",
+          "credits",
+          "semesters"
+        ],
+        "title": "CourseSummary",
+        "description": "A course as described by its MAIS information sheet."
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "Health": {
+        "properties": {
+          "status": {
+            "type": "string",
+            "const": "ok",
+            "title": "Status"
+          }
+        },
+        "type": "object",
+        "required": [
+          "status"
+        ],
+        "title": "Health"
+      },
+      "Program": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id",
+            "description": "MAIS program id.",
+            "examples": [
+              "65669424"
+            ]
+          },
+          "code": {
+            "type": "string",
+            "title": "Code",
+            "examples": [
+              "HI_Bc_D_sk"
+            ]
+          },
+          "name": {
+            "type": "string",
+            "title": "Name",
+            "examples": [
+              "Hospodárska informatika"
+            ]
+          },
+          "degree": {
+            "type": "string",
+            "enum": [
+              "bc",
+              "bc_po",
+              "ing"
+            ],
+            "title": "Degree",
+            "description": "bc = 1st degree, bc_po = 1st degree professionally oriented, ing = 2nd degree."
+          },
+          "language": {
+            "type": "string",
+            "enum": [
+              "sk",
+              "en"
+            ],
+            "title": "Language",
+            "description": "Teaching language of the program."
+          },
+          "method": {
+            "type": "string",
+            "enum": [
+              "prezencna",
+              "kombinovana"
+            ],
+            "title": "Method",
+            "description": "Study method."
+          },
+          "years": {
+            "type": "integer",
+            "title": "Years",
+            "description": "Standard length of study in years.",
+            "examples": [
+              3
+            ]
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "code",
+          "name",
+          "degree",
+          "language",
+          "method",
+          "years"
+        ],
+        "title": "Program",
+        "description": "A study program (FEI, denná forma, one academic year)."
+      },
+      "ProgramCourse": {
+        "properties": {
+          "course": {
+            "$ref": "#/components/schemas/CourseSummary"
+          },
+          "year": {
+            "type": "integer",
+            "title": "Year",
+            "description": "Year of study.",
+            "examples": [
+              3
+            ]
+          },
+          "semester": {
+            "type": "string",
+            "enum": [
+              "ZS",
+              "LS"
+            ],
+            "title": "Semester",
+            "description": "Semester of the plan; for state-exam courses taken from the sheet."
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "P",
+              "PV",
+              "V"
+            ],
+            "title": "Type",
+            "description": "P = povinný, PV = povinne voliteľný, V = výberový."
+          },
+          "state_exam": {
+            "type": "boolean",
+            "title": "State Exam",
+            "description": "True for courses from the state-exam table."
+          }
+        },
+        "type": "object",
+        "required": [
+          "course",
+          "year",
+          "semester",
+          "type",
+          "state_exam"
+        ],
+        "title": "ProgramCourse",
+        "description": "One course in a program's study plan, placed in a year and semester."
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "ctx": {
+            "type": "object",
+            "title": "Context"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      }
+    }
+  }
+}
