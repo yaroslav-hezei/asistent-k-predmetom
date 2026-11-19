@@ -91,9 +91,6 @@ python scripts/eval/validate.py
 pytest scripts/eval/tests
 ```
 
-On this Windows workstation, use `.venv/Scripts/python.exe -X utf8` in place of
-`python`, and `.venv/Scripts/python.exe -m pytest scripts/eval/tests` for pytest.
-
 To validate a different question file or MAIS snapshot:
 
 ```sh
@@ -127,7 +124,10 @@ then the validator.
 1. Choose an eligible course and read its **whole** information sheet, not just
    search results or a matching section. Never use the plan as answer evidence.
 2. Write a natural student question. Pick a topic that does not overfill that
-   course's topic mix. Keep the language and answer consistent.
+   course's topic mix. Keep the language and answer consistent. Do not put words
+   into the question that a student could know only from the sheet, such as a
+   book title or an author who does not teach the course; they make retrieval
+   trivially easy. A teacher of the course may be named.
 3. If answerable, write the shortest supported answer and copy the shortest
    sufficient literal evidence from its actual section. Do not infer a policy
    from a missing or ambiguous statement.
@@ -140,8 +140,3 @@ then the validator.
 6. Have the human author check every quote, answer and abstention against the
    full sheet before signing off. Automatic validation cannot prove answer
    correctness, the absence of an answer, language quality or topic balance.
-
-This set was prepared with agent assistance, with complete-sheet reading and
-literal evidence checks. The human author confirmed that he checked the questions
-and authorized publication on 2026-11-19. Human sign-off is separate from automatic
-validation; it must not be inferred from a green validator or from these tests.

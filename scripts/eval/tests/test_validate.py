@@ -282,6 +282,19 @@ def test_empty_file_is_an_error(tmp_path, sources):
     assert "Question file must not be empty" in messages(result)
 
 
+def test_cli_prints_diacritics_to_a_pipe(tmp_path, sources, question):
+    question["evidence"][0]["section"] = "Záverečné hodnotenie (ZH)"
+    path = tmp_path / "diacritics.jsonl"
+    path.write_text(json.dumps(question, ensure_ascii=False), encoding="utf-8")
+    completed = subprocess.run(
+        [sys.executable, "-X", "utf8=0", str(ROOT / "scripts/eval/validate.py"),
+         "--data", str(sources), "--questions", str(path)],
+        cwd=ROOT, capture_output=True, encoding="utf-8", check=False,
+    )
+    assert completed.returncode == 1, completed.stderr
+    assert "unknown section 'Záverečné hodnotenie (ZH)'" in completed.stdout
+
+
 def test_validator_runs_with_standard_library_only():
     completed = subprocess.run([sys.executable, "-I", "-S", str(ROOT / "scripts/eval/validate.py")],
                                cwd=ROOT, capture_output=True, text=True, encoding="utf-8")

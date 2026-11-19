@@ -11,6 +11,7 @@ from dataclasses import dataclass, field
 import json
 from pathlib import Path
 import re
+import sys
 from typing import Any
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -211,6 +212,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--questions", type=Path, default=ROOT / "data/eval/questions.jsonl",
                         help="Question JSONL file to validate")
     args = parser.parse_args(argv)
+    # Labels and quotes contain diacritics; a redirected stdout on Windows defaults to a legacy code page.
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     result = validate_file(args.questions, args.data)
     for diagnostic in result.errors:
         print(diagnostic.format("ERROR"))
