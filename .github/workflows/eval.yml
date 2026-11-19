@@ -1,0 +1,33 @@
+name: Evaluation questions
+
+on:
+  pull_request:
+    paths:
+      - 'data/eval/**'
+      - 'scripts/eval/**'
+      - 'data/mais/**'
+      - '.github/workflows/eval.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'data/eval/**'
+      - 'scripts/eval/**'
+      - 'data/mais/**'
+      - '.github/workflows/eval.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/eval/requirements.txt
+      - run: python -m pip install -r scripts/eval/requirements.txt
+      - run: pytest scripts/eval/tests
+      - run: python scripts/eval/validate.py
