@@ -2,7 +2,7 @@
 id: T-003
 title: Evaluation question set and its validator
 assignee: BM
-status: open          # open → changes → done | dropped
+status: done          # open → changes → done | dropped
 created: 2026-11-18
 due:
 ---
