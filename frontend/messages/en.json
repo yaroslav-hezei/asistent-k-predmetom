@@ -1,0 +1,59 @@
+{
+  "layout": {
+    "brand": "Course Assistant",
+    "newChat": "New chat",
+    "menu": "Open navigation",
+    "navigation": "Main navigation",
+    "language": "Language",
+    "sk": "SK",
+    "en": "EN",
+    "nav": {
+      "chat": "Assistant",
+      "questions": "Community questions",
+      "notifications": "Notifications"
+    }
+  },
+  "picker": {
+    "title": "Which course do you want to ask about?",
+    "search": "Search by course name or code…",
+    "results": "Search results",
+    "noResults": "No matching courses found.",
+    "myCourses": "My courses",
+    "change": "Change",
+    "choose": "Choose study program",
+    "invite": "Choose your program, year and semester to see your courses.",
+    "hint": "One chat = one course. Start a new chat to switch courses.",
+    "loading": "Loading…",
+    "error": "Courses could not be loaded. Try again later.",
+    "empty": "No courses found for this year and semester.",
+    "yearSemester": "Year {year}, {semester}",
+    "noSemester": "Semester unspecified"
+  },
+  "study": {
+    "title": "My courses",
+    "description": "Choose your program, year and semester.",
+    "program": "Study program",
+    "select": "Choose a program",
+    "year": "Year",
+    "semester": "Semester",
+    "ZS": "winter semester",
+    "LS": "summer semester",
+    "bc": "Bc.",
+    "bc_po": "Bc. PO",
+    "ing": "Ing.",
+    "en": "EN",
+    "combined": "combined study",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close"
+  },
+  "chat": {
+    "soon": "Asking questions about this course is coming soon.",
+    "missing": "Course not found.",
+    "error": "The course could not be loaded.",
+    "back": "Back to course selection"
+  },
+  "placeholder": {
+    "soon": "This page is coming soon."
+  }
+}

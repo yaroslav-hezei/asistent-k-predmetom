@@ -1,0 +1,59 @@
+{
+  "layout": {
+    "brand": "Asistent k predmetom",
+    "newChat": "Nový chat",
+    "menu": "Otvoriť navigáciu",
+    "navigation": "Hlavná navigácia",
+    "language": "Jazyk",
+    "sk": "SK",
+    "en": "EN",
+    "nav": {
+      "chat": "Asistent",
+      "questions": "Otázky komunity",
+      "notifications": "Upozornenia"
+    }
+  },
+  "picker": {
+    "title": "O ktorom predmete sa chceš pýtať?",
+    "search": "Vyhľadaj predmet podľa názvu alebo kódu…",
+    "results": "Výsledky vyhľadávania",
+    "noResults": "Nenašli sa žiadne predmety.",
+    "myCourses": "Moje predmety",
+    "change": "Zmeniť",
+    "choose": "Vybrať študijný program",
+    "invite": "Vyber si program, ročník a semester, aby sa zobrazili tvoje predmety.",
+    "hint": "Jeden chat = jeden predmet. Predmet môžeš zmeniť vytvorením nového chatu.",
+    "loading": "Načítava sa…",
+    "error": "Predmety sa nepodarilo načítať. Skús to znova neskôr.",
+    "empty": "Pre tento ročník a semester sa nenašli žiadne predmety.",
+    "yearSemester": "{year}. roč., {semester}",
+    "noSemester": "Semester neuvedený"
+  },
+  "study": {
+    "title": "Moje predmety",
+    "description": "Vyber program, ročník a semester.",
+    "program": "Študijný program",
+    "select": "Vyber program",
+    "year": "Ročník",
+    "semester": "Semester",
+    "ZS": "zimný semester",
+    "LS": "letný semester",
+    "bc": "Bc.",
+    "bc_po": "Bc. PO",
+    "ing": "Ing.",
+    "en": "EN",
+    "combined": "kombinovaná",
+    "cancel": "Zrušiť",
+    "save": "Uložiť",
+    "close": "Zavrieť"
+  },
+  "chat": {
+    "soon": "Otázky k predmetu bude možné klásť čoskoro.",
+    "missing": "Predmet sa nenašiel.",
+    "error": "Predmet sa nepodarilo načítať.",
+    "back": "Späť na výber predmetu"
+  },
+  "placeholder": {
+    "soon": "Táto stránka bude dostupná čoskoro."
+  }
+}
