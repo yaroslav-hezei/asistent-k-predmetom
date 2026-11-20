@@ -7,11 +7,6 @@ import "@fontsource/inter/600.css";
 import "@fontsource/inter/700.css";
 import { AppShell } from "@/components/app-shell";
 import "./globals.css";
-import { Geist } from "next/font/google";
-import { cn } from "@/lib/utils";
-
-const geist = Geist({subsets:['latin'],variable:'--font-sans'});
-
 
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getTranslations("layout");
@@ -20,7 +15,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default async function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang={await getLocale()} className={cn("font-sans", geist.variable)}>
+    <html lang={await getLocale()}>
       <body>
         <NextIntlClientProvider>
           <AppShell>{children}</AppShell>
