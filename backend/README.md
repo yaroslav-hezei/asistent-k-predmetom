@@ -1,7 +1,8 @@
 # Backend — FastAPI
 
 The API of the assistant. For now it serves the course catalogue from the committed MAIS snapshot
-`data/mais/2026-27/` (loaded into memory at startup); the database comes later, the API stays the same.
+`data/mais/2026-27/` (loaded into memory at startup). The database (Supabase Postgres) holds a copy
+of the catalogue and, step by step, everything else; the catalogue API stays the same.
 
 ## Run
 
@@ -11,8 +12,12 @@ From `backend/`, Python 3.11+ (CI uses 3.12):
 python -m venv .venv
 # Windows PowerShell: .venv/Scripts/python.exe instead of .venv/bin/python
 .venv/bin/python -m pip install -r requirements-dev.txt
-.venv/bin/python -m uvicorn app.main:app --reload     # http://localhost:8000/docs
+.venv/bin/python -m uvicorn app.main:app --reload --env-file ../.env    # http://localhost:8000/docs
 ```
+
+Without `DATABASE_URL` (no `.env`, or the variable empty) the backend starts without a database and
+still serves the catalogue. With it, the backend connects at startup and stops with an error if the
+database is not reachable.
 
 ## Check (the same as CI)
 
@@ -23,12 +28,47 @@ pytest
 python scripts/export_openapi.py --check
 ```
 
+The database tests in `tests/test_db.py` run only with `TEST_DATABASE_URL` (see "Database");
+without it they are skipped locally. CI always runs them.
+
 ## Environment variables
+
+Put them into `.env` in the repo root (template: `.env.example`). Never commit `.env`.
 
 | Name | Default | Meaning |
 |---|---|---|
+| `DATABASE_URL` | none (no database) | Postgres connection string of the shared Supabase project: Dashboard → **Connect** → **Session pooler** |
 | `MAIS_DATA_DIR` | `data/mais/2026-27` (repo root) | folder with `programs.json` and `courses/` |
 | `FRONTEND_ORIGINS` | `http://localhost:3000` | comma-separated origins allowed by CORS |
+| `TEST_DATABASE_URL` | none (tests skipped) | tests only: a throwaway **local** database, never the cloud one |
+
+## Database
+
+Supabase Postgres. The schema lives in SQL migrations in `supabase/migrations/` (repo root); never
+change tables by hand in the dashboard.
+
+- **Connection:** use the Session pooler string (port 5432). The direct connection is IPv6 only on
+  the free plan, and the Transaction pooler (6543) does not support prepared statements.
+- **Data API closed:** the browser never reads the database; it gets everything from this backend.
+  Every table has row-level security enabled with no policies and no privileges for the `anon` /
+  `authenticated` roles, so the public Supabase key cannot read or write anything. A new table in a
+  later migration must do the same — `tests/test_db.py` fails otherwise.
+- **Catalogue in the database:** `python scripts/import_catalog.py` (from `backend/`) copies the MAIS
+  snapshot into `programs`, `courses` and `program_courses` (32 / 563 / 1349 rows). Safe to run again;
+  it never deletes programs or courses.
+
+Local database for the tests (needs Docker; run from the repo root):
+
+```sh
+npx supabase@3.2.0 db start      # Postgres on 127.0.0.1:54322 with Supabase's roles and auth schema
+npx supabase@3.2.0 db push       # apply the migrations (local by default)
+# then, from backend/:
+TEST_DATABASE_URL=postgresql://postgres:postgres@127.0.0.1:54322/postgres pytest
+npx supabase@3.2.0 stop          # when done
+```
+
+Apply new migrations to the shared cloud database only after the pull request is merged; Yaroslav
+does it.
 
 ## API contract
 

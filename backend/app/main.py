@@ -1,4 +1,4 @@
-"""FastAPI application. Run from `backend/`: `uvicorn app.main:app --reload`."""
+"""FastAPI application. Run from `backend/`: `uvicorn app.main:app --reload --env-file ../.env`."""
 
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
@@ -8,6 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.catalog import Catalog
 from app.config import Settings, get_settings
+from app.db import open_pool
 from app.models.catalog import Health
 from app.routers import catalog
 
@@ -18,7 +19,13 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     @asynccontextmanager
     async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         app.state.catalog = Catalog.load(settings.mais_data_dir)
-        yield
+        # without DATABASE_URL the app still serves the catalogue (from the JSON snapshot)
+        app.state.db = open_pool(settings.database_url) if settings.database_url else None
+        try:
+            yield
+        finally:
+            if app.state.db is not None:
+                app.state.db.close()
 
     app = FastAPI(title="Asistent k predmetom API", version="0.1.0", lifespan=lifespan)
     app.add_middleware(

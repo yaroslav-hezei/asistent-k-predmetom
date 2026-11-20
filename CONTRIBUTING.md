@@ -16,7 +16,8 @@ The repo is public, including the `tasks` branch: never put secrets or personal 
 
 ## Prerequisites
 
-- git, Python 3.10+, Node.js (LTS) — Node is needed for the frontend and for the MCP servers below.
+- git, Python 3.11+ (FastAPI does not install on 3.10), Node.js (LTS) — Node is needed for the
+  frontend and for the MCP servers below.
 - A GitHub account with access to the repo: Yaroslav sends an invitation, accept it (e-mail or github.com/notifications).
 - Your git identity:
   ```
@@ -36,6 +37,10 @@ Use your own prefix (`BM`, `MP`), name and the language your agent should talk t
 (`uk`, `sk`, `en`, …). On Windows use `py` instead of `python` if needed.
 The script creates `tasks/`, `me.md`, `CLAUDE.md`, `.env` and `scratch/`. It never overwrites existing files
 and can be run again safely.
+
+**Database access.** The backend can run without a database (the course catalogue works). When a task
+needs the database, Yaroslav sends you the `DATABASE_URL` privately; put it into `.env` (see
+`.env.example`). Never paste it into a file in the repo, a commit, an issue or a report.
 
 ## Agent tools (MCP servers)
 
