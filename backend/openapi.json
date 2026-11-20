@@ -235,6 +235,81 @@
           }
         }
       }
+    },
+    "/me": {
+      "get": {
+        "tags": [
+          "me"
+        ],
+        "summary": "The logged-in user",
+        "operationId": "read_me_me_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Me"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          }
+        },
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ]
+      },
+      "patch": {
+        "tags": [
+          "me"
+        ],
+        "summary": "Set program, year and semester of the logged-in user",
+        "operationId": "update_me_me_patch",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Study"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Me"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          },
+          "422": {
+            "description": "Unknown program or year."
+          }
+        },
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ]
+      }
     }
   },
   "components": {
@@ -327,6 +402,49 @@
           "status"
         ],
         "title": "Health"
+      },
+      "Me": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id",
+            "description": "User id (Supabase Auth)."
+          },
+          "nickname": {
+            "type": "string",
+            "title": "Nickname",
+            "description": "Shown as the author of questions and answers."
+          },
+          "role": {
+            "type": "string",
+            "enum": [
+              "student",
+              "vyucujuci"
+            ],
+            "title": "Role"
+          },
+          "study": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Study"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Null when the user has not chosen it yet."
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "nickname",
+          "role",
+          "study"
+        ],
+        "title": "Me",
+        "description": "The logged-in user's profile."
       },
       "Program": {
         "properties": {
@@ -451,6 +569,44 @@
         "title": "ProgramCourse",
         "description": "One course in a program's study plan, placed in a year and semester."
       },
+      "Study": {
+        "properties": {
+          "program_id": {
+            "type": "string",
+            "title": "Program Id",
+            "description": "MAIS program id.",
+            "examples": [
+              "65669424"
+            ]
+          },
+          "year": {
+            "type": "integer",
+            "maximum": 6.0,
+            "minimum": 1.0,
+            "title": "Year",
+            "description": "Year of study.",
+            "examples": [
+              3
+            ]
+          },
+          "semester": {
+            "type": "string",
+            "enum": [
+              "ZS",
+              "LS"
+            ],
+            "title": "Semester"
+          }
+        },
+        "type": "object",
+        "required": [
+          "program_id",
+          "year",
+          "semester"
+        ],
+        "title": "Study",
+        "description": "Program, year and semester of a student: what \"Moje predmety\" shows."
+      },
       "ValidationError": {
         "properties": {
           "loc": {
@@ -490,6 +646,13 @@
           "type"
         ],
         "title": "ValidationError"
+      }
+    },
+    "securitySchemes": {
+      "HTTPBearer": {
+        "type": "http",
+        "description": "Supabase access token of the logged-in user.",
+        "scheme": "bearer"
       }
     }
   }

@@ -38,6 +38,8 @@ Put them into `.env` in the repo root (template: `.env.example`). Never commit `
 | Name | Default | Meaning |
 |---|---|---|
 | `DATABASE_URL` | none (no database) | Postgres connection string of the shared Supabase project: Dashboard → **Connect** → **Session pooler** |
+| `SUPABASE_URL` | none (nobody can log in) | `https://<project-ref>.supabase.co`; login tokens are verified with the project's public keys |
+| `SUPABASE_SECRET_KEY` | — | **only** for `scripts/create_test_users.py`; the running backend never needs it |
 | `MAIS_DATA_DIR` | `data/mais/2026-27` (repo root) | folder with `programs.json` and `courses/` |
 | `FRONTEND_ORIGINS` | `http://localhost:3000` | comma-separated origins allowed by CORS |
 | `TEST_DATABASE_URL` | none (tests skipped) | tests only: a throwaway **local** database, never the cloud one |
@@ -70,6 +72,25 @@ npx supabase@3.2.0 stop          # when done
 Apply new migrations to the shared cloud database only after the pull request is merged; Yaroslav
 does it.
 
+## Login
+
+Supabase Auth, email + password, test accounts only (no registration). The frontend logs in with
+Supabase and sends `Authorization: Bearer <access token>`; endpoints that need a user (now `/me`)
+answer 401 without a valid token.
+
+- **Token check** (`app/auth.py`): the token is a JWT signed with the project's asymmetric key
+  (ES256). The backend downloads the public keys from `<SUPABASE_URL>/auth/v1/.well-known/jwks.json`
+  (cached 5 minutes, reloaded once for an unknown key id) and checks signature, issuer
+  (`<SUPABASE_URL>/auth/v1`), audience (`authenticated`) and expiry. Tokens signed with a shared
+  secret (HS256) are never accepted. The user id is the `sub` claim = `profiles.id`.
+- **Test accounts:** `python scripts/create_test_users.py` (from `backend/`, after the catalogue
+  import) creates the accounts of `scripts/test_users.json` in Supabase Auth and their profiles
+  (`testovacie = true`): 10 students of Hospodárska informatika (Bc.) and 3 teachers who verify all
+  42 courses of that program. The demo passwords in that file are shown on the login screen; they
+  are not secrets. Safe to run again. Needs `SUPABASE_SECRET_KEY`.
+- **Registration is off** in the Supabase project (Authentication → "Allow new users to sign up"):
+  accounts exist only through the script.
+
 ## API contract
 
 The Pydantic models in `app/models/` are the source of truth. `openapi.json` is generated from them and
@@ -90,6 +111,8 @@ Catalogue endpoints (details and examples at `/docs` of a running server):
 | `GET /programs/{program_id}/courses?year=&semester=` | courses of a program's study plan, optionally one year / semester |
 | `GET /courses?q=` | courses whose name or code contain every word of `q` (case and diacritics ignored); all 563 without `q` |
 | `GET /courses/{course_id}` | one course |
+| `GET /me` | the logged-in user: id, nickname, role, study (program, year, semester) — needs a token |
+| `PATCH /me` | set program, year and semester of the logged-in user — needs a token |
 
 Data rules:
 
