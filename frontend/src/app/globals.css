@@ -1,0 +1,61 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@theme {
+  --font-sans: "Inter", Arial, sans-serif;
+  --color-fei: #EAAA00;
+  --color-fei-dark: #8A6400;
+  --color-fei-soft: #FDF3D6;
+  --color-on-fei: #1F1B0E;
+  --color-sidebar: #F2F2EF;
+  --color-nav-active: #E7E7E1;
+  --color-line: #E4E4DF;
+  --color-line-strong: #D5D5CF;
+  --color-background: #FAFAF8;
+  --color-foreground: #1F2126;
+  --color-muted-foreground: #6B6E75;
+  --color-card: #FFFFFF;
+  --color-warn-bg: #FDEEE6;
+  --color-warn-border: #F2BFA3;
+  --color-warn-text: #9A3D12;
+  --color-ok-bg: #E3F1E4;
+  --color-ok-text: #2E6B34;
+  --color-unverified-bg: #EEEEEA;
+  --color-unverified-text: #4E5058;
+  --color-official-bg: #E6EDF7;
+  --color-official-text: #244E8A;
+}
+
+@theme inline {
+  --color-card-foreground: var(--color-foreground);
+  --color-popover: var(--color-card);
+  --color-popover-foreground: var(--color-foreground);
+  --color-primary: var(--color-fei);
+  --color-primary-foreground: var(--color-on-fei);
+  --color-secondary: var(--color-sidebar);
+  --color-secondary-foreground: var(--color-foreground);
+  --color-muted: var(--color-sidebar);
+  --color-accent: var(--color-fei-soft);
+  --color-accent-foreground: var(--color-foreground);
+  --color-destructive: var(--color-warn-text);
+  --color-border: var(--color-line);
+  --color-input: var(--color-line-strong);
+  --color-ring: var(--color-fei-dark);
+}
+
+@layer base {
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
+    font-size: 15px;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-fei-dark);
+    outline-offset: 2px;
+  }
+
+  button:not(:disabled) {
+    cursor: pointer;
+  }
+}
