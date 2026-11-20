@@ -2,7 +2,7 @@
 id: T-002
 title: Frontend foundation and the course picker
 assignee: MP
-status: open          # open → changes → done | dropped
+status: done          # open → changes → done | dropped
 created: 2026-11-18
 due:
 ---
