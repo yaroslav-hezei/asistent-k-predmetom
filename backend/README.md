@@ -39,6 +39,7 @@ Put them into `.env` in the repo root (template: `.env.example`). Never commit `
 |---|---|---|
 | `DATABASE_URL` | none (no database) | Postgres connection string of the shared Supabase project: Dashboard → **Connect** → **Session pooler** |
 | `SUPABASE_URL` | none (nobody can log in) | `https://<project-ref>.supabase.co`; login tokens are verified with the project's public keys |
+| `SUPABASE_PUBLISHABLE_KEY` | — | not used by the backend: the public key the browser logs in with (safe to show) |
 | `SUPABASE_SECRET_KEY` | — | **only** for `scripts/create_test_users.py`; the running backend never needs it |
 | `MAIS_DATA_DIR` | `data/mais/2026-27` (repo root) | folder with `programs.json` and `courses/` |
 | `FRONTEND_ORIGINS` | `http://localhost:3000` | comma-separated origins allowed by CORS |
