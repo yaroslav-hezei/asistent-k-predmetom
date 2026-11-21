@@ -55,5 +55,24 @@
   },
   "placeholder": {
     "soon": "This page is coming soon."
+  },
+  "auth": {
+    "title": "Log in",
+    "description": "Log in with your e-mail and password.",
+    "email": "E-mail",
+    "password": "Password",
+    "submit": "Log in",
+    "submitting": "Logging in…",
+    "signIn": "Log in",
+    "signOut": "Log out",
+    "roles": {
+      "student": "Student",
+      "vyucujuci": "Teacher"
+    },
+    "errors": {
+      "invalid": "Wrong e-mail or password.",
+      "failed": "Logging in failed. Try again in a moment.",
+      "unavailable": "Logging in is not available yet."
+    }
   }
 }
