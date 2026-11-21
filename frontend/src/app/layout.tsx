@@ -6,6 +6,8 @@ import "@fontsource/inter/500.css";
 import "@fontsource/inter/600.css";
 import "@fontsource/inter/700.css";
 import { AppShell } from "@/components/app-shell";
+import { MeProvider } from "@/components/me-provider";
+import { getMe } from "@/lib/auth/me";
 import "./globals.css";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -18,7 +20,9 @@ export default async function RootLayout({ children }: Readonly<{ children: Reac
     <html lang={await getLocale()}>
       <body>
         <NextIntlClientProvider>
-          <AppShell>{children}</AppShell>
+          <MeProvider me={await getMe()}>
+            <AppShell>{children}</AppShell>
+          </MeProvider>
         </NextIntlClientProvider>
       </body>
     </html>

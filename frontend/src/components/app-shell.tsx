@@ -1,12 +1,15 @@
 "use client";
 
-import { Bell, BookOpen, Menu, MessageCircle, MessagesSquare, Plus } from "lucide-react";
+import { Bell, BookOpen, LogIn, LogOut, Menu, MessageCircle, MessagesSquare, Plus } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
+import { useMe } from "@/components/me-provider";
 import { Sheet, SheetContent, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 import { setLanguage } from "@/i18n/actions";
+import { signOut } from "@/lib/auth/actions";
+import { authConfigured } from "@/lib/supabase/config";
 
 const navigation = [
   { href: "/chat", key: "chat", Icon: MessageCircle },
@@ -41,19 +44,53 @@ function Sidebar({ onNavigate }: { onNavigate?: () => void }) {
           );
         })}
       </nav>
-      <div className="mt-auto flex justify-end border-t border-line px-1.5 pt-3">
-        <div role="group" aria-label={t("language")} className="inline-flex overflow-hidden rounded-lg border border-line-strong text-xs font-semibold">
-          {(["sk", "en"] as const).map((language) => (
-            <form key={language} action={setLanguage.bind(null, language)}>
-              <button type="submit" aria-pressed={locale === language}
-                className={`px-2 py-1 ${locale === language ? "bg-foreground text-white" : "text-muted-foreground hover:bg-nav-active"}`}>
-                {t(language)}
-              </button>
-            </form>
-          ))}
+      <div className="mt-auto border-t border-line px-1.5 pt-3">
+        <Account onNavigate={onNavigate} />
+        <div className="flex justify-end">
+          <div role="group" aria-label={t("language")} className="inline-flex overflow-hidden rounded-lg border border-line-strong text-xs font-semibold">
+            {(["sk", "en"] as const).map((language) => (
+              <form key={language} action={setLanguage.bind(null, language)}>
+                <button type="submit" aria-pressed={locale === language}
+                  className={`px-2 py-1 ${locale === language ? "bg-foreground text-white" : "text-muted-foreground hover:bg-nav-active"}`}>
+                  {t(language)}
+                </button>
+              </form>
+            ))}
+          </div>
         </div>
       </div>
     </div>
+  );
+}
+
+/** Who is logged in, with "log out"; or a "log in" link. Nothing when login is not configured. */
+function Account({ onNavigate }: { onNavigate?: () => void }) {
+  const t = useTranslations("auth");
+  const me = useMe();
+  const row = "flex min-h-11 items-center gap-2.5 rounded-[10px] px-2.5";
+
+  if (me) {
+    return (
+      <div className="mb-3 flex items-center gap-2">
+        <div className="min-w-0 flex-1 px-1">
+          <p className="truncate font-medium">{me.nickname}</p>
+          <p className="text-xs text-muted-foreground">{t(`roles.${me.role}`)}</p>
+        </div>
+        <form action={signOut}>
+          <button type="submit" className={`${row} text-muted-foreground hover:bg-nav-active hover:text-foreground`}>
+            <LogOut size={18} />
+            {t("signOut")}
+          </button>
+        </form>
+      </div>
+    );
+  }
+  if (!authConfigured) return null;
+  return (
+    <Link href="/login" onClick={onNavigate} className={`${row} mb-3 font-medium hover:bg-nav-active`}>
+      <LogIn size={18} />
+      {t("signIn")}
+    </Link>
   );
 }
 

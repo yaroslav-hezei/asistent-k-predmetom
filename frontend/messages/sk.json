@@ -55,5 +55,24 @@
   },
   "placeholder": {
     "soon": "Táto stránka bude dostupná čoskoro."
+  },
+  "auth": {
+    "title": "Prihlásenie",
+    "description": "Prihlás sa e-mailom a heslom.",
+    "email": "E-mail",
+    "password": "Heslo",
+    "submit": "Prihlásiť sa",
+    "submitting": "Prihlasuje sa…",
+    "signIn": "Prihlásiť sa",
+    "signOut": "Odhlásiť sa",
+    "roles": {
+      "student": "Študent",
+      "vyucujuci": "Vyučujúci"
+    },
+    "errors": {
+      "invalid": "Nesprávny e-mail alebo heslo.",
+      "failed": "Prihlásenie sa nepodarilo. Skús to znova o chvíľu.",
+      "unavailable": "Prihlásenie zatiaľ nie je dostupné."
+    }
   }
 }
