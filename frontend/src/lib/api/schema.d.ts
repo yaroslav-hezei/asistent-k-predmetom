@@ -89,6 +89,24 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/me": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** The logged-in user */
+        get: operations["read_me_me_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        /** Set program, year and semester of the logged-in user */
+        patch: operations["update_me_me_patch"];
+        trace?: never;
+    };
 }
 export type webhooks = Record<string, never>;
 export interface components {
@@ -142,6 +160,30 @@ export interface components {
              * @constant
              */
             status: "ok";
+        };
+        /**
+         * Me
+         * @description The logged-in user's profile.
+         */
+        Me: {
+            /**
+             * Id
+             * Format: uuid
+             * @description User id (Supabase Auth).
+             */
+            id: string;
+            /**
+             * Nickname
+             * @description Shown as the author of questions and answers.
+             */
+            nickname: string;
+            /**
+             * Role
+             * @enum {string}
+             */
+            role: "student" | "vyucujuci";
+            /** @description Null when the user has not chosen it yet. */
+            study: components["schemas"]["Study"] | null;
         };
         /**
          * Program
@@ -218,6 +260,29 @@ export interface components {
              * @description True for courses from the state-exam table.
              */
             state_exam: boolean;
+        };
+        /**
+         * Study
+         * @description Program, year and semester of a student: what "Moje predmety" shows.
+         */
+        Study: {
+            /**
+             * Program Id
+             * @description MAIS program id.
+             * @example 65669424
+             */
+            program_id: string;
+            /**
+             * Year
+             * @description Year of study.
+             * @example 3
+             */
+            year: number;
+            /**
+             * Semester
+             * @enum {string}
+             */
+            semester: "ZS" | "LS";
         };
         /** ValidationError */
         ValidationError: {
@@ -377,6 +442,85 @@ export interface operations {
                 content: {
                     "application/json": components["schemas"]["HTTPValidationError"];
                 };
+            };
+        };
+    };
+    read_me_me_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Me"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+        };
+    };
+    update_me_me_patch: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["Study"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Me"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Unknown program or year. */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
             };
         };
     };

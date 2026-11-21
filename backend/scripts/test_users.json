@@ -1,0 +1,127 @@
+{
+  "_comment": "Test accounts for the demo. The passwords are shown on the login screen (demo mode); they are not secrets. Teachers verify every course of the program in courses_of_program.",
+  "passwords": {
+    "student": "hip-student-demo",
+    "vyucujuci": "hip-vyucujuci-demo"
+  },
+  "accounts": [
+    {
+      "email": "student01@example.com",
+      "nickname": "student01",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 1,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "student02@example.com",
+      "nickname": "student02",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 1,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "student03@example.com",
+      "nickname": "student03",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 1,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "student04@example.com",
+      "nickname": "student04",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 2,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "student05@example.com",
+      "nickname": "student05",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 2,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "student06@example.com",
+      "nickname": "student06",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 2,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "student07@example.com",
+      "nickname": "student07",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 3,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "student08@example.com",
+      "nickname": "student08",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 3,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "student09@example.com",
+      "nickname": "student09",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 3,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "student10@example.com",
+      "nickname": "student10",
+      "role": "student",
+      "study": {
+        "program_id": "65669424",
+        "year": 3,
+        "semester": "ZS"
+      }
+    },
+    {
+      "email": "vyucujuci01@example.com",
+      "nickname": "vyucujuci01",
+      "role": "vyucujuci",
+      "courses_of_program": "65669424"
+    },
+    {
+      "email": "vyucujuci02@example.com",
+      "nickname": "vyucujuci02",
+      "role": "vyucujuci",
+      "courses_of_program": "65669424"
+    },
+    {
+      "email": "vyucujuci03@example.com",
+      "nickname": "vyucujuci03",
+      "role": "vyucujuci",
+      "courses_of_program": "65669424"
+    }
+  ]
+}

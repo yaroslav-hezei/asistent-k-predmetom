@@ -1,4 +1,4 @@
-"""Database: the migrations, the catalogue import and the app's connection pool.
+"""Database: the migrations, the catalogue import, the connection pool, test accounts and /me.
 
 These tests need TEST_DATABASE_URL: a throwaway local Postgres with the migrations applied
 (`npx supabase@3.2.0 db start` from the repo root, see backend/README.md). Never point it at the
@@ -7,6 +7,7 @@ skipped locally; in CI it is required.
 """
 
 import os
+import uuid
 from datetime import date
 
 import psycopg
@@ -15,7 +16,9 @@ from fastapi.testclient import TestClient
 
 from app.config import DEFAULT_MAIS_DATA_DIR, Settings
 from app.main import create_app
+from scripts.create_test_users import find_user_id, load_accounts, save_profile
 from scripts.import_catalog import count_rows, import_catalog
+from tests.jwt_helpers import make_token, make_verifier
 
 HI_BC = "65669424"
 ZAP = "65954478"
@@ -123,3 +126,123 @@ def test_app_without_database_url_has_no_pool():
     with TestClient(create_app(settings)) as client:
         assert client.app.state.db is None
         assert client.get("/courses/" + ZAP).status_code == 200
+
+
+# ---------------------------------------------------------------------------------------------
+# Test accounts and /me. Auth users are inserted straight into auth.users of the local database
+# (the Auth API is not running there); everything after that is the real code.
+# ---------------------------------------------------------------------------------------------
+
+
+@pytest.fixture
+def auth_user(conn):
+    """Create rows in auth.users; delete them (and, by cascade, their profiles) afterwards."""
+    created = []
+
+    def create(email):
+        user_id = str(uuid.uuid4())
+        conn.execute("insert into auth.users (id, email) values (%s, %s)", [user_id, email])
+        created.append(user_id)
+        return user_id
+
+    yield create
+    for user_id in created:
+        conn.execute("delete from auth.users where id = %s", [user_id])
+
+
+@pytest.fixture
+def catalogue(conn):
+    if count_rows(conn)["programs"] == 0:
+        import_catalog(conn, DEFAULT_MAIS_DATA_DIR)
+
+
+def account(role):
+    """The first account of a role from scripts/test_users.json."""
+    return next(a for a in load_accounts()["accounts"] if a["role"] == role)
+
+
+def test_test_users_file():
+    data = load_accounts()
+    roles = [a["role"] for a in data["accounts"]]
+    assert (roles.count("student"), roles.count("vyucujuci")) == (10, 3)
+    assert len({a["email"] for a in data["accounts"]}) == 13
+    assert len({a["nickname"] for a in data["accounts"]}) == 13
+    assert set(data["passwords"]) == {"student", "vyucujuci"}
+
+
+def test_save_profile_of_student_and_teacher(conn, catalogue, auth_user):
+    student, teacher = account("student"), account("vyucujuci")
+    student_id = auth_user(student["email"])
+    teacher_id = auth_user(teacher["email"])
+    assert find_user_id(conn, student["email"].upper()) == student_id
+
+    with conn.transaction():
+        assert save_profile(conn, student_id, student) == 0
+        assert save_profile(conn, teacher_id, teacher) == 42  # all courses of HI Bc.
+    with conn.transaction():  # again: no duplicates
+        assert save_profile(conn, teacher_id, teacher) == 42
+    assert conn.execute(
+        "select nickname, role, program_id, year, semester, testovacie from public.profiles"
+        " where id = %s",
+        [student_id],
+    ).fetchone() == (student["nickname"], "student", HI_BC, 1, "ZS", True)
+    assert conn.execute(
+        "select role, program_id from public.profiles where id = %s", [teacher_id]
+    ).fetchone() == ("vyucujuci", None)
+    assert conn.execute(
+        "select count(*) from public.teacher_courses where teacher_id = %s", [teacher_id]
+    ).fetchone() == (42,)
+
+
+@pytest.fixture
+def me_client(db_url):
+    settings = Settings(
+        mais_data_dir=DEFAULT_MAIS_DATA_DIR, frontend_origins=[], database_url=db_url
+    )
+    with TestClient(create_app(settings, verifier=make_verifier())) as client:
+        yield client
+
+
+def bearer(user_id):
+    return {"Authorization": f"Bearer {make_token(user_id)}"}
+
+
+def test_me_read_and_update(conn, catalogue, auth_user, me_client):
+    student = account("student")
+    user_id = auth_user(student["email"])
+    with conn.transaction():
+        save_profile(conn, user_id, student)
+
+    response = me_client.get("/me", headers=bearer(user_id))
+    assert response.status_code == 200
+    assert response.json() == {
+        "id": user_id,
+        "nickname": student["nickname"],
+        "role": "student",
+        "study": {"program_id": HI_BC, "year": 1, "semester": "ZS"},
+    }
+
+    response = me_client.patch(
+        "/me", headers=bearer(user_id), json={"program_id": HI_BC, "year": 3, "semester": "LS"}
+    )
+    assert response.status_code == 200
+    assert response.json()["study"] == {"program_id": HI_BC, "year": 3, "semester": "LS"}
+    assert me_client.get("/me", headers=bearer(user_id)).json()["study"]["year"] == 3
+
+    for body in (
+        {"program_id": "999", "year": 1, "semester": "ZS"},  # unknown program
+        {"program_id": HI_BC, "year": 4, "semester": "ZS"},  # HI Bc. has 3 years
+        {"program_id": HI_BC, "year": 1, "semester": "XX"},
+    ):
+        response = me_client.patch("/me", headers=bearer(user_id), json=body)
+        assert response.status_code == 422, body
+    assert me_client.get("/me", headers=bearer(user_id)).json()["study"]["year"] == 3
+
+
+def test_me_of_an_account_without_profile_is_403(auth_user, me_client):
+    user_id = auth_user("no-profile@example.com")
+    assert me_client.get("/me", headers=bearer(user_id)).status_code == 403
+    response = me_client.patch(
+        "/me", headers=bearer(user_id), json={"program_id": HI_BC, "year": 1, "semester": "ZS"}
+    )
+    assert response.status_code == 403
