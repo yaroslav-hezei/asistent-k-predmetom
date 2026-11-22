@@ -2,7 +2,7 @@
 id: T-004
 title: Login screen, the user in the layout, "Moje predmety" from the profile
 assignee: MP
-status: open          # open → changes → done | dropped
+status: done          # open → changes → done | dropped
 created: 2026-11-21
 due: 2026-11-25
 ---
