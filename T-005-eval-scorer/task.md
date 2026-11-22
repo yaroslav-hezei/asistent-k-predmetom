@@ -2,7 +2,7 @@
 id: T-005
 title: Evaluation scorer for the assistant's answers
 assignee: BM
-status: open          # open → changes → done | dropped
+status: done          # open → changes → done | dropped
 created: 2026-11-21
 due: 2026-11-26
 ---
