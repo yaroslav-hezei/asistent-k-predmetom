@@ -140,3 +140,133 @@ then the validator.
 6. Have the human author check every quote, answer and abstention against the
    full sheet before signing off. Automatic validation cannot prove answer
    correctness, the absence of an answer, language quality or topic balance.
+
+## Score the assistant's answers
+
+`scripts/eval/score.py` measures answer/abstention decisions and citation matches
+from local files, using only the standard library (Python 3.11+). It never calls
+the assistant, an API or a model, and never writes evaluation data to the knowledge
+database or a prompt. Answer wording is **not** scored: use `--show-answers` for
+expected/actual pairs that a person can judge.
+
+### Results-file contract
+
+The future runner will write UTF-8 JSONL, one object per line, with no blank lines.
+The following values illustrate the format, not a measured assistant run:
+
+```json
+{"id": "q001", "found": true, "answer": "Na zápočet treba aspoň 11 % z 20 %.", "sources": [{"section": "Priebežné hodnotenie (PH)", "quote": "Podmienky: min. 11% z 20%."}]}
+{"id": "q004", "found": false, "answer": null, "sources": []}
+```
+
+| Key | Type | Rule |
+|---|---|---|
+| `id` | string | An ID from the questions file; at most once per results file. |
+| `found` | boolean | `false` means the assistant said "Neviem". Integers are not booleans. |
+| `answer` | string or null | A non-empty string when `found` is true; may be null when false. |
+| `sources` | list | Objects with required `section` (string or null) and `quote` (string). A non-sheet source may have no section, represented as null. An empty quote is valid input but cannot match evidence. |
+
+Other top-level and source keys are allowed and ignored, so a runner can include
+metadata such as model name or source type. JSON must remain strict: duplicate
+keys and non-JSON constants such as NaN are rejected. Results need not be sorted.
+An empty results file is valid: every question is then `missing`.
+
+All input errors are printed with line numbers and question IDs (`<unknown>` when
+a broken record cannot provide an ID; line 0 for file-level failures). Invalid
+input gives exit 1 and produces no text/JSON report. An existing JSON output file
+is left untouched on input errors. Valid inputs give exit 0 even for a poor score;
+wrong command-line arguments give exit 2. `--json` cannot overwrite either input.
+
+The scorer checks the necessary question structure but does not revalidate its
+evidence against MAIS or its course eligibility; run `validate.py` on the set
+separately. `--data` is used **only** for course display names. If a name is missing,
+the ID is displayed with a warning; scores do not change.
+
+### Decisions and citations
+
+Every question receives exactly one outcome:
+
+| Outcome | Question | Result |
+|---|---|---|
+| `answered` | Answerable | `found: true`; citation is scored. |
+| `missed` | Answerable | `found: false`; unnecessary abstention. |
+| `abstained` | Not answerable | `found: false`; correct abstention. |
+| `invented` | Not answerable | `found: true`; the separate, worst category. |
+| `missing` | Either | No results record for the question. |
+
+For each expected evidence item of an `answered` question, at least one cited
+source must have the **exact same section label** and overlapping quote text:
+after applying `collapse_whitespace` imported from `validate.py`, one quote must
+contain the other. A longer cited passage or a shorter excerpt inside the expected
+quote counts. Empty/whitespace-only cited quotes do not count. Case, diacritics
+and punctuation remain exact. Section labels are not normalized.
+
+All evidence matched gives `full`, some gives `partial`, and none gives `none`.
+One source may match several expected evidence items, and different sources may
+match different items. Other outcomes have citation null and no matched indexes.
+Sources on `found: false` results are ignored for scoring and produce one warning
+per result, even if the result contains several sources. They must still have
+the required input types. A null source section cannot match a sheet label.
+
+This implements the agreed containment rule; it does not verify the authenticity
+of a cited passage or judge the answer's meaning. The future backend supplies
+source passages from metadata; the scorer does not use an LLM judge.
+
+### Run and read the report
+
+```sh
+python scripts/eval/validate.py
+pytest scripts/eval/tests
+python scripts/eval/score.py --results path/to/results.jsonl
+python scripts/eval/score.py --results path/to/results.jsonl --json path/to/report.json --show-answers
+python scripts/eval/score.py --results path/to/results.jsonl --questions data/eval/questions.jsonl --data data/mais/2026-27
+python scripts/eval/score.py --results path/to/results.jsonl --show-answers > path/to/out.txt
+```
+
+The scorer emits UTF-8 stdout and JSON, including when stdout is redirected on
+Windows; no `-X utf8` flag is needed. A shell may re-encode the final redirected
+file (for example, Windows PowerShell 5 writes UTF-16); Slovak characters remain
+intact. Real run results/reports **must not be committed into `data/eval/`**.
+Their permanent location will be decided later. Synthetic test inputs are built
+in temporary directories by `scripts/eval/tests/test_score.py`.
+
+The English text report shows totals, decision counts, citation counts, course
+and language breakdowns, problems and optional answer pairs. In particular:
+
+- **Decision accuracy:** `(answered + abstained) / all questions`.
+- **Invented:** `invented / not-answerable questions`; **missed:**
+  `missed / answerable questions`.
+- **Citation accuracy:** `full / answered`.
+- **Overall correct:** `(abstained + answered with full citation) / all questions`.
+  This is the headline mechanical score, not a claim that answer wording is right.
+
+Percentages have one decimal and always appear next to numerator/denominator
+counts. Missing results remain in the all-question denominators. A zero denominator
+is represented as `0 / 0 (0.0 %)`, not NaN or infinity. Both language groups are
+reported, even when one is empty. Missing results are not input errors.
+
+The Problems list includes every question except correct abstentions and fully
+cited answers. It shows question ID, course/name, language, question, outcome,
+all expected evidence, source quotes shortened to 120 characters, and the actual
+answer shortened to 200 characters. `--show-answers` separately shows unshortened
+expected/actual answers for every `answered` question.
+
+### JSON report shape
+
+The report has exactly four top-level keys:
+
+| Key | Shape |
+|---|---|
+| `summary` | `questions`, `results`, `missing`, `answerable`, `not_answerable`, `outcomes`, `citations`, five ratio objects below, and `warnings` (count). |
+| `by_course` | Map from course ID to `{name, questions, outcomes, full}`. |
+| `by_language` | Map with `sk` and `en`, each `{questions, outcomes, full}`. |
+| `questions` | Input-order list of `{id, course_id, language, answerable, outcome, citation, matched_evidence}`. |
+
+`outcomes` always has integer counts for `answered`, `missed`, `abstained`,
+`invented`, `missing`; `citations` always has `full`, `partial`, `none` counts.
+The five summary ratios are `decision_accuracy`, `invented_rate`, `missed_rate`,
+`citation_accuracy`, `overall_correct`, each `{numerator, denominator, percent}`.
+`percent` is a number from 0 to 100 rounded to one decimal. `matched_evidence`
+contains **zero-based** indexes into that question's evidence array. It is empty
+when none match or the outcome is not `answered`. Numeric scoring is the same
+in stdout and JSON; the original inputs retain answers and source text for review.
