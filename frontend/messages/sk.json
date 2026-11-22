@@ -27,7 +27,9 @@
     "error": "Predmety sa nepodarilo načítať. Skús to znova neskôr.",
     "empty": "Pre tento ročník a semester sa nenašli žiadne predmety.",
     "yearSemester": "{year}. roč., {semester}",
-    "noSemester": "Semester neuvedený"
+    "noSemester": "Semester neuvedený",
+    "saveInvalid": "Vybraný študijný program alebo ročník nie je platný.",
+    "saveFailed": "Výber štúdia sa nepodarilo uložiť. Skús to znova."
   },
   "study": {
     "title": "Moje predmety",
@@ -73,6 +75,12 @@
       "invalid": "Nesprávny e-mail alebo heslo.",
       "failed": "Prihlásenie sa nepodarilo. Skús to znova o chvíľu.",
       "unavailable": "Prihlásenie zatiaľ nie je dostupné."
-    }
+    },
+    "account": "Účet",
+    "demoTitle": "Demo režim",
+    "demoChoose": "Vyber testovací účet",
+    "demoDescription": "Aplikácia je v testovacej prevádzke. Prihlás sa účtom, ktorý si dostal.",
+    "demoYear": "{year}. roč.",
+    "demoTeacher": "vyučujúci"
   }
 }

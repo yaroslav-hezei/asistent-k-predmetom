@@ -27,7 +27,9 @@
     "error": "Courses could not be loaded. Try again later.",
     "empty": "No courses found for this year and semester.",
     "yearSemester": "Year {year}, {semester}",
-    "noSemester": "Semester unspecified"
+    "noSemester": "Semester unspecified",
+    "saveInvalid": "The selected program or year is invalid.",
+    "saveFailed": "Your study selection could not be saved. Try again."
   },
   "study": {
     "title": "My courses",
@@ -73,6 +75,12 @@
       "invalid": "Wrong e-mail or password.",
       "failed": "Logging in failed. Try again in a moment.",
       "unavailable": "Logging in is not available yet."
-    }
+    },
+    "account": "Account",
+    "demoTitle": "Demo mode",
+    "demoChoose": "Choose a test account",
+    "demoDescription": "The app is in a test run. Log in with the test account you were given.",
+    "demoYear": "Year {year}",
+    "demoTeacher": "teacher"
   }
 }

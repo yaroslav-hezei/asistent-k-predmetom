@@ -22,9 +22,11 @@ export function useProgramLabel() {
   };
 }
 
-export function StudyDialog({ programs, initial, onClose, onSave }: {
+export function StudyDialog({ programs, initial, onClose, onSave, saving, error }: {
   programs: Program[];
   initial: StudyChoice | null;
+  saving: boolean;
+  error?: string;
   onClose: () => void;
   onSave: (choice: StudyChoice) => void;
 }) {
@@ -36,7 +38,7 @@ export function StudyDialog({ programs, initial, onClose, onSave }: {
   const program = programs.find(({ id }) => id === programId);
 
   return (
-    <Dialog open onOpenChange={(open) => { if (!open) onClose(); }}>
+    <Dialog open onOpenChange={(open) => { if (!open && !saving) onClose(); }}>
       <DialogContent showCloseButton={false}>
         <DialogHeader>
           <DialogTitle>{t("title")}</DialogTitle>
@@ -44,7 +46,7 @@ export function StudyDialog({ programs, initial, onClose, onSave }: {
         </DialogHeader>
         <form className="grid min-w-0 gap-4" onSubmit={(event) => {
           event.preventDefault();
-          if (program) onSave({ programId, year, semester });
+          if (program && !saving) onSave({ programId, year, semester });
         }}>
           <label className="grid min-w-0 gap-1.5 font-medium">
             {t("program")}
@@ -80,9 +82,10 @@ export function StudyDialog({ programs, initial, onClose, onSave }: {
               </NativeSelect>
             </label>
           </div>
+          {error && <p role="alert" className="text-sm text-destructive">{error}</p>}
           <DialogFooter>
-            <Button type="button" variant="outline" onClick={onClose}>{t("cancel")}</Button>
-            <Button type="submit" disabled={!program}>{t("save")}</Button>
+            <Button type="button" variant="outline" disabled={saving} onClick={onClose}>{t("cancel")}</Button>
+            <Button type="submit" disabled={!program || saving}>{t("save")}</Button>
           </DialogFooter>
         </form>
       </DialogContent>

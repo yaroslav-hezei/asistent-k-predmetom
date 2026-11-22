@@ -4,6 +4,8 @@
 
 @theme {
   --font-sans: "Inter", Arial, sans-serif;
+  --color-avatar: #2A2C33;
+  --color-on-avatar: #F2F2EF;
   --color-fei: #EAAA00;
   --color-fei-dark: #8A6400;
   --color-fei-soft: #FDF3D6;
