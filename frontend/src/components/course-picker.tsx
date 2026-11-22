@@ -3,9 +3,11 @@
 import { Search } from "lucide-react";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
-import { useEffect, useRef, useState } from "react";
+import { useRouter } from "next/navigation";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { useMe } from "@/components/me-provider";
 import { Button } from "@/components/ui/button";
-import { api, type Course, type PlanCourse, type Program } from "@/lib/api/client";
+import { api, type Course, type Me, type PlanCourse, type Program } from "@/lib/api/client";
 import { StudyDialog, type StudyChoice, useProgramLabel } from "./study-dialog";
 
 const storageKey = "hip.myCourses";
@@ -14,15 +16,18 @@ const cardClass = "block rounded-xl border border-line bg-card px-3.5 py-3 hover
 
 function getSavedChoice(programs: Program[]): StudyChoice | null {
   try {
-    const choice = JSON.parse(localStorage.getItem(storageKey) ?? "null");
-    if (!choice) return null;
-    const program = programs.find(({ id }) => id === choice.programId);
-    if (program && Number.isInteger(choice.year) && choice.year >= 1 &&
-      choice.year <= program.years && (choice.semester === "ZS" || choice.semester === "LS")) {
-      return { programId: program.id, year: choice.year, semester: choice.semester };
-    }
+    return validateChoice(programs, JSON.parse(localStorage.getItem(storageKey) ?? "null"));
   } catch {
     // Storage can be unavailable or contain an obsolete value.
+  }
+  return null;
+}
+
+function validateChoice(programs: Program[], choice: StudyChoice | null): StudyChoice | null {
+  const program = programs.find(({ id }) => id === choice?.programId);
+  if (choice && program && Number.isInteger(choice.year) && choice.year >= 1 &&
+    choice.year <= program.years && (choice.semester === "ZS" || choice.semester === "LS")) {
+    return { programId: program.id, year: choice.year, semester: choice.semester };
   }
   return null;
 }
@@ -32,11 +37,31 @@ function courseHref(id: string) {
 }
 
 export function CoursePicker() {
+  const me = useMe();
+  return <CoursePickerContent key={me?.id ?? "guest"} me={me} />;
+}
+
+function CoursePickerContent({ me }: { me: Me | null }) {
+  const router = useRouter();
   const t = useTranslations("picker");
   const study = useTranslations("study");
   const programLabel = useProgramLabel();
   const [programs, setPrograms] = useState<Program[] | null | undefined>();
-  const [choice, setChoice] = useState<StudyChoice | null>(null);
+  const [visitorChoice, setVisitorChoice] = useState<StudyChoice | null>(null);
+  const [savedProfile, setSavedProfile] = useState<{ previous: Me; study: Me["study"] }>();
+  const [saving, setSaving] = useState(false);
+  const [saveError, setSaveError] = useState<"saveInvalid" | "saveFailed">();
+  const isGuest = me === null;
+  const profileStudy = savedProfile && savedProfile.previous === me ? savedProfile.study : me?.study;
+  const choice = useMemo(() => {
+    if (!programs) return null;
+    if (isGuest) return visitorChoice;
+    return validateChoice(programs, profileStudy ? {
+      programId: profileStudy.program_id,
+      year: profileStudy.year,
+      semester: profileStudy.semester,
+    } : null);
+  }, [programs, isGuest, visitorChoice, profileStudy]);
   const [dialogOpen, setDialogOpen] = useState(false);
   const studyButton = useRef<HTMLButtonElement>(null);
   const [input, setInput] = useState("");
@@ -53,12 +78,12 @@ export function CoursePicker() {
     api.GET("/programs", { signal: controller.signal }).then(({ data }) => {
       if (controller.signal.aborted) return;
       setPrograms(data ?? null);
-      if (data) setChoice(getSavedChoice(data));
+      if (data && isGuest) setVisitorChoice(getSavedChoice(data));
     }).catch(() => {
       if (!controller.signal.aborted) setPrograms(null);
     });
     return () => controller.abort();
-  }, []);
+  }, [isGuest]);
 
   useEffect(() => {
     if (query.length < 2) return;
@@ -97,18 +122,39 @@ export function CoursePicker() {
     return () => controller.abort();
   }, [choice, planKey]);
 
-  function saveChoice(next: StudyChoice) {
-    try {
-      localStorage.setItem(storageKey, JSON.stringify(next));
-    } catch {
-      // The selection remains usable for this visit.
+  async function saveChoice(next: StudyChoice) {
+    setSaveError(undefined);
+    if (me) {
+      setSaving(true);
+      try {
+        const { data, response } = await api.PATCH("/me", {
+          body: { program_id: next.programId, year: next.year, semester: next.semester },
+        });
+        if (!data) {
+          setSaveError(response.status === 422 ? "saveInvalid" : "saveFailed");
+          return;
+        }
+        setSavedProfile({ previous: me, study: data.study });
+        router.refresh();
+      } catch {
+        setSaveError("saveFailed");
+        return;
+      } finally {
+        setSaving(false);
+      }
+    } else {
+      try {
+        localStorage.setItem(storageKey, JSON.stringify(next));
+      } catch {
+        // The selection remains usable for this visit.
+      }
+      setVisitorChoice(next);
     }
-    setPlan(undefined);
-    setChoice(next);
     closeDialog();
   }
 
   function closeDialog() {
+    setSaveError(undefined);
     setDialogOpen(false);
     requestAnimationFrame(() => studyButton.current?.focus());
   }
@@ -195,7 +241,8 @@ export function CoursePicker() {
       )}
       <p className="mt-[26px] text-center text-[13px] text-muted-foreground">{t("hint")}</p>
       {dialogOpen && programs && (
-        <StudyDialog programs={programs} initial={choice} onSave={saveChoice} onClose={closeDialog} />
+        <StudyDialog programs={programs} initial={choice} onSave={saveChoice} onClose={closeDialog}
+          saving={saving} error={saveError && t(saveError)} />
       )}
     </div>
   );
