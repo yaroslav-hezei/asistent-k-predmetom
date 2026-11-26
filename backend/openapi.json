@@ -310,10 +310,388 @@
           }
         ]
       }
+    },
+    "/ask": {
+      "post": {
+        "tags": [
+          "chat"
+        ],
+        "summary": "Ask a question about a course",
+        "description": "Stores the question and the answer in a chat: a new one when `chat_id` is null. Until the RAG step the answer is a placeholder: one real section of the course's MAIS sheet; a question with the word 'neviem' gets the 'Neviem' answer.",
+        "operationId": "ask_ask_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AskRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AskResponse"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          },
+          "404": {
+            "description": "Unknown course, or the chat does not exist / is not yours."
+          },
+          "422": {
+            "description": "Invalid question, or the chat belongs to another course."
+          }
+        },
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ]
+      }
+    },
+    "/chats": {
+      "get": {
+        "tags": [
+          "chat"
+        ],
+        "summary": "The user's chats for 'História', newest first (at most 50)",
+        "operationId": "read_chats_chats_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/ChatSummary"
+                  },
+                  "type": "array",
+                  "title": "Response Read Chats Chats Get"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          }
+        },
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ]
+      }
+    },
+    "/chats/{chat_id}": {
+      "get": {
+        "tags": [
+          "chat"
+        ],
+        "summary": "One chat with its messages",
+        "operationId": "read_chat_chats__chat_id__get",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "chat_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid",
+              "title": "Chat Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Chat"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          },
+          "404": {
+            "description": "The chat does not exist or is not yours."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
+      "AskRequest": {
+        "properties": {
+          "course_id": {
+            "type": "string",
+            "minLength": 1,
+            "title": "Course Id",
+            "description": "MAIS id of the course, as in /courses.",
+            "examples": [
+              "65954478"
+            ]
+          },
+          "question": {
+            "type": "string",
+            "maxLength": 1000,
+            "minLength": 3,
+            "title": "Question",
+            "examples": [
+              "Ako sa hodnotí tento predmet?"
+            ]
+          },
+          "chat_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "uuid"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Chat Id",
+            "description": "Continue this chat; null starts a new chat for the course."
+          }
+        },
+        "type": "object",
+        "required": [
+          "course_id",
+          "question"
+        ],
+        "title": "AskRequest"
+      },
+      "AskResponse": {
+        "properties": {
+          "chat_id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Chat Id",
+            "description": "The chat the question went to (new or continued)."
+          },
+          "question": {
+            "$ref": "#/components/schemas/ChatMessage"
+          },
+          "answer": {
+            "$ref": "#/components/schemas/ChatMessage"
+          }
+        },
+        "type": "object",
+        "required": [
+          "chat_id",
+          "question",
+          "answer"
+        ],
+        "title": "AskResponse"
+      },
+      "Author": {
+        "properties": {
+          "kind": {
+            "type": "string",
+            "enum": [
+              "mais",
+              "student",
+              "vyucujuci"
+            ],
+            "title": "Kind"
+          },
+          "nickname": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Nickname",
+            "description": "Null for the MAIS sheet.",
+            "examples": [
+              "tomas_r"
+            ]
+          }
+        },
+        "type": "object",
+        "required": [
+          "kind",
+          "nickname"
+        ],
+        "title": "Author",
+        "description": "Who wrote the source: the official MAIS sheet, a student or a teacher."
+      },
+      "Chat": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "course": {
+            "$ref": "#/components/schemas/CourseSummary"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title",
+            "description": "The first question, cut to 200 characters."
+          },
+          "updated_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Updated At",
+            "description": "Time of the last question."
+          },
+          "messages": {
+            "items": {
+              "$ref": "#/components/schemas/ChatMessage"
+            },
+            "type": "array",
+            "title": "Messages",
+            "description": "Oldest first."
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "course",
+          "title",
+          "updated_at",
+          "messages"
+        ],
+        "title": "Chat"
+      },
+      "ChatMessage": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "role": {
+            "type": "string",
+            "enum": [
+              "user",
+              "assistant"
+            ],
+            "title": "Role"
+          },
+          "text": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Text",
+            "description": "User: the question. Assistant: the answer with [n] citations; null when found is false (the frontend shows its own 'Neviem' text)."
+          },
+          "found": {
+            "anyOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Found",
+            "description": "Assistant only: false = 'Neviem', offer 'Zverejniť otázku'. Null for user."
+          },
+          "sources": {
+            "items": {
+              "$ref": "#/components/schemas/Source"
+            },
+            "type": "array",
+            "title": "Sources",
+            "description": "Assistant only; empty for user and for 'Neviem'."
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "role",
+          "text",
+          "found",
+          "sources",
+          "created_at"
+        ],
+        "title": "ChatMessage",
+        "description": "A question of the user or an answer of the assistant."
+      },
+      "ChatSummary": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "course": {
+            "$ref": "#/components/schemas/CourseSummary"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title",
+            "description": "The first question, cut to 200 characters."
+          },
+          "updated_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Updated At",
+            "description": "Time of the last question."
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "course",
+          "title",
+          "updated_at"
+        ],
+        "title": "ChatSummary",
+        "description": "A chat in \"História\": one chat = one course."
+      },
       "CourseSummary": {
         "properties": {
           "id": {
@@ -568,6 +946,132 @@
         ],
         "title": "ProgramCourse",
         "description": "One course in a program's study plan, placed in a year and semester."
+      },
+      "QuestionRef": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "text": {
+            "type": "string",
+            "title": "Text",
+            "examples": [
+              "Môžem robiť semestrálny projekt sám, alebo len v tíme?"
+            ]
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "text"
+        ],
+        "title": "QuestionRef",
+        "description": "The community question a community answer belongs to."
+      },
+      "Source": {
+        "properties": {
+          "n": {
+            "type": "integer",
+            "minimum": 1.0,
+            "title": "N",
+            "description": "Number cited in the answer text as [n].",
+            "examples": [
+              1
+            ]
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "sheet",
+              "answer",
+              "course_note"
+            ],
+            "title": "Type",
+            "description": "sheet = MAIS information sheet; answer = an answer from Otázky komunity; course_note = the teacher's Aktuálna informácia k predmetu."
+          },
+          "section": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Section",
+            "description": "Sheet section label; null for other types.",
+            "examples": [
+              "Priebežné hodnotenie (PH)"
+            ]
+          },
+          "quote": {
+            "type": "string",
+            "title": "Quote",
+            "description": "Exact stored text the answer relies on."
+          },
+          "url": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Url",
+            "description": "Sheet: link to the sheet in MAIS. Null for other types.",
+            "examples": [
+              "https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65954478"
+            ]
+          },
+          "question": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/QuestionRef"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Type answer: the community question it answers. Null for other types."
+          },
+          "date": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Date",
+            "description": "Sheet: when the sheet was read from MAIS (MAIS has no reliable change date), shown as 'stav k …'. Answer and course note: when it was written."
+          },
+          "author": {
+            "$ref": "#/components/schemas/Author"
+          },
+          "verified": {
+            "type": "boolean",
+            "title": "Verified",
+            "description": "True for the sheet and the teacher's note; for a community answer: verified by a teacher (Overené) or not (Neoverené)."
+          },
+          "outdated": {
+            "type": "boolean",
+            "title": "Outdated",
+            "description": "Sheet: show the outdated-sheet warning. Always false until its rule is set."
+          }
+        },
+        "type": "object",
+        "required": [
+          "n",
+          "type",
+          "section",
+          "quote",
+          "url",
+          "question",
+          "date",
+          "author",
+          "verified",
+          "outdated"
+        ],
+        "title": "Source",
+        "description": "One source under an answer. The answer text cites it as [n]."
       },
       "Study": {
         "properties": {

@@ -1,4 +1,5 @@
-"""Database: the migrations, the catalogue import, the connection pool, test accounts and /me.
+"""Database: the migrations, the catalogue import, the connection pool, test accounts, /me
+and the chats.
 
 These tests need TEST_DATABASE_URL: a throwaway local Postgres with the migrations applied
 (`npx supabase@3.2.0 db start` from the repo root, see backend/README.md). Never point it at the
@@ -246,3 +247,101 @@ def test_me_of_an_account_without_profile_is_403(auth_user, me_client):
         "/me", headers=bearer(user_id), json={"program_id": HI_BC, "year": 1, "semester": "ZS"}
     )
     assert response.status_code == 403
+
+
+# ---------------------------------------------------------------------------------------------
+# Chats: /ask stores the question and the answer; /chats and /chats/{id} read them back.
+# ---------------------------------------------------------------------------------------------
+
+
+def students():
+    return [a for a in load_accounts()["accounts"] if a["role"] == "student"]
+
+
+@pytest.fixture
+def student(conn, catalogue, auth_user):
+    """A logged-in student with a profile: the first student of test_users.json."""
+    data = students()[0]
+    user_id = auth_user(data["email"])
+    with conn.transaction():
+        save_profile(conn, user_id, data)
+    return user_id
+
+
+def ask(client, user_id, question, course_id=ZAP, chat_id=None):
+    body = {"course_id": course_id, "question": question, "chat_id": chat_id}
+    return client.post("/ask", headers=bearer(user_id), json=body)
+
+
+def test_ask_stores_the_chat_and_reads_it_back(conn, student, me_client):
+    first = ask(me_client, student, "  Ako sa hodnotí tento predmet?  ")
+    assert first.status_code == 200
+    chat_id = first.json()["chat_id"]
+    question, answer = first.json()["question"], first.json()["answer"]
+    assert question["role"] == "user" and question["text"] == "Ako sa hodnotí tento predmet?"
+    assert question["found"] is None and question["sources"] == []
+    assert answer["role"] == "assistant" and answer["found"] is True and "[1]" in answer["text"]
+    assert answer["sources"][0]["section"] == "Priebežné hodnotenie (PH)"
+
+    second = ask(me_client, student, "Neviem, kedy je skúška?", chat_id=chat_id)
+    assert second.status_code == 200
+    assert second.json()["chat_id"] == chat_id
+    neviem = second.json()["answer"]
+    assert neviem["found"] is False and neviem["text"] is None and neviem["sources"] == []
+
+    chats = me_client.get("/chats", headers=bearer(student)).json()
+    assert [chat["id"] for chat in chats] == [chat_id]
+    assert chats[0]["title"] == "Ako sa hodnotí tento predmet?"
+    assert chats[0]["course"]["code"] == "26000629"
+    assert chats[0]["updated_at"] == second.json()["question"]["created_at"]
+
+    chat = me_client.get(f"/chats/{chat_id}", headers=bearer(student)).json()
+    assert [m["role"] for m in chat["messages"]] == ["user", "assistant", "user", "assistant"]
+    assert chat["messages"][0] == question
+    assert chat["messages"][1] == answer  # the sources are stored exactly as they were shown
+    assert chat["messages"][3] == neviem
+    assert conn.execute(
+        "select content, language, found from public.chat_messages where id = %s", [neviem["id"]]
+    ).fetchone() == ("Neviem", None, False)
+
+
+def test_one_chat_per_course_newest_first(student, me_client):
+    zap = ask(me_client, student, "Ako sa hodnotí tento predmet?").json()["chat_id"]
+    hip = ask(me_client, student, "Ako sa hodnotí tento predmet?", course_id=HIP).json()["chat_id"]
+    assert zap != hip
+    chats = me_client.get("/chats", headers=bearer(student)).json()
+    assert [chat["id"] for chat in chats] == [hip, zap]
+    assert ask(me_client, student, "A skúška?", chat_id=zap).status_code == 200
+    chats = me_client.get("/chats", headers=bearer(student)).json()
+    assert [chat["id"] for chat in chats] == [zap, hip]
+
+
+def test_ask_errors_store_nothing(conn, student, auth_user, me_client):
+    chat_id = ask(me_client, student, "Ako sa hodnotí tento predmet?").json()["chat_id"]
+    assert ask(me_client, student, "Ako sa hodnotí?", course_id="999").status_code == 404
+    assert ask(me_client, student, "Ako sa hodnotí?", chat_id=str(uuid.uuid4())).status_code == 404
+    response = ask(me_client, student, "Ako sa hodnotí?", course_id=HIP, chat_id=chat_id)
+    assert response.status_code == 422
+    assert ask(me_client, student, "  a  ").status_code == 422
+    assert me_client.get("/chats/not-a-uuid", headers=bearer(student)).status_code == 422
+
+    # another student sees nothing of it and cannot write into it
+    other_data = students()[1]
+    other = auth_user(other_data["email"])
+    with conn.transaction():
+        save_profile(conn, other, other_data)
+    assert me_client.get("/chats", headers=bearer(other)).json() == []
+    assert me_client.get(f"/chats/{chat_id}", headers=bearer(other)).status_code == 404
+    assert ask(me_client, other, "Ako sa hodnotí?", chat_id=chat_id).status_code == 404
+
+    # an account without a profile
+    nobody = auth_user("no-profile-chat@example.com")
+    assert ask(me_client, nobody, "Ako sa hodnotí?").status_code == 403
+    assert me_client.get("/chats", headers=bearer(nobody)).status_code == 403
+    assert me_client.get(f"/chats/{chat_id}", headers=bearer(nobody)).status_code == 403
+
+    assert conn.execute(
+        "select count(*) from public.chats c join public.chat_messages m on m.chat_id = c.id"
+        " where c.user_id in (%s, %s, %s)",
+        [student, other, nobody],
+    ).fetchone() == (2,)

@@ -11,7 +11,7 @@ from app.catalog import Catalog
 from app.config import Settings, get_settings
 from app.db import open_pool
 from app.models.catalog import Health
-from app.routers import catalog, me
+from app.routers import catalog, chat, me
 
 
 def create_app(settings: Settings | None = None, verifier: TokenVerifier | None = None) -> FastAPI:
@@ -47,6 +47,7 @@ def create_app(settings: Settings | None = None, verifier: TokenVerifier | None 
 
     app.include_router(catalog.router)
     app.include_router(me.router)
+    app.include_router(chat.router)
     return app
 
 

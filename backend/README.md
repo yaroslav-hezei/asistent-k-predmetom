@@ -103,7 +103,7 @@ python scripts/export_openapi.py
 
 CI fails when `openapi.json` is out of date. Never edit `openapi.json` or the generated types by hand.
 
-Catalogue endpoints (details and examples at `/docs` of a running server):
+Endpoints (details and examples at `/docs` of a running server):
 
 | Endpoint | Returns |
 |---|---|
@@ -114,6 +114,9 @@ Catalogue endpoints (details and examples at `/docs` of a running server):
 | `GET /courses/{course_id}` | one course |
 | `GET /me` | the logged-in user: id, nickname, role, study (program, year, semester) — needs a token |
 | `PATCH /me` | set program, year and semester of the logged-in user — needs a token |
+| `POST /ask` | ask about a course: stores the question and the answer in a chat (new one when `chat_id` is null) — needs a token; the answer is a placeholder until the RAG step (one real section of the MAIS sheet; a question with the word "neviem" gets "Neviem") |
+| `GET /chats` | the logged-in user's chats for "História", newest first (at most 50) — needs a token |
+| `GET /chats/{chat_id}` | one chat of the logged-in user with its messages and their sources — needs a token |
 
 Data rules:
 
