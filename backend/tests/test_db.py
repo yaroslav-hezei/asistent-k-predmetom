@@ -18,7 +18,7 @@ from fastapi.testclient import TestClient
 
 from app.chunking import Chunk
 from app.config import DEFAULT_MAIS_DATA_DIR, Settings
-from app.knowledge import SyncCounts, sync_sheet_chunks
+from app.knowledge import SyncCounts, count_pending, embed_pending_chunks, sync_sheet_chunks
 from app.main import create_app
 from scripts.create_test_users import find_user_id, load_accounts, save_profile
 from scripts.import_catalog import count_rows, import_catalog
@@ -409,3 +409,41 @@ def test_sync_sheet_chunks(conn, catalogue):
             [ZAP],
         )
     assert sync_sheet_chunks(conn, chunks) == SyncCounts(0, 0, 0, unchanged=total)
+
+
+def test_embed_pending_chunks(conn, db_url, catalogue):
+    chunks = build_chunks(DEFAULT_MAIS_DATA_DIR)
+    sync_sheet_chunks(conn, chunks)
+    total = sum(map(len, chunks.values()))
+    assert count_pending(conn, "fake") == total
+
+    titles = []
+
+    def embed(documents):
+        titles.extend(d.title for d in documents)
+        return [[0.0] * 767 + [1.0] for _ in documents]
+
+    progress = []
+    try:
+        stored = embed_pending_chunks(
+            conn, embed, "fake", batch_size=50, limit=120, on_batch=progress.append
+        )
+        assert (stored, progress) == (120, [50, 100, 120])
+        assert count_pending(conn, "fake") == total - 120
+        assert titles[0].split(" — ")[0] and all(" — " in t for t in titles)  # course — section
+        # the next run continues with the chunks still without a vector
+        assert embed_pending_chunks(conn, embed, "fake", batch_size=50, limit=10) == 10
+        assert count_pending(conn, "fake") == total - 130
+        assert conn.execute(
+            "select count(*), min(extensions.vector_dims(embedding))"
+            " from public.knowledge_chunks where embed_model = 'fake'"
+        ).fetchone() == (130, 768)
+        with pytest.raises(RuntimeError, match="0 vectors for 1 chunks"):
+            embed_pending_chunks(conn, lambda documents: [], "fake", limit=1)
+        with psycopg.connect(db_url) as not_autocommit, pytest.raises(ValueError):
+            embed_pending_chunks(not_autocommit, embed, "fake", limit=1)
+    finally:
+        conn.execute(
+            "update public.knowledge_chunks set embedding = null, embed_model = null"
+            " where embed_model = 'fake'"
+        )
