@@ -67,8 +67,10 @@ change tables by hand in the dashboard.
   `knowledge_chunks` without embeddings: 10,981 chunks of 563 sheets. Safe to run again: unchanged
   chunks keep their embeddings, a changed text loses its embedding. `--dry-run` counts the changes
   and writes nothing. Every write to `knowledge_chunks` goes through `app/knowledge.py`.
-- **Vectors:** `python scripts/embed_chunks.py` (after the sync) gives every chunk without a vector
-  of the current model (`app/llm.py`: `EMBED_MODEL`, 768 numbers) its vector through the Gemini API.
+- **Vectors:** `python scripts/embed_chunks.py` gives every community answer and teacher note chunk
+  without a vector of the current model (`app/llm.py`: `EMBED_MODEL`, 768 numbers) its vector through
+  the Gemini API. Sheet chunks get no vectors: the answering model reads the whole sheet (see
+  "Answers"), and 10,981 sheet chunks would take 11 days of the free tier's 1,000 texts a day.
   Each batch is committed on its own: when a quota stops the run, the next run continues where it
   stopped. `--limit N` caps one run, `--dry-run` only counts. Needs `GEMINI_API_KEY`.
   `python scripts/compare_embeddings.py` compares the embedding models on the 40 evaluation
@@ -82,7 +84,8 @@ goes to the answering model (`app/llm.py`: `ANSWER_MODEL`) as a numbered source;
 cites sources as [n], or says it does not know (`found: false`, "Neviem"). The model never writes a
 source: the code turns the cited numbers into sources with the exact sheet text, the MAIS link and the
 date the sheet was read, and renumbers the citations 1, 2, …; an answer that cites nothing is
-"Neviem". When the model is not available (rate limit, network), `/ask` answers 503 and stores
+"Neviem", and so is an answer with a number that none of its cited sources contains (logged as
+"answer dropped"). When the model is not available (rate limit, network), `/ask` answers 503 and stores
 nothing.
 
 - **Free tier:** 15 answers a minute and 500 a day for the whole project.
