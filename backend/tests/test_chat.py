@@ -9,7 +9,7 @@ import pytest
 from fastapi.testclient import TestClient
 from pydantic import ValidationError
 
-from app.answerer import PLACEHOLDER_TEXT, answer_question
+from app.answerer import PLACEHOLDER_TEXT, placeholder_answer
 from app.catalog import Catalog, Sheet, SheetSection
 from app.config import DEFAULT_MAIS_DATA_DIR, Settings
 from app.main import create_app
@@ -43,7 +43,7 @@ def test_sheet_of_zap(catalog):
 
 def test_placeholder_quotes_a_real_section_exactly(catalog):
     sheet = catalog.get_sheet(ZAP)
-    answer = answer_question(sheet, "Ako sa hodnotí tento predmet?")
+    answer = placeholder_answer(sheet, "Ako sa hodnotí tento predmet?")
     assert answer.found
     assert answer.text == PLACEHOLDER_TEXT
     assert "[1]" in answer.text
@@ -63,13 +63,13 @@ def test_placeholder_quotes_a_real_section_exactly(catalog):
 
 @pytest.mark.parametrize("question", ["Neviem?", "neviem", "Čo ak NEVIEM odpoveď"])
 def test_placeholder_neviem(catalog, question):
-    answer = answer_question(catalog.get_sheet(ZAP), question)
+    answer = placeholder_answer(catalog.get_sheet(ZAP), question)
     assert not answer.found
     assert answer.text is None and answer.sources == [] and answer.language is None
 
 
 def test_placeholder_word_must_match_whole(catalog):
-    assert answer_question(catalog.get_sheet(ZAP), "Nevieme, kedy je skúška?").found
+    assert placeholder_answer(catalog.get_sheet(ZAP), "Nevieme, kedy je skúška?").found
 
 
 def test_placeholder_falls_back_to_first_section_with_text():
@@ -79,9 +79,9 @@ def test_placeholder_falls_back_to_first_section_with_text():
         fetched_at=datetime(2026, 11, 17, tzinfo=UTC),
         sections=(SheetSection("Forma výučby", ""), SheetSection("Poznámky", "Text poznámky.")),
     )
-    assert answer_question(sheet, "Otázka?").sources[0].quote == "Text poznámky."
+    assert placeholder_answer(sheet, "Otázka?").sources[0].quote == "Text poznámky."
     empty = Sheet("2", "https://example.invalid/2", sheet.fetched_at, (SheetSection("A", " "),))
-    assert not answer_question(empty, "Otázka?").found
+    assert not placeholder_answer(empty, "Otázka?").found
 
 
 def test_ask_request_strips_and_limits_the_question():

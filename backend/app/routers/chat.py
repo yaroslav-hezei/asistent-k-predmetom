@@ -1,12 +1,13 @@
 """Chat with the assistant: ask a question about a course, read the user's chats."""
 
 from datetime import UTC, datetime
+from typing import Annotated, Any
 from uuid import UUID
 
-from fastapi import APIRouter, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, Request, status
 from psycopg import Connection
 
-from app.answerer import answer_question
+from app.answerer import AnswerUnavailable, answer_question, placeholder_answer
 from app.auth import CurrentUserId
 from app.chats import find_chat, list_chats, list_messages, save_exchange
 from app.db import Pool
@@ -18,6 +19,15 @@ from app.routers.me import NO_PROFILE, NOT_LOGGED_IN
 router = APIRouter(tags=["chat"])
 
 CHAT_NOT_FOUND = "Chat not found."
+ASSISTANT_UNAVAILABLE = "The assistant is not available right now. Try again in a minute."
+
+
+def get_model(request: Request) -> Any | None:
+    """The Gemini client, or None when the app runs without GEMINI_API_KEY."""
+    return request.app.state.model
+
+
+ModelDep = Annotated[Any | None, Depends(get_model)]
 
 
 @router.post(
@@ -25,19 +35,31 @@ CHAT_NOT_FOUND = "Chat not found."
     summary="Ask a question about a course",
     description=(
         "Stores the question and the answer in a chat: a new one when `chat_id` is null."
-        " Until the RAG step the answer is a placeholder: one real section of the course's"
-        " MAIS sheet; a question with the word 'neviem' gets the 'Neviem' answer."
+        " The answering model reads the course's whole MAIS sheet and cites its parts as [n];"
+        " every [n] has a source with the exact sheet text. When the sheet does not answer the"
+        " question, `found` is false ('Neviem'). A backend without the model (local development)"
+        " answers with a placeholder: one real section of the sheet; a question with the word"
+        " 'neviem' gets 'Neviem'."
     ),
     responses={
         **NOT_LOGGED_IN,
         **NO_PROFILE,
         404: {"description": "Unknown course, or the chat does not exist / is not yours."},
         422: {"description": "Invalid question, or the chat belongs to another course."},
+        503: {
+            "description": (
+                "Login or database not configured, or the answering model is not available"
+                " (rate limit, network): nothing is stored, the question can be sent again."
+            )
+        },
     },
 )
-def ask(body: AskRequest, user_id: CurrentUserId, pool: Pool, catalog: CatalogDep) -> AskResponse:
+def ask(
+    body: AskRequest, user_id: CurrentUserId, pool: Pool, catalog: CatalogDep, model: ModelDep
+) -> AskResponse:
     sheet = catalog.get_sheet(body.course_id)
-    if sheet is None:
+    course = catalog.get_course(body.course_id)
+    if sheet is None or course is None:
         raise HTTPException(status.HTTP_404_NOT_FOUND, "Course not found.")
     with pool.connection() as conn:
         _require_profile(conn, user_id)
@@ -51,7 +73,15 @@ def ask(body: AskRequest, user_id: CurrentUserId, pool: Pool, catalog: CatalogDe
                 )
     # answered outside the database transaction: a real answer takes seconds
     asked_at = datetime.now(UTC)
-    answer = answer_question(sheet, body.question)
+    if model is None:
+        answer = placeholder_answer(sheet, body.question)
+    else:
+        try:
+            answer = answer_question(model, course.name, sheet, body.question)
+        except AnswerUnavailable as error:
+            raise HTTPException(
+                status.HTTP_503_SERVICE_UNAVAILABLE, ASSISTANT_UNAVAILABLE
+            ) from error
     answered_at = datetime.now(UTC)
     with pool.connection() as conn:
         chat_id, question, reply = save_exchange(

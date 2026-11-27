@@ -15,15 +15,19 @@ from datetime import date
 import psycopg
 import pytest
 from fastapi.testclient import TestClient
+from google.genai import errors
 
-from app.chunking import Chunk
+from app.catalog import Catalog
+from app.chunking import Chunk, chunk_sheet
 from app.config import DEFAULT_MAIS_DATA_DIR, Settings
 from app.knowledge import SyncCounts, count_pending, embed_pending_chunks, sync_sheet_chunks
 from app.main import create_app
+from app.routers.chat import ASSISTANT_UNAVAILABLE
 from scripts.create_test_users import find_user_id, load_accounts, save_profile
 from scripts.import_catalog import count_rows, import_catalog
 from scripts.sync_sheet_chunks import build_chunks, count_sheet_chunks, missing_courses
 from tests.jwt_helpers import make_token, make_verifier
+from tests.test_answerer import FakeClient
 
 HI_BC = "65669424"
 ZAP = "65954478"
@@ -447,3 +451,45 @@ def test_embed_pending_chunks(conn, db_url, catalogue):
             "update public.knowledge_chunks set embedding = null, embed_model = null"
             " where embed_model = 'fake'"
         )
+
+
+@pytest.fixture
+def model_app(db_url):
+    """An app whose answering model is a fake that gives `reply`."""
+
+    def make(reply):
+        settings = Settings(
+            mais_data_dir=DEFAULT_MAIS_DATA_DIR, frontend_origins=[], database_url=db_url
+        )
+        app = create_app(settings, verifier=make_verifier(), model_client=FakeClient(reply))
+        return TestClient(app)
+
+    return make
+
+
+def count_messages(conn, user_id):
+    return conn.execute(
+        "select count(*) from public.chats c join public.chat_messages m on m.chat_id = c.id"
+        " where c.user_id = %s",
+        [user_id],
+    ).fetchone()[0]
+
+
+def test_ask_with_the_model_and_when_it_fails(conn, student, model_app):
+    sheet = Catalog.load(DEFAULT_MAIS_DATA_DIR).get_sheet(ZAP)
+    n = next(i for i, c in enumerate(chunk_sheet(sheet), 1) if c.section == PH)
+    reply = {"found": True, "answer": f"Treba aspoň 11 % z 20 % [{n}].", "language": "sk"}
+    with model_app(reply) as client:
+        response = ask(client, student, "kolko percent treba na zapocet?")
+    assert response.status_code == 200
+    answer = response.json()["answer"]
+    assert answer["found"] is True and answer["text"] == "Treba aspoň 11 % z 20 % [1]."
+    assert [(s["n"], s["section"]) for s in answer["sources"]] == [(1, PH)]
+    stored = count_messages(conn, student)
+
+    failure = errors.ClientError(429, {"error": {"code": 429, "message": "quota", "status": "x"}})
+    with model_app(failure) as client:
+        response = ask(client, student, "kolko percent treba na zapocet?")
+    assert response.status_code == 503
+    assert response.json()["detail"] == ASSISTANT_UNAVAILABLE
+    assert count_messages(conn, student) == stored  # nothing stored, the question can be resent

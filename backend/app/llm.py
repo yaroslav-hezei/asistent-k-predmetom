@@ -1,6 +1,6 @@
 """The Gemini models: every model name lives in this file (one place to switch).
 
-Embeddings now; the model that writes the answers comes with the RAG step.
+Embeddings (the knowledge base) and the model that writes the answers (`generate_json`).
 
 Two embedding models are candidates until the evaluation picks one (scripts/compare_embeddings.py).
 They differ in how they are called, which this module hides:
@@ -15,10 +15,11 @@ They differ in how they are called, which this module hides:
 The API key comes from GEMINI_API_KEY and is passed to the client explicitly.
 """
 
+import json
 import math
 from collections.abc import Sequence
 from dataclasses import dataclass
-from typing import Literal
+from typing import Any, Literal
 
 from google import genai
 from google.genai import types
@@ -40,10 +41,19 @@ EMBED_QUERY_TASK: QueryTask = "question_answering"
 QUERY_TASK_TYPE = {"question_answering": "QUESTION_ANSWERING", "retrieval_query": "RETRIEVAL_QUERY"}
 QUERY_TASK_PREFIX = {"question_answering": "question answering", "retrieval_query": "search result"}
 
-# Rate limits (429) and server errors are retried with a growing pause.
+# The model that answers the questions; on the free tier 15 requests a minute, 500 a day.
+ANSWER_MODEL = "gemini-3.5-flash-lite"
+ANSWER_MAX_OUTPUT_TOKENS = 400
+
+# Scripts: rate limits (429) and server errors are retried with a growing pause.
 RETRY = types.HttpRetryOptions(
     attempts=6, initial_delay=2.0, max_delay=60.0, http_status_codes=[429, 500, 503]
 )
+# The API, where a student waits for the answer: a few short retries, then the caller gives up.
+INTERACTIVE_RETRY = types.HttpRetryOptions(
+    attempts=3, initial_delay=1.0, max_delay=8.0, http_status_codes=[429, 500, 503]
+)
+INTERACTIVE_TIMEOUT_MS = 30_000
 
 
 @dataclass(frozen=True)
@@ -52,8 +62,50 @@ class Document:
     text: str
 
 
-def make_client(api_key: str) -> genai.Client:
-    return genai.Client(api_key=api_key, http_options=types.HttpOptions(retry_options=RETRY))
+@dataclass(frozen=True)
+class Generation:
+    data: dict[str, Any]  # the JSON object the model returned
+    prompt_tokens: int | None
+    output_tokens: int | None
+
+
+def make_client(api_key: str, *, interactive: bool = False) -> genai.Client:
+    """`interactive`: for the running API (short retries, 30 s timeout); scripts wait longer."""
+    options = (
+        types.HttpOptions(retry_options=INTERACTIVE_RETRY, timeout=INTERACTIVE_TIMEOUT_MS)
+        if interactive
+        else types.HttpOptions(retry_options=RETRY)
+    )
+    return genai.Client(api_key=api_key, http_options=options)
+
+
+def generate_json(
+    client: genai.Client, system: str, prompt: str, schema: dict[str, Any]
+) -> Generation:
+    """Ask the answering model for one JSON object of `schema`. Deterministic (temperature 0),
+    minimal thinking (the model has no thinking budget 0), capped output. Raises the SDK's
+    APIError when the request fails and ValueError when the reply is not a JSON object."""
+    response = client.models.generate_content(
+        model=ANSWER_MODEL,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            system_instruction=system,
+            temperature=0,
+            max_output_tokens=ANSWER_MAX_OUTPUT_TOKENS,
+            response_mime_type="application/json",
+            response_json_schema=schema,
+            thinking_config=types.ThinkingConfig(thinking_level=types.ThinkingLevel.MINIMAL),
+        ),
+    )
+    data = json.loads(response.text or "")
+    if not isinstance(data, dict):
+        raise ValueError("the model did not return a JSON object")
+    usage = response.usage_metadata
+    return Generation(
+        data=data,
+        prompt_tokens=usage.prompt_token_count if usage else None,
+        output_tokens=usage.candidates_token_count if usage else None,
+    )
 
 
 def embed_documents(

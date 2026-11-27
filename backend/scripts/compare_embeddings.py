@@ -54,6 +54,7 @@ class Question:
     course_id: str
     text: str
     answerable: bool
+    language: str  # "sk" or "en": the language of the question
     evidence: list[dict[str, str]]  # [{section, quote}]
 
 
@@ -80,6 +81,7 @@ def load_questions(path: Path = QUESTIONS_FILE) -> list[Question]:
                     course_id=raw["course_id"],
                     text=raw["question"],
                     answerable=raw["answerable"],
+                    language=raw["language"],
                     evidence=raw["evidence"],
                 )
             )

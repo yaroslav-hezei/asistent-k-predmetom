@@ -118,7 +118,7 @@ export interface paths {
         put?: never;
         /**
          * Ask a question about a course
-         * @description Stores the question and the answer in a chat: a new one when `chat_id` is null. Until the RAG step the answer is a placeholder: one real section of the course's MAIS sheet; a question with the word 'neviem' gets the 'Neviem' answer.
+         * @description Stores the question and the answer in a chat: a new one when `chat_id` is null. The answering model reads the course's whole MAIS sheet and cites its parts as [n]; every [n] has a source with the exact sheet text. When the sheet does not answer the question, `found` is false ('Neviem'). A backend without the model (local development) answers with a placeholder: one real section of the sheet; a question with the word 'neviem' gets 'Neviem'.
          */
         post: operations["ask_ask_post"];
         delete?: never;
@@ -824,6 +824,13 @@ export interface operations {
             };
             /** @description Invalid question, or the chat belongs to another course. */
             422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Login or database not configured, or the answering model is not available (rate limit, network): nothing is stored, the question can be sent again. */
+            503: {
                 headers: {
                     [name: string]: unknown;
                 };

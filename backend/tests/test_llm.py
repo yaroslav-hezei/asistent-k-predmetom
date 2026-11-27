@@ -111,7 +111,7 @@ CHUNKS = [
 
 def question(answerable=True, section="Stručná osnova predmetu", quote="funkcie, rekurzia"):
     evidence = [{"section": section, "quote": quote}] if answerable else []
-    return Question("q", "1", "rekurzia?", answerable, evidence)
+    return Question("q", "1", "rekurzia?", answerable, "sk", evidence)
 
 
 def test_right_chunk_is_the_part_with_the_quote():
