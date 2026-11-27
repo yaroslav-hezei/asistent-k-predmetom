@@ -5,13 +5,15 @@ as the knowledge base, `app.chunking`); the model answers in a few sentences and
 as [n], or says it does not know. The model never writes a source: this code turns the cited
 numbers into sources with the exact chunk text, the MAIS link and the date the sheet was read, and
 renumbers the citations 1, 2, ... in the order they appear. An answer without a valid citation is
-"Neviem".
+"Neviem", and so is an answer with a number that none of its cited sources contains (a number
+the model made up must never reach a student).
 
 `placeholder_answer`: used when the backend runs without GEMINI_API_KEY (local development, CI):
 no model, one real section of the sheet quoted exactly; a question with the word "neviem" gets the
 "Neviem" answer, so the chat screen can be built without the model.
 """
 
+import logging
 import re
 from collections.abc import Sequence
 from dataclasses import dataclass
@@ -71,8 +73,11 @@ LANGUAGE_REMINDER = (
     "Answer language: Slovak if the question is in Slovak or Czech, otherwise English."
 )
 
+logger = logging.getLogger(__name__)
+
 # [3], [1, 3], [1; 3]
 CITATION = re.compile(r"\[(\d+(?:\s*[,;]\s*\d+)*)\]")
+NUMBER = re.compile(r"\d+")
 
 # The placeholder quotes the first of these sections that has text.
 PREFERRED_SECTIONS = (
@@ -115,7 +120,7 @@ def answer_question(client: Any, course_name: str, sheet: Sheet, question: str) 
         )
     except (errors.APIError, ValueError) as error:
         raise AnswerUnavailable(str(error)) from error
-    return read_answer(generation, chunks, sheet)
+    return read_answer(generation, chunks, sheet, course_name)
 
 
 def build_prompt(course_name: str, chunks: Sequence[Chunk], question: str) -> str:
@@ -129,7 +134,9 @@ def build_prompt(course_name: str, chunks: Sequence[Chunk], question: str) -> st
     )
 
 
-def read_answer(generation: llm.Generation, chunks: Sequence[Chunk], sheet: Sheet) -> Answer:
+def read_answer(
+    generation: llm.Generation, chunks: Sequence[Chunk], sheet: Sheet, course_name: str = ""
+) -> Answer:
     """Turn the model's JSON into an Answer: sources from the cited chunks, citations renumbered."""
     data = generation.data
     found, text, language = data.get("found"), data.get("answer"), data.get("language")
@@ -140,6 +147,12 @@ def read_answer(generation: llm.Generation, chunks: Sequence[Chunk], sheet: Shee
     text, cited = renumber_citations(text, len(chunks))
     if not cited or not text:
         return NOT_FOUND  # an answer that cites nothing is not grounded in the sheet
+    unsupported = unsupported_numbers(
+        text, [chunks[index - 1].content for index in cited] + [course_name]
+    )
+    if unsupported:
+        logger.warning("answer dropped: %s not in its cited sources", ", ".join(unsupported))
+        return NOT_FOUND
     sources = [
         Source(
             n=n,
@@ -162,6 +175,17 @@ def read_answer(generation: llm.Generation, chunks: Sequence[Chunk], sheet: Shee
         language=language if language in ("sk", "en") else None,
         prompt_tokens=generation.prompt_tokens,
         output_tokens=generation.output_tokens,
+    )
+
+
+def unsupported_numbers(text: str, sources: Sequence[str]) -> list[str]:
+    """Numbers of the answer (citations aside) that no source contains, compared by value
+    ("01" = "1"). Numbers of the question do not count: "Is it 8 credits?" must not let
+    an 8 through."""
+    known = {int(number) for source in sources for number in NUMBER.findall(source)}
+    return sorted(
+        {number for number in NUMBER.findall(CITATION.sub("", text)) if int(number) not in known},
+        key=int,
     )
 
 

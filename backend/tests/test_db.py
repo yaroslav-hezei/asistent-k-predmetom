@@ -356,6 +356,7 @@ def test_ask_errors_store_nothing(conn, student, auth_user, me_client):
 
 
 PH = "Priebežné hodnotenie (PH)"
+SHEET = ("sheet",)
 FAKE_EMBEDDING = "[" + ",".join(["0.01"] * 768) + "]"
 
 
@@ -419,7 +420,10 @@ def test_embed_pending_chunks(conn, db_url, catalogue):
     chunks = build_chunks(DEFAULT_MAIS_DATA_DIR)
     sync_sheet_chunks(conn, chunks)
     total = sum(map(len, chunks.values()))
-    assert count_pending(conn, "fake") == total
+    assert count_pending(conn, "fake", SHEET) == total
+    # by default only community answers and teacher notes get vectors, never the sheets
+    assert count_pending(conn, "fake") == 0
+    assert embed_pending_chunks(conn, lambda documents: 1 / 0, "fake") == 0
 
     titles = []
 
@@ -430,20 +434,29 @@ def test_embed_pending_chunks(conn, db_url, catalogue):
     progress = []
     try:
         stored = embed_pending_chunks(
-            conn, embed, "fake", batch_size=50, limit=120, on_batch=progress.append
+            conn,
+            embed,
+            "fake",
+            batch_size=50,
+            limit=120,
+            on_batch=progress.append,
+            source_types=SHEET,
         )
         assert (stored, progress) == (120, [50, 100, 120])
-        assert count_pending(conn, "fake") == total - 120
+        assert count_pending(conn, "fake", SHEET) == total - 120
         assert titles[0].split(" — ")[0] and all(" — " in t for t in titles)  # course — section
         # the next run continues with the chunks still without a vector
-        assert embed_pending_chunks(conn, embed, "fake", batch_size=50, limit=10) == 10
-        assert count_pending(conn, "fake") == total - 130
+        assert (
+            embed_pending_chunks(conn, embed, "fake", batch_size=50, limit=10, source_types=SHEET)
+            == 10
+        )
+        assert count_pending(conn, "fake", SHEET) == total - 130
         assert conn.execute(
             "select count(*), min(extensions.vector_dims(embedding))"
             " from public.knowledge_chunks where embed_model = 'fake'"
         ).fetchone() == (130, 768)
         with pytest.raises(RuntimeError, match="0 vectors for 1 chunks"):
-            embed_pending_chunks(conn, lambda documents: [], "fake", limit=1)
+            embed_pending_chunks(conn, lambda documents: [], "fake", limit=1, source_types=SHEET)
         with psycopg.connect(db_url) as not_autocommit, pytest.raises(ValueError):
             embed_pending_chunks(not_autocommit, embed, "fake", limit=1)
     finally:

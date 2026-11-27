@@ -16,6 +16,7 @@ from app.answerer import (
     answer_question,
     build_prompt,
     renumber_citations,
+    unsupported_numbers,
 )
 from app.catalog import Catalog
 from app.chunking import chunk_sheet
@@ -125,3 +126,28 @@ def test_unknown_language_is_none(zap):
 def test_a_failed_or_broken_reply_is_unavailable(zap, reply):
     with pytest.raises(AnswerUnavailable):
         answer_question(FakeClient(reply), ZAP_NAME, zap, "kolko na zapocet?")
+
+
+@pytest.mark.parametrize(
+    ("text", "sources", "unsupported"),
+    [
+        ("Predmet má 8 kreditov [1].", ["5"], ["8"]),
+        ("Treba aspoň 11 % z 20 % [1].", ["min. 11% z 20%."], []),
+        ("Zmena platí od 1. 9. 2026 [2].", ["Dátum: 01.09.2026"], []),
+        ("Pozri zdroj [12].", ["bez čísel"], []),  # citations are not numbers of the answer
+        ("V 2. ročníku [1].", ["bez čísel", "Programovanie 2"], []),  # e.g. from the course name
+        ("Má 3 alebo 4 kredity [1].", ["4"], ["3"]),
+    ],
+)
+def test_unsupported_numbers(text, sources, unsupported):
+    assert unsupported_numbers(text, sources) == unsupported
+
+
+def test_an_answer_with_a_made_up_number_is_neviem(zap, caplog):
+    credits = next(n for n, c in enumerate(chunk_sheet(zap), 1) if c.section == "Počet kreditov")
+    reply = {"found": True, "answer": f"Predmet má 8 kreditov [{credits}].", "language": "sk"}
+    assert answer_question(FakeClient(reply), ZAP_NAME, zap, "kolko kreditov?") == NOT_FOUND
+    assert "answer dropped: 8 not in its cited sources" in caplog.text
+
+    reply["answer"] = f"Predmet má 5 kreditov [{credits}]."
+    assert answer_question(FakeClient(reply), ZAP_NAME, zap, "kolko kreditov?").found

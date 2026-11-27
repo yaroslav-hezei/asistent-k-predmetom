@@ -14,17 +14,24 @@ from psycopg import Connection
 from app.chunking import Chunk
 from app.llm import Document
 
+# Only these sources get vectors: the answering model reads the whole sheet, so sheet chunks need
+# none (10,981 of them would take 11 days of the free tier's 1,000 texts a day).
+EMBEDDED_SOURCES = ("answer", "course_note")
+
 # Chunks without a vector of `model` (none yet, another model's, or cleared after a text change).
 SELECT_PENDING = """
 select k.id, c.name, k.section, k.content, k.content_hash
 from public.knowledge_chunks k
 join public.courses c on c.id = k.course_id
-where k.embed_model is distinct from %s
+where k.embed_model is distinct from %s and k.source_type = any(%s)
 order by k.course_id, k.source_type, k.section, k.chunk_index
 limit %s
 """
 
-COUNT_PENDING = "select count(*) from public.knowledge_chunks where embed_model is distinct from %s"
+COUNT_PENDING = """
+select count(*) from public.knowledge_chunks
+where embed_model is distinct from %s and source_type = any(%s)
+"""
 
 # The hash check skips a chunk whose text changed while its vector was being computed.
 UPDATE_EMBEDDING = """
@@ -117,9 +124,11 @@ def sync_sheet_chunks(
     )
 
 
-def count_pending(conn: Connection, model: str) -> int:
-    """Chunks that have no vector of `model`."""
-    return conn.execute(COUNT_PENDING, [model]).fetchone()[0]
+def count_pending(
+    conn: Connection, model: str, source_types: Sequence[str] = EMBEDDED_SOURCES
+) -> int:
+    """Chunks of `source_types` that have no vector of `model`."""
+    return conn.execute(COUNT_PENDING, [model, list(source_types)]).fetchone()[0]
 
 
 def embed_pending_chunks(
@@ -130,6 +139,7 @@ def embed_pending_chunks(
     batch_size: int = 100,
     limit: int | None = None,
     on_batch: Callable[[int], None] | None = None,
+    source_types: Sequence[str] = EMBEDDED_SOURCES,
 ) -> int:
     """Give every chunk without a vector of `model` its vector; return how many were stored.
 
@@ -143,7 +153,7 @@ def embed_pending_chunks(
     stored = 0
     while limit is None or stored < limit:
         size = batch_size if limit is None else min(batch_size, limit - stored)
-        rows = conn.execute(SELECT_PENDING, [model, size]).fetchall()
+        rows = conn.execute(SELECT_PENDING, [model, list(source_types), size]).fetchall()
         if not rows:
             break
         documents = [
