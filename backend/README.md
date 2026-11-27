@@ -59,6 +59,13 @@ change tables by hand in the dashboard.
 - **Catalogue in the database:** `python scripts/import_catalog.py` (from `backend/`) copies the MAIS
   snapshot into `programs`, `courses` and `program_courses` (32 / 563 / 1349 rows). Safe to run again;
   it never deletes programs or courses.
+- **Sheets in the knowledge base:** `python scripts/sync_sheet_chunks.py` (from `backend/`, after the
+  catalogue import) cuts every course's MAIS sheet into chunks (`app/chunking.py`: one section = one
+  chunk, sections over 1,500 characters in parts, each chunk the exact sheet text; "Vysoká škola",
+  "Fakulta", "Schválil" and "Dátum poslednej zmeny" are left out) and stores them in
+  `knowledge_chunks` without embeddings: 10,981 chunks of 563 sheets. Safe to run again: unchanged
+  chunks keep their embeddings, a changed text loses its embedding. `--dry-run` counts the changes
+  and writes nothing. Every write to `knowledge_chunks` goes through `app/knowledge.py`.
 
 Local database for the tests (needs Docker; run from the repo root):
 
