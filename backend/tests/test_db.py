@@ -7,16 +7,20 @@ shared cloud database: the import rewrites the catalogue tables. Without the var
 skipped locally; in CI it is required.
 """
 
+import json
 import os
+import re
 import uuid
 from dataclasses import replace
 from datetime import date
+from types import SimpleNamespace
 
 import psycopg
 import pytest
 from fastapi.testclient import TestClient
-from google.genai import errors
+from google.genai import errors, types
 
+from app import llm
 from app.catalog import Catalog
 from app.chunking import Chunk, chunk_sheet
 from app.config import DEFAULT_MAIS_DATA_DIR, Settings
@@ -506,3 +510,215 @@ def test_ask_with_the_model_and_when_it_fails(conn, student, model_app):
     assert response.status_code == 503
     assert response.json()["detail"] == ASSISTANT_UNAVAILABLE
     assert count_messages(conn, student) == stored  # nothing stored, the question can be resent
+
+
+# ---------------------------------------------------------------------------------------------
+# "Otázky komunity": the loop Neviem → publish → another student answers → the assistant knows.
+# ---------------------------------------------------------------------------------------------
+
+
+class LoopModels:
+    """A fake model: every text gets the same vector (all similarities 1.0); the answer cites the
+    first community answer in the prompt, or is 'Neviem' when there is none."""
+
+    def embed_content(self, *, model, contents, config):
+        vector = [1.0] + [0.0] * 767
+        return types.EmbedContentResponse(
+            embeddings=[types.ContentEmbedding(values=vector) for _ in contents]
+        )
+
+    def generate_content(self, *, model, contents, config):
+        match = re.search(r'<zdroj n="(\d+)" typ="odpoveď', contents)
+        if match is None:
+            reply = {"language": "sk", "found": False, "answer": ""}
+        else:
+            reply = {
+                "language": "sk",
+                "found": True,
+                "answer": f"Podľa odpovede študenta (neoverené) je projekt tímový [{match[1]}].",
+            }
+        usage = SimpleNamespace(prompt_token_count=100, candidates_token_count=20)
+        return SimpleNamespace(text=json.dumps(reply), usage_metadata=usage)
+
+
+class LoopClient:
+    models = LoopModels()
+
+
+def community_user(conn, auth_user, account, study_of=None):
+    data = dict(account)
+    if study_of is not None:
+        data["study"] = study_of["study"]
+    user_id = auth_user(f"{uuid.uuid4().hex[:8]}-{account['email']}")
+    data["nickname"] = f"{account['nickname']}-{user_id[:4]}"
+    with conn.transaction():
+        save_profile(conn, user_id, data)
+    return user_id, data["nickname"]
+
+
+def test_community_loop(conn, catalogue, auth_user, db_url):
+    accounts = load_accounts()["accounts"]
+    first, second = students()[0], students()[1]
+    teacher_account = next(a for a in accounts if a["role"] == "vyucujuci")
+    asker, _ = community_user(conn, auth_user, first)
+    helper, helper_name = community_user(conn, auth_user, second, study_of=first)
+    teacher, teacher_name = community_user(conn, auth_user, teacher_account)
+    plan = Catalog.load(DEFAULT_MAIS_DATA_DIR).program_courses(
+        first["study"]["program_id"], first["study"]["year"], first["study"]["semester"]
+    )
+    assert ZAP in {item.course.id for item in plan}  # a course of their "Moje predmety"
+    question_text = "Môžem robiť semestrálny projekt sám, alebo len v tíme?"
+    settings = Settings(
+        mais_data_dir=DEFAULT_MAIS_DATA_DIR, frontend_origins=[], database_url=db_url
+    )
+    app = create_app(settings, verifier=make_verifier(), model_client=LoopClient())
+    with TestClient(app) as client:
+        # 1. the assistant does not know → the asker publishes from the "Neviem" message
+        neviem = ask(client, asker, question_text).json()
+        assert neviem["answer"]["found"] is False
+        published = client.post(
+            "/questions",
+            headers=bearer(asker),
+            json={
+                "course_id": ZAP,
+                "text": question_text,
+                "source_message_id": neviem["answer"]["id"],
+            },
+        )
+        assert published.status_code == 200
+        question = published.json()
+        assert (question["status"], question["from_assistant"], question["mine"]) == (
+            "open",
+            True,
+            True,
+        )
+        question_id = question["id"]
+        other = client.post(
+            "/questions",
+            headers=bearer(helper),
+            json={
+                "course_id": ZAP,
+                "text": "Iná otázka?",
+                "source_message_id": neviem["answer"]["id"],
+            },
+        )
+        assert other.status_code == 422  # not the helper's message
+
+        # 2. the helper sees it: badge, the open tab, similar questions
+        assert client.get("/badges", headers=bearer(helper)).json()["open_questions"] >= 1
+        assert client.get("/badges", headers=bearer(asker)).json() == {
+            "unread_notifications": 0,
+            "open_questions": 0,  # own questions do not count
+        }
+        listed = client.get(
+            "/questions", headers=bearer(helper), params={"course_id": ZAP, "status": "open"}
+        ).json()
+        assert question_id in [item["id"] for item in listed["items"]]
+        assert listed["counts"]["open"] >= 1
+        similar = client.post(
+            "/questions/similar",
+            headers=bearer(helper),
+            json={"course_id": ZAP, "text": "Robí sa projekt v tíme?"},
+        ).json()
+        assert question_id in [item["id"] for item in similar]
+
+        # 3. the asker cannot answer; the helper answers → knowledge base + notification
+        own = client.post(
+            f"/questions/{question_id}/answers", headers=bearer(asker), json={"text": "Neviem."}
+        )
+        assert own.status_code == 403
+        answered = client.post(
+            f"/questions/{question_id}/answers",
+            headers=bearer(helper),
+            json={"text": "  Projekt sa robí v tíme, tento rok po troch ľuďoch.  "},
+        )
+        assert answered.status_code == 200
+        answer = answered.json()
+        assert answer["text"] == "Projekt sa robí v tíme, tento rok po troch ľuďoch."
+        assert (answer["verified"], answer["author"]) == (
+            False,
+            {"kind": "student", "nickname": helper_name},
+        )
+        assert conn.execute(
+            "select content, embed_model, extensions.vector_dims(embedding)"
+            " from public.knowledge_chunks where answer_id = %s",
+            [answer["id"]],
+        ).fetchone() == (answer["text"], llm.EMBED_MODEL, 768)
+        assert client.get("/badges", headers=bearer(asker)).json()["unread_notifications"] == 1
+        [notification] = client.get("/notifications", headers=bearer(asker)).json()
+        assert notification["question"]["id"] == question_id
+        assert notification["answer"]["author"]["nickname"] == helper_name
+        assert notification["answer"]["text"] == answer["text"]
+        assert notification["answer"]["verified"] is False
+        assert notification["answer"]["thanked_by_me"] is False
+        assert notification["chat_id"] == neviem["chat_id"]  # "Zobraziť v chate"
+        assert notification["read"] is False
+
+        # 4. thanks: once per user, never for one's own answer
+        thanks = client.post(f"/answers/{answer['id']}/thanks", headers=bearer(asker))
+        assert thanks.json() == {"thanks": 1, "thanked_by_me": True}
+        again = client.post(f"/answers/{answer['id']}/thanks", headers=bearer(asker))
+        assert again.json() == {"thanks": 1, "thanked_by_me": True}
+        assert (
+            client.post(f"/answers/{answer['id']}/thanks", headers=bearer(helper)).status_code
+            == 403
+        )
+
+        # 5. a teacher of the course answers verified; verified answers come first
+        verified = client.post(
+            f"/questions/{question_id}/answers",
+            headers=bearer(teacher),
+            json={"text": "Áno, projekt je tímový."},
+        ).json()
+        assert (verified["verified"], verified["author"]["kind"]) == (True, "vyucujuci")
+        detail = client.get(f"/questions/{question_id}", headers=bearer(asker)).json()
+        assert detail["status"] == "answered" and detail["answer_count"] == 2
+        assert [a["author"]["nickname"] for a in detail["answers"]] == [teacher_name, helper_name]
+        assert detail["answers"][1]["thanked_by_me"] is True
+
+        # 6. the same question again: the assistant answers from the community answer
+        again = ask(client, asker, question_text, chat_id=neviem["chat_id"]).json()["answer"]
+        assert again["found"] is True
+        [source] = again["sources"]
+        assert source["type"] == "answer" and source["question"]["id"] == question_id
+        assert source["author"]["kind"] in ("student", "vyucujuci")
+        assert source["quote"] in ("Áno, projekt je tímový.", answer["text"])
+
+        # 7. notifications read
+        read = client.post("/notifications/read", headers=bearer(asker), json={"ids": None})
+        assert read.json()["unread_notifications"] == 0
+        answered_tab = client.get(
+            "/questions", headers=bearer(helper), params={"course_id": ZAP, "status": "answered"}
+        ).json()
+        assert question_id in [item["id"] for item in answered_tab["items"]]
+        assert client.get(f"/questions/{uuid.uuid4()}", headers=bearer(asker)).status_code == 404
+
+
+def test_community_without_the_model(conn, catalogue, auth_user, me_client):
+    """No GEMINI_API_KEY: publishing and answering still work; no similar questions, no vectors."""
+    asker, _ = community_user(conn, auth_user, students()[2])
+    helper, _ = community_user(conn, auth_user, students()[3])
+    question = me_client.post(
+        "/questions", headers=bearer(asker), json={"course_id": ZAP, "text": "Je skúška ústna?"}
+    ).json()
+    assert question["from_assistant"] is False
+    assert (
+        me_client.post(
+            "/questions/similar", headers=bearer(helper), json={"course_id": ZAP, "text": "Skúška?"}
+        ).json()
+        == []
+    )
+    answer = me_client.post(
+        f"/questions/{question['id']}/answers", headers=bearer(helper), json={"text": "Písomná."}
+    ).json()
+    assert conn.execute(
+        "select embedding is null from public.knowledge_chunks where answer_id = %s",
+        [answer["id"]],
+    ).fetchone() == (True,)
+    assert count_pending(conn, llm.EMBED_MODEL) >= 1  # embed_chunks.py adds the vector later
+    assert (
+        me_client.post(
+            "/questions", headers=bearer(asker), json={"course_id": "nope", "text": "Otázka?"}
+        ).status_code
+        == 404
+    )

@@ -118,7 +118,7 @@ export interface paths {
         put?: never;
         /**
          * Ask a question about a course
-         * @description Stores the question and the answer in a chat: a new one when `chat_id` is null. The answering model reads the course's whole MAIS sheet and cites its parts as [n]; every [n] has a source with the exact sheet text. When the sheet does not answer the question, `found` is false ('Neviem'). A backend without the model (local development) answers with a placeholder: one real section of the sheet; a question with the word 'neviem' gets 'Neviem'.
+         * @description Stores the question and the answer in a chat: a new one when `chat_id` is null. The answering model reads the course's whole MAIS sheet and the community answers most similar to the question, and cites them as [n]; every [n] has a source: the exact sheet text, or the community answer with its question, author, date and Overené / Neoverené. When the sources do not answer the question, `found` is false ('Neviem'). A backend without the model (local development) answers with a placeholder: one real section of the sheet; a question with the word 'neviem' gets 'Neviem'.
          */
         post: operations["ask_ask_post"];
         delete?: never;
@@ -153,6 +153,149 @@ export interface paths {
         };
         /** One chat with its messages */
         get: operations["read_chat_chats__chat_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/questions/similar": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Questions of the course similar to a draft (before publishing)
+         * @description At most 3 visible questions with a cosine similarity of at least 0.75, the most similar first. Empty when the backend runs without the model.
+         */
+        post: operations["similar_questions_similar_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/questions": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Questions of a course: one tab of 'Otázky komunity' and both counts */
+        get: operations["list_questions_questions_get"];
+        put?: never;
+        /** Publish a question to 'Otázky komunity' */
+        post: operations["publish_questions_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/questions/{question_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** A question with its answers */
+        get: operations["read_question_questions__question_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/questions/{question_id}/answers": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Answer a question
+         * @description The answer goes into the knowledge base at once: the assistant uses it for the next questions about the course, as 'Neoverené' until a teacher verifies it. A teacher of the course answers verified. The asker gets a notification.
+         */
+        post: operations["answer_questions__question_id__answers_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/answers/{answer_id}/thanks": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** 'Poďakovať' for an answer (once per user; again is no error) */
+        post: operations["thank_answers__answer_id__thanks_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/notifications": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** The user's notifications, newest first (at most 50) */
+        get: operations["notifications_notifications_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/notifications/read": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Mark notifications as read (all when `ids` is null); returns the new counts */
+        post: operations["read_notifications_notifications_read_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/badges": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Counts for the sidebar: unread notifications and open questions of 'Moje predmety' */
+        get: operations["badges_badges_get"];
         put?: never;
         post?: never;
         delete?: never;
@@ -211,6 +354,19 @@ export interface components {
              * @example tomas_r
              */
             nickname: string | null;
+        };
+        /**
+         * Badges
+         * @description Counts for the sidebar.
+         */
+        Badges: {
+            /** Unread Notifications */
+            unread_notifications: number;
+            /**
+             * Open Questions
+             * @description Open questions of the courses of the user's study plan ('Moje predmety'), without the user's own; 0 when the plan is not set.
+             */
+            open_questions: number;
         };
         /** Chat */
         Chat: {
@@ -296,6 +452,40 @@ export interface components {
              */
             updated_at: string;
         };
+        /** CommunityAnswer */
+        CommunityAnswer: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            /** Text */
+            text: string;
+            /** @description student or vyucujuci (a teacher), with the nickname. */
+            author: components["schemas"]["Author"];
+            /**
+             * Verified
+             * @description Overené: a teacher's own answer, or a student's answer a teacher verified.
+             */
+            verified: boolean;
+            /**
+             * Created At
+             * Format: date-time
+             */
+            created_at: string;
+            /**
+             * Thanks
+             * @description How many people said 'Poďakovať'.
+             */
+            thanks: number;
+            /** Thanked By Me */
+            thanked_by_me: boolean;
+            /**
+             * Mine
+             * @description The logged-in user wrote it.
+             */
+            mine: boolean;
+        };
         /**
          * CourseSummary
          * @description A course as described by its MAIS information sheet.
@@ -346,6 +536,14 @@ export interface components {
              */
             status: "ok";
         };
+        /** MarkRead */
+        MarkRead: {
+            /**
+             * Ids
+             * @description Notifications to mark as read; null marks all of them.
+             */
+            ids?: string[] | null;
+        };
         /**
          * Me
          * @description The logged-in user's profile.
@@ -369,6 +567,78 @@ export interface components {
             role: "student" | "vyucujuci";
             /** @description Null when the user has not chosen it yet. */
             study: components["schemas"]["Study"] | null;
+        };
+        /** NewAnswer */
+        NewAnswer: {
+            /**
+             * Text
+             * @example Projekt sa robí v tíme, tento rok po troch ľuďoch.
+             */
+            text: string;
+        };
+        /** NewQuestion */
+        NewQuestion: {
+            /**
+             * Course Id
+             * @example 69574272
+             */
+            course_id: string;
+            /**
+             * Text
+             * @example Môžem robiť semestrálny projekt sám, alebo len v tíme?
+             */
+            text: string;
+            /**
+             * Source Message Id
+             * @description The assistant's 'Neviem' message the question is published from, if any.
+             */
+            source_message_id?: string | null;
+        };
+        /**
+         * Notification
+         * @description 'Someone answered your question'.
+         */
+        Notification: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            /**
+             * Type
+             * @constant
+             */
+            type: "question_answered";
+            question: components["schemas"]["QuestionSummary"];
+            /** @description Null if the answer was removed. */
+            answer: components["schemas"]["NotificationAnswer"] | null;
+            /**
+             * Chat Id
+             * @description The user's chat the question was published from ('Zobraziť v chate'); null when the question was written directly or the chat was deleted.
+             */
+            chat_id: string | null;
+            /**
+             * Created At
+             * Format: date-time
+             */
+            created_at: string;
+            /** Read */
+            read: boolean;
+        };
+        /** NotificationAnswer */
+        NotificationAnswer: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            /** Text */
+            text: string;
+            author: components["schemas"]["Author"];
+            /** Verified */
+            verified: boolean;
+            /** Thanked By Me */
+            thanked_by_me: boolean;
         };
         /**
          * Program
@@ -446,6 +716,67 @@ export interface components {
              */
             state_exam: boolean;
         };
+        /** QuestionCounts */
+        QuestionCounts: {
+            /** Open */
+            open: number;
+            /** Answered */
+            answered: number;
+        };
+        /** QuestionDetail */
+        QuestionDetail: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            course: components["schemas"]["CourseSummary"];
+            /** Text */
+            text: string;
+            /** @description Who asked: a student or a teacher, with the nickname. */
+            author: components["schemas"]["Author"];
+            /**
+             * Created At
+             * Format: date-time
+             */
+            created_at: string;
+            /**
+             * Status
+             * @description open = no visible answer yet.
+             * @enum {string}
+             */
+            status: "open" | "answered";
+            /**
+             * Answer Count
+             * @description Visible answers.
+             */
+            answer_count: number;
+            /**
+             * From Assistant
+             * @description Published from the assistant's 'Neviem' ('Asistent nenašiel odpoveď').
+             */
+            from_assistant: boolean;
+            /**
+             * Mine
+             * @description The logged-in user asked it.
+             */
+            mine: boolean;
+            /**
+             * Answers
+             * @description Visible answers: verified first, then the most thanked, then the oldest.
+             */
+            answers: components["schemas"]["CommunityAnswer"][];
+        };
+        /** QuestionList */
+        QuestionList: {
+            /**
+             * Items
+             * @description Newest first, at most 100.
+             */
+            items: components["schemas"]["QuestionSummary"][];
+            /** @description Both tabs of the course, whatever `status` is. */
+            counts: components["schemas"]["QuestionCounts"];
+        };
         /**
          * QuestionRef
          * @description The community question a community answer belongs to.
@@ -459,6 +790,105 @@ export interface components {
             /**
              * Text
              * @example Môžem robiť semestrálny projekt sám, alebo len v tíme?
+             */
+            text: string;
+        };
+        /**
+         * QuestionSummary
+         * @description A question in the lists of "Otázky komunity".
+         */
+        QuestionSummary: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            course: components["schemas"]["CourseSummary"];
+            /** Text */
+            text: string;
+            /** @description Who asked: a student or a teacher, with the nickname. */
+            author: components["schemas"]["Author"];
+            /**
+             * Created At
+             * Format: date-time
+             */
+            created_at: string;
+            /**
+             * Status
+             * @description open = no visible answer yet.
+             * @enum {string}
+             */
+            status: "open" | "answered";
+            /**
+             * Answer Count
+             * @description Visible answers.
+             */
+            answer_count: number;
+            /**
+             * From Assistant
+             * @description Published from the assistant's 'Neviem' ('Asistent nenašiel odpoveď').
+             */
+            from_assistant: boolean;
+            /**
+             * Mine
+             * @description The logged-in user asked it.
+             */
+            mine: boolean;
+        };
+        /** SimilarQuestion */
+        SimilarQuestion: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            course: components["schemas"]["CourseSummary"];
+            /** Text */
+            text: string;
+            /** @description Who asked: a student or a teacher, with the nickname. */
+            author: components["schemas"]["Author"];
+            /**
+             * Created At
+             * Format: date-time
+             */
+            created_at: string;
+            /**
+             * Status
+             * @description open = no visible answer yet.
+             * @enum {string}
+             */
+            status: "open" | "answered";
+            /**
+             * Answer Count
+             * @description Visible answers.
+             */
+            answer_count: number;
+            /**
+             * From Assistant
+             * @description Published from the assistant's 'Neviem' ('Asistent nenašiel odpoveď').
+             */
+            from_assistant: boolean;
+            /**
+             * Mine
+             * @description The logged-in user asked it.
+             */
+            mine: boolean;
+            /**
+             * Similarity
+             * @description Cosine similarity of the two questions.
+             */
+            similarity: number;
+        };
+        /** SimilarQuestionsRequest */
+        SimilarQuestionsRequest: {
+            /**
+             * Course Id
+             * @example 69574272
+             */
+            course_id: string;
+            /**
+             * Text
+             * @example Robí sa projekt v tíme?
              */
             text: string;
         };
@@ -538,6 +968,13 @@ export interface components {
              * @enum {string}
              */
             semester: "ZS" | "LS";
+        };
+        /** Thanks */
+        Thanks: {
+            /** Thanks */
+            thanks: number;
+            /** Thanked By Me */
+            thanked_by_me: boolean;
         };
         /** ValidationError */
         ValidationError: {
@@ -921,6 +1358,440 @@ export interface operations {
                 content: {
                     "application/json": components["schemas"]["HTTPValidationError"];
                 };
+            };
+        };
+    };
+    similar_questions_similar_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["SimilarQuestionsRequest"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["SimilarQuestion"][];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Course not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    list_questions_questions_get: {
+        parameters: {
+            query: {
+                course_id: string;
+                status?: "open" | "answered";
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["QuestionList"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Course not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    publish_questions_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["NewQuestion"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["QuestionDetail"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Course not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Invalid text, or source_message_id is not your assistant answer. */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+        };
+    };
+    read_question_questions__question_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                question_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["QuestionDetail"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Question not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    answer_questions__question_id__answers_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                question_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["NewAnswer"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["CommunityAnswer"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile, or the question is your own. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Question not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    thank_answers__answer_id__thanks_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                answer_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Thanks"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile, or the answer is your own. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Answer not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    notifications_notifications_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Notification"][];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+        };
+    };
+    read_notifications_notifications_read_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["MarkRead"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Badges"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    badges_badges_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Badges"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
             };
         };
     };

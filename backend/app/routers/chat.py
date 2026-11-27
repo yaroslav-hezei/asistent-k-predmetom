@@ -1,13 +1,22 @@
 """Chat with the assistant: ask a question about a course, read the user's chats."""
 
+import logging
 from datetime import UTC, datetime
 from typing import Annotated, Any
 from uuid import UUID
 
 from fastapi import APIRouter, Depends, HTTPException, Request, status
+from google.genai import errors
 from psycopg import Connection
 
-from app.answerer import AnswerUnavailable, answer_question, placeholder_answer
+from app import knowledge, llm
+from app.answerer import (
+    COMMUNITY_MIN_SIMILARITY,
+    COMMUNITY_SOURCES,
+    AnswerUnavailable,
+    answer_question,
+    placeholder_answer,
+)
 from app.auth import CurrentUserId
 from app.chats import find_chat, list_chats, list_messages, save_exchange
 from app.db import Pool
@@ -17,6 +26,7 @@ from app.routers.catalog import CatalogDep
 from app.routers.me import NO_PROFILE, NOT_LOGGED_IN
 
 router = APIRouter(tags=["chat"])
+logger = logging.getLogger(__name__)
 
 CHAT_NOT_FOUND = "Chat not found."
 ASSISTANT_UNAVAILABLE = "The assistant is not available right now. Try again in a minute."
@@ -35,11 +45,12 @@ ModelDep = Annotated[Any | None, Depends(get_model)]
     summary="Ask a question about a course",
     description=(
         "Stores the question and the answer in a chat: a new one when `chat_id` is null."
-        " The answering model reads the course's whole MAIS sheet and cites its parts as [n];"
-        " every [n] has a source with the exact sheet text. When the sheet does not answer the"
-        " question, `found` is false ('Neviem'). A backend without the model (local development)"
-        " answers with a placeholder: one real section of the sheet; a question with the word"
-        " 'neviem' gets 'Neviem'."
+        " The answering model reads the course's whole MAIS sheet and the community answers most"
+        " similar to the question, and cites them as [n]; every [n] has a source: the exact sheet"
+        " text, or the community answer with its question, author, date and Overené / Neoverené."
+        " When the sources do not answer the question, `found` is false ('Neviem')."
+        " A backend without the model (local development) answers with a placeholder: one real"
+        " section of the sheet; a question with the word 'neviem' gets 'Neviem'."
     ),
     responses={
         **NOT_LOGGED_IN,
@@ -61,6 +72,7 @@ def ask(
     course = catalog.get_course(body.course_id)
     if sheet is None or course is None:
         raise HTTPException(status.HTTP_404_NOT_FOUND, "Course not found.")
+    asked_at = datetime.now(UTC)
     with pool.connection() as conn:
         _require_profile(conn, user_id)
         if body.chat_id is not None:
@@ -71,13 +83,16 @@ def ask(
                 raise HTTPException(
                     status.HTTP_422_UNPROCESSABLE_CONTENT, "The chat belongs to another course."
                 )
-    # answered outside the database transaction: a real answer takes seconds
-    asked_at = datetime.now(UTC)
+        has_answers = model is not None and knowledge.has_answer_vectors(
+            conn, body.course_id, llm.EMBED_MODEL
+        )
+    # the model is asked outside the database transaction: it takes a second or more
     if model is None:
         answer = placeholder_answer(sheet, body.question)
     else:
+        community = _community_answers(pool, model, body.course_id, body.question, has_answers)
         try:
-            answer = answer_question(model, course.name, sheet, body.question)
+            answer = answer_question(model, course.name, sheet, body.question, community)
         except AnswerUnavailable as error:
             raise HTTPException(
                 status.HTTP_503_SERVICE_UNAVAILABLE, ASSISTANT_UNAVAILABLE
@@ -138,6 +153,30 @@ def read_chat(chat_id: UUID, user_id: CurrentUserId, pool: Pool, catalog: Catalo
     return Chat(
         id=row.id, course=course, title=row.title, updated_at=row.updated_at, messages=messages
     )
+
+
+def _community_answers(
+    pool: Pool, model: Any, course_id: str, question: str, has_answers: bool
+) -> list[knowledge.CommunitySource]:
+    """The community answers of the course most similar to the question; none when the course
+    has none (the question is then not embedded at all) or the vector cannot be made (the
+    sheet alone still answers)."""
+    if not has_answers:
+        return []
+    try:
+        [vector] = llm.embed_queries(model, llm.EMBED_MODEL, [question], llm.EMBED_QUERY_TASK)
+    except (errors.APIError, RuntimeError, ValueError):
+        logger.warning("no vector for the question; answering from the sheet only", exc_info=True)
+        return []
+    with pool.connection() as conn:
+        return knowledge.search_answers(
+            conn,
+            course_id,
+            vector,
+            llm.EMBED_MODEL,
+            limit=COMMUNITY_SOURCES,
+            min_similarity=COMMUNITY_MIN_SIMILARITY,
+        )
 
 
 def _require_profile(conn: Connection, user_id: str) -> None:

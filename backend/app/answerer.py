@@ -1,12 +1,14 @@
-"""Answering a question about a course from its MAIS information sheet.
+"""Answering a question about a course from its MAIS information sheet and the answers of people.
 
 `answer_question`: the whole sheet goes to the answering model as numbered chunks (the same chunks
-as the knowledge base, `app.chunking`); the model answers in a few sentences and cites chunk numbers
-as [n], or says it does not know. The model never writes a source: this code turns the cited
-numbers into sources with the exact chunk text, the MAIS link and the date the sheet was read, and
-renumbers the citations 1, 2, ... in the order they appear. An answer without a valid citation is
-"Neviem", and so is an answer with a number that none of its cited sources contains (a number
-the model made up must never reach a student).
+as the knowledge base, `app.chunking`), followed by the community answers most similar to the
+question (found by the caller, `app.knowledge.search_answers`); the model answers in a few
+sentences and cites source numbers as [n], or says it does not know. The model never writes a
+source: this code turns the cited numbers into sources — the exact chunk text, the MAIS link and
+the date the sheet was read; for a community answer its text, question, author, date and whether
+it is verified — and renumbers the citations 1, 2, ... in the order they appear. An answer
+without a valid citation is "Neviem", and so is an answer with a number that none of its cited
+sources contains (a number the model made up must never reach a student).
 
 `placeholder_answer`: used when the backend runs without GEMINI_API_KEY (local development, CI):
 no model, one real section of the sheet quoted exactly; a question with the word "neviem" gets the
@@ -24,12 +26,16 @@ from google.genai import errors
 from app import llm
 from app.catalog import Sheet, SheetSection, normalize
 from app.chunking import Chunk, chunk_sheet
-from app.models.chat import Author, Source
+from app.knowledge import CommunitySource
+from app.models.chat import Author, QuestionRef, Source
 
 SYSTEM_INSTRUCTION = """\
 You answer students' questions about one university course at the Technical University of Košice \
 (TUKE, FEI). The sources are the parts of the course's official information sheet from MAIS \
-("informačný list predmetu"), written in Slovak, each as <zdroj n="..." sekcia="...">text</zdroj>.
+("informačný list predmetu"), written in Slovak, each as <zdroj n="..." sekcia="...">text</zdroj>. \
+After them may come answers people wrote in the course's "Otázky komunity", each as \
+<zdroj n="..." typ="odpoveď študenta" or "odpoveď vyučujúceho" overené="áno" or "nie" \
+otázka="the question it answers">text</zdroj>.
 
 Rules:
 - Use only facts written in the text of the sources. Never use outside knowledge and never guess: \
@@ -50,6 +56,11 @@ for the zápočet), ZH = záverečné hodnotenie (the final exam). "min. 21% z 4
 is worth 40 % of the course's points and the student needs at least 21 % of them.
 - Questions how much one needs (for the zápočet, the exam, to pass the course) are answered by \
 the thresholds in PH and ZH.
+- An answer of a person may tell what the sheet does not (how the course really works). Use it \
+only when its question and text answer the question asked. When you use an answer with \
+overené="nie", say in that sentence that a student wrote it and it is not verified (e.g. "Podľa \
+odpovede študenta (neoverené) ..."). When a verified answer and the sheet disagree, say both and \
+cite both.
 """
 
 # "language" first: the model decides the language before it writes the answer.
@@ -108,64 +119,81 @@ class Answer:
 
 NOT_FOUND = Answer(found=False, text=None, sources=[], language=None)
 
+# Community answers that go to the model with the sheet: the most similar ones, if similar enough.
+COMMUNITY_SOURCES = 5
+COMMUNITY_MIN_SIMILARITY = 0.6
 
-def answer_question(client: Any, course_name: str, sheet: Sheet, question: str) -> Answer:
-    """The model's answer from the whole sheet. Raises AnswerUnavailable."""
+
+def answer_question(
+    client: Any,
+    course_name: str,
+    sheet: Sheet,
+    question: str,
+    community: Sequence[CommunitySource] = (),
+) -> Answer:
+    """The model's answer from the whole sheet and `community` answers. Raises
+    AnswerUnavailable."""
     chunks = chunk_sheet(sheet)
-    if not chunks:
+    if not chunks and not community:
         return NOT_FOUND
+    prompt = build_prompt(course_name, chunks, question, community)
     try:
-        generation = llm.generate_json(
-            client, SYSTEM_INSTRUCTION, build_prompt(course_name, chunks, question), ANSWER_SCHEMA
-        )
+        generation = llm.generate_json(client, SYSTEM_INSTRUCTION, prompt, ANSWER_SCHEMA)
     except (errors.APIError, ValueError) as error:
         raise AnswerUnavailable(str(error)) from error
-    return read_answer(generation, chunks, sheet, course_name)
+    return read_answer(generation, chunks, sheet, course_name, community)
 
 
-def build_prompt(course_name: str, chunks: Sequence[Chunk], question: str) -> str:
+def build_prompt(
+    course_name: str,
+    chunks: Sequence[Chunk],
+    question: str,
+    community: Sequence[CommunitySource] = (),
+) -> str:
     # the number apart from the text: "[8] Počet kreditov: 5" made the model answer "8 credits"
-    sources = "\n".join(
+    sheet_sources = [
         f'<zdroj n="{n}" sekcia="{chunk.section}">\n{chunk.content}\n</zdroj>'
         for n, chunk in enumerate(chunks, 1)
-    )
+    ]
+    community_sources = [
+        f'<zdroj n="{n}" typ="{_community_type(answer)}"'
+        f' overené="{"áno" if answer.verified else "nie"}"'
+        f' otázka="{_attribute(answer.question_text)}">\n{answer.text}\n</zdroj>'
+        for n, answer in enumerate(community, len(chunks) + 1)
+    ]
+    sources = "\n".join(sheet_sources + community_sources)
     return (
         f"Predmet: {course_name}\n\nZdroje:\n{sources}\n\nOtázka: {question}\n\n{LANGUAGE_REMINDER}"
     )
 
 
 def read_answer(
-    generation: llm.Generation, chunks: Sequence[Chunk], sheet: Sheet, course_name: str = ""
+    generation: llm.Generation,
+    chunks: Sequence[Chunk],
+    sheet: Sheet,
+    course_name: str = "",
+    community: Sequence[CommunitySource] = (),
 ) -> Answer:
-    """Turn the model's JSON into an Answer: sources from the cited chunks, citations renumbered."""
+    """Turn the model's JSON into an Answer: sources from the cited sheet chunks and community
+    answers (numbered after the chunks), citations renumbered."""
     data = generation.data
     found, text, language = data.get("found"), data.get("answer"), data.get("language")
     if not isinstance(found, bool) or not isinstance(text, str):
         raise AnswerUnavailable("the model's reply does not have the expected fields")
     if not found:
         return NOT_FOUND
-    text, cited = renumber_citations(text, len(chunks))
+    text, cited = renumber_citations(text, len(chunks) + len(community))
     if not cited or not text:
-        return NOT_FOUND  # an answer that cites nothing is not grounded in the sheet
-    unsupported = unsupported_numbers(
-        text, [chunks[index - 1].content for index in cited] + [course_name]
-    )
+        return NOT_FOUND  # an answer that cites nothing is not grounded in the sources
+    texts = [c.content for c in chunks] + [a.text for a in community]
+    unsupported = unsupported_numbers(text, [texts[index - 1] for index in cited] + [course_name])
     if unsupported:
         logger.warning("answer dropped: %s not in its cited sources", ", ".join(unsupported))
         return NOT_FOUND
     sources = [
-        Source(
-            n=n,
-            type="sheet",
-            section=chunks[index - 1].section,
-            quote=chunks[index - 1].content,
-            url=sheet.source_url,
-            question=None,
-            date=sheet.fetched_at,
-            author=Author(kind="mais", nickname=None),
-            verified=True,
-            outdated=False,
-        )
+        _sheet_source(n, chunks[index - 1], sheet)
+        if index <= len(chunks)
+        else _community_source(n, community[index - len(chunks) - 1])
         for n, index in enumerate(cited, 1)
     ]
     return Answer(
@@ -176,6 +204,48 @@ def read_answer(
         prompt_tokens=generation.prompt_tokens,
         output_tokens=generation.output_tokens,
     )
+
+
+def _sheet_source(n: int, chunk: Chunk, sheet: Sheet) -> Source:
+    return Source(
+        n=n,
+        type="sheet",
+        section=chunk.section,
+        quote=chunk.content,
+        url=sheet.source_url,
+        question=None,
+        date=sheet.fetched_at,
+        author=Author(kind="mais", nickname=None),
+        verified=True,
+        outdated=False,
+    )
+
+
+def _community_source(n: int, answer: CommunitySource) -> Source:
+    return Source(
+        n=n,
+        type="answer",
+        section=None,
+        quote=answer.text,
+        url=None,
+        question=QuestionRef(id=answer.question_id, text=answer.question_text),
+        date=answer.created_at,
+        author=Author(
+            kind="vyucujuci" if answer.role == "vyucujuci" else "student",
+            nickname=answer.nickname,
+        ),
+        verified=answer.verified,
+        outdated=False,
+    )
+
+
+def _community_type(answer: CommunitySource) -> str:
+    return "odpoveď vyučujúceho" if answer.role == "vyucujuci" else "odpoveď študenta"
+
+
+def _attribute(text: str) -> str:
+    """Text safe inside a double-quoted attribute of the prompt."""
+    return " ".join(text.replace('"', "'").split())
 
 
 def unsupported_numbers(text: str, sources: Sequence[str]) -> list[str]:
