@@ -317,7 +317,7 @@
           "chat"
         ],
         "summary": "Ask a question about a course",
-        "description": "Stores the question and the answer in a chat: a new one when `chat_id` is null. The answering model reads the course's whole MAIS sheet and cites its parts as [n]; every [n] has a source with the exact sheet text. When the sheet does not answer the question, `found` is false ('Neviem'). A backend without the model (local development) answers with a placeholder: one real section of the sheet; a question with the word 'neviem' gets 'Neviem'.",
+        "description": "Stores the question and the answer in a chat: a new one when `chat_id` is null. The answering model reads the course's whole MAIS sheet and the community answers most similar to the question, and cites them as [n]; every [n] has a source: the exact sheet text, or the community answer with its question, author, date and Overené / Neoverené. When the sources do not answer the question, `found` is false ('Neviem'). A backend without the model (local development) answers with a placeholder: one real section of the sheet; a question with the word 'neviem' gets 'Neviem'.",
         "operationId": "ask_ask_post",
         "requestBody": {
           "content": {
@@ -455,6 +455,488 @@
           }
         }
       }
+    },
+    "/questions/similar": {
+      "post": {
+        "tags": [
+          "community"
+        ],
+        "summary": "Questions of the course similar to a draft (before publishing)",
+        "description": "At most 3 visible questions with a cosine similarity of at least 0.75, the most similar first. Empty when the backend runs without the model.",
+        "operationId": "similar_questions_similar_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SimilarQuestionsRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/SimilarQuestion"
+                  },
+                  "type": "array",
+                  "title": "Response Similar Questions Similar Post"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          },
+          "404": {
+            "description": "Course not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ]
+      }
+    },
+    "/questions": {
+      "post": {
+        "tags": [
+          "community"
+        ],
+        "summary": "Publish a question to 'Otázky komunity'",
+        "operationId": "publish_questions_post",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/NewQuestion"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/QuestionDetail"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          },
+          "404": {
+            "description": "Course not found."
+          },
+          "422": {
+            "description": "Invalid text, or source_message_id is not your assistant answer."
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "community"
+        ],
+        "summary": "Questions of a course: one tab of 'Otázky komunity' and both counts",
+        "operationId": "list_questions_questions_get",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "course_id",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "minLength": 1,
+              "examples": [
+                "69574272"
+              ],
+              "title": "Course Id"
+            }
+          },
+          {
+            "name": "status",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "enum": [
+                "open",
+                "answered"
+              ],
+              "type": "string",
+              "default": "open",
+              "title": "Status"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/QuestionList"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          },
+          "404": {
+            "description": "Course not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/questions/{question_id}": {
+      "get": {
+        "tags": [
+          "community"
+        ],
+        "summary": "A question with its answers",
+        "operationId": "read_question_questions__question_id__get",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "question_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid",
+              "title": "Question Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/QuestionDetail"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          },
+          "404": {
+            "description": "Question not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/questions/{question_id}/answers": {
+      "post": {
+        "tags": [
+          "community"
+        ],
+        "summary": "Answer a question",
+        "description": "The answer goes into the knowledge base at once: the assistant uses it for the next questions about the course, as 'Neoverené' until a teacher verifies it. A teacher of the course answers verified. The asker gets a notification.",
+        "operationId": "answer_questions__question_id__answers_post",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "question_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid",
+              "title": "Question Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/NewAnswer"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommunityAnswer"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile, or the question is your own."
+          },
+          "404": {
+            "description": "Question not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/answers/{answer_id}/thanks": {
+      "post": {
+        "tags": [
+          "community"
+        ],
+        "summary": "'Poďakovať' for an answer (once per user; again is no error)",
+        "operationId": "thank_answers__answer_id__thanks_post",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "answer_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid",
+              "title": "Answer Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Thanks"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile, or the answer is your own."
+          },
+          "404": {
+            "description": "Answer not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/notifications": {
+      "get": {
+        "tags": [
+          "community"
+        ],
+        "summary": "The user's notifications, newest first (at most 50)",
+        "operationId": "notifications_notifications_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/Notification"
+                  },
+                  "type": "array",
+                  "title": "Response Notifications Notifications Get"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          }
+        },
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ]
+      }
+    },
+    "/notifications/read": {
+      "post": {
+        "tags": [
+          "community"
+        ],
+        "summary": "Mark notifications as read (all when `ids` is null); returns the new counts",
+        "operationId": "read_notifications_notifications_read_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MarkRead"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Badges"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ]
+      }
+    },
+    "/badges": {
+      "get": {
+        "tags": [
+          "community"
+        ],
+        "summary": "Counts for the sidebar: unread notifications and open questions of 'Moje predmety'",
+        "operationId": "badges_badges_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Badges"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          }
+        },
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ]
+      }
     }
   },
   "components": {
@@ -557,6 +1039,28 @@
         ],
         "title": "Author",
         "description": "Who wrote the source: the official MAIS sheet, a student or a teacher."
+      },
+      "Badges": {
+        "properties": {
+          "unread_notifications": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Unread Notifications"
+          },
+          "open_questions": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Open Questions",
+            "description": "Open questions of the courses of the user's study plan ('Moje predmety'), without the user's own; 0 when the plan is not set."
+          }
+        },
+        "type": "object",
+        "required": [
+          "unread_notifications",
+          "open_questions"
+        ],
+        "title": "Badges",
+        "description": "Counts for the sidebar."
       },
       "Chat": {
         "properties": {
@@ -695,6 +1199,60 @@
         "title": "ChatSummary",
         "description": "A chat in \"História\": one chat = one course."
       },
+      "CommunityAnswer": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
+          "author": {
+            "$ref": "#/components/schemas/Author",
+            "description": "student or vyucujuci (a teacher), with the nickname."
+          },
+          "verified": {
+            "type": "boolean",
+            "title": "Verified",
+            "description": "Overené: a teacher's own answer, or a student's answer a teacher verified."
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At"
+          },
+          "thanks": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Thanks",
+            "description": "How many people said 'Poďakovať'."
+          },
+          "thanked_by_me": {
+            "type": "boolean",
+            "title": "Thanked By Me"
+          },
+          "mine": {
+            "type": "boolean",
+            "title": "Mine",
+            "description": "The logged-in user wrote it."
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "text",
+          "author",
+          "verified",
+          "created_at",
+          "thanks",
+          "thanked_by_me",
+          "mine"
+        ],
+        "title": "CommunityAnswer"
+      },
       "CourseSummary": {
         "properties": {
           "id": {
@@ -784,6 +1342,28 @@
         ],
         "title": "Health"
       },
+      "MarkRead": {
+        "properties": {
+          "ids": {
+            "anyOf": [
+              {
+                "items": {
+                  "type": "string",
+                  "format": "uuid"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Ids",
+            "description": "Notifications to mark as read; null marks all of them."
+          }
+        },
+        "type": "object",
+        "title": "MarkRead"
+      },
       "Me": {
         "properties": {
           "id": {
@@ -826,6 +1406,130 @@
         ],
         "title": "Me",
         "description": "The logged-in user's profile."
+      },
+      "NewAnswer": {
+        "properties": {
+          "text": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Text",
+            "examples": [
+              "Projekt sa robí v tíme, tento rok po troch ľuďoch."
+            ]
+          }
+        },
+        "type": "object",
+        "required": [
+          "text"
+        ],
+        "title": "NewAnswer"
+      },
+      "NewQuestion": {
+        "properties": {
+          "course_id": {
+            "type": "string",
+            "minLength": 1,
+            "title": "Course Id",
+            "examples": [
+              "69574272"
+            ]
+          },
+          "text": {
+            "type": "string",
+            "maxLength": 1000,
+            "minLength": 3,
+            "title": "Text",
+            "examples": [
+              "Môžem robiť semestrálny projekt sám, alebo len v tíme?"
+            ]
+          },
+          "source_message_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "uuid"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Source Message Id",
+            "description": "The assistant's 'Neviem' message the question is published from, if any."
+          }
+        },
+        "type": "object",
+        "required": [
+          "course_id",
+          "text"
+        ],
+        "title": "NewQuestion"
+      },
+      "Notification": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "type": {
+            "type": "string",
+            "const": "question_answered",
+            "title": "Type"
+          },
+          "question": {
+            "$ref": "#/components/schemas/QuestionSummary"
+          },
+          "answer": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/NotificationAnswer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Null if the answer was removed."
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At"
+          },
+          "read": {
+            "type": "boolean",
+            "title": "Read"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "type",
+          "question",
+          "answer",
+          "created_at",
+          "read"
+        ],
+        "title": "Notification",
+        "description": "'Someone answered your question'."
+      },
+      "NotificationAnswer": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "author": {
+            "$ref": "#/components/schemas/Author"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "author"
+        ],
+        "title": "NotificationAnswer"
       },
       "Program": {
         "properties": {
@@ -950,6 +1654,120 @@
         "title": "ProgramCourse",
         "description": "One course in a program's study plan, placed in a year and semester."
       },
+      "QuestionCounts": {
+        "properties": {
+          "open": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Open"
+          },
+          "answered": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Answered"
+          }
+        },
+        "type": "object",
+        "required": [
+          "open",
+          "answered"
+        ],
+        "title": "QuestionCounts"
+      },
+      "QuestionDetail": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "course": {
+            "$ref": "#/components/schemas/CourseSummary"
+          },
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
+          "author": {
+            "$ref": "#/components/schemas/Author",
+            "description": "Who asked: a student or a teacher, with the nickname."
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "open",
+              "answered"
+            ],
+            "title": "Status",
+            "description": "open = no visible answer yet."
+          },
+          "answer_count": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Answer Count",
+            "description": "Visible answers."
+          },
+          "from_assistant": {
+            "type": "boolean",
+            "title": "From Assistant",
+            "description": "Published from the assistant's 'Neviem' ('Asistent nenašiel odpoveď')."
+          },
+          "mine": {
+            "type": "boolean",
+            "title": "Mine",
+            "description": "The logged-in user asked it."
+          },
+          "answers": {
+            "items": {
+              "$ref": "#/components/schemas/CommunityAnswer"
+            },
+            "type": "array",
+            "title": "Answers",
+            "description": "Visible answers: verified first, then the most thanked, then the oldest."
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "course",
+          "text",
+          "author",
+          "created_at",
+          "status",
+          "answer_count",
+          "from_assistant",
+          "mine",
+          "answers"
+        ],
+        "title": "QuestionDetail"
+      },
+      "QuestionList": {
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/QuestionSummary"
+            },
+            "type": "array",
+            "title": "Items",
+            "description": "Newest first, at most 100."
+          },
+          "counts": {
+            "$ref": "#/components/schemas/QuestionCounts",
+            "description": "Both tabs of the course, whatever `status` is."
+          }
+        },
+        "type": "object",
+        "required": [
+          "items",
+          "counts"
+        ],
+        "title": "QuestionList"
+      },
       "QuestionRef": {
         "properties": {
           "id": {
@@ -972,6 +1790,168 @@
         ],
         "title": "QuestionRef",
         "description": "The community question a community answer belongs to."
+      },
+      "QuestionSummary": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "course": {
+            "$ref": "#/components/schemas/CourseSummary"
+          },
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
+          "author": {
+            "$ref": "#/components/schemas/Author",
+            "description": "Who asked: a student or a teacher, with the nickname."
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "open",
+              "answered"
+            ],
+            "title": "Status",
+            "description": "open = no visible answer yet."
+          },
+          "answer_count": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Answer Count",
+            "description": "Visible answers."
+          },
+          "from_assistant": {
+            "type": "boolean",
+            "title": "From Assistant",
+            "description": "Published from the assistant's 'Neviem' ('Asistent nenašiel odpoveď')."
+          },
+          "mine": {
+            "type": "boolean",
+            "title": "Mine",
+            "description": "The logged-in user asked it."
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "course",
+          "text",
+          "author",
+          "created_at",
+          "status",
+          "answer_count",
+          "from_assistant",
+          "mine"
+        ],
+        "title": "QuestionSummary",
+        "description": "A question in the lists of \"Otázky komunity\"."
+      },
+      "SimilarQuestion": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "course": {
+            "$ref": "#/components/schemas/CourseSummary"
+          },
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
+          "author": {
+            "$ref": "#/components/schemas/Author",
+            "description": "Who asked: a student or a teacher, with the nickname."
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "open",
+              "answered"
+            ],
+            "title": "Status",
+            "description": "open = no visible answer yet."
+          },
+          "answer_count": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Answer Count",
+            "description": "Visible answers."
+          },
+          "from_assistant": {
+            "type": "boolean",
+            "title": "From Assistant",
+            "description": "Published from the assistant's 'Neviem' ('Asistent nenašiel odpoveď')."
+          },
+          "mine": {
+            "type": "boolean",
+            "title": "Mine",
+            "description": "The logged-in user asked it."
+          },
+          "similarity": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": -1.0,
+            "title": "Similarity",
+            "description": "Cosine similarity of the two questions."
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "course",
+          "text",
+          "author",
+          "created_at",
+          "status",
+          "answer_count",
+          "from_assistant",
+          "mine",
+          "similarity"
+        ],
+        "title": "SimilarQuestion"
+      },
+      "SimilarQuestionsRequest": {
+        "properties": {
+          "course_id": {
+            "type": "string",
+            "minLength": 1,
+            "title": "Course Id",
+            "examples": [
+              "69574272"
+            ]
+          },
+          "text": {
+            "type": "string",
+            "maxLength": 1000,
+            "minLength": 3,
+            "title": "Text",
+            "examples": [
+              "Robí sa projekt v tíme?"
+            ]
+          }
+        },
+        "type": "object",
+        "required": [
+          "course_id",
+          "text"
+        ],
+        "title": "SimilarQuestionsRequest"
       },
       "Source": {
         "properties": {
@@ -1113,6 +2093,25 @@
         ],
         "title": "Study",
         "description": "Program, year and semester of a student: what \"Moje predmety\" shows."
+      },
+      "Thanks": {
+        "properties": {
+          "thanks": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Thanks"
+          },
+          "thanked_by_me": {
+            "type": "boolean",
+            "title": "Thanked By Me"
+          }
+        },
+        "type": "object",
+        "required": [
+          "thanks",
+          "thanked_by_me"
+        ],
+        "title": "Thanks"
       },
       "ValidationError": {
         "properties": {

@@ -107,6 +107,29 @@ npx supabase@3.2.0 stop          # when done
 Apply new migrations to the shared cloud database only after the pull request is merged; Yaroslav
 does it.
 
+## Otázky komunity and Upozornenia
+
+The loop of the product: the assistant says "Neviem" → the student publishes the question
+(`POST /questions` with `source_message_id` = that answer) → someone answers
+(`POST /questions/{id}/answers`) → the answer goes into the knowledge base at once (`app/knowledge.py`:
+a chunk, then its vector) and the asker gets a notification → the next time anyone asks about the
+course, `/ask` gives the model the community answers most similar to the question with the whole
+sheet, and the answer shows them as sources: author, date, Overené / Neoverené.
+
+- **Who:** anyone logged in with a profile; nobody answers or thanks their own text. A teacher of the
+  course (`teacher_courses`) answers verified ("Overené").
+- **Status:** a question is open while it has no visible answer; hidden questions and answers (spam)
+  are never shown, counted or used.
+- **Similar questions** before publishing: `POST /questions/similar`, cosine similarity ≥ 0.75 of the
+  question vectors (`app/routers/community.py`). Measured live: a Slovak paraphrase 0.82, the same
+  question in English 0.93, an unrelated question not returned.
+- **The assistant** gets at most 5 community answers with similarity ≥ 0.6 (`app/answerer.py`); the
+  question is embedded only when the course has community answers with vectors.
+- **Vectors** need `GEMINI_API_KEY`; without it everything works except "similar questions" (empty),
+  and the answers wait for `scripts/embed_chunks.py`. A failed vector never fails the request.
+- **Badges** (`GET /badges`): unread notifications, and open questions of the courses of the user's
+  study plan ("Moje predmety") without the user's own.
+
 ## Login
 
 Supabase Auth, email + password, test accounts only (no registration). The frontend logs in with
@@ -151,6 +174,14 @@ Endpoints (details and examples at `/docs` of a running server):
 | `POST /ask` | ask about a course: stores the question and the answer in a chat (new one when `chat_id` is null) — needs a token; the answering model reads the course's whole MAIS sheet and cites it as [n] (see "Answers"); 503 when the model is not available; without `GEMINI_API_KEY` a placeholder answer |
 | `GET /chats` | the logged-in user's chats for "História", newest first (at most 50) — needs a token |
 | `GET /chats/{chat_id}` | one chat of the logged-in user with its messages and their sources — needs a token |
+| `POST /questions/similar` | up to 3 questions of the course similar to a draft — needs a token |
+| `POST /questions` | publish a question (optionally from the assistant's "Neviem" message) — needs a token |
+| `GET /questions?course_id=&status=open\|answered` | one tab of "Otázky komunity" and the counts of both — needs a token |
+| `GET /questions/{question_id}` | a question with its answers (verified first, then the most thanked) — needs a token |
+| `POST /questions/{question_id}/answers` | answer: into the knowledge base at once, notification to the asker — needs a token |
+| `POST /answers/{answer_id}/thanks` | "Poďakovať", once per user — needs a token |
+| `GET /notifications`, `POST /notifications/read` | "Upozornenia"; mark read (all or some) — needs a token |
+| `GET /badges` | sidebar counts: unread notifications, open questions of "Moje predmety" — needs a token |
 
 Data rules:
 

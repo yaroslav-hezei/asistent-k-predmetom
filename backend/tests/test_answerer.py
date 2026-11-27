@@ -1,6 +1,8 @@
 """The model's answer from the whole sheet (app.answerer) with a fake client: no network."""
 
 import json
+import uuid
+from datetime import UTC, datetime
 from types import SimpleNamespace
 
 import pytest
@@ -21,6 +23,7 @@ from app.answerer import (
 from app.catalog import Catalog
 from app.chunking import chunk_sheet
 from app.config import DEFAULT_MAIS_DATA_DIR
+from app.knowledge import CommunitySource
 
 ZAP = "65954478"
 ZAP_NAME = "Základy algoritmizácie a programovania"
@@ -151,3 +154,57 @@ def test_an_answer_with_a_made_up_number_is_neviem(zap, caplog):
 
     reply["answer"] = f"Predmet má 5 kreditov [{credits}]."
     assert answer_question(FakeClient(reply), ZAP_NAME, zap, "kolko kreditov?").found
+
+
+def community_answer(**changes):
+    values = {
+        "answer_id": uuid.UUID(int=1),
+        "question_id": uuid.UUID(int=2),
+        "question_text": 'Môžem robiť "projekt" sám?',
+        "text": "Projekt sa robí v tíme, tento rok po 3 ľuďoch.",
+        "role": "student",
+        "nickname": "student02",
+        "verified": False,
+        "created_at": datetime(2026, 11, 27, 12, 0, tzinfo=UTC),
+        "similarity": 0.81,
+    }
+    return CommunitySource(**{**values, **changes})
+
+
+def test_community_answers_follow_the_sheet_in_the_prompt(zap):
+    chunks = chunk_sheet(zap)
+    teacher = community_answer(role="vyucujuci", nickname="vyucujuci01", verified=True)
+    prompt = build_prompt(
+        ZAP_NAME, chunks, "robi sa projekt v time?", [community_answer(), teacher]
+    )
+    first, second = len(chunks) + 1, len(chunks) + 2
+    assert (
+        f'<zdroj n="{first}" typ="odpoveď študenta" overené="nie"'
+        " otázka=\"Môžem robiť 'projekt' sám?\">\nProjekt sa robí v tíme" in prompt
+    )
+    assert f'<zdroj n="{second}" typ="odpoveď vyučujúceho" overené="áno"' in prompt
+    assert prompt.index(f'<zdroj n="{len(chunks)}" sekcia=') < prompt.index(f'<zdroj n="{first}"')
+
+
+def test_a_cited_community_answer_becomes_an_answer_source(zap):
+    n = len(chunk_sheet(zap)) + 1
+    reply = {
+        "found": True,
+        "answer": f"Podľa odpovede študenta (neoverené) sa projekt robí v tíme po 3 [{n}].",
+        "language": "sk",
+    }
+    answer = answer_question(
+        FakeClient(reply), ZAP_NAME, zap, "robi sa projekt v time?", [community_answer()]
+    )
+    assert answer.found and answer.text.endswith("po 3 [1].")
+    [source] = answer.sources
+    assert (source.n, source.type, source.section, source.url) == (1, "answer", None, None)
+    assert source.quote == "Projekt sa robí v tíme, tento rok po 3 ľuďoch."
+    assert source.question.id == uuid.UUID(int=2)
+    assert source.question.text == 'Môžem robiť "projekt" sám?'
+    assert (source.author.kind, source.author.nickname) == ("student", "student02")
+    assert source.verified is False and source.date == datetime(2026, 11, 27, 12, 0, tzinfo=UTC)
+
+    # a number the cited community answer does not have is dropped like any other
+    reply["answer"] = f"Projekt sa robí po 4 [{n}]."
+    assert answer_question(FakeClient(reply), ZAP_NAME, zap, "?", [community_answer()]) == NOT_FOUND
