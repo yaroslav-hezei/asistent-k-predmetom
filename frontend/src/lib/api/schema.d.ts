@@ -107,10 +107,195 @@ export interface paths {
         patch: operations["update_me_me_patch"];
         trace?: never;
     };
+    "/ask": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Ask a question about a course
+         * @description Stores the question and the answer in a chat: a new one when `chat_id` is null. Until the RAG step the answer is a placeholder: one real section of the course's MAIS sheet; a question with the word 'neviem' gets the 'Neviem' answer.
+         */
+        post: operations["ask_ask_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/chats": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** The user's chats for 'História', newest first (at most 50) */
+        get: operations["read_chats_chats_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/chats/{chat_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** One chat with its messages */
+        get: operations["read_chat_chats__chat_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
 }
 export type webhooks = Record<string, never>;
 export interface components {
     schemas: {
+        /** AskRequest */
+        AskRequest: {
+            /**
+             * Course Id
+             * @description MAIS id of the course, as in /courses.
+             * @example 65954478
+             */
+            course_id: string;
+            /**
+             * Question
+             * @example Ako sa hodnotí tento predmet?
+             */
+            question: string;
+            /**
+             * Chat Id
+             * @description Continue this chat; null starts a new chat for the course.
+             */
+            chat_id?: string | null;
+        };
+        /** AskResponse */
+        AskResponse: {
+            /**
+             * Chat Id
+             * Format: uuid
+             * @description The chat the question went to (new or continued).
+             */
+            chat_id: string;
+            question: components["schemas"]["ChatMessage"];
+            answer: components["schemas"]["ChatMessage"];
+        };
+        /**
+         * Author
+         * @description Who wrote the source: the official MAIS sheet, a student or a teacher.
+         */
+        Author: {
+            /**
+             * Kind
+             * @enum {string}
+             */
+            kind: "mais" | "student" | "vyucujuci";
+            /**
+             * Nickname
+             * @description Null for the MAIS sheet.
+             * @example tomas_r
+             */
+            nickname: string | null;
+        };
+        /** Chat */
+        Chat: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            course: components["schemas"]["CourseSummary"];
+            /**
+             * Title
+             * @description The first question, cut to 200 characters.
+             */
+            title: string;
+            /**
+             * Updated At
+             * Format: date-time
+             * @description Time of the last question.
+             */
+            updated_at: string;
+            /**
+             * Messages
+             * @description Oldest first.
+             */
+            messages: components["schemas"]["ChatMessage"][];
+        };
+        /**
+         * ChatMessage
+         * @description A question of the user or an answer of the assistant.
+         */
+        ChatMessage: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            /**
+             * Role
+             * @enum {string}
+             */
+            role: "user" | "assistant";
+            /**
+             * Text
+             * @description User: the question. Assistant: the answer with [n] citations; null when found is false (the frontend shows its own 'Neviem' text).
+             */
+            text: string | null;
+            /**
+             * Found
+             * @description Assistant only: false = 'Neviem', offer 'Zverejniť otázku'. Null for user.
+             */
+            found: boolean | null;
+            /**
+             * Sources
+             * @description Assistant only; empty for user and for 'Neviem'.
+             */
+            sources: components["schemas"]["Source"][];
+            /**
+             * Created At
+             * Format: date-time
+             */
+            created_at: string;
+        };
+        /**
+         * ChatSummary
+         * @description A chat in "História": one chat = one course.
+         */
+        ChatSummary: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            course: components["schemas"]["CourseSummary"];
+            /**
+             * Title
+             * @description The first question, cut to 200 characters.
+             */
+            title: string;
+            /**
+             * Updated At
+             * Format: date-time
+             * @description Time of the last question.
+             */
+            updated_at: string;
+        };
         /**
          * CourseSummary
          * @description A course as described by its MAIS information sheet.
@@ -260,6 +445,76 @@ export interface components {
              * @description True for courses from the state-exam table.
              */
             state_exam: boolean;
+        };
+        /**
+         * QuestionRef
+         * @description The community question a community answer belongs to.
+         */
+        QuestionRef: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            /**
+             * Text
+             * @example Môžem robiť semestrálny projekt sám, alebo len v tíme?
+             */
+            text: string;
+        };
+        /**
+         * Source
+         * @description One source under an answer. The answer text cites it as [n].
+         */
+        Source: {
+            /**
+             * N
+             * @description Number cited in the answer text as [n].
+             * @example 1
+             */
+            n: number;
+            /**
+             * Type
+             * @description sheet = MAIS information sheet; answer = an answer from Otázky komunity; course_note = the teacher's Aktuálna informácia k predmetu.
+             * @enum {string}
+             */
+            type: "sheet" | "answer" | "course_note";
+            /**
+             * Section
+             * @description Sheet section label; null for other types.
+             * @example Priebežné hodnotenie (PH)
+             */
+            section: string | null;
+            /**
+             * Quote
+             * @description Exact stored text the answer relies on.
+             */
+            quote: string;
+            /**
+             * Url
+             * @description Sheet: link to the sheet in MAIS. Null for other types.
+             * @example https://maisportal.tuke.sk/portal/tlacPredmetuOSP.mais?predmetId=65954478
+             */
+            url: string | null;
+            /** @description Type answer: the community question it answers. Null for other types. */
+            question: components["schemas"]["QuestionRef"] | null;
+            /**
+             * Date
+             * Format: date-time
+             * @description Sheet: when the sheet was read from MAIS (MAIS has no reliable change date), shown as 'stav k …'. Answer and course note: when it was written.
+             */
+            date: string;
+            author: components["schemas"]["Author"];
+            /**
+             * Verified
+             * @description True for the sheet and the teacher's note; for a community answer: verified by a teacher (Overené) or not (Neoverené).
+             */
+            verified: boolean;
+            /**
+             * Outdated
+             * @description Sheet: show the outdated-sheet warning. Always false until its rule is set.
+             */
+            outdated: boolean;
         };
         /**
          * Study
@@ -521,6 +776,144 @@ export interface operations {
                     [name: string]: unknown;
                 };
                 content?: never;
+            };
+        };
+    };
+    ask_ask_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["AskRequest"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AskResponse"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Unknown course, or the chat does not exist / is not yours. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Invalid question, or the chat belongs to another course. */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+        };
+    };
+    read_chats_chats_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ChatSummary"][];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+        };
+    };
+    read_chat_chats__chat_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                chat_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Chat"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The chat does not exist or is not yours. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
             };
         };
     };

@@ -7,6 +7,8 @@ the API models in `app.models.catalog` stay the same.
 import json
 import re
 import unicodedata
+from dataclasses import dataclass
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
@@ -28,6 +30,22 @@ METHOD_ORDER = {"prezencna": 0, "kombinovana": 1}
 
 class CatalogDataError(ValueError):
     """The snapshot does not have the shape the catalogue expects."""
+
+
+@dataclass(frozen=True)
+class SheetSection:
+    label: str  # e.g. "Priebežné hodnotenie (PH)"
+    text: str  # may be empty: many labels on the sheet have no value
+
+
+@dataclass(frozen=True)
+class Sheet:
+    """A course's information sheet: what the assistant quotes and links to."""
+
+    course_id: str
+    source_url: str  # permanent link to the sheet in MAIS
+    fetched_at: datetime  # when the sheet was read from MAIS (MAIS has no reliable change date)
+    sections: tuple[SheetSection, ...]  # in the order of the sheet
 
 
 def normalize(text: str) -> str:
@@ -61,8 +79,10 @@ class Catalog:
         programs: list[Program],
         courses: dict[str, CourseSummary],
         program_courses: dict[str, list[ProgramCourse]],
+        sheets: dict[str, Sheet],
     ) -> None:
         self._programs = programs
+        self._sheets = sheets
         self._courses = courses
         self._program_courses = program_courses
         self._courses_by_name = sorted(courses.values(), key=lambda c: (normalize(c.name), c.code))
@@ -97,7 +117,12 @@ class Catalog:
         program_courses = {
             raw["program_id"]: _plan_from_raw(raw, courses, sheets) for raw in raw_programs
         }
-        return cls(programs, courses, program_courses)
+        return cls(
+            programs,
+            courses,
+            program_courses,
+            {pid: _sheet_from_raw(sheet) for pid, sheet in sheets.items()},
+        )
 
     def list_programs(self) -> list[Program]:
         return list(self._programs)
@@ -119,6 +144,9 @@ class Catalog:
     def get_course(self, course_id: str) -> CourseSummary | None:
         return self._courses.get(course_id)
 
+    def get_sheet(self, course_id: str) -> Sheet | None:
+        return self._sheets.get(course_id)
+
     def search_courses(self, query: str | None = None) -> list[CourseSummary]:
         """Every word of the query must appear in the name or code; case and diacritics ignored."""
         words = normalize(query or "").split()
@@ -139,6 +167,16 @@ def _course_from_sheet(sheet: dict[str, Any]) -> CourseSummary:
         name=sheet["name"],
         credits=fields["credits"],
         semesters=parse_semesters(fields["recommended_semester"]),
+    )
+
+
+def _sheet_from_raw(sheet: dict[str, Any]) -> Sheet:
+    return Sheet(
+        course_id=sheet["predmet_id"],
+        source_url=sheet["source_url"],
+        # "2026-11-17T15:11:35Z"; fromisoformat accepts "Z" only from Python 3.11
+        fetched_at=datetime.fromisoformat(sheet["fetched_at"]),
+        sections=tuple(SheetSection(s["label"], s["text"]) for s in sheet["sections"]),
     )
 
 
