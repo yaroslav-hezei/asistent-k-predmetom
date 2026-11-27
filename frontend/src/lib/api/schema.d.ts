@@ -613,6 +613,11 @@ export interface components {
             /** @description Null if the answer was removed. */
             answer: components["schemas"]["NotificationAnswer"] | null;
             /**
+             * Chat Id
+             * @description The user's chat the question was published from ('Zobraziť v chate'); null when the question was written directly or the chat was deleted.
+             */
+            chat_id: string | null;
+            /**
              * Created At
              * Format: date-time
              */
@@ -627,7 +632,13 @@ export interface components {
              * Format: uuid
              */
             id: string;
+            /** Text */
+            text: string;
             author: components["schemas"]["Author"];
+            /** Verified */
+            verified: boolean;
+            /** Thanked By Me */
+            thanked_by_me: boolean;
         };
         /**
          * Program

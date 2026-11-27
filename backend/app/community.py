@@ -316,13 +316,18 @@ def thank(conn: Connection, *, user_id: str, answer_id: UUID) -> Thanks | None:
 def list_notifications(conn: Connection, catalog: Catalog, *, user_id: str) -> list[Notification]:
     rows = conn.execute(
         "select n.id, n.type, n.question_id, n.created_at, n.read_at is not null,"
-        " a.id, p.nickname, p.role"
+        " a.id, p.nickname, p.role, a.text, a.verified_at is not null,"
+        " exists (select 1 from public.answer_thanks t"
+        "  where t.answer_id = a.id and t.user_id = %(user_id)s),"
+        " c.id"
         " from public.notifications n"
         " join public.questions q on q.id = n.question_id and q.hidden_at is null"
         " left join public.answers a on a.id = n.answer_id and a.hidden_at is null"
         " left join public.profiles p on p.id = a.author_id"
-        " where n.user_id = %s order by n.created_at desc limit %s",
-        [user_id, NOTIFICATIONS_LIMIT],
+        " left join public.chat_messages m on m.id = q.source_message_id"
+        " left join public.chats c on c.id = m.chat_id and c.user_id = %(user_id)s"
+        " where n.user_id = %(user_id)s order by n.created_at desc limit %(limit)s",
+        {"user_id": user_id, "limit": NOTIFICATIONS_LIMIT},
     ).fetchall()
     question_ids = list({row[2] for row in rows})
     questions = {}
@@ -334,19 +339,28 @@ def list_notifications(conn: Connection, catalog: Catalog, *, user_id: str) -> l
             if summary is not None:
                 questions[summary.id] = summary
     notifications = []
-    for notification_id, kind, question_id, created_at, read, answer_id, nickname, role in rows:
+    for row in rows:
+        notification_id, kind, question_id, created_at, read = row[:5]
+        answer_id, nickname, role, text, verified, thanked, chat_id = row[5:]
         question = questions.get(question_id)
         if question is None:
             continue
         answer = None
         if answer_id is not None:
-            answer = NotificationAnswer(id=answer_id, author=author(role, nickname))
+            answer = NotificationAnswer(
+                id=answer_id,
+                text=text,
+                author=author(role, nickname),
+                verified=verified,
+                thanked_by_me=thanked,
+            )
         notifications.append(
             Notification(
                 id=notification_id,
                 type=kind,
                 question=question,
                 answer=answer,
+                chat_id=chat_id,
                 created_at=created_at,
                 read=read,
             )

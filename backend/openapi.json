@@ -1491,6 +1491,19 @@
             ],
             "description": "Null if the answer was removed."
           },
+          "chat_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "uuid"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Chat Id",
+            "description": "The user's chat the question was published from ('Zobraziť v chate'); null when the question was written directly or the chat was deleted."
+          },
           "created_at": {
             "type": "string",
             "format": "date-time",
@@ -1507,6 +1520,7 @@
           "type",
           "question",
           "answer",
+          "chat_id",
           "created_at",
           "read"
         ],
@@ -1520,14 +1534,29 @@
             "format": "uuid",
             "title": "Id"
           },
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
           "author": {
             "$ref": "#/components/schemas/Author"
+          },
+          "verified": {
+            "type": "boolean",
+            "title": "Verified"
+          },
+          "thanked_by_me": {
+            "type": "boolean",
+            "title": "Thanked By Me"
           }
         },
         "type": "object",
         "required": [
           "id",
-          "author"
+          "text",
+          "author",
+          "verified",
+          "thanked_by_me"
         ],
         "title": "NotificationAnswer"
       },

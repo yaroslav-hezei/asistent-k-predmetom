@@ -648,6 +648,10 @@ def test_community_loop(conn, catalogue, auth_user, db_url):
         [notification] = client.get("/notifications", headers=bearer(asker)).json()
         assert notification["question"]["id"] == question_id
         assert notification["answer"]["author"]["nickname"] == helper_name
+        assert notification["answer"]["text"] == answer["text"]
+        assert notification["answer"]["verified"] is False
+        assert notification["answer"]["thanked_by_me"] is False
+        assert notification["chat_id"] == neviem["chat_id"]  # "Zobraziť v chate"
         assert notification["read"] is False
 
         # 4. thanks: once per user, never for one's own answer

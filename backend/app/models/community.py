@@ -102,7 +102,10 @@ class Thanks(BaseModel):
 
 class NotificationAnswer(BaseModel):
     id: UUID
+    text: str
     author: Author
+    verified: bool
+    thanked_by_me: bool
 
 
 class Notification(BaseModel):
@@ -112,6 +115,12 @@ class Notification(BaseModel):
     type: Literal["question_answered"]
     question: QuestionSummary
     answer: NotificationAnswer | None = Field(description="Null if the answer was removed.")
+    chat_id: UUID | None = Field(
+        description=(
+            "The user's chat the question was published from ('Zobraziť v chate'); null when"
+            " the question was written directly or the chat was deleted."
+        )
+    )
     created_at: datetime
     read: bool
 
