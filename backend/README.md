@@ -41,7 +41,7 @@ Put them into `.env` in the repo root (template: `.env.example`). Never commit `
 | `SUPABASE_URL` | none (nobody can log in) | `https://<project-ref>.supabase.co`; login tokens are verified with the project's public keys |
 | `SUPABASE_PUBLISHABLE_KEY` | — | not used by the backend: the public key the browser logs in with (safe to show) |
 | `SUPABASE_SECRET_KEY` | — | **only** for `scripts/create_test_users.py`; the running backend never needs it |
-| `GEMINI_API_KEY` | — | Gemini API key (Google AI Studio → API keys); now used by `scripts/compare_embeddings.py` |
+| `GEMINI_API_KEY` | none (placeholder answers) | Gemini API key (Google AI Studio → API keys): the answers of `/ask` and the scripts that call the model. Without it `/ask` gives the placeholder answer — enough to build the frontend |
 | `MAIS_DATA_DIR` | `data/mais/2026-27` (repo root) | folder with `programs.json` and `courses/` |
 | `FRONTEND_ORIGINS` | `http://localhost:3000` | comma-separated origins allowed by CORS |
 | `TEST_DATABASE_URL` | none (tests skipped) | tests only: a throwaway **local** database, never the cloud one |
@@ -73,6 +73,23 @@ change tables by hand in the dashboard.
   stopped. `--limit N` caps one run, `--dry-run` only counts. Needs `GEMINI_API_KEY`.
   `python scripts/compare_embeddings.py` compares the embedding models on the 40 evaluation
   questions (writes nothing to the database).
+
+## Answers
+
+`POST /ask` answers from the course's whole MAIS sheet (`app/answerer.py`): every chunk of the sheet
+goes to the answering model (`app/llm.py`: `ANSWER_MODEL`) as a numbered source; the model answers in
+1–4 sentences in the language of the question (Slovak for Slovak or Czech, otherwise English) and
+cites sources as [n], or says it does not know (`found: false`, "Neviem"). The model never writes a
+source: the code turns the cited numbers into sources with the exact sheet text, the MAIS link and the
+date the sheet was read, and renumbers the citations 1, 2, …; an answer that cites nothing is
+"Neviem". When the model is not available (rate limit, network), `/ask` answers 503 and stores
+nothing.
+
+- **Free tier:** 15 answers a minute and 500 a day for the whole project.
+- **Evaluation:** `python scripts/eval_answers.py` asks the 40 evaluation questions directly (no API,
+  login or database; at most 14 a minute, about 3 minutes, 40 of the day's 500 requests), writes
+  `scratch/eval/answers-<time>.jsonl` and runs `scripts/eval/score.py` on it; it also prints the
+  answer language check, time and tokens per answer. `--ids q001,q004` runs only some questions.
 
 Local database for the tests (needs Docker; run from the repo root):
 
@@ -128,7 +145,7 @@ Endpoints (details and examples at `/docs` of a running server):
 | `GET /courses/{course_id}` | one course |
 | `GET /me` | the logged-in user: id, nickname, role, study (program, year, semester) — needs a token |
 | `PATCH /me` | set program, year and semester of the logged-in user — needs a token |
-| `POST /ask` | ask about a course: stores the question and the answer in a chat (new one when `chat_id` is null) — needs a token; the answer is a placeholder until the RAG step (one real section of the MAIS sheet; a question with the word "neviem" gets "Neviem") |
+| `POST /ask` | ask about a course: stores the question and the answer in a chat (new one when `chat_id` is null) — needs a token; the answering model reads the course's whole MAIS sheet and cites it as [n] (see "Answers"); 503 when the model is not available; without `GEMINI_API_KEY` a placeholder answer |
 | `GET /chats` | the logged-in user's chats for "História", newest first (at most 50) — needs a token |
 | `GET /chats/{chat_id}` | one chat of the logged-in user with its messages and their sources — needs a token |
 
