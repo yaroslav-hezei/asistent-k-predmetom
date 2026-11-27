@@ -41,6 +41,7 @@ Put them into `.env` in the repo root (template: `.env.example`). Never commit `
 | `SUPABASE_URL` | none (nobody can log in) | `https://<project-ref>.supabase.co`; login tokens are verified with the project's public keys |
 | `SUPABASE_PUBLISHABLE_KEY` | — | not used by the backend: the public key the browser logs in with (safe to show) |
 | `SUPABASE_SECRET_KEY` | — | **only** for `scripts/create_test_users.py`; the running backend never needs it |
+| `GEMINI_API_KEY` | — | Gemini API key (Google AI Studio → API keys); now used by `scripts/compare_embeddings.py` |
 | `MAIS_DATA_DIR` | `data/mais/2026-27` (repo root) | folder with `programs.json` and `courses/` |
 | `FRONTEND_ORIGINS` | `http://localhost:3000` | comma-separated origins allowed by CORS |
 | `TEST_DATABASE_URL` | none (tests skipped) | tests only: a throwaway **local** database, never the cloud one |
@@ -66,6 +67,12 @@ change tables by hand in the dashboard.
   `knowledge_chunks` without embeddings: 10,981 chunks of 563 sheets. Safe to run again: unchanged
   chunks keep their embeddings, a changed text loses its embedding. `--dry-run` counts the changes
   and writes nothing. Every write to `knowledge_chunks` goes through `app/knowledge.py`.
+- **Vectors:** `python scripts/embed_chunks.py` (after the sync) gives every chunk without a vector
+  of the current model (`app/llm.py`: `EMBED_MODEL`, 768 numbers) its vector through the Gemini API.
+  Each batch is committed on its own: when a quota stops the run, the next run continues where it
+  stopped. `--limit N` caps one run, `--dry-run` only counts. Needs `GEMINI_API_KEY`.
+  `python scripts/compare_embeddings.py` compares the embedding models on the 40 evaluation
+  questions (writes nothing to the database).
 
 Local database for the tests (needs Docker; run from the repo root):
 
