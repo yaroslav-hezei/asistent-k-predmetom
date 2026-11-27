@@ -1,5 +1,5 @@
-"""Database: the migrations, the catalogue import, the connection pool, test accounts, /me
-and the chats.
+"""Database: the migrations, the catalogue import, the connection pool, test accounts, /me,
+the chats and the sheet chunks of the knowledge base.
 
 These tests need TEST_DATABASE_URL: a throwaway local Postgres with the migrations applied
 (`npx supabase@3.2.0 db start` from the repo root, see backend/README.md). Never point it at the
@@ -9,16 +9,20 @@ skipped locally; in CI it is required.
 
 import os
 import uuid
+from dataclasses import replace
 from datetime import date
 
 import psycopg
 import pytest
 from fastapi.testclient import TestClient
 
+from app.chunking import Chunk
 from app.config import DEFAULT_MAIS_DATA_DIR, Settings
+from app.knowledge import SyncCounts, sync_sheet_chunks
 from app.main import create_app
 from scripts.create_test_users import find_user_id, load_accounts, save_profile
 from scripts.import_catalog import count_rows, import_catalog
+from scripts.sync_sheet_chunks import build_chunks, count_sheet_chunks, missing_courses
 from tests.jwt_helpers import make_token, make_verifier
 
 HI_BC = "65669424"
@@ -345,3 +349,63 @@ def test_ask_errors_store_nothing(conn, student, auth_user, me_client):
         " where c.user_id in (%s, %s, %s)",
         [student, other, nobody],
     ).fetchone() == (2,)
+
+
+PH = "Priebežné hodnotenie (PH)"
+FAKE_EMBEDDING = "[" + ",".join(["0.01"] * 768) + "]"
+
+
+def zap_rows(conn):
+    """ZAP's sheet chunks: (section, chunk_index) -> (content, has embedding, embed_model)."""
+    rows = conn.execute(
+        "select section, chunk_index, content, embedding is not null, embed_model"
+        " from public.knowledge_chunks where source_type = 'sheet' and course_id = %s",
+        [ZAP],
+    ).fetchall()
+    return {(section, index): rest for section, index, *rest in rows}
+
+
+def test_sync_sheet_chunks(conn, catalogue):
+    chunks = build_chunks(DEFAULT_MAIS_DATA_DIR)
+    total = sum(map(len, chunks.values()))
+    assert (len(chunks), total) == (563, 10_981)
+    assert missing_courses(conn, list(chunks)) == []
+    assert missing_courses(conn, ["not-a-course"]) == ["not-a-course"]
+
+    first = sync_sheet_chunks(conn, chunks)  # the database may hold them from an earlier run
+    assert first.deleted == 0 and first.inserted + first.updated + first.unchanged == total
+    assert sync_sheet_chunks(conn, chunks) == SyncCounts(0, 0, 0, unchanged=total)
+    assert count_sheet_chunks(conn) == total
+    ph_text = next(c.content for c in chunks[ZAP] if c.section == PH)
+    assert zap_rows(conn)[(PH, 0)] == [ph_text, False, None]
+
+    zap = chunks[ZAP]
+    conn.execute(
+        "update public.knowledge_chunks set embedding = %s::extensions.vector, embed_model = 'test'"
+        " where source_type = 'sheet' and course_id = %s",
+        [FAKE_EMBEDDING, ZAP],
+    )
+    dropped = next(c for c in zap if c.section == "Poznámky")
+    changed = [
+        replace(c, content=c.content + " (zmena)") if c.section == PH else c
+        for c in zap
+        if c != dropped
+    ] + [Chunk(section="Nová sekcia", chunk_index=0, content="nový text")]
+    try:
+        assert sync_sheet_chunks(conn, {ZAP: changed}) == SyncCounts(
+            inserted=1, updated=1, deleted=1, unchanged=len(zap) - 2
+        )
+        rows = zap_rows(conn)
+        assert rows[(PH, 0)] == [ph_text + " (zmena)", False, None]  # new text, no embedding
+        assert rows[("Počet kreditov", 0)][1:] == [True, "test"]  # unchanged keeps its embedding
+        assert ("Poznámky", 0) not in rows
+        assert rows[("Nová sekcia", 0)] == ["nový text", False, None]
+        assert count_sheet_chunks(conn) == total  # other courses untouched
+    finally:
+        sync_sheet_chunks(conn, {ZAP: zap})
+        conn.execute(
+            "update public.knowledge_chunks set embedding = null, embed_model = null"
+            " where source_type = 'sheet' and course_id = %s and embed_model = 'test'",
+            [ZAP],
+        )
+    assert sync_sheet_chunks(conn, chunks) == SyncCounts(0, 0, 0, unchanged=total)
