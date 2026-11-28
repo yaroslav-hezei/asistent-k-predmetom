@@ -1,13 +1,13 @@
 "use client";
 
 import { ExternalLink, FileText, Megaphone, Users } from "lucide-react";
-import { useLocale, useTranslations } from "next-intl";
+import { useFormatter, useTranslations } from "next-intl";
 import { useEffect, useRef, useState } from "react";
 import type { Source } from "@/lib/api/client";
 
 export function SourceCard({ source, id, highlighted }: { source: Source; id: string; highlighted: boolean }) {
   const t = useTranslations("chat");
-  const locale = useLocale();
+  const format = useFormatter();
   const quote = useRef<HTMLQuoteElement>(null);
   const [expanded, setExpanded] = useState(false);
   const [long, setLong] = useState(false);
@@ -16,11 +16,12 @@ export function SourceCard({ source, id, highlighted }: { source: Source; id: st
   const badge = sheet ? "official" : source.verified ? "verified" : "unverified";
   const badgeStyle = sheet ? "bg-official-bg text-official-text" : source.verified ? "bg-ok-bg text-ok-text" : "bg-unverified-bg text-unverified-text";
   const title = sheet ? "sheet" : source.type === "course_note" ? "courseNote" : source.author.kind === "vyucujuci" ? "teacherAnswer" : "studentAnswer";
-  const date = new Date(source.date);
-  const formattedDate = new Intl.DateTimeFormat(locale, {
+  // next-intl formats in the configured zone (Europe/Bratislava) on the server and in the browser alike;
+  // a plain Intl.DateTimeFormat uses the machine's zone (UTC on the server) and breaks hydration
+  const formattedDate = format.dateTime(new Date(source.date), {
     dateStyle: "medium",
-    ...(source.type === "answer" ? { timeStyle: "short" } : { timeZone: "Europe/Bratislava" }),
-  }).format(date);
+    ...(source.type === "answer" ? { timeStyle: "short" } : {}),
+  });
 
   useEffect(() => {
     const element = quote.current;
