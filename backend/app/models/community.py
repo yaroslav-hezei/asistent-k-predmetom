@@ -142,3 +142,10 @@ class Badges(BaseModel):
             " without the user's own; 0 when the plan is not set."
         ),
     )
+    unverified_answers: int = Field(
+        ge=0,
+        description=(
+            "Teacher: answers waiting for 'Overiť' in the courses they teach ('Overovanie')."
+            " 0 for a student."
+        ),
+    )

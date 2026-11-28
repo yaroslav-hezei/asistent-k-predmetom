@@ -23,7 +23,7 @@ from app.answerer import (
 from app.catalog import Catalog
 from app.chunking import chunk_sheet
 from app.config import DEFAULT_MAIS_DATA_DIR
-from app.knowledge import CommunitySource
+from app.knowledge import CommunitySource, NoteSource
 
 ZAP = "65954478"
 ZAP_NAME = "Základy algoritmizácie a programovania"
@@ -208,3 +208,64 @@ def test_a_cited_community_answer_becomes_an_answer_source(zap):
     # a number the cited community answer does not have is dropped like any other
     reply["answer"] = f"Projekt sa robí po 4 [{n}]."
     assert answer_question(FakeClient(reply), ZAP_NAME, zap, "?", [community_answer()]) == NOT_FOUND
+
+
+def course_note(**changes):
+    values = {
+        "text": "Projekt sa odovzdáva v 13. týždni semestra.",
+        "role": "vyucujuci",
+        "nickname": "vyucujuci01",
+        "updated_at": datetime(2026, 11, 28, 9, 0, tzinfo=UTC),
+    }
+    return NoteSource(**{**values, **changes})
+
+
+def test_the_teachers_note_comes_first_in_the_prompt(zap):
+    chunks = chunk_sheet(zap)
+    prompt = build_prompt(
+        ZAP_NAME, chunks, "kedy je odovzdanie?", [community_answer()], course_note()
+    )
+    assert prompt.startswith(
+        f"Predmet: {ZAP_NAME}\n\nZdroje:\n"
+        '<zdroj n="1" typ="aktuálna informácia vyučujúceho" overené="áno">\n'
+        "Projekt sa odovzdáva v 13. týždni semestra.\n</zdroj>\n"
+        '<zdroj n="2" sekcia="Pracovisko">\n'
+    )
+    assert f'<zdroj n="{len(chunks) + 2}" typ="odpoveď študenta"' in prompt
+    assert prompt.count("<zdroj ") == len(chunks) + 2
+    # without a note the sheet starts at 1, as before
+    assert build_prompt(ZAP_NAME, chunks, "?").startswith(
+        f'Predmet: {ZAP_NAME}\n\nZdroje:\n<zdroj n="1" sekcia="Pracovisko">'
+    )
+
+
+def test_a_cited_note_becomes_a_course_note_source(zap):
+    ph = ph_number(zap) + 1  # the note is source 1
+    reply = {
+        "found": True,
+        "answer": f"Odovzdanie je v 13. týždni [1]. Na zápočet treba aspoň 11 % z 20 % [{ph}].",
+        "language": "sk",
+    }
+    answer = answer_question(FakeClient(reply), ZAP_NAME, zap, "?", note=course_note())
+    assert answer.text == "Odovzdanie je v 13. týždni [1]. Na zápočet treba aspoň 11 % z 20 % [2]."
+    note, sheet = answer.sources
+    assert (note.n, note.type, note.section, note.url, note.question) == (
+        1,
+        "course_note",
+        None,
+        None,
+        None,
+    )
+    assert note.quote == "Projekt sa odovzdáva v 13. týždni semestra."
+    assert (note.author.kind, note.author.nickname) == ("vyucujuci", "vyucujuci01")
+    assert note.verified is True and note.date == datetime(2026, 11, 28, 9, 0, tzinfo=UTC)
+    assert (sheet.n, sheet.type, sheet.section) == (2, "sheet", PH)
+
+    # a number the note does not have is dropped like any other
+    reply["answer"] = "Odovzdanie je v 14. týždni [1]."
+    assert answer_question(FakeClient(reply), ZAP_NAME, zap, "?", note=course_note()) == NOT_FOUND
+
+
+def test_the_prompt_gives_the_note_priority():
+    assert "has priority over it" in SYSTEM_INSTRUCTION
+    assert 'typ="aktuálna informácia vyučujúceho"' in SYSTEM_INSTRUCTION
