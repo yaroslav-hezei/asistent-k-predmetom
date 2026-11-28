@@ -109,8 +109,28 @@
       "action": "Akcia sa nepodarila. Skús to znova."
     }
   },
-  "placeholder": {
-    "soon": "Táto stránka bude dostupná čoskoro."
+  "notifications": {
+    "title": "Upozornenia",
+    "filter": "Zobraziť upozornenia",
+    "tabs": {
+      "all": "Všetky",
+      "unread": "Neprečítané"
+    },
+    "unreadLabel": "nové",
+    "answered": "Na tvoju otázku niekto odpovedal",
+    "answeredByTeacher": "Na tvoju otázku odpovedal vyučujúci",
+    "answerGone": "Odpoveď už nie je dostupná.",
+    "quote": "„{text}“",
+    "showInChat": "Zobraziť v chate",
+    "showQuestion": "Zobraziť otázku",
+    "openQuestions": "{count, plural, one {# otvorená otázka k tvojim predmetom} few {# otvorené otázky k tvojim predmetom} other {# otvorených otázok k tvojim predmetom}}",
+    "openQuestionsText": "Pomôž spolužiakom – možno poznáš odpoveď.",
+    "openQuestionsLink": "Otázky komunity",
+    "empty": "Zatiaľ nemáš žiadne upozornenia. Keď niekto odpovie na tvoju otázku, uvidíš to tu.",
+    "emptyUnread": "Nemáš žiadne neprečítané upozornenia.",
+    "loginPrompt": "Upozornenia vidia prihlásení používatelia. Prihlás sa testovacím účtom.",
+    "signIn": "Prihlásiť sa",
+    "error": "Upozornenia sa nepodarilo načítať. Skús to znova neskôr."
   },
   "auth": {
     "title": "Prihlásenie",

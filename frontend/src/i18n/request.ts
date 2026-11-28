@@ -5,8 +5,10 @@ export default getRequestConfig(async () => {
   const locale = (await cookies()).get("hip.locale")?.value === "en" ? "en" : "sk";
   return {
     locale,
-    // the same zone on the server and in the browser: dates render alike (all users are in Slovakia)
+    // The same zone and "now" on the server and in the browser: dates and "pred 2 min" render
+    // alike, no hydration mismatch (all users are in Slovakia; `useNow` moves on in the browser).
     timeZone: "Europe/Bratislava",
+    now: new Date(),
     messages: (await import(`../../messages/${locale}.json`)).default,
   };
 });
