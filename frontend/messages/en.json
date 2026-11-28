@@ -132,6 +132,37 @@
     "signIn": "Sign in",
     "error": "The notifications could not be loaded. Try again later."
   },
+  "verification": {
+    "title": "Verification",
+    "course": "Course",
+    "courseWithCount": "{name} ({count})",
+    "verified": "Verified",
+    "noteTitle": "Current information about the course",
+    "notePlaceholder": "Write what students should know that the information sheet lacks or that has changed…",
+    "noteHint": "The assistant uses it in its answers as verified, with priority over the information sheet. The sheet in MAIS does not change.",
+    "noteSavedBy": "Saved by {nickname}",
+    "save": "Save",
+    "saving": "Saving…",
+    "noteDelete": "Remove",
+    "noteDeleteConfirm": "Remove the current information about the course? The assistant stops using it.",
+    "noteStatus": {
+      "saved": "Saved. The assistant uses it from the next question.",
+      "deleted": "Removed.",
+      "failed": "That did not work. Try again."
+    },
+    "answersTitle": "Answers to verify",
+    "noAnswers": "No answers are waiting for verification.",
+    "verify": "Verify",
+    "addAnswer": "Add answer",
+    "delete": "Delete",
+    "loginPrompt": "Verification is for signed-in teachers. Sign in with a teacher test account.",
+    "signIn": "Sign in",
+    "teachersOnly": "Verification is for teachers only.",
+    "noCourses": "You have no courses assigned for verification.",
+    "notYourCourse": "You do not verify this course, or it was not found.",
+    "back": "Back to my courses",
+    "error": "Verification could not be loaded. Try again later."
+  },
   "auth": {
     "title": "Log in",
     "description": "Log in with your e-mail and password.",
