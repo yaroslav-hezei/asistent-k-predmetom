@@ -8,6 +8,7 @@ import "@fontsource/inter/700.css";
 import { AppShell } from "@/components/app-shell";
 import { MeProvider } from "@/components/me-provider";
 import { getMe } from "@/lib/auth/me";
+import { getChatHistory } from "@/lib/chat-history";
 import "./globals.css";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -21,7 +22,7 @@ export default async function RootLayout({ children }: Readonly<{ children: Reac
       <body>
         <NextIntlClientProvider>
           <MeProvider me={await getMe()}>
-            <AppShell>{children}</AppShell>
+            <AppShell chats={await getChatHistory()}>{children}</AppShell>
           </MeProvider>
         </NextIntlClientProvider>
       </body>

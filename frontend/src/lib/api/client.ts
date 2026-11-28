@@ -1,4 +1,4 @@
-﻿import createClient from "openapi-fetch";
+import createClient from "openapi-fetch";
 import { authConfigured } from "@/lib/supabase/config";
 import { createClient as createBrowserSupabase } from "@/lib/supabase/client";
 import type { components, paths } from "./schema";
@@ -8,6 +8,10 @@ export type Course = components["schemas"]["CourseSummary"];
 export type PlanCourse = components["schemas"]["ProgramCourse"];
 export type Semester = PlanCourse["semester"];
 export type Me = components["schemas"]["Me"];
+
+export type ChatMessage = components["schemas"]["ChatMessage"];
+export type ChatSummary = components["schemas"]["ChatSummary"];
+export type Source = components["schemas"]["Source"];
 
 export const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
 
