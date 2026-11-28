@@ -109,8 +109,28 @@
       "action": "That did not work. Try again."
     }
   },
-  "placeholder": {
-    "soon": "This page is coming soon."
+  "notifications": {
+    "title": "Notifications",
+    "filter": "Show notifications",
+    "tabs": {
+      "all": "All",
+      "unread": "Unread"
+    },
+    "unreadLabel": "new",
+    "answered": "Someone answered your question",
+    "answeredByTeacher": "A teacher answered your question",
+    "answerGone": "The answer is no longer available.",
+    "quote": "“{text}”",
+    "showInChat": "Show in chat",
+    "showQuestion": "Show question",
+    "openQuestions": "{count, plural, one {# open question about your courses} other {# open questions about your courses}}",
+    "openQuestionsText": "Help your classmates – maybe you know the answer.",
+    "openQuestionsLink": "Community questions",
+    "empty": "You have no notifications yet. When someone answers your question, you will see it here.",
+    "emptyUnread": "You have no unread notifications.",
+    "loginPrompt": "Notifications are for signed-in users. Sign in with a test account.",
+    "signIn": "Sign in",
+    "error": "The notifications could not be loaded. Try again later."
   },
   "auth": {
     "title": "Log in",

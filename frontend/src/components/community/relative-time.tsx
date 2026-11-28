@@ -11,7 +11,7 @@ export function RelativeTime({ value }: { value: string }) {
   // Something created after the page was loaded is "just now", never "in 2 min".
   const reference = date > now ? date : now;
   return (
-    <time dateTime={value} title={format.dateTime(date, { dateStyle: "medium", timeStyle: "short" })}>
+    <time dateTime={value} className="whitespace-nowrap" title={format.dateTime(date, { dateStyle: "medium", timeStyle: "short" })}>
       {format.relativeTime(date, { now: reference, style: "short" })}
     </time>
   );
