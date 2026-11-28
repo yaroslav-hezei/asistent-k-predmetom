@@ -2,7 +2,7 @@
 id: T-006
 title: Chat screen — ask about a course, the answer with its sources, "Neviem", "História"
 assignee: MP
-status: open          # open → changes → done | dropped
+status: done          # open → changes → done | dropped
 created: 2026-11-26
 due:
 ---
