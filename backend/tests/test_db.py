@@ -1,5 +1,5 @@
 """Database: the migrations, the catalogue import, the connection pool, test accounts, /me,
-the chats and the sheet chunks of the knowledge base.
+the chats, the knowledge base, "Otázky komunity" and the teacher's "Overovanie".
 
 These tests need TEST_DATABASE_URL: a throwaway local Postgres with the migrations applied
 (`npx supabase@3.2.0 db start` from the repo root, see backend/README.md). Never point it at the
@@ -24,7 +24,14 @@ from app import llm
 from app.catalog import Catalog
 from app.chunking import Chunk, chunk_sheet
 from app.config import DEFAULT_MAIS_DATA_DIR, Settings
-from app.knowledge import SyncCounts, count_pending, embed_pending_chunks, sync_sheet_chunks
+from app.knowledge import (
+    SyncCounts,
+    count_pending,
+    delete_course_note,
+    embed_pending_chunks,
+    search_answers,
+    sync_sheet_chunks,
+)
 from app.main import create_app
 from app.routers.chat import ASSISTANT_UNAVAILABLE
 from scripts.create_test_users import find_user_id, load_accounts, save_profile
@@ -425,7 +432,7 @@ def test_embed_pending_chunks(conn, db_url, catalogue):
     sync_sheet_chunks(conn, chunks)
     total = sum(map(len, chunks.values()))
     assert count_pending(conn, "fake", SHEET) == total
-    # by default only community answers and teacher notes get vectors, never the sheets
+    # by default only community answers get vectors, never the sheets or the teachers' notes
     assert count_pending(conn, "fake") == 0
     assert embed_pending_chunks(conn, lambda documents: 1 / 0, "fake") == 0
 
@@ -609,12 +616,39 @@ def test_community_loop(conn, catalogue, auth_user, db_url):
         assert client.get("/badges", headers=bearer(asker)).json() == {
             "unread_notifications": 0,
             "open_questions": 0,  # own questions do not count
+            "unverified_answers": 0,  # a student verifies nothing
         }
         listed = client.get(
             "/questions", headers=bearer(helper), params={"course_id": ZAP, "status": "open"}
         ).json()
         assert question_id in [item["id"] for item in listed["items"]]
         assert listed["counts"]["open"] >= 1
+        # "Všetky moje predmety": the helper's study plan has ZAP, the teacher teaches it
+        for user in (helper, teacher):
+            mine = client.get("/questions", headers=bearer(user)).json()
+            assert question_id in [item["id"] for item in mine["items"]]
+            assert mine["counts"]["open"] >= 1
+        own = client.get("/questions", headers=bearer(asker)).json()["items"]
+        assert [item["mine"] for item in own if item["id"] == question_id] == [True]
+        # without a study plan and courses to teach: nothing
+        conn.execute(
+            "update public.profiles set program_id = null, year = null, semester = null"
+            " where id = %s",
+            [helper],
+        )
+        assert client.get("/questions", headers=bearer(helper)).json() == {
+            "items": [],
+            "counts": {"open": 0, "answered": 0},
+        }
+        conn.execute(
+            "update public.profiles set program_id = %s, year = %s, semester = %s where id = %s",
+            [
+                first["study"]["program_id"],
+                first["study"]["year"],
+                first["study"]["semester"],
+                helper,
+            ],
+        )
         similar = client.post(
             "/questions/similar",
             headers=bearer(helper),
@@ -722,3 +756,178 @@ def test_community_without_the_model(conn, catalogue, auth_user, me_client):
         ).status_code
         == 404
     )
+
+
+# ---------------------------------------------------------------------------------------------
+# "Overovanie": a teacher of the course verifies, hides spam and writes the course's note.
+# ---------------------------------------------------------------------------------------------
+
+
+class NoteModels(LoopModels):
+    """Like LoopModels, but the answer cites the teacher's note when the prompt has one."""
+
+    def generate_content(self, *, model, contents, config):
+        match = re.search(r'<zdroj n="(\d+)" typ="aktuálna informácia vyučujúceho"', contents)
+        if match is None:
+            return super().generate_content(model=model, contents=contents, config=config)
+        reply = {
+            "language": "sk",
+            "found": True,
+            "answer": f"Projekt sa odovzdáva v 13. týždni [{match[1]}].",
+        }
+        usage = SimpleNamespace(prompt_token_count=100, candidates_token_count=20)
+        return SimpleNamespace(text=json.dumps(reply), usage_metadata=usage)
+
+
+class NoteClient:
+    models = NoteModels()
+
+
+def test_teacher_verification(conn, catalogue, auth_user, db_url):
+    teacher_account = next(a for a in load_accounts()["accounts"] if a["role"] == "vyucujuci")
+    asker, _ = community_user(conn, auth_user, students()[4])
+    helper, helper_name = community_user(conn, auth_user, students()[5])
+    spammer, _ = community_user(conn, auth_user, students()[6])
+    teacher, teacher_name = community_user(conn, auth_user, teacher_account)
+    not_taught = conn.execute(
+        "select id from public.courses where id not in"
+        " (select course_id from public.teacher_courses where teacher_id = %s) limit 1",
+        [teacher],
+    ).fetchone()[0]
+    settings = Settings(
+        mais_data_dir=DEFAULT_MAIS_DATA_DIR, frontend_origins=[], database_url=db_url
+    )
+    app = create_app(settings, verifier=make_verifier(), model_client=NoteClient())
+    note_text = "Projekt sa odovzdáva v 13. týždni semestra."
+    with TestClient(app) as client:
+
+        def get(user, path):
+            return client.get(path, headers=bearer(user))
+
+        def post(user, path, body=None):
+            return client.post(path, headers=bearer(user), json=body)
+
+        def put_note(user, text, course_id=ZAP):
+            return client.put(
+                f"/courses/{course_id}/note", headers=bearer(user), json={"text": text}
+            )
+
+        question = post(
+            asker, "/questions", {"course_id": ZAP, "text": "Kedy sa odovzdáva projekt?"}
+        )
+        question = question.json()
+        path = f"/questions/{question['id']}"
+        good = post(
+            helper, f"{path}/answers", {"text": "Projekt sa odovzdáva v 13. týždni."}
+        ).json()
+        spam = post(spammer, f"{path}/answers", {"text": "Lacné hodinky na predaj!"}).json()
+
+        try:
+            # 1. the teacher's courses and the badge; a student has none
+            courses = get(teacher, "/teacher/courses").json()
+            assert len(courses) == 42
+            names = [item["course"]["name"] for item in courses]
+            assert names == sorted(names)
+            assert next(c for c in courses if c["course"]["id"] == ZAP)["unverified_answers"] == 2
+            assert get(teacher, "/badges").json()["unverified_answers"] == 2
+            assert get(asker, "/teacher/courses").json() == []
+            assert get(asker, "/badges").json()["unverified_answers"] == 0
+
+            screen = get(teacher, f"/teacher/courses/{ZAP}").json()
+            assert screen["course"]["id"] == ZAP and screen["note"] is None
+            assert [a["id"] for a in screen["answers"]] == [good["id"], spam["id"]]  # oldest first
+            assert screen["answers"][0]["question"] == {
+                "id": question["id"],
+                "text": question["text"],
+            }
+            assert screen["answers"][0]["author"] == {"kind": "student", "nickname": helper_name}
+
+            # 2. only a teacher of the course
+            assert get(asker, f"/teacher/courses/{ZAP}").status_code == 403
+            assert get(teacher, f"/teacher/courses/{not_taught}").status_code == 403
+            assert get(teacher, "/teacher/courses/nope").status_code == 404
+            assert post(asker, f"/answers/{good['id']}/verify").status_code == 403
+            assert post(helper, f"/answers/{spam['id']}/hide").status_code == 403
+            assert post(asker, f"{path}/hide").status_code == 403
+            assert put_note(asker, note_text).status_code == 403
+            assert put_note(teacher, note_text, not_taught).status_code == 403
+            assert put_note(teacher, note_text, "nope").status_code == 404
+            assert post(teacher, f"/answers/{uuid.uuid4()}/verify").status_code == 404
+
+            # 3. "Overiť": verified first, the assistant's source says so
+            assert post(teacher, f"/answers/{good['id']}/verify").status_code == 204
+            assert post(teacher, f"/answers/{good['id']}/verify").status_code == 204  # again
+            detail = get(asker, path).json()
+            assert [(a["id"], a["verified"]) for a in detail["answers"]] == [
+                (good["id"], True),
+                (spam["id"], False),
+            ]
+            verified_by = conn.execute(
+                "select verified_by from public.answers where id = %s", [good["id"]]
+            ).fetchone()[0]
+            assert str(verified_by) == teacher
+            assert [a["id"] for a in get(teacher, f"/teacher/courses/{ZAP}").json()["answers"]] == [
+                spam["id"]
+            ]
+
+            # 4. "Zmazať": the spam answer is gone from the question, notifications, badges and
+            # the assistant's sources
+            assert get(asker, "/badges").json()["unread_notifications"] == 2
+            assert post(teacher, f"/answers/{spam['id']}/hide").status_code == 204
+            assert post(teacher, f"/answers/{spam['id']}/hide").status_code == 404  # hidden
+            detail = get(asker, path).json()
+            assert [a["id"] for a in detail["answers"]] == [good["id"]]
+            assert detail["answer_count"] == 1
+            notified = [n["answer"]["id"] for n in get(asker, "/notifications").json()]
+            assert notified == [good["id"]]
+            assert get(asker, "/badges").json()["unread_notifications"] == 1
+            assert get(teacher, "/badges").json()["unverified_answers"] == 0
+            assert get(teacher, f"/teacher/courses/{ZAP}").json()["answers"] == []
+            assert post(asker, f"/answers/{spam['id']}/thanks").status_code == 404
+            found = search_answers(conn, ZAP, [1.0] + [0.0] * 767, llm.EMBED_MODEL)
+            assert [str(source.answer_id) for source in found] == [good["id"]]
+
+            # 5. "Aktuálna informácia k predmetu": saved, replaced, used and cited by the assistant
+            assert put_note(teacher, "   ").status_code == 422
+            assert put_note(teacher, "Stará verzia.").status_code == 200
+            saved = put_note(teacher, f"  {note_text} ").json()
+            assert saved["text"] == note_text
+            assert saved["author"] == {"kind": "vyucujuci", "nickname": teacher_name}
+            assert conn.execute(
+                "select content, embedding is null from public.knowledge_chunks"
+                " where source_type = 'course_note' and course_id = %s",
+                [ZAP],
+            ).fetchall() == [(note_text, True)]
+            assert get(teacher, f"/teacher/courses/{ZAP}").json()["note"] == saved
+
+            answer = ask(client, asker, "Kedy sa odovzdáva projekt?").json()["answer"]
+            assert answer["found"] is True
+            assert answer["text"] == "Projekt sa odovzdáva v 13. týždni [1]."
+            [source] = answer["sources"]
+            assert (source["type"], source["quote"], source["section"], source["url"]) == (
+                "course_note",
+                note_text,
+                None,
+                None,
+            )
+            assert source["verified"] is True
+            assert source["author"] == {"kind": "vyucujuci", "nickname": teacher_name}
+
+            # 6. the note removed: no chunk, the assistant answers without it
+            assert client.delete(f"/courses/{ZAP}/note", headers=bearer(teacher)).status_code == 204
+            assert client.delete(f"/courses/{ZAP}/note", headers=bearer(teacher)).status_code == 204
+            assert conn.execute(
+                "select count(*) from public.knowledge_chunks where source_type = 'course_note'"
+            ).fetchone() == (0,)
+            assert get(teacher, f"/teacher/courses/{ZAP}").json()["note"] is None
+            again = ask(client, asker, "Kedy sa odovzdáva projekt?").json()["answer"]
+            assert [s["type"] for s in again["sources"]] == ["answer"]
+
+            # 7. hiding the question hides it and its answers everywhere
+            assert post(teacher, f"{path}/hide").status_code == 204
+            assert post(teacher, f"{path}/hide").status_code == 404
+            assert get(asker, path).status_code == 404
+            assert get(asker, "/notifications").json() == []
+            assert search_answers(conn, ZAP, [1.0] + [0.0] * 767, llm.EMBED_MODEL) == []
+        finally:
+            delete_course_note(conn, ZAP)

@@ -45,9 +45,10 @@ ModelDep = Annotated[Any | None, Depends(get_model)]
     summary="Ask a question about a course",
     description=(
         "Stores the question and the answer in a chat: a new one when `chat_id` is null."
-        " The answering model reads the course's whole MAIS sheet and the community answers most"
-        " similar to the question, and cites them as [n]; every [n] has a source: the exact sheet"
-        " text, or the community answer with its question, author, date and Overené / Neoverené."
+        " The answering model reads the teacher's 'Aktuálna informácia k predmetu' (if any), the"
+        " course's whole MAIS sheet and the community answers most similar to the question, and"
+        " cites them as [n]; every [n] has a source: the exact sheet text, the teacher's note,"
+        " or the community answer with its question, author, date and Overené / Neoverené."
         " When the sources do not answer the question, `found` is false ('Neviem')."
         " A backend without the model (local development) answers with a placeholder: one real"
         " section of the sheet; a question with the word 'neviem' gets 'Neviem'."
@@ -86,13 +87,14 @@ def ask(
         has_answers = model is not None and knowledge.has_answer_vectors(
             conn, body.course_id, llm.EMBED_MODEL
         )
+        note = knowledge.get_course_note(conn, body.course_id) if model is not None else None
     # the model is asked outside the database transaction: it takes a second or more
     if model is None:
         answer = placeholder_answer(sheet, body.question)
     else:
         community = _community_answers(pool, model, body.course_id, body.question, has_answers)
         try:
-            answer = answer_question(model, course.name, sheet, body.question, community)
+            answer = answer_question(model, course.name, sheet, body.question, community, note)
         except AnswerUnavailable as error:
             raise HTTPException(
                 status.HTTP_503_SERVICE_UNAVAILABLE, ASSISTANT_UNAVAILABLE

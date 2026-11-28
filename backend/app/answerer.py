@@ -1,12 +1,14 @@
 """Answering a question about a course from its MAIS information sheet and the answers of people.
 
-`answer_question`: the whole sheet goes to the answering model as numbered chunks (the same chunks
-as the knowledge base, `app.chunking`), followed by the community answers most similar to the
-question (found by the caller, `app.knowledge.search_answers`); the model answers in a few
-sentences and cites source numbers as [n], or says it does not know. The model never writes a
-source: this code turns the cited numbers into sources — the exact chunk text, the MAIS link and
-the date the sheet was read; for a community answer its text, question, author, date and whether
-it is verified — and renumbers the citations 1, 2, ... in the order they appear. An answer
+`answer_question`: the teacher's current information about the course ("Aktuálna informácia k
+predmetu", if there is one) and the whole sheet go to the answering model as numbered sources
+(the sheet as the same chunks as the knowledge base, `app.chunking`), followed by the community
+answers most similar to the question (found by the caller, `app.knowledge.search_answers`); the
+model answers in a few sentences and cites source numbers as [n], or says it does not know. The
+model never writes a source: this code turns the cited numbers into sources — the exact chunk
+text, the MAIS link and the date the sheet was read; for the teacher's note its text, author and
+date; for a community answer its text, question, author, date and whether it is verified — and
+renumbers the citations 1, 2, ... in the order they appear. An answer
 without a valid citation is "Neviem", and so is an answer with a number that none of its cited
 sources contains (a number the model made up must never reach a student).
 
@@ -26,13 +28,15 @@ from google.genai import errors
 from app import llm
 from app.catalog import Sheet, SheetSection, normalize
 from app.chunking import Chunk, chunk_sheet
-from app.knowledge import CommunitySource
+from app.knowledge import CommunitySource, NoteSource
 from app.models.chat import Author, QuestionRef, Source
 
 SYSTEM_INSTRUCTION = """\
 You answer students' questions about one university course at the Technical University of Košice \
 (TUKE, FEI). The sources are the parts of the course's official information sheet from MAIS \
 ("informačný list predmetu"), written in Slovak, each as <zdroj n="..." sekcia="...">text</zdroj>. \
+Before them may come the current information of the course's teacher ("Aktuálna informácia k \
+predmetu") as <zdroj n="..." typ="aktuálna informácia vyučujúceho" overené="áno">text</zdroj>. \
 After them may come answers people wrote in the course's "Otázky komunity", each as \
 <zdroj n="..." typ="odpoveď študenta" or "odpoveď vyučujúceho" overené="áno" or "nie" \
 otázka="the question it answers">text</zdroj>.
@@ -61,6 +65,9 @@ only when its question and text answer the question asked. When you use an answe
 overené="nie", say in that sentence that a student wrote it and it is not verified (e.g. "Podľa \
 odpovede študenta (neoverené) ..."). When a verified answer and the sheet disagree, say both and \
 cite both.
+- The teacher's current information is newer than the sheet and has priority over it: when they \
+disagree, answer by the teacher's information and add that the information sheet says otherwise, \
+citing both.
 """
 
 # "language" first: the model decides the language before it writes the answer.
@@ -124,24 +131,38 @@ COMMUNITY_SOURCES = 5
 COMMUNITY_MIN_SIMILARITY = 0.6
 
 
+PromptSource = NoteSource | Chunk | CommunitySource
+
+
 def answer_question(
     client: Any,
     course_name: str,
     sheet: Sheet,
     question: str,
     community: Sequence[CommunitySource] = (),
+    note: NoteSource | None = None,
 ) -> Answer:
-    """The model's answer from the whole sheet and `community` answers. Raises
-    AnswerUnavailable."""
+    """The model's answer from the course's `note`, the whole sheet and `community` answers.
+    Raises AnswerUnavailable."""
     chunks = chunk_sheet(sheet)
-    if not chunks and not community:
+    if not chunks and not community and note is None:
         return NOT_FOUND
-    prompt = build_prompt(course_name, chunks, question, community)
+    prompt = build_prompt(course_name, chunks, question, community, note)
     try:
         generation = llm.generate_json(client, SYSTEM_INSTRUCTION, prompt, ANSWER_SCHEMA)
     except (errors.APIError, ValueError) as error:
         raise AnswerUnavailable(str(error)) from error
-    return read_answer(generation, chunks, sheet, course_name, community)
+    return read_answer(generation, chunks, sheet, course_name, community, note)
+
+
+def prompt_sources(
+    chunks: Sequence[Chunk],
+    community: Sequence[CommunitySource] = (),
+    note: NoteSource | None = None,
+) -> list[PromptSource]:
+    """The sources in the order the model sees and numbers them: the note, the sheet, the
+    community answers."""
+    return ([note] if note is not None else []) + list(chunks) + list(community)
 
 
 def build_prompt(
@@ -149,22 +170,31 @@ def build_prompt(
     chunks: Sequence[Chunk],
     question: str,
     community: Sequence[CommunitySource] = (),
+    note: NoteSource | None = None,
 ) -> str:
-    # the number apart from the text: "[8] Počet kreditov: 5" made the model answer "8 credits"
-    sheet_sources = [
-        f'<zdroj n="{n}" sekcia="{chunk.section}">\n{chunk.content}\n</zdroj>'
-        for n, chunk in enumerate(chunks, 1)
-    ]
-    community_sources = [
-        f'<zdroj n="{n}" typ="{_community_type(answer)}"'
-        f' overené="{"áno" if answer.verified else "nie"}"'
-        f' otázka="{_attribute(answer.question_text)}">\n{answer.text}\n</zdroj>'
-        for n, answer in enumerate(community, len(chunks) + 1)
-    ]
-    sources = "\n".join(sheet_sources + community_sources)
+    sources = "\n".join(
+        _prompt_block(n, source)
+        for n, source in enumerate(prompt_sources(chunks, community, note), 1)
+    )
     return (
         f"Predmet: {course_name}\n\nZdroje:\n{sources}\n\nOtázka: {question}\n\n{LANGUAGE_REMINDER}"
     )
+
+
+def _prompt_block(n: int, source: PromptSource) -> str:
+    # the number apart from the text: "[8] Počet kreditov: 5" made the model answer "8 credits"
+    if isinstance(source, NoteSource):
+        return (
+            f'<zdroj n="{n}" typ="aktuálna informácia vyučujúceho" overené="áno">\n'
+            f"{source.text}\n</zdroj>"
+        )
+    if isinstance(source, CommunitySource):
+        return (
+            f'<zdroj n="{n}" typ="{_community_type(source)}"'
+            f' overené="{"áno" if source.verified else "nie"}"'
+            f' otázka="{_attribute(source.question_text)}">\n{source.text}\n</zdroj>'
+        )
+    return f'<zdroj n="{n}" sekcia="{source.section}">\n{source.content}\n</zdroj>'
 
 
 def read_answer(
@@ -173,29 +203,26 @@ def read_answer(
     sheet: Sheet,
     course_name: str = "",
     community: Sequence[CommunitySource] = (),
+    note: NoteSource | None = None,
 ) -> Answer:
-    """Turn the model's JSON into an Answer: sources from the cited sheet chunks and community
-    answers (numbered after the chunks), citations renumbered."""
+    """Turn the model's JSON into an Answer: sources from the cited note, sheet chunks and
+    community answers (numbered as in `prompt_sources`), citations renumbered."""
     data = generation.data
     found, text, language = data.get("found"), data.get("answer"), data.get("language")
     if not isinstance(found, bool) or not isinstance(text, str):
         raise AnswerUnavailable("the model's reply does not have the expected fields")
     if not found:
         return NOT_FOUND
-    text, cited = renumber_citations(text, len(chunks) + len(community))
+    numbered = prompt_sources(chunks, community, note)
+    text, cited = renumber_citations(text, len(numbered))
     if not cited or not text:
         return NOT_FOUND  # an answer that cites nothing is not grounded in the sources
-    texts = [c.content for c in chunks] + [a.text for a in community]
-    unsupported = unsupported_numbers(text, [texts[index - 1] for index in cited] + [course_name])
+    cited_texts = [_source_text(numbered[index - 1]) for index in cited]
+    unsupported = unsupported_numbers(text, cited_texts + [course_name])
     if unsupported:
         logger.warning("answer dropped: %s not in its cited sources", ", ".join(unsupported))
         return NOT_FOUND
-    sources = [
-        _sheet_source(n, chunks[index - 1], sheet)
-        if index <= len(chunks)
-        else _community_source(n, community[index - len(chunks) - 1])
-        for n, index in enumerate(cited, 1)
-    ]
+    sources = [_answer_source(n, numbered[index - 1], sheet) for n, index in enumerate(cited, 1)]
     return Answer(
         found=True,
         text=text,
@@ -203,6 +230,35 @@ def read_answer(
         language=language if language in ("sk", "en") else None,
         prompt_tokens=generation.prompt_tokens,
         output_tokens=generation.output_tokens,
+    )
+
+
+def _source_text(source: PromptSource) -> str:
+    return source.content if isinstance(source, Chunk) else source.text
+
+
+def _answer_source(n: int, source: PromptSource, sheet: Sheet) -> Source:
+    if isinstance(source, NoteSource):
+        return _note_source(n, source)
+    if isinstance(source, CommunitySource):
+        return _community_source(n, source)
+    return _sheet_source(n, source, sheet)
+
+
+def _note_source(n: int, note: NoteSource) -> Source:
+    return Source(
+        n=n,
+        type="course_note",
+        section=None,
+        quote=note.text,
+        url=None,
+        question=None,
+        date=note.updated_at,
+        author=Author(
+            kind="vyucujuci" if note.role == "vyucujuci" else "student", nickname=note.nickname
+        ),
+        verified=True,
+        outdated=False,
     )
 
 
@@ -261,7 +317,7 @@ def unsupported_numbers(text: str, sources: Sequence[str]) -> list[str]:
 
 def renumber_citations(text: str, chunk_count: int) -> tuple[str, list[int]]:
     """Citations renumbered 1, 2, ... in order of first appearance; numbers outside 1..chunk_count
-    dropped; [1, 3] written as [1][3]. Returns the new text and the cited chunk numbers (1-based)
+    dropped; [1, 3] written as [1][3]. Returns the new text and the cited source numbers (1-based)
     in the new order."""
     cited: list[int] = []
 

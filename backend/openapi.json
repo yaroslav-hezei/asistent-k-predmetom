@@ -317,7 +317,7 @@
           "chat"
         ],
         "summary": "Ask a question about a course",
-        "description": "Stores the question and the answer in a chat: a new one when `chat_id` is null. The answering model reads the course's whole MAIS sheet and the community answers most similar to the question, and cites them as [n]; every [n] has a source: the exact sheet text, or the community answer with its question, author, date and Overené / Neoverené. When the sources do not answer the question, `found` is false ('Neviem'). A backend without the model (local development) answers with a placeholder: one real section of the sheet; a question with the word 'neviem' gets 'Neviem'.",
+        "description": "Stores the question and the answer in a chat: a new one when `chat_id` is null. The answering model reads the teacher's 'Aktuálna informácia k predmetu' (if any), the course's whole MAIS sheet and the community answers most similar to the question, and cites them as [n]; every [n] has a source: the exact sheet text, the teacher's note, or the community answer with its question, author, date and Overené / Neoverené. When the sources do not answer the question, `found` is false ('Neviem'). A backend without the model (local development) answers with a placeholder: one real section of the sheet; a question with the word 'neviem' gets 'Neviem'.",
         "operationId": "ask_ask_post",
         "requestBody": {
           "content": {
@@ -567,7 +567,8 @@
         "tags": [
           "community"
         ],
-        "summary": "Questions of a course: one tab of 'Otázky komunity' and both counts",
+        "summary": "One tab of 'Otázky komunity' and both counts: of a course, or of all my courses",
+        "description": "With `course_id`: the questions of that course. Without it ('Všetky moje predmety'): the questions of the courses of the user's study plan ('Moje predmety') and of the courses the user teaches; empty when there are none. The user's own questions are included (`mine`).",
         "operationId": "list_questions_questions_get",
         "security": [
           {
@@ -578,10 +579,17 @@
           {
             "name": "course_id",
             "in": "query",
-            "required": true,
+            "required": false,
             "schema": {
-              "type": "string",
-              "minLength": 1,
+              "anyOf": [
+                {
+                  "type": "string",
+                  "minLength": 1
+                },
+                {
+                  "type": "null"
+                }
+              ],
               "examples": [
                 "69574272"
               ],
@@ -937,10 +945,398 @@
           }
         ]
       }
+    },
+    "/teacher/courses": {
+      "get": {
+        "tags": [
+          "teacher"
+        ],
+        "summary": "The courses the user verifies, with their unverified answers",
+        "description": "Sorted by course name; empty for a student.",
+        "operationId": "courses_teacher_courses_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/TeacherCourse"
+                  },
+                  "type": "array",
+                  "title": "Response Courses Teacher Courses Get"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile."
+          }
+        },
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ]
+      }
+    },
+    "/teacher/courses/{course_id}": {
+      "get": {
+        "tags": [
+          "teacher"
+        ],
+        "summary": "The Overovanie screen of a course: its note and the answers to verify",
+        "operationId": "read_verification_teacher_courses__course_id__get",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "course_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Course Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Verification"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile, or: You do not teach this course."
+          },
+          "404": {
+            "description": "Course not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/courses/{course_id}/note": {
+      "put": {
+        "tags": [
+          "teacher"
+        ],
+        "summary": "Save the course's 'Aktuálna informácia k predmetu'",
+        "description": "Replaces the course's note. The assistant uses it as verified, with priority over the MAIS sheet, from the next question on; the MAIS sheet itself does not change.",
+        "operationId": "save_note_courses__course_id__note_put",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "course_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Course Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/NewCourseNote"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CourseNote"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile, or: You do not teach this course."
+          },
+          "404": {
+            "description": "Course not found."
+          },
+          "422": {
+            "description": "Empty or too long text."
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "teacher"
+        ],
+        "summary": "Remove the course's 'Aktuálna informácia k predmetu' (no note is no error)",
+        "operationId": "delete_note_courses__course_id__note_delete",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "course_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Course Id"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Successful Response"
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile, or: You do not teach this course."
+          },
+          "404": {
+            "description": "Course not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/answers/{answer_id}/verify": {
+      "post": {
+        "tags": [
+          "teacher"
+        ],
+        "summary": "'Overiť': mark a student's answer as verified (again is no error)",
+        "description": "The assistant shows it as Overené from the next question on.",
+        "operationId": "verify_answers__answer_id__verify_post",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "answer_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid",
+              "title": "Answer Id"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Successful Response"
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile, or: You do not teach this course."
+          },
+          "404": {
+            "description": "Answer not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/answers/{answer_id}/hide": {
+      "post": {
+        "tags": [
+          "teacher"
+        ],
+        "summary": "'Zmazať': hide an answer as spam",
+        "description": "The answer is no longer shown, counted, notified or used by the assistant; the row stays in the database.",
+        "operationId": "hide_answer_answers__answer_id__hide_post",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "answer_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid",
+              "title": "Answer Id"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Successful Response"
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile, or: You do not teach this course."
+          },
+          "404": {
+            "description": "Answer not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/questions/{question_id}/hide": {
+      "post": {
+        "tags": [
+          "teacher"
+        ],
+        "summary": "Hide a question as spam, with its answers",
+        "description": "The question and its answers are no longer shown, counted, notified or used by the assistant; the rows stay in the database.",
+        "operationId": "hide_question_questions__question_id__hide_post",
+        "security": [
+          {
+            "HTTPBearer": []
+          }
+        ],
+        "parameters": [
+          {
+            "name": "question_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid",
+              "title": "Question Id"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Successful Response"
+          },
+          "401": {
+            "description": "Missing, invalid or expired token."
+          },
+          "403": {
+            "description": "The account has no profile, or: You do not teach this course."
+          },
+          "404": {
+            "description": "Question not found."
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
+      "AnswerToVerify": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "title": "Id"
+          },
+          "question": {
+            "$ref": "#/components/schemas/QuestionRef",
+            "description": "The community question it answers."
+          },
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
+          "author": {
+            "$ref": "#/components/schemas/Author"
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "question",
+          "text",
+          "author",
+          "created_at"
+        ],
+        "title": "AnswerToVerify",
+        "description": "A student's answer waiting for the teacher: 'Overiť', 'Pridať odpoveď' or 'Zmazať'."
+      },
       "AskRequest": {
         "properties": {
           "course_id": {
@@ -1052,12 +1448,19 @@
             "minimum": 0.0,
             "title": "Open Questions",
             "description": "Open questions of the courses of the user's study plan ('Moje predmety'), without the user's own; 0 when the plan is not set."
+          },
+          "unverified_answers": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Unverified Answers",
+            "description": "Teacher: answers waiting for 'Overiť' in the courses they teach ('Overovanie'). 0 for a student."
           }
         },
         "type": "object",
         "required": [
           "unread_notifications",
-          "open_questions"
+          "open_questions",
+          "unverified_answers"
         ],
         "title": "Badges",
         "description": "Counts for the sidebar."
@@ -1253,6 +1656,31 @@
         ],
         "title": "CommunityAnswer"
       },
+      "CourseNote": {
+        "properties": {
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
+          "author": {
+            "$ref": "#/components/schemas/Author",
+            "description": "The teacher who saved it last."
+          },
+          "updated_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Updated At"
+          }
+        },
+        "type": "object",
+        "required": [
+          "text",
+          "author",
+          "updated_at"
+        ],
+        "title": "CourseNote",
+        "description": "'Aktuálna informácia k predmetu': the assistant uses it as verified, with priority over the\nMAIS sheet, from the next question on. The MAIS sheet itself does not change."
+      },
       "CourseSummary": {
         "properties": {
           "id": {
@@ -1424,6 +1852,24 @@
           "text"
         ],
         "title": "NewAnswer"
+      },
+      "NewCourseNote": {
+        "properties": {
+          "text": {
+            "type": "string",
+            "maxLength": 4000,
+            "minLength": 1,
+            "title": "Text",
+            "examples": [
+              "Semestrálny projekt sa robí v tímoch po troch. Odovzdanie je v 13. týždni."
+            ]
+          }
+        },
+        "type": "object",
+        "required": [
+          "text"
+        ],
+        "title": "NewCourseNote"
       },
       "NewQuestion": {
         "properties": {
@@ -2123,6 +2569,26 @@
         "title": "Study",
         "description": "Program, year and semester of a student: what \"Moje predmety\" shows."
       },
+      "TeacherCourse": {
+        "properties": {
+          "course": {
+            "$ref": "#/components/schemas/CourseSummary"
+          },
+          "unverified_answers": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Unverified Answers",
+            "description": "Answers waiting for 'Overiť'."
+          }
+        },
+        "type": "object",
+        "required": [
+          "course",
+          "unverified_answers"
+        ],
+        "title": "TeacherCourse",
+        "description": "A course the teacher verifies ('Predmet:' on the Overovanie screen)."
+      },
       "Thanks": {
         "properties": {
           "thanks": {
@@ -2181,6 +2647,40 @@
           "type"
         ],
         "title": "ValidationError"
+      },
+      "Verification": {
+        "properties": {
+          "course": {
+            "$ref": "#/components/schemas/CourseSummary"
+          },
+          "note": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/CourseNote"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "Null when the course has no note."
+          },
+          "answers": {
+            "items": {
+              "$ref": "#/components/schemas/AnswerToVerify"
+            },
+            "type": "array",
+            "title": "Answers",
+            "description": "'Odpovede na overenie', oldest first."
+          }
+        },
+        "type": "object",
+        "required": [
+          "course",
+          "note",
+          "answers"
+        ],
+        "title": "Verification",
+        "description": "Everything the Overovanie screen shows for one course."
       }
     },
     "securitySchemes": {

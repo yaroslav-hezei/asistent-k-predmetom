@@ -118,7 +118,7 @@ export interface paths {
         put?: never;
         /**
          * Ask a question about a course
-         * @description Stores the question and the answer in a chat: a new one when `chat_id` is null. The answering model reads the course's whole MAIS sheet and the community answers most similar to the question, and cites them as [n]; every [n] has a source: the exact sheet text, or the community answer with its question, author, date and Overené / Neoverené. When the sources do not answer the question, `found` is false ('Neviem'). A backend without the model (local development) answers with a placeholder: one real section of the sheet; a question with the word 'neviem' gets 'Neviem'.
+         * @description Stores the question and the answer in a chat: a new one when `chat_id` is null. The answering model reads the teacher's 'Aktuálna informácia k predmetu' (if any), the course's whole MAIS sheet and the community answers most similar to the question, and cites them as [n]; every [n] has a source: the exact sheet text, the teacher's note, or the community answer with its question, author, date and Overené / Neoverené. When the sources do not answer the question, `found` is false ('Neviem'). A backend without the model (local development) answers with a placeholder: one real section of the sheet; a question with the word 'neviem' gets 'Neviem'.
          */
         post: operations["ask_ask_post"];
         delete?: never;
@@ -188,7 +188,10 @@ export interface paths {
             path?: never;
             cookie?: never;
         };
-        /** Questions of a course: one tab of 'Otázky komunity' and both counts */
+        /**
+         * One tab of 'Otázky komunity' and both counts: of a course, or of all my courses
+         * @description With `course_id`: the questions of that course. Without it ('Všetky moje predmety'): the questions of the courses of the user's study plan ('Moje predmety') and of the courses the user teaches; empty when there are none. The user's own questions are included (`mine`).
+         */
         get: operations["list_questions_questions_get"];
         put?: never;
         /** Publish a question to 'Otázky komunity' */
@@ -304,10 +307,149 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/teacher/courses": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * The courses the user verifies, with their unverified answers
+         * @description Sorted by course name; empty for a student.
+         */
+        get: operations["courses_teacher_courses_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/teacher/courses/{course_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** The Overovanie screen of a course: its note and the answers to verify */
+        get: operations["read_verification_teacher_courses__course_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/courses/{course_id}/note": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        /**
+         * Save the course's 'Aktuálna informácia k predmetu'
+         * @description Replaces the course's note. The assistant uses it as verified, with priority over the MAIS sheet, from the next question on; the MAIS sheet itself does not change.
+         */
+        put: operations["save_note_courses__course_id__note_put"];
+        post?: never;
+        /** Remove the course's 'Aktuálna informácia k predmetu' (no note is no error) */
+        delete: operations["delete_note_courses__course_id__note_delete"];
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/answers/{answer_id}/verify": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * 'Overiť': mark a student's answer as verified (again is no error)
+         * @description The assistant shows it as Overené from the next question on.
+         */
+        post: operations["verify_answers__answer_id__verify_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/answers/{answer_id}/hide": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * 'Zmazať': hide an answer as spam
+         * @description The answer is no longer shown, counted, notified or used by the assistant; the row stays in the database.
+         */
+        post: operations["hide_answer_answers__answer_id__hide_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/questions/{question_id}/hide": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Hide a question as spam, with its answers
+         * @description The question and its answers are no longer shown, counted, notified or used by the assistant; the rows stay in the database.
+         */
+        post: operations["hide_question_questions__question_id__hide_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
 }
 export type webhooks = Record<string, never>;
 export interface components {
     schemas: {
+        /**
+         * AnswerToVerify
+         * @description A student's answer waiting for the teacher: 'Overiť', 'Pridať odpoveď' or 'Zmazať'.
+         */
+        AnswerToVerify: {
+            /**
+             * Id
+             * Format: uuid
+             */
+            id: string;
+            /** @description The community question it answers. */
+            question: components["schemas"]["QuestionRef"];
+            /** Text */
+            text: string;
+            author: components["schemas"]["Author"];
+            /**
+             * Created At
+             * Format: date-time
+             */
+            created_at: string;
+        };
         /** AskRequest */
         AskRequest: {
             /**
@@ -367,6 +509,11 @@ export interface components {
              * @description Open questions of the courses of the user's study plan ('Moje predmety'), without the user's own; 0 when the plan is not set.
              */
             open_questions: number;
+            /**
+             * Unverified Answers
+             * @description Teacher: answers waiting for 'Overiť' in the courses they teach ('Overovanie'). 0 for a student.
+             */
+            unverified_answers: number;
         };
         /** Chat */
         Chat: {
@@ -487,6 +634,22 @@ export interface components {
             mine: boolean;
         };
         /**
+         * CourseNote
+         * @description 'Aktuálna informácia k predmetu': the assistant uses it as verified, with priority over the
+         *     MAIS sheet, from the next question on. The MAIS sheet itself does not change.
+         */
+        CourseNote: {
+            /** Text */
+            text: string;
+            /** @description The teacher who saved it last. */
+            author: components["schemas"]["Author"];
+            /**
+             * Updated At
+             * Format: date-time
+             */
+            updated_at: string;
+        };
+        /**
          * CourseSummary
          * @description A course as described by its MAIS information sheet.
          */
@@ -573,6 +736,14 @@ export interface components {
             /**
              * Text
              * @example Projekt sa robí v tíme, tento rok po troch ľuďoch.
+             */
+            text: string;
+        };
+        /** NewCourseNote */
+        NewCourseNote: {
+            /**
+             * Text
+             * @example Semestrálny projekt sa robí v tímoch po troch. Odovzdanie je v 13. týždni.
              */
             text: string;
         };
@@ -969,6 +1140,18 @@ export interface components {
              */
             semester: "ZS" | "LS";
         };
+        /**
+         * TeacherCourse
+         * @description A course the teacher verifies ('Predmet:' on the Overovanie screen).
+         */
+        TeacherCourse: {
+            course: components["schemas"]["CourseSummary"];
+            /**
+             * Unverified Answers
+             * @description Answers waiting for 'Overiť'.
+             */
+            unverified_answers: number;
+        };
         /** Thanks */
         Thanks: {
             /** Thanks */
@@ -988,6 +1171,20 @@ export interface components {
             input?: unknown;
             /** Context */
             ctx?: Record<string, never>;
+        };
+        /**
+         * Verification
+         * @description Everything the Overovanie screen shows for one course.
+         */
+        Verification: {
+            course: components["schemas"]["CourseSummary"];
+            /** @description Null when the course has no note. */
+            note: components["schemas"]["CourseNote"] | null;
+            /**
+             * Answers
+             * @description 'Odpovede na overenie', oldest first.
+             */
+            answers: components["schemas"]["AnswerToVerify"][];
         };
     };
     responses: never;
@@ -1417,8 +1614,8 @@ export interface operations {
     };
     list_questions_questions_get: {
         parameters: {
-            query: {
-                course_id: string;
+            query?: {
+                course_id?: string | null;
                 status?: "open" | "answered";
             };
             header?: never;
@@ -1792,6 +1989,346 @@ export interface operations {
                     [name: string]: unknown;
                 };
                 content?: never;
+            };
+        };
+    };
+    courses_teacher_courses_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["TeacherCourse"][];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+        };
+    };
+    read_verification_teacher_courses__course_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                course_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Verification"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile, or: You do not teach this course. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Course not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    save_note_courses__course_id__note_put: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                course_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["NewCourseNote"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["CourseNote"];
+                };
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile, or: You do not teach this course. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Course not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Empty or too long text. */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+        };
+    };
+    delete_note_courses__course_id__note_delete: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                course_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            204: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile, or: You do not teach this course. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Course not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    verify_answers__answer_id__verify_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                answer_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            204: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile, or: You do not teach this course. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Answer not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    hide_answer_answers__answer_id__hide_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                answer_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            204: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile, or: You do not teach this course. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Answer not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    hide_question_questions__question_id__hide_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                question_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            204: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Missing, invalid or expired token. */
+            401: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description The account has no profile, or: You do not teach this course. */
+            403: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Question not found. */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
             };
         };
     };

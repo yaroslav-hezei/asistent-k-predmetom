@@ -1,8 +1,8 @@
 """The knowledge base (`public.knowledge_chunks`): the texts the assistant searches and quotes.
 
 Every write to the knowledge base goes through this module: the MAIS sheets, the answers from
-"Otázky komunity" and the vectors; the teacher's notes and the invalidation of cached answers later.
-No other code writes the table.
+"Otázky komunity", the teachers' notes ("Aktuálna informácia k predmetu") and the vectors; the
+invalidation of cached answers later. No other code writes the table.
 """
 
 import hashlib
@@ -16,9 +16,9 @@ from psycopg import Connection
 from app.chunking import Chunk
 from app.llm import Document
 
-# Only these sources get vectors: the answering model reads the whole sheet, so sheet chunks need
-# none (10,981 of them would take 11 days of the free tier's 1,000 texts a day).
-EMBEDDED_SOURCES = ("answer", "course_note")
+# Only these sources get vectors: the answering model reads the whole sheet and the course's note,
+# so they need none (10,981 sheet chunks would take 11 days of the free tier's 1,000 texts a day).
+EMBEDDED_SOURCES = ("answer",)
 
 # Chunks without a vector of `model` (none yet, another model's, or cleared after a text change).
 SELECT_PENDING = """
@@ -277,3 +277,69 @@ def search_answers(
         {"vector": vector_literal(vector), "course_id": course_id, "model": model, "limit": limit},
     ).fetchall()
     return [CommunitySource(*row) for row in rows if row[-1] >= min_similarity]
+
+
+# "Aktuálna informácia k predmetu": one current text per course (`public.course_notes`) and the
+# same text as the course's one `course_note` chunk. The answering model always gets it.
+UPSERT_NOTE = """
+insert into public.course_notes (course_id, text, author_id, updated_at)
+values (%s, %s, %s, %s)
+on conflict (course_id) do update
+set text = excluded.text, author_id = excluded.author_id, updated_at = excluded.updated_at
+"""
+
+DELETE_NOTE_CHUNKS = (
+    "delete from public.knowledge_chunks where source_type = 'course_note' and course_id = %s"
+)
+
+INSERT_NOTE_CHUNK = """
+insert into public.knowledge_chunks (course_id, source_type, content, content_hash)
+values (%s, 'course_note', %s, %s)
+"""
+
+# The chunk with its note: a chunk whose note is gone (its author's account deleted) is not used.
+SELECT_NOTE = """
+select k.content, p.role, p.nickname, n.updated_at
+from public.knowledge_chunks k
+join public.course_notes n on n.course_id = k.course_id
+join public.profiles p on p.id = n.author_id
+where k.source_type = 'course_note' and k.course_id = %s
+order by k.chunk_index
+limit 1
+"""
+
+
+@dataclass(frozen=True)
+class NoteSource:
+    """The teacher's current information about a course, with what is shown about it."""
+
+    text: str
+    role: str  # the author's role: "vyucujuci" (only teachers of the course write it)
+    nickname: str
+    updated_at: datetime
+
+
+def set_course_note(
+    conn: Connection, *, course_id: str, author_id: str, text: str, now: datetime
+) -> NoteSource:
+    """Store the course's note and its knowledge chunk (replacing the old ones) in one
+    transaction; the assistant uses the new text from the next question on."""
+    with conn.transaction():
+        conn.execute(UPSERT_NOTE, [course_id, text, author_id, now])
+        conn.execute(DELETE_NOTE_CHUNKS, [course_id])
+        conn.execute(INSERT_NOTE_CHUNK, [course_id, text, content_hash(text)])
+        note = get_course_note(conn, course_id)
+    assert note is not None
+    return note
+
+
+def delete_course_note(conn: Connection, course_id: str) -> None:
+    """Remove the course's note and its knowledge chunk (nothing to remove is no error)."""
+    with conn.transaction():
+        conn.execute(DELETE_NOTE_CHUNKS, [course_id])
+        conn.execute("delete from public.course_notes where course_id = %s", [course_id])
+
+
+def get_course_note(conn: Connection, course_id: str) -> NoteSource | None:
+    row = conn.execute(SELECT_NOTE, [course_id]).fetchone()
+    return NoteSource(*row) if row else None
