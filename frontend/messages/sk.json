@@ -1,5 +1,6 @@
 {
   "layout": {
+    "history": "História",
     "brand": "Asistent k predmetom",
     "newChat": "Nový chat",
     "menu": "Otvoriť navigáciu",
@@ -14,6 +15,7 @@
     }
   },
   "picker": {
+    "recentCourses": "Naposledy použité",
     "title": "O ktorom predmete sa chceš pýtať?",
     "search": "Vyhľadaj predmet podľa názvu alebo kódu…",
     "results": "Výsledky vyhľadávania",
@@ -50,13 +52,46 @@
     "close": "Zavrieť"
   },
   "chat": {
-    "soon": "Otázky k predmetu bude možné klásť čoskoro.",
+    "hint": "Opýtaj sa čokoľvek o predmete {course}.",
+    "placeholder": "Opýtaj sa na predmet…",
+    "send": "Odoslať otázku",
+    "waiting": "píše…",
+    "counter": "{length} / {limit}",
+    "disclaimer": "AI sa môže mýliť. Overuj si informácie v zdroji.",
+    "loginPrompt": "Ak sa chceš opýtať, prihlás sa testovacím účtom.",
+    "chatMissing": "Chat sa nenašiel.",
+    "sendError": "Otázku sa nepodarilo odoslať. Skús to znova.",
+    "unknown": "Neviem.",
+    "unknownDetail": "V informačnom liste ani v odpovediach študentov a vyučujúcich som k tomu nenašiel informáciu.",
+    "askOthers": "Opýtaj sa ostatných",
+    "askOthersDetail": "Ostatní študenti možno poznajú odpoveď na túto otázku.",
+    "publish": "Zverejniť otázku",
+    "edit": "Upraviť text",
+    "publishingSoon": "Zverejňovanie otázok pribudne čoskoro.",
+    "sources": "Zdroje",
+    "reference": "Prejsť na zdroj {n}",
+    "sheet": "Informačný list predmetu · MAIS",
+    "studentAnswer": "Odpoveď študenta · Otázky komunity",
+    "teacherAnswer": "Odpoveď vyučujúceho · Otázky komunity",
+    "courseNote": "Aktuálna informácia od vyučujúceho",
+    "asOf": "stav k {date}",
+    "onQuestion": "na otázku „{question}“",
+    "official": "Oficiálny dokument",
+    "verified": "Overené",
+    "unverified": "Neoverené",
+    "openMais": "Otvoriť v MAIS",
+    "showQuote": "Zobraziť celý text",
+    "hideQuote": "Skryť",
+    "outdated": "Informačný list môže byť neaktuálny. Over si informácie na prvej prednáške alebo u vyučujúceho.",
+    "unverifiedDetail": "Túto odpoveď napísal študent a zatiaľ ju neoveril vyučujúci.",
+    "unverifiedTeacherDetail": "Túto odpoveď napísal vyučujúci a zatiaľ čaká na overenie.",
+    "teacher": "Vyučujúci",
+    "student": "Študent",
     "missing": "Predmet sa nenašiel.",
     "error": "Predmet sa nepodarilo načítať.",
     "back": "Späť na výber predmetu"
   },
   "placeholder": {
-    "soon": "Táto stránka bude dostupná čoskoro."
   },
   "auth": {
     "title": "Prihlásenie",

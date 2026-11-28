@@ -36,12 +36,12 @@ function courseHref(id: string) {
   return `/chat/new?course=${encodeURIComponent(id)}`;
 }
 
-export function CoursePicker() {
+export function CoursePicker({ recentCourses = [] }: { recentCourses?: Course[] }) {
   const me = useMe();
-  return <CoursePickerContent key={me?.id ?? "guest"} me={me} />;
+  return <CoursePickerContent key={me?.id ?? "guest"} me={me} recentCourses={me ? recentCourses : []} />;
 }
 
-function CoursePickerContent({ me }: { me: Me | null }) {
+function CoursePickerContent({ me, recentCourses }: { me: Me | null; recentCourses: Course[] }) {
   const router = useRouter();
   const t = useTranslations("picker");
   const study = useTranslations("study");
@@ -237,6 +237,20 @@ function CoursePickerContent({ me }: { me: Me | null }) {
               )}
             </>
           )}
+        </section>
+      )}
+      {query.length < 2 && recentCourses.length > 0 && (
+        <section aria-labelledby="recent-courses" className="mt-[30px]">
+          <h2 id="recent-courses" className="mb-3 text-sm font-semibold">{t("recentCourses")}</h2>
+          <ul className="grid grid-cols-1 gap-2.5 sm:grid-cols-2 lg:grid-cols-3">
+            {recentCourses.map(course => (
+              <li key={course.id}>
+                <Link href={courseHref(course.id)} className={`${cardClass} h-full`}>
+                  <span className="block text-[14.5px] font-medium">{course.name}</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
         </section>
       )}
       <p className="mt-[26px] text-center text-[13px] text-muted-foreground">{t("hint")}</p>

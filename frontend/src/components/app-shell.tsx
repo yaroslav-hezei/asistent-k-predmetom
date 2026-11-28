@@ -12,13 +12,17 @@ import { Avatar, BrandMark } from "@/components/account-marks";
 import { AccountMenu } from "@/components/account-menu";
 import { authConfigured } from "@/lib/supabase/config";
 
+import { History } from "@/components/chat/history";
+import { ChatTitleContext, type ChatTitle } from "@/components/chat/course-title";
+import type { ChatSummary } from "@/lib/api/client";
+
 const navigation = [
   { href: "/chat", key: "chat", Icon: MessageCircle },
   { href: "/questions", key: "questions", Icon: MessagesSquare },
   { href: "/notifications", key: "notifications", Icon: Bell },
 ] as const;
 
-function Sidebar({ onNavigate }: { onNavigate?: () => void }) {
+function Sidebar({ chats, onNavigate }: { chats: ChatSummary[]; onNavigate?: () => void }) {
   const t = useTranslations("layout");
   const locale = useLocale();
   const pathname = usePathname();
@@ -45,6 +49,7 @@ function Sidebar({ onNavigate }: { onNavigate?: () => void }) {
           );
         })}
       </nav>
+      <History chats={chats} onNavigate={onNavigate} />
       <div className="mt-auto flex items-center gap-2 border-t border-line px-1.5 pt-3">
         <Account onNavigate={onNavigate} />
         <div className="ml-auto shrink-0">
@@ -89,17 +94,18 @@ function Account({ onNavigate }: { onNavigate?: () => void }) {
   );
 }
 
-export function AppShell({ children }: { children: React.ReactNode }) {
+export function AppShell({ children, chats }: { children: React.ReactNode; chats: ChatSummary[] }) {
   const t = useTranslations("layout");
   const study = useTranslations("study");
   const auth = useTranslations("auth");
   const pathname = usePathname();
+  const [title, setTitle] = useState<ChatTitle | null>(null);
   const [open, setOpen] = useState(false);
   const page = navigation.find(({ href }) => pathname === href || pathname.startsWith(href + "/"));
   return (
     <div className="flex min-h-dvh">
       <aside className="sticky top-0 hidden h-dvh w-[280px] shrink-0 border-r border-line bg-sidebar md:block">
-        <Sidebar />
+        <Sidebar chats={chats} />
       </aside>
       <div className="min-w-0 flex-1">
         <header className="flex h-[62px] items-center gap-3 px-5 font-semibold md:px-[26px]">
@@ -110,13 +116,13 @@ export function AppShell({ children }: { children: React.ReactNode }) {
             <SheetContent side="left" aria-describedby={undefined} showCloseButton={false} className="data-[side=left]:w-[280px] bg-sidebar p-0">
               <SheetTitle className="sr-only">{t("navigation")}</SheetTitle>
               <button type="button" onClick={() => setOpen(false)} className="absolute right-2 top-3 grid size-11 place-items-center rounded-lg hover:bg-nav-active" aria-label={study("close")}><X size={18} /></button>
-              <Sidebar onNavigate={() => setOpen(false)} />
+              <Sidebar chats={chats} onNavigate={() => setOpen(false)} />
             </SheetContent>
           </Sheet>
-          {pathname === "/login" ? auth("title") : page && (page.key === "chat" ? t("newChat") : t(`nav.${page.key}`))}
+          <span className="min-w-0 truncate">{title?.pathname === pathname ? title.name : pathname === "/login" ? auth("title") : page && (page.key === "chat" ? t("newChat") : t(`nav.${page.key}`))}</span>
           <AccountMenu />
         </header>
-        <main>{children}</main>
+        <main><ChatTitleContext.Provider value={setTitle}>{children}</ChatTitleContext.Provider></main>
       </div>
     </div>
   );
