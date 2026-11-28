@@ -188,7 +188,10 @@ export interface paths {
             path?: never;
             cookie?: never;
         };
-        /** Questions of a course: one tab of 'Otázky komunity' and both counts */
+        /**
+         * One tab of 'Otázky komunity' and both counts: of a course, or of all my courses
+         * @description With `course_id`: the questions of that course. Without it ('Všetky moje predmety'): the questions of the courses of the user's study plan ('Moje predmety') and of the courses the user teaches; empty when there are none. The user's own questions are included (`mine`).
+         */
         get: operations["list_questions_questions_get"];
         put?: never;
         /** Publish a question to 'Otázky komunity' */
@@ -1611,8 +1614,8 @@ export interface operations {
     };
     list_questions_questions_get: {
         parameters: {
-            query: {
-                course_id: string;
+            query?: {
+                course_id?: string | null;
                 status?: "open" | "answered";
             };
             header?: never;

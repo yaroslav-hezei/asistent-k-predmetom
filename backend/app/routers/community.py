@@ -140,22 +140,32 @@ def publish(
 
 @router.get(
     "/questions",
-    summary="Questions of a course: one tab of 'Otázky komunity' and both counts",
+    summary="One tab of 'Otázky komunity' and both counts: of a course, or of all my courses",
+    description=(
+        "With `course_id`: the questions of that course. Without it ('Všetky moje predmety'): the"
+        " questions of the courses of the user's study plan ('Moje predmety') and of the courses"
+        " the user teaches; empty when there are none. The user's own questions are included"
+        " (`mine`)."
+    ),
     responses={**NOT_LOGGED_IN, **NO_PROFILE, 404: {"description": COURSE_NOT_FOUND}},
 )
 def list_questions(
     user_id: CurrentUserId,
     pool: Pool,
     catalog: CatalogDep,
-    course_id: Annotated[str, Query(min_length=1, examples=["69574272"])],
+    course_id: Annotated[str | None, Query(min_length=1, examples=["69574272"])] = None,
     question_status: Annotated[QuestionStatus, Query(alias="status")] = "open",
 ) -> QuestionList:
-    if catalog.get_course(course_id) is None:
+    if course_id is not None and catalog.get_course(course_id) is None:
         raise HTTPException(status.HTTP_404_NOT_FOUND, COURSE_NOT_FOUND)
     with pool.connection() as conn:
-        _profile(conn, user_id)
+        me = _profile(conn, user_id)
+        if course_id is not None:
+            course_ids = [course_id]
+        else:
+            course_ids = community.my_course_ids(conn, catalog, user_id=user_id, study=me.study)
         return community.list_questions(
-            conn, catalog, user_id=user_id, course_id=course_id, status=question_status
+            conn, catalog, user_id=user_id, course_ids=course_ids, status=question_status
         )
 
 

@@ -623,6 +623,32 @@ def test_community_loop(conn, catalogue, auth_user, db_url):
         ).json()
         assert question_id in [item["id"] for item in listed["items"]]
         assert listed["counts"]["open"] >= 1
+        # "Všetky moje predmety": the helper's study plan has ZAP, the teacher teaches it
+        for user in (helper, teacher):
+            mine = client.get("/questions", headers=bearer(user)).json()
+            assert question_id in [item["id"] for item in mine["items"]]
+            assert mine["counts"]["open"] >= 1
+        own = client.get("/questions", headers=bearer(asker)).json()["items"]
+        assert [item["mine"] for item in own if item["id"] == question_id] == [True]
+        # without a study plan and courses to teach: nothing
+        conn.execute(
+            "update public.profiles set program_id = null, year = null, semester = null"
+            " where id = %s",
+            [helper],
+        )
+        assert client.get("/questions", headers=bearer(helper)).json() == {
+            "items": [],
+            "counts": {"open": 0, "answered": 0},
+        }
+        conn.execute(
+            "update public.profiles set program_id = %s, year = %s, semester = %s where id = %s",
+            [
+                first["study"]["program_id"],
+                first["study"]["year"],
+                first["study"]["semester"],
+                helper,
+            ],
+        )
         similar = client.post(
             "/questions/similar",
             headers=bearer(helper),
