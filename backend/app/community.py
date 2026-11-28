@@ -190,24 +190,44 @@ def similar_questions(
     return similar
 
 
+def plan_course_ids(catalog: Catalog, study: Study | None) -> list[str]:
+    """The courses of the user's study plan ("Moje predmety"); none when it is not set."""
+    if study is None:
+        return []
+    plan = catalog.program_courses(study.program_id, study.year, study.semester) or []
+    return sorted({item.course.id for item in plan})
+
+
+def my_course_ids(
+    conn: Connection, catalog: Catalog, *, user_id: str, study: Study | None
+) -> list[str]:
+    """The courses of "Všetky moje predmety": the user's study plan and the courses they teach."""
+    taught = conn.execute(
+        "select course_id from public.teacher_courses where teacher_id = %s", [user_id]
+    ).fetchall()
+    return sorted(set(plan_course_ids(catalog, study)) | {row[0] for row in taught})
+
+
 def list_questions(
     conn: Connection,
     catalog: Catalog,
     *,
     user_id: str,
-    course_id: str,
+    course_ids: Sequence[str],
     status: QuestionStatus,
 ) -> QuestionList:
+    """One tab of the questions of these courses, newest first, and the counts of both tabs."""
     condition = "answer_count = 0" if status == "open" else "answer_count > 0"
+    ids = list(course_ids)
     rows = conn.execute(
-        QUESTIONS + f" where course_id = %(course_id)s and {condition}"
+        QUESTIONS + f" where course_id = any(%(ids)s) and {condition}"
         " order by created_at desc limit %(limit)s",
-        {"user_id": user_id, "course_id": course_id, "limit": LIST_LIMIT},
+        {"user_id": user_id, "ids": ids, "limit": LIST_LIMIT},
     ).fetchall()
     open_count, answered = conn.execute(
         "select count(*) filter (where answer_count = 0), count(*) filter (where answer_count > 0)"
-        " from (" + QUESTIONS + " where course_id = %(course_id)s) counted",
-        {"user_id": user_id, "course_id": course_id},
+        " from (" + QUESTIONS + " where course_id = any(%(ids)s)) counted",
+        {"user_id": user_id, "ids": ids},
     ).fetchone()
     items = [s for s in (_summary(catalog, row) for row in rows) if s is not None]
     return QuestionList(items=items, counts=QuestionCounts(open=open_count, answered=answered))
@@ -416,15 +436,13 @@ def badges(conn: Connection, catalog: Catalog, *, user_id: str, study: Study | N
         [user_id],
     ).fetchone()[0]
     open_questions = 0
-    if study is not None:
-        plan = catalog.program_courses(study.program_id, study.year, study.semester) or []
-        course_ids = list({item.course.id for item in plan})
-        if course_ids:
-            open_questions = conn.execute(
-                "select count(*) from (" + QUESTIONS + " where course_id = any(%(ids)s)"
-                " and answer_count = 0 and not mine) counted",
-                {"user_id": user_id, "ids": course_ids},
-            ).fetchone()[0]
+    course_ids = plan_course_ids(catalog, study)
+    if course_ids:
+        open_questions = conn.execute(
+            "select count(*) from (" + QUESTIONS + " where course_id = any(%(ids)s)"
+            " and answer_count = 0 and not mine) counted",
+            {"user_id": user_id, "ids": course_ids},
+        ).fetchone()[0]
     return Badges(
         unread_notifications=unread,
         open_questions=open_questions,
