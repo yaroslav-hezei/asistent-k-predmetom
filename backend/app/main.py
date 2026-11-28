@@ -13,7 +13,7 @@ from app.catalog import Catalog
 from app.config import Settings, get_settings
 from app.db import open_pool
 from app.models.catalog import Health
-from app.routers import catalog, chat, community, me
+from app.routers import catalog, chat, community, me, teacher
 
 
 def create_app(
@@ -60,6 +60,7 @@ def create_app(
     app.include_router(me.router)
     app.include_router(chat.router)
     app.include_router(community.router)
+    app.include_router(teacher.router)
     return app
 
 

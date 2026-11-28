@@ -62,6 +62,28 @@ from visible
 """
 
 
+# A notification about an answer a teacher hid as spam is neither shown nor counted.
+NOT_ABOUT_HIDDEN_ANSWER = (
+    "not exists (select 1 from public.answers h where h.id = n.answer_id"
+    " and h.hidden_at is not null)"
+)
+
+# "Odpovede na overenie": visible, not yet verified answers (only students' answers are ever
+# unverified) of visible questions in the courses the teacher teaches; one course when
+# %(course_id)s is not null. Oldest first.
+UNVERIFIED_ANSWERS = """
+select a.id, a.text, p.nickname, p.role, a.created_at, q.id as question_id, q.text as question,
+       q.course_id
+from public.answers a
+join public.questions q on q.id = a.question_id
+join public.profiles p on p.id = a.author_id
+join public.teacher_courses t on t.course_id = q.course_id and t.teacher_id = %(teacher_id)s
+where a.verified_at is null and a.hidden_at is null and q.hidden_at is null
+  and (%(course_id)s::text is null or q.course_id = %(course_id)s)
+order by a.created_at
+"""
+
+
 @dataclass(frozen=True)
 class NewAnswerResult:
     answer: CommunityAnswer
@@ -326,7 +348,9 @@ def list_notifications(conn: Connection, catalog: Catalog, *, user_id: str) -> l
         " left join public.profiles p on p.id = a.author_id"
         " left join public.chat_messages m on m.id = q.source_message_id"
         " left join public.chats c on c.id = m.chat_id and c.user_id = %(user_id)s"
-        " where n.user_id = %(user_id)s order by n.created_at desc limit %(limit)s",
+        " where n.user_id = %(user_id)s and "
+        + NOT_ABOUT_HIDDEN_ANSWER
+        + " order by n.created_at desc limit %(limit)s",
         {"user_id": user_id, "limit": NOTIFICATIONS_LIMIT},
     ).fetchall()
     question_ids = list({row[2] for row in rows})
@@ -388,7 +412,7 @@ def badges(conn: Connection, catalog: Catalog, *, user_id: str, study: Study | N
     unread = conn.execute(
         "select count(*) from public.notifications n"
         " join public.questions q on q.id = n.question_id and q.hidden_at is null"
-        " where n.user_id = %s and n.read_at is null",
+        " where n.user_id = %s and n.read_at is null and " + NOT_ABOUT_HIDDEN_ANSWER,
         [user_id],
     ).fetchone()[0]
     open_questions = 0
@@ -401,4 +425,16 @@ def badges(conn: Connection, catalog: Catalog, *, user_id: str, study: Study | N
                 " and answer_count = 0 and not mine) counted",
                 {"user_id": user_id, "ids": course_ids},
             ).fetchone()[0]
-    return Badges(unread_notifications=unread, open_questions=open_questions)
+    return Badges(
+        unread_notifications=unread,
+        open_questions=open_questions,
+        unverified_answers=unverified_count(conn, user_id=user_id),
+    )
+
+
+def unverified_count(conn: Connection, *, user_id: str) -> int:
+    """Visible unverified answers in the courses the user teaches (0 for a student)."""
+    return conn.execute(
+        "select count(*) from (" + UNVERIFIED_ANSWERS + ") pending",
+        {"teacher_id": user_id, "course_id": None},
+    ).fetchone()[0]

@@ -67,10 +67,11 @@ change tables by hand in the dashboard.
   `knowledge_chunks` without embeddings: 10,981 chunks of 563 sheets. Safe to run again: unchanged
   chunks keep their embeddings, a changed text loses its embedding. `--dry-run` counts the changes
   and writes nothing. Every write to `knowledge_chunks` goes through `app/knowledge.py`.
-- **Vectors:** `python scripts/embed_chunks.py` gives every community answer and teacher note chunk
-  without a vector of the current model (`app/llm.py`: `EMBED_MODEL`, 768 numbers) its vector through
-  the Gemini API. Sheet chunks get no vectors: the answering model reads the whole sheet (see
-  "Answers"), and 10,981 sheet chunks would take 11 days of the free tier's 1,000 texts a day.
+- **Vectors:** `python scripts/embed_chunks.py` gives every community answer chunk without a vector
+  of the current model (`app/llm.py`: `EMBED_MODEL`, 768 numbers) its vector through the Gemini API.
+  Sheet chunks and the teachers' notes get no vectors: the answering model reads the whole sheet and
+  the course's note (see "Answers"), and 10,981 sheet chunks would take 11 days of the free tier's
+  1,000 texts a day.
   Each batch is committed on its own: when a quota stops the run, the next run continues where it
   stopped. `--limit N` caps one run, `--dry-run` only counts. Needs `GEMINI_API_KEY`.
   `python scripts/compare_embeddings.py` compares the embedding models on the 40 evaluation
@@ -78,8 +79,11 @@ change tables by hand in the dashboard.
 
 ## Answers
 
-`POST /ask` answers from the course's whole MAIS sheet (`app/answerer.py`): every chunk of the sheet
-goes to the answering model (`app/llm.py`: `ANSWER_MODEL`) as a numbered source; the model answers in
+`POST /ask` answers from the course's whole MAIS sheet (`app/answerer.py`): the teacher's
+"Aktuálna informácia k predmetu" (if the course has one) and every chunk of the sheet go to the
+answering model (`app/llm.py`: `ANSWER_MODEL`) as numbered sources, the note first and with priority
+over the sheet (when they disagree, the answer follows the note and says the sheet differs, citing
+both); the model answers in
 1–4 sentences in the language of the question (Slovak for Slovak or Czech, otherwise English) and
 cites sources as [n], or says it does not know (`found: false`, "Neviem"). The model never writes a
 source: the code turns the cited numbers into sources with the exact sheet text, the MAIS link and the
@@ -127,13 +131,30 @@ sheet, and the answer shows them as sources: author, date, Overené / Neoverené
   question is embedded only when the course has community answers with vectors.
 - **Vectors** need `GEMINI_API_KEY`; without it everything works except "similar questions" (empty),
   and the answers wait for `scripts/embed_chunks.py`. A failed vector never fails the request.
-- **Badges** (`GET /badges`): unread notifications, and open questions of the courses of the user's
-  study plan ("Moje predmety") without the user's own.
+- **Badges** (`GET /badges`): unread notifications, open questions of the courses of the user's
+  study plan ("Moje predmety") without the user's own, and for a teacher the answers waiting for
+  "Overiť".
+
+## Overovanie (teachers)
+
+A teacher acts only in the courses assigned to them (`teacher_courses`; the test teachers have all 42
+courses of HI Bc.). A teacher never edits a student's answer (`app/teacher.py`):
+
+- **Overiť** (`POST /answers/{id}/verify`): the answer becomes "Overené" everywhere, also as a source
+  of the assistant.
+- **Pridať odpoveď**: the teacher's own answer through `POST /questions/{id}/answers`, verified from
+  the start.
+- **Zmazať** (`POST /answers/{id}/hide`, `POST /questions/{id}/hide`): hides spam. The row stays
+  (`hidden_at`, `hidden_by`); a hidden answer or question (with its answers) is never shown, counted,
+  notified or used by the assistant.
+- **Aktuálna informácia k predmetu** (`PUT` / `DELETE /courses/{course_id}/note`): one text per
+  course, stored with its knowledge chunk in one transaction (`app/knowledge.py`); the assistant uses
+  it from the next question. The MAIS sheet itself does not change.
 
 ## Login
 
 Supabase Auth, email + password, test accounts only (no registration). The frontend logs in with
-Supabase and sends `Authorization: Bearer <access token>`; endpoints that need a user (now `/me`)
+Supabase and sends `Authorization: Bearer <access token>`; endpoints that need a user (all but `/health` and the catalogue)
 answer 401 without a valid token.
 
 - **Token check** (`app/auth.py`): the token is a JWT signed with the project's asymmetric key
@@ -171,7 +192,7 @@ Endpoints (details and examples at `/docs` of a running server):
 | `GET /courses/{course_id}` | one course |
 | `GET /me` | the logged-in user: id, nickname, role, study (program, year, semester) — needs a token |
 | `PATCH /me` | set program, year and semester of the logged-in user — needs a token |
-| `POST /ask` | ask about a course: stores the question and the answer in a chat (new one when `chat_id` is null) — needs a token; the answering model reads the course's whole MAIS sheet and cites it as [n] (see "Answers"); 503 when the model is not available; without `GEMINI_API_KEY` a placeholder answer |
+| `POST /ask` | ask about a course: stores the question and the answer in a chat (new one when `chat_id` is null) — needs a token; the answering model reads the teacher's note, the course's whole MAIS sheet and similar community answers and cites them as [n] (see "Answers"); 503 when the model is not available; without `GEMINI_API_KEY` a placeholder answer |
 | `GET /chats` | the logged-in user's chats for "História", newest first (at most 50) — needs a token |
 | `GET /chats/{chat_id}` | one chat of the logged-in user with its messages and their sources — needs a token |
 | `POST /questions/similar` | up to 3 questions of the course similar to a draft — needs a token |
@@ -181,7 +202,12 @@ Endpoints (details and examples at `/docs` of a running server):
 | `POST /questions/{question_id}/answers` | answer: into the knowledge base at once, notification to the asker — needs a token |
 | `POST /answers/{answer_id}/thanks` | "Poďakovať", once per user — needs a token |
 | `GET /notifications`, `POST /notifications/read` | "Upozornenia"; mark read (all or some) — needs a token |
-| `GET /badges` | sidebar counts: unread notifications, open questions of "Moje predmety" — needs a token |
+| `GET /badges` | sidebar counts: unread notifications, open questions of "Moje predmety", answers waiting for a teacher's "Overiť" — needs a token |
+| `GET /teacher/courses` | the courses the user verifies, with their unverified answers (empty for a student) — needs a token |
+| `GET /teacher/courses/{course_id}` | the Overovanie screen of a course: its note and the answers to verify — teacher of the course |
+| `PUT /courses/{course_id}/note`, `DELETE /courses/{course_id}/note` | save / remove "Aktuálna informácia k predmetu" — teacher of the course |
+| `POST /answers/{answer_id}/verify` | "Overiť" a student's answer — teacher of the course |
+| `POST /answers/{answer_id}/hide`, `POST /questions/{question_id}/hide` | hide spam (a question with its answers) — teacher of the course |
 
 Data rules:
 
